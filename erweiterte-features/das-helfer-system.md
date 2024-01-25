@@ -1,0 +1,80 @@
+# 👮 Das Helfer-System
+
+### Was ist ein Helfer?
+
+Helfer sind erste Ansprechpartner auf den Citybuild-Servern bei Fragen zum Spiel oder allgemeinen Support-Anliegen. Helfer sind Teil der Community, werden durch ihren Citybuild-Server bestimmt und sind im gleichen Maße für ihren [Citybuild-Server](../grundlagen/spielmodus-citybuild/) zuständig. Helfer stehen in engem Kontakt zum Team, insbesondere dem Bereich "Support & Moderation" und können Anliegen schnell an der richtigen Stelle platzieren oder den passenden Kontaktweg für einen Spieler herausstellen.
+
+Eine Liste aller derzeitigen Helfer ist in den [FAQ "Zuständigkeiten"](https://forum.griefergames.de/faq/#entry-114) zu finden.
+
+#### Was macht ein Helfer?
+
+* Erste Hilfe bei Anliegen und Fragen der User
+* Unterstützung bei der Findung von Anlaufstellen (Feedback, Entbannungsanträge, Meldungen)
+* Weiterleiten von Anliegen / Fehlern
+* Kurzzeitiges Eingreifen bei massiven Störungen auf dem Server (Helfer-Mute, StartKick, StartJail)
+
+#### Welche Fähigkeiten braucht ein Helfer?
+
+* Online-Aktivität In-Game (auf seinem Haupt-Citybuild)
+* Gewisses Maß an Wissen über die Funktionen von Minecraft & GrieferGames, welches über den Standard-Spieler hinaus geht
+* Erfahrung mit Discord und TeamSpeak
+* Freundlichkeit zu Spielern, auch in schwierigen Situationen
+* Ein nennbarer Haupt-Citybuild (ein Citybuild-Server auf dem 1.8-Netzwerk **oder** das Cloud-Netzwerk als “ein Citybuild-Server”)
+* gewisses Maß an Bekanntheit auf dem Haupt-Citybuild für einen guten Draht zu den Spielern
+* mindestens 200 Spielstunden
+
+### Welche Rechte hat ein Helfer?
+
+* hervorgehobene Schrift im Chat (grün + breit)
+* Helfer-Mute/Ban: 4 Stunden - zur Überbrückung in Notfällen als Sofortmaßnahme
+* [StartKick- / StartJail-](../grundlagen/booster-and-perks.md#funktions-perks)Optionen (ohne Cooldown)
+* Team-Discord: Zugriff auf einen speziellen Helfer-Bereich
+* [Offizieller Discord](../hilfreiche-links/griefergames-dienste.md): Zugriffe für den Support
+* [TeamSpeak](../hilfreiche-links/griefergames-dienste.md): Zugriff auf Team-Räume
+
+#### Ist ein Helfer ein Teammitglied?
+
+Nein, nicht direkt. Ein Helfer darf und soll sogar in einem Clan bleiben und weiterhin ein aktives Mitglied auf dem Citybuild bleiben.
+
+Ein Helfer ist sozusagen der Stellvertreter der Community des jeweiligen Citybuild-Servers. In seltenen Fällen kann ein Helfer zum Supporter werden. Dies geschieht wirklich sehr selten und sollte keinesfalls die Motivation sein, Helfer zu werden. Es ist also nicht von einem Wechsel ins Team auszugehen.
+
+Dennoch genießt der Helfer - durch den Zugriff auf den Helfer-Bereich unseres Team-Discords und Zugang zu Team-Räumen auf unserem [TeamSpeak](../hilfreiche-links/griefergames-dienste.md) - einen direkteren Kontakt zu Teammitgliedern und hat durch die zusätzlichen Rechte die Möglichkeiten in Extremfällen Störungen des Citybuild zu unterbinden.
+
+### Wie werde ich Helfer?
+
+Hat ein Citybuild-Server keinen Helfer und es ist ausreichend Aktivität auf dem Server, um eine Wahl abzuhalten, startet die Administration eine Wahl zum Helfer.
+
+Ihr könnt euch nur auf eurem Haupt-Citybuild zur Wahl stellen und auch nur dort voten. Um voten zu können, müsst ihr bereits eine gewisse Zeit lang auf dem Citybuild eingetragen sein. \
+Eine Eintragung ist einmal monatlich über den Bürgermeister in der Stadt möglich.
+
+Auf einem Citybuild-Server mit aktiver Helfer-Wahl könnt ihr mit `/wahl` in das Wahl-System kommen. Dort könnt ihr sowohl für einen Kandidaten abstimmen, als auch euch selbst zur Wahl stellen.\
+Mit `/wahl <Name>` könnt ihr direkt den Wahlbogen eines Spielers öffnen, wenn dieser zur Wahl steht.
+
+<figure><img src="https://forum.griefergames.de/attachment/354368-wahl-png/" alt=""><figcaption></figcaption></figure>
+
+Die Wahl läuft für einen festgelegten Zeitraum und wird anschließend ausgewertet. \
+Um Botting vorzubeugen, wird **nicht** direkt die Person mit den meisten Stimmen genommen, sondern die Person, die den Großteil der Community des Citybuilds hinter sich versammelt hat. Die endgültige Entscheidung trifft dann die Administration in einem abschließenden Gespräch.\
+\
+Nachdem ein Helfer auf dem Citybuild-Server bestimmt wurde, wird dort die Wahl geschlossen. Sobald die Helfer-Stelle wieder frei wird, wird auf dem einzelnen Citybuild-Server eine neue Wahl abgehalten.&#x20;
+
+#### Wie verliert man den Helfer-Rang?
+
+Es gibt diverse Gründe, warum ein Helfer von seinen Aufgaben entbunden wird:
+
+* freiwilliger Rücktritt
+* Inaktivität
+* Wechsel des Haupt-Citybuilds
+* Ausschluss durch das Team (Fehlverhalten)
+* Kompletter Verlust des Rückhalts in der eigenen Community
+
+Besonders zum letzten Punkt ist gesagt, dass hier eine kurzfristige Stimmung natürlich nicht den Ausschluss zur Folge hat. Sollte jedoch die Community des eigenen Citybuild-Servers immer mehr zum Schluss kommen, dass die Wahlentscheidung ein Fehler war, so werden wir dort handeln.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

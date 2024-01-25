@@ -1,0 +1,125 @@
+---
+description: Limits, Whitelists und Remover
+---
+
+# 📉 Server-Performance
+
+### Performancewerte
+
+#### TPS
+
+"Ticks pro Sekunde" ist die am häufigsten verwendete Einheit zur Angabe der Serverperformance.
+
+Minecraft arbeitet mit einem eigenen Zeitsystem, welches mit sogenannten "Ticks" arbeitet. Ein Minecraft-Tag entspricht einer Zeitspanne von 24.000 Ticks. Auch der Server nutzt diese Angabe, um Änderungen in der Spielwelt zu verarbeiten. Das Bewegen von Entitäten, die Zeit zum Abbauen eines Blocks, Schaden erleiden/heilen und alle anderen Vorgänge werden bei jedem Tick ein wenig weiter geschoben.&#x20;
+
+Minecraft geht hierbei von einer optimalen Tickrate von 20 Ticks pro Sekunde aus. (1 Tick = 50ms / 0,05 Sekunden). Dabei kann der Server, gemessen an seiner Rechengeschwindigkeit nur eine bestimmte Anzahl an "Rechenoperationen" vornehmen. Übersteigt die Anzahl an Verarbeitungen die Menge, so können diese nicht mehr in der vollen Geschwindigkeit ablaufen. Der Server "laggt" (engl. "lag behind" = hinterherhängen) und in einer Sekunde werden weniger Ticks abgearbeitet.
+
+Die Performance des Servers fällt dann auf einen niedrigeren TPS-Wert. Es werden also weniger Ticks pro Sekunde ausgeführt. Aktionen, welche davon abhängig sind benötigen entweder mehr Zeit zum Ausführen oder werden "zurückgesetzt", wenn zwischen dem Server und dem Spielclient unterschiedliche Zeitberechnungen stattfanden. Das tritt besonders oft beim Abbauen von Blöcken  oder beim Bewegen von Spielfigur oder Kreaturen auf. (sog. "Zurückbuggen").
+
+#### CPU
+
+Server arbeiten wie andere Informationssysteme mit einer CPU (Central Processing Unit), auch als Prozessor bezeichnet. Ein wesentliches Problem in der Performance ist, dass Minecraft als Anwendung lediglich einen Kern des Prozessors ansteuert und verwendet, was die maximale Rechenleistung der verwendeten Systeme stark einschränkt.
+
+Selbst ein Multikernprozessor _(DualCore, QuadCore oder EightCore)_ auf einem Server bringt also keinen Vorteil, da der MainThread von Minecraft immer nur einen Kern ansteuern würde und die Leistung verloren ginge. Viele Prozesse können zudem bei Minecraft nicht asynchron abgearbeitet werden, da sie mit anderen in der Spielwelt zusammenhängen. Somit fällt auch eine Virtualisierung von mehreren Prozessoren auf einen aus. Der "virtualisierte" Einzelkern würde die Aufgaben an mehrere physische Kerne verteilen, was die Abarbeitung nicht nur "verzögert", sondern möglicherweise auch asychronisiert und dadurch insgesamt zu mehr Problemen führt, als es löst.
+
+Je mehr Aktionen also innerhalb der Spielwelt auftreten, desto stärker wird der Server hierdurch belastet. Je weiter die CPU-Auslastung ansteigt, desto mehr Aktionen muss der Server in kurzer Zeit "verarbeiten". Übersteigt die Menge der zu verarbeitenden Aktionen 5% der max. CPU-Last, so können 20 Ticks in einer Sekunde nicht mehr abgearbeitet werden. (20 Ticks \* 5% = 100% Last pro Sekunde).&#x20;
+
+Hat ein Server also mehr CPU-Last, muss er die Menge an Ticks reduzieren, damit er nicht überlastet wird. Wird die Menge an Ticks reduziert, fällt dies als schlechte Performance durch entsprechendes Fehleverhalten zwischen Server und Spiel-Client auf.
+
+{% hint style="warning" %}
+Fällt die Serverperformance unter entsprechende Schwellwerte werden zur Stabilisierung verschiedene Vorgänge automatisch ausgeführt:
+
+* Die Funktion von Redstone wird deaktiviert
+* Der Lava- & Wasser-Fluss wird deaktiviert
+* Auf Citybuild Nature werden alle Hühner gelöscht
+
+Steigt die Performance über den entsprechenden Schwellert wird die Maßnahme wieder außer Kraft gesetzt.
+{% endhint %}
+
+### Limits und Remover
+
+#### Natürlicher Despawn
+
+Minecraft löscht aus eigenem Antrieb Items und Kreaturen, um die benötigte Rechenleistung zu verringern.
+
+* Kreaturen haben jeden Tick eine geringe Chance (0,125% = 1/800) zu despawnen, wenn sich für 600 Ticks (30 Sekunden) kein Spieler im Umkreis von 32 Blöcken befindet.
+* Items werden nach 6000 Ticks (5 Minuten) entfernt, wenn sie in einem geladenen Chunk liegen und nicht von einem Spieler aufgenommen werden.
+
+#### MobRemover
+
+Der MobRemover entfernt alle 15 Minuten sämtliche Kreaturen in allen geladenen Chunks. Dorfbewohner können mit einem pasenden Token hiervor gesichert werden.
+
+#### ItemRemover
+
+Der ItemRemover entfernt alle 20 Minuten frei schwebende Items in allen geladenen Chunks. Die Items gehen hierbei unwiderbringlich verloren, unabhängig davon, wie lange sie bereits in der Welt sind.
+
+#### MoneyDrop-Stopp
+
+Wird die [Join-Cap (Freie Serverslots)](server-performance.md#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine Moneydrops aus den [Case-Opening-Kisten](das-case-opening.md#case-opening) mehr generiert. Die Kiste wird dem Spieler zurück erstattet.
+
+#### Stoplag/ClearLag
+
+In extremen Fällen kann von bestimmten Teammitgliedern ein Befehl ausgeführt werden, welcher entweder alle erforderlichen Maßnahmen startet **oder** sämtliche geladenen Entities in der Welt entfernt. Darunter fallen mitunter Rahmen (und Karten), Rüstungsständer (und Hologramme), Items und fallende Blöcke, Kreaturen, Dorfbewohner (auch mit Token) und andere "Non-Player"-Entities.
+
+### Join-Cap, Reservierte Slots und Whitelists
+
+Zur Sicherung des Serverbetriebs ist es erforderlich, die Menge an Spielern auf den Servern zu beschränken.
+
+Hierfür ist auf jedem Server eine Slot-Beschränkung („Cap“) aktiviert, welche sich in mehrere Stufen aufteilt:
+
+* Die **„Join-Cap“,** welche der im Scoreboard angegebenen Zahl entspricht.
+  * Alle Accounts (unabhängig ihrer Rechte) können den Server betreten.
+* Die **„Soft-Cap“**, welche bis zu 150 Slots über dem Join-Cap liegt.
+  * Accounts mit „Join-Rechten“ (konnten früher separat gebucht werden oder sind im Rang enthalten) können entsprechend ihrem Rang den Server betreten.
+    * max. Slots + 50 = Premium, Ultra, Legende
+    * max. Slots + 85 = Titan
+    * max. Slots + 115 = Griefer
+    * max. Slots + 150 = Supreme
+* Die **„Whitelist“** wird automatisch vom System gesetzt, wenn der Server überfüllt ist **oder** von einem Teammitglied aktiviert, um die Serverstabilität zu sichern.
+  * Nur entsprechend freigegebene Accounts (in der Regel hochrangige Teammitglieder) können den Server noch betreten.
+* Der **„Wartungsmodus“**, welcher ausschließlich manuell durch einen Admin/Developer geschaltet wird, um einen Absturz des Servers wegen Überlast zu verhindern oder um Arbeiten an den Servern und der Software vorzunehmen.
+  * Nur entsprechend freigegebene Accounts (in der Regel hochrangige Teammitglieder) können den Server noch betreten.
+
+Das Schalten von Caps und Whitelists ist eine erforderliche Maßnahme, um die Stabilität der Server zu gewährleisten. Technische Belange des Servers (Ausfallprävention, Wartungen, etc.) fallen **nicht** unter die Leistungsbeschreibung der „Verfügbarkeit“.
+
+{% hint style="warning" %}
+Einzelne Citybuild-Server können von diesen Regelungen abweichen.
+{% endhint %}
+
+Die Slot-Beschränkungen von Servern können entsprechend der technischen Verfügbarkeit angepasst (verringert) werden. Eine Anhebung der Server-Slots bzw. individuelle Freischaltung vom Cap-/Whitelist-System ist aus Gründen der Performance nicht möglich.
+
+
+
+### AFK-System
+
+#### Warum brauchen wir ein AFK-System – es ging doch lange Zeit ohne?
+
+In der Vergangenheit kam es immer wieder zu Kritik, dass Stammspieler nicht auf ihre Citybuild-Server joinen können, obwohl sie bereits zusätzliche [Join-Rechte](server-performance.md#join-cap-reservierte-slots-und-whitelists) haben. Diese Kritiken haben wir ernst genommen und zwei passende Lösungen gefunden: Mehr Slots oder weniger Spieler.
+
+Mehr Slots sind leider nicht möglich, aufgrund der Art und Weise, wie Minecraft auf einen [einzigen Haupt-Thread](server-performance.md#cpu) ausgelegt ist. Das heißt wir können nicht beliebig in neue Hardware investieren und damit mehr Slots schaffen, irgendwann ist technisch einfach Schluss. Könnte man das Problem einfach mit Geld bewerfen, hätten wir es nicht – dem könnt ihr euch sicher sein.
+
+Die einzige Alternative ist weniger Spieler online zu haben. Einfach Spieler ohne Rang zu kicken, um Spielern mit Rang Platz zu schaffen ist _unfair_, daher sehen wir dies nicht ein. Demzufolge werden Accounts, welche als AFK erkannt werden, von unseren Citybuild-Servern geworfen, wenn diese [überfüllt sind](server-performance.md#join-cap-reservierte-slots-und-whitelists). Auf Servern, welche nicht voll sind, könnt ihr auch weiterhin AFK sein, ohne gekickt zu werden.
+
+Das System unterscheidet nicht nach Rang oder AFK-Dauer, sondern nur nach diversen Parametern, welche Spielaktivität anzeigen. Welche als AFK erkannten Spieler vom Server getrennt werden, wird dann zufällig ermittelt.
+
+#### Das Plugin ist unfair – es kickt nur mich und andere, die AFK sind, bleiben stehen!
+
+Nein, es wird **komplett zufällig** gekickt. Beschwerden kommen jedoch nur durch aktive Spieler. Bots, welche gekickt werden, können durch den Betreiber wieder online gebracht werden oder zeigen durch andere Maßnahmen Spielaktivität, um gar nicht erst als AFK erkannt zu werden.
+
+#### Warum werde ich gekickt, obwohl ich nicht AFK bin?
+
+Das System nutzt verschiedene Indikatoren, um zu ermitteln, ob ein Account aktiv spielt oder abwesend ist. Aus Sicherheitsgründen werden wir die _genauen_ Indikatoren **nicht** veröffentlichen. Zudem können die Indikatoren von Server zu Server unterschiedlich sein. Wir verfeinern die Indikatoren stetig, um sicherzustellen, dass die Erkennung von Aktivität optimiert wird.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>
+
+{% hint style="danger" %}
+Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
+{% endhint %}

@@ -1,0 +1,23 @@
+---
+description: Hier erfährst du, wie du auf unseren Server verbindest
+---
+
+# 🔗 Server verbinden...
+
+Du hast dich also entschieden, auf dem GrieferGames-Server zu spielen und willst Teil der GrieferGames-Community werden? - **Herzlich willkommen!**
+
+{% hint style="info" %}
+Server-Adresse: <mark style="color:orange;">**griefergames.net**</mark>
+{% endhint %}
+
+GrieferGames ist ein Java-Server. Wir empfehlen daher das Spielen mit der [Java-Version](...in-der-java-version.md) für PC/Mac. Wir bieten jedoch auch eine Verbindung zu unserem Netzwerk über die [Bedrock-Version](...in-der-bedrock-version.md) (Mobile Edition & Windows 10/11-Edition) an.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

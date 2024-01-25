@@ -1,0 +1,43 @@
+---
+description: Funktion und Hinweise zum Mergen
+---
+
+# Grundstücke verbinden
+
+Es besteht die Möglichkeit, sein Grundstück beliebig zu vergrößern, damit du auch große Gebäude oder Welten bauen kannst. Hierzu kannst du insgesamt bis zu 196 Grundstücke verbinden. Dieser Vorgang wird auch als "Mergen" bezeichnet. Jeder Mergevorgang kostet 50.000 $. Die Kosten können durch Nutzung eines Merge-Gutscheins aufgehoben werden.&#x20;
+
+Um ein Grundstück komplett im Quadrat zu Mergen sind 3 Mergevorgänge notwendig. Einfachere oder komplexere Grundstücksformen können auch weniger oder mehr Mergevorgänge erfordern.
+
+### Merge-Fehler
+
+Beim Mergen treten manchmal Fehler auf. Diese Merge-Fehler äußern sich in der Regel als Straßen auf dem Grundstück, welche teilweise noch vorhanden sind oder Bereiche der ehemaligen Straßen in denen Blöcke nicht abbaubar sind. Um diese Fehler zu melden, stelle dich an die Position des Fehlers und gib den Befehl `/mergebug` und danach `/mergebug confirm` ein. Ein Teammitglied wird deine Meldung prüfen. Bei einem nicht behebbaren Fehler wird dieser dann von der Administration behoben. \
+Fehler, welche durch einen erneuten Merge-Vorgang selbst behoben werden können, werden abgelehnt. Du kannst den Status deiner Meldungen jederzeit mit `/mergebug list` einsehen.
+
+Du kannst Merge-Fehlern auch vorbeugen. Dafür wird empfohlen, dass du alle Einstellungen der zu verbindenen Grundstücke vorher zurücksetzt. Dafür kannst du im Grundstücksmenü auf die "Grundstücks-Befehle" gehen und dort auf “Einstellungen zurücksetzen” klicken.\
+Außerdem wird empfohlen, dass du bis zum nächsten Serverneustart - regulär um 04:00 Uhr - wartest bis du das Grundstück bebaust oder Änderungen am Grundstück vornimmst.
+
+### Merge-Erweiterungen
+
+Einige Spieler brauchen ein größeres Merge als die 196 Grundstücke, die du selber miteinander verbinden kannst.
+
+Dafür kannst du einen [Merge-Erweiterungsantrag im Forum](https://forum.griefergames.de/forum/board/186-merge-erweiterungen/) stellen:
+
+{% hint style="warning" %}
+Bitte lies dir vor dem Erstellen deines Antrags den angepinnten Info- & Regel-Thread durch.
+{% endhint %}
+
+Dein Antrag wird durch einen Content geprüft und im Forum beantwortet. BItte beachte, dass eine Erweiterung dem Zweck dient dein Projekt zu vergrößern, wenn zwei bereits bebaute Grundstücke miteinander verbunden werden sollen bzw. der Bauplatz auf deinem aktuellen Gruindstück nicht länger ausreicht. Anträge für unbebaute oder unzureichend bebaute Merge-Grundstücke werden mit hoher Wahrscheinlichkeit abgelehnt.
+
+Wird der Antrag seitens des Content angenommen, wird das Projekt an die Administration weitergeleitet, welche die Erweiterung dann umsetzen.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* Lohoff44
+* BentosMentos
+* 50U7R34P3R
+
+</details>
