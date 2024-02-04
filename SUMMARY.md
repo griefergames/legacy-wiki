@@ -42,26 +42,25 @@
 
 ## Erweiterte Features
 
-* [💬 Das Chat-System](erweiterte-features/das-chat-system.md)
-* [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
 * [🪙 Das Adventurer-System](erweiterte-features/das-adventurer-system.md)
-* [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
-* [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
 * [🎁 Das Case-Opening](erweiterte-features/das-case-opening.md)
-* [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
-* [🏛 Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
-* [🧑🏭 Das Job-System](erweiterte-features/das-job-system.md)
-* [📉 Server-Performance](erweiterte-features/server-performance.md)
-* [🖌 Das Prefix-System](erweiterte-features/das-prefix-system.md)
-* [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
+* [💬 Das Chat-System](erweiterte-features/das-chat-system.md)
+* [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
+* [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
+* [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
+* [🏛 Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
+* [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
+* [🧑🏭 Das Job-System](erweiterte-features/das-job-system.md)
+* [🖌 Das Prefix-System](erweiterte-features/das-prefix-system.md)
+* [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
+* [📉 Server-Performance](erweiterte-features/server-performance.md)
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
 
 ## Hilfreiche Links
 
-* [💬 GrieferGames Forum](https://forum.griefergames.de/forum/)
+* [🛠 Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
+* [⚒ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
 * [📋 GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/)
 * [📉 GrieferWert - Preisübersicht](http://www.grieferwert.net/)
-* [⚒ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
-* [🛠 Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
 * [🏗 under construction](hilfreiche-links/under-construction.md)

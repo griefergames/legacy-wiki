@@ -5,11 +5,12 @@ description: Linksammlung zu verschiedenen GrieferGames-Diensten
 # ⚒ GrieferGames - Dienste
 
 * [GG Auth](https://auth.griefergames.de/)
-* [GG Ticket-System](https://ticket.griefergames.de/)
 * [GG Discord](https://discord.griefergames.net/)
-* [GG Teamspeak](ts3server://griefergames.net)
-* [GG Webshop](https://store.griefergames.net)
+* [GG Forum](https://forum.griefergames.de/forum/)
 * GG Profil-System
+* [GG Teamspeak](ts3server://griefergames.net)
+* [GG Ticket-System](https://ticket.griefergames.de/)
+* [GG Webshop](https://store.griefergames.net)
 
 
 
