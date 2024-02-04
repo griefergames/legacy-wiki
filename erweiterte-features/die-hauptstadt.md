@@ -41,7 +41,7 @@ Am Hauptplatz haben auch der Adventurer-NPC und der Admin-Shop-NPC ihren Stand e
 
 <figure><img src="https://lh7-us.googleusercontent.com/e1K7oTHWNLiSFZUa4XMGGuF5j9tpg3xMROEyTxEO0F5YDLSBvzwI-CSZ6MaC7_DuBysfIlRVuF56Q5Id67KRBm0DfZEppIbp8_BXthHDbXRarQfg_kDfT4nr_rUlQE_7hARmtBJlFFdNzpFv3TGLIu0" alt=""><figcaption><p>Der Vote-NPC am Hauptplatz der Hauptstadt</p></figcaption></figure>
 
-Der Vote-NPC gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr Vote-Belohnungen abholen könnt.&#x20;
+Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr Vote-Belohnungen abholen könnt.&#x20;
 
 ### Der Bürgermeister
 
