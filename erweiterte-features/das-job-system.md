@@ -99,9 +99,13 @@ Möchtest du einen Auftrag stornieren, gehe wie folgt vor:
 
 <figure><img src="https://lh7-us.googleusercontent.com/0HTc3J928Xt_mmNrGoYkvPzs-Q5AWVo-9QqwiehHRqD_VNw-oGJKxmybGwUgaUJmEnRLtnEm8Mg1mXJau7AG1QAYEpAzVwKMp4yj6jZOI0VVPObz3gnT5pOM7jzctrCohCIatBXtf9TuSfOmgdgPhmU" alt=""><figcaption><p>Alle Aufträge, welche noch nicht erledigt sind, findest du hier. </p></figcaption></figure>
 
-4. Job-Menü beim Jobs-NPC oder per Befehl `/jobs`  aufrufen, um dein Geld abzuholen. Es erscheint ein Goldbarren neben dem Knopf „Meine Aufträge“. Wenn du auf diesen klickst, erhältst du den verbleibenden Betrag zurück.
+4. Wenn du den Auftrag abbrichst, erhältst du den verbleibenden Betrag für die ausstehende Itemmenge zurück erstattet. Das Geld wird deinem Kontostand automatisch hinzugefügt.
 
-<figure><img src="https://lh7-us.googleusercontent.com/Skj1K0QIzn0Vwd7j7mRnc6xlLErgSF318b6rz9NY-zaNrO_kCegym13V6IY6zmjvP-y3H7r_C5kv8qwUiTQL1eL296FEY4zzySVh7EotXJ89HMbLNQS2ki6NUn2RAJ2CO8s0MsU7tOZNVp7yQITM3L0" alt=""><figcaption><p>Hast du Aufträge abgebrochen ist im Job-Menü ein neuer Button verfügbar, um dein Geld abzuholen.</p></figcaption></figure>
+{% hint style="warning" %}
+Du erhältst lediglich das Geld für den verleibenden Itemwert zurück.&#x20;
+
+Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurück erstattet.
+{% endhint %}
 
 
 

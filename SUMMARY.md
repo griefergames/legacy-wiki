@@ -55,6 +55,7 @@
 * [🖌 Das Prefix-System](erweiterte-features/das-prefix-system.md)
 * [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
+* [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
 
 ## Hilfreiche Links
 

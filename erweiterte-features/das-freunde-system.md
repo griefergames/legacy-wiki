@@ -3,7 +3,7 @@
 Das Freunde-System gibt es seit dem 19.08.2020. \
 Dieses kann mit dem [Befehl](../grundlagen/befehlsuebersicht/allgemeine-befehle.md#allgemeine-befehle) `/friends` bzw. `/freunde` aufgerufen werden.
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption><p>Das Freunde-Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (1).png" alt=""><figcaption><p>Das Freunde-Menü</p></figcaption></figure>
 
 #### Was kann das Freundesystem?
 
@@ -11,7 +11,7 @@ Mit dem Freundesystem kannst du die Spielaktivität deiner Freunde mit verfolgen
 
 #### Wie nutze ich das Freundesystem?
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption><p>Liste aller Befehle des Freunde-System</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>Liste aller Befehle des Freunde-System</p></figcaption></figure>
 
 Du kannst mit `/friend add {Name}` eine Freundschaftsanfrage an jeden Spieler stellen, der Freundschaftsanfragen aktiviert hat. Dieser erhält dann direkt im Chat eine Nachricht, dass du mit ihm befreundet sein willst. Beim Betreten des Netzwerks wird ebenfalls angezeigt, wenn noch ausstehende Freundschaftsanfragen vorhanden sind.
 

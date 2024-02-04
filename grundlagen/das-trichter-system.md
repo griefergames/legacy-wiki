@@ -20,13 +20,13 @@ Ein Trichter tickt im Standard alle <mark style="color:red;">**8 Ticks**</mark> 
 
 Klickt man beim Schleichen mit Rechtsklick auf einen platzierten Trichter, öffnet sich ein Einstellungsmenü für diesen Trichter.
 
-<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption><p>GUI der Trichter-Einstellungen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (13) (1).png" alt=""><figcaption><p>GUI der Trichter-Einstellungen</p></figcaption></figure>
 
 Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erläutert werden.
 
 ### Item-Anzahl einstellen
 
-Mit dem Button <img src="../.gitbook/assets/image (14).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden.\
+Mit dem Button <img src="../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden.\
 Die Standardeinstellung liegt hier bei 12 Items.
 
 Folgende Optionen stehen dir zur Auswahl:
@@ -152,19 +152,19 @@ Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text 
 
 Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FIJXE0XEx96w2EczqxbSe%2Fimage.png?alt=media&#x26;token=d6c6f69a-e6d0-4662-baa2-363b8eed3308" alt="" data-size="line"> <mark style="color:orange;">**Beschreibungs-Filter**</mark> aktiviert sich der Beschreibungs-Filter. Bei einem weiteren Klick öffnet sich das Menü zum Hinzufügen von Beschreibungen.
 
-<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption><p>Beschreibungsfilter-Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü</p></figcaption></figure>
 
-Mit dem Button <img src="../.gitbook/assets/image (17).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen.\
+Mit dem Button <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen.\
 Im nachfolgenden Amboss-Menü kannst du den Text, welcher gefiltert werden soll, eintragen und per Klick auf das fertige Produkt bestätigen. Dein ausgewählter Filter wird im Menü angezeigt. Es können auch mehrere Filter hinterlegt werden.
 
-<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption><p>Beschreibungsfilter-Menü mit 2 Einträgen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü mit 2 Einträgen</p></figcaption></figure>
 
 * Durch einen Klick auf einen hinzugefügten Beschreibungsfilter kannst du diesen bearbeiten.
 * Durch Umschalt+Klick auf einen Beschreibungsfilter kannst du diesen komplett löschen.
 
 #### Namens-Filter
 
-Mit einem Klick auf den <img src="../.gitbook/assets/image (19).png" alt="" data-size="line"> <mark style="color:orange;">**Namens-Filter**</mark> aktivierst du die Filterung nach umbenannten Items. In der Standard-Einstellung werden alle umbenannten Items gefiltert. Bei einem weiteren Klick öffnet sich ein Amboss-Menü, in welchem du einen bestimmten Namen festlegen kannst. Durch Klick auf das fertige Produkt übernimmst du diesen.
+Mit einem Klick auf den <img src="../.gitbook/assets/image (19) (1).png" alt="" data-size="line"> <mark style="color:orange;">**Namens-Filter**</mark> aktivierst du die Filterung nach umbenannten Items. In der Standard-Einstellung werden alle umbenannten Items gefiltert. Bei einem weiteren Klick öffnet sich ein Amboss-Menü, in welchem du einen bestimmten Namen festlegen kannst. Durch Klick auf das fertige Produkt übernimmst du diesen.
 
 * Durch das Entfernen des Eintrags im Amboss-Menü vor dem Bestätigen wird wieder der Standard-Filter für alle umbenannten Items aktiviert.
 * Durch Umschalt-Klick auf den Namens-Filter deaktiviert sich der Namens-Filter vollständig.

@@ -44,17 +44,32 @@ Dennoch genießt der Helfer - durch den Zugriff auf den Helfer-Bereich unseres T
 
 Hat ein Citybuild-Server keinen Helfer und es ist ausreichend Aktivität auf dem Server, um eine Wahl abzuhalten, startet die Administration eine Wahl zum Helfer.
 
-Ihr könnt euch nur auf eurem Haupt-Citybuild zur Wahl stellen und auch nur dort voten. Um voten zu können, müsst ihr bereits eine gewisse Zeit lang auf dem Citybuild eingetragen sein. \
-Eine Eintragung ist einmal monatlich über den Bürgermeister in der Stadt möglich.
+Du kannst dich nur auf deinem Haupt-Citybuild zur Wahl stellen und auch nur dort voten. Um voten zu können, musst du bereits eine gewisse Zeit lang auf dem Citybuild eingetragen sein. \
+Eine Eintragung ist einmal monatlich über den [Bürgermeister](die-hauptstadt.md#der-buergermeister) in der [Stadt](die-hauptstadt.md#stadt) möglich.
 
-Auf einem Citybuild-Server mit aktiver Helfer-Wahl könnt ihr mit `/wahl` in das Wahl-System kommen. Dort könnt ihr sowohl für einen Kandidaten abstimmen, als auch euch selbst zur Wahl stellen.\
-Mit `/wahl <Name>` könnt ihr direkt den Wahlbogen eines Spielers öffnen, wenn dieser zur Wahl steht.
+{% hint style="info" %}
+Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
+
+Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
+{% endhint %}
+
+Auf einem Citybuild-Server mit aktiver Helfer-Wahl kannst du mit `/wahl` in das Wahl-System kommen. Dort kannst du sowohl für einen Kandidaten abstimmen, als auch dich selbst zur Wahl stellen.\
+Mit `/wahl <Name>` kannst du direkt den Wahlbogen eines Spielers öffnen, wenn dieser zur Wahl steht.
 
 <figure><img src="https://forum.griefergames.de/attachment/354368-wahl-png/" alt=""><figcaption></figcaption></figure>
 
-Die Wahl läuft für einen festgelegten Zeitraum und wird anschließend ausgewertet. \
-Um Botting vorzubeugen, wird **nicht** direkt die Person mit den meisten Stimmen genommen, sondern die Person, die den Großteil der Community des Citybuilds hinter sich versammelt hat. Die endgültige Entscheidung trifft dann die Administration in einem abschließenden Gespräch.\
-\
+Die Wahl läuft für einen festgelegten Zeitraum und wird anschließend ausgewertet.&#x20;
+
+{% hint style="info" %}
+Die Aufstellungsphase beträgt 3 Tage.
+
+Die Wahlphase beträgt regulär 5 Tage.
+
+Die festgelegten Zeiten können in Einzelfällen abweichen, wenn durch die Administration entsprechende Gründe festgestellt werden, die eine Verlängerung erfordern.
+{% endhint %}
+
+Um Botting vorzubeugen, wird **nicht** direkt die Person mit den meisten Stimmen genommen, sondern die Person, die den Großteil der Community des Citybuilds hinter sich versammelt hat. Die endgültige Entscheidung trifft dann die Administration in einem abschließenden Gespräch.
+
 Nachdem ein Helfer auf dem Citybuild-Server bestimmt wurde, wird dort die Wahl geschlossen. Sobald die Helfer-Stelle wieder frei wird, wird auf dem einzelnen Citybuild-Server eine neue Wahl abgehalten.&#x20;
 
 #### Wie verliert man den Helfer-Rang?

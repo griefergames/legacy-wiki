@@ -20,7 +20,7 @@ Für die 1.8 Version stehen die Blöcke zusätzlich als Möbel-Addon im [Mystery
 
 Sollte die Installation über den MysteryMod-Client nicht korrekt funktionieren, kannst du die Möbel-Version aus unserem [GitHub herunterladen](https://github.com/griefergames/customblocks-download/tree/master/1.8.9).​
 
-### ​<img src="../../.gitbook/assets/image (27).png" alt="" data-size="line"> CustomBlocks als Forge-Mod <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
+### ​<img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
 
 Solltet ihr MysteryMod nicht verwenden wollen, stehen euch die CustomBlocks auch als Erweiterung auf Basis von Forge zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
 
@@ -40,7 +40,7 @@ Für die Installation wird Forge benötigt. Solltest du den Forge schon installi
 4. Ziehe in diesen Ordner die MysteryBlocks-Datei
 5. Starte dein Spiel neu und du solltest die Blöcke nun sehen.
 
-### ​<img src="../../.gitbook/assets/image (28).png" alt="" data-size="line"> CustomBlocks Fabric
+### ​<img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric
 
 Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.griefergames.live/funktionen/customblocks). Fabric steht nur in höheren Spielversionen zur Verfügung.
 

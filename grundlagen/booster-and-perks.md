@@ -36,7 +36,7 @@ Alternativ kannst du auch die Befehle für den jeweiligen Booster verwenden, um 
 Perks sind spielerbezogene Vorteile. Sie verändern Charakterwerte oder schalten andere Funktionen frei, mit denen du in den Spielverlauf eingreifen kannst.\
 Eine Liste aller verfügbaren Perks erhältst du durch den Befehl `/perks`.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Das Perk-Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Das Perk-Menü</p></figcaption></figure>
 
 Perks kannst du für [GrieferGames-Dollar](waehrungen.md#griefergames-dollar) kaufen oder beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#perks) mit deinen Orbs erwerben. Einmal erworbene Perks sind dauerhaft für deinen Charakter verfügbar.
 
