@@ -234,7 +234,3 @@ Es gibt also manche Momente wo sehr seltene Admin-Items in der Kiste sind, manch
 * 50U7R34P3R
 
 </details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}

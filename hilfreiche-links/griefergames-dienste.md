@@ -5,6 +5,7 @@ description: Linksammlung zu verschiedenen GrieferGames-Diensten
 # ⚒ GrieferGames - Dienste
 
 * [GG Auth](https://auth.griefergames.de/)
+* [GG Chatlog](https://chatlog.griefergames.de/my-chatlogs)
 * [GG Discord](https://discord.griefergames.net/)
 * [GG Forum](https://forum.griefergames.de/forum/)
 * GG Profil-System

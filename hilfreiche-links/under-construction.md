@@ -32,7 +32,6 @@ Diese Seiten sind bereits erstellt und bef체llt, aber ein wenig zu kurz. Hier m�
 Diese Seiten sind bereits toll beschrieben, aber f체r das gewisse Extra fehlen einfach noch ein paar Bilder. Hast du Lust ein paar Screenshots zu machen und damit den Artikel ansehnlicher zu gestalten?
 
 * [Freunde](../erweiterte-features/das-freunde-system.md)
-* [Das Adventurer-System](../erweiterte-features/das-adventurer-system.md)
 * [Booster & Perks](../grundlagen/booster-and-perks.md)
 * [W채hrungen](../grundlagen/waehrungen.md)
 * [Grundst체cke 체berschreiben](../grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)

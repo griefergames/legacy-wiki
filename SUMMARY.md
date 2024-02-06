@@ -34,7 +34,6 @@
     * [Hologramme](grundlagen/befehlsuebersicht/spezielle-features/hologramme.md)
 * [💰 Währungen](grundlagen/waehrungen.md)
 * [⬆ Booster & Perks](grundlagen/booster-and-perks.md)
-* [😠 Das Scamming](grundlagen/das-scamming.md)
 * [🅱 CustomBlocks](grundlagen/customblocks/README.md)
   * [Aufzüge & Teleporter](grundlagen/customblocks/aufzuege-and-teleporter.md)
 * [♾ Passive Spawner](grundlagen/passive-spawner.md)
@@ -56,6 +55,11 @@
 * [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
 * [📉 Server-Performance](erweiterte-features/server-performance.md)
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
+
+## GrieferGames Allgemein
+
+* [😠 Das Scamming](griefergames-allgemein/das-scamming.md)
+* [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
 
 ## Hilfreiche Links
 
