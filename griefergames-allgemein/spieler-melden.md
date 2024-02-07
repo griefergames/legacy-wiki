@@ -6,6 +6,8 @@ Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Soll
 Bitte erstellt dafür einen Beitrag im Forum “[Beschwerden über Spieler](https://report.griefergames.net/)” oder nutzt das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
 {% endhint %}
 
+
+
 ### Beweismaterial
 
 Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs) und [Videoaufnahmen](spieler-melden.md#videoaufnahmen) als Beweismittel, welche nicht älter als 7 Tage sind. In besonderen Fällen können auch unbearbeitete Screenshots des gesamten Bildschirms relevant sein. Mehr Informationen dazu findet ihr in folgender Übersicht:
@@ -38,26 +40,25 @@ Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs
 Wenn es um Regelverstöße auf [TeamSpeak](ts3server://ts.griefergames.net/) oder [Discord](https://discord.griefergames.net/) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.** Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
 {% endhint %}
 
+
+
 ### Was sind Chat-Logs?
 
 Damit sind nicht eure Logs in den Tiefen eures Minecraft Ordners gemeint, sondern ein von uns [im März 2022 eingeführter Befehl](https://forum.griefergames.de/news/view/267) zur Erfassung von Chatnachrichten!
 
 Folgende Befehle stehen euch hier zur Verfügung:
 
-| Befehl                      | Funktion                                                                                                                                            |
-| --------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `/chatlog`                  | Zeige dir die Hilfe/Übersicht an.                                                                                                                   |
-| `/chatlog all`              | <p>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log.<br>(75 Nachrichten auf der Cloud)</p>                                    |
-| `/chatlog all <Spieler>`    | <p>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log und markiere den genannten Spieler.<br>(75 Nachrichten auf der Cloud)</p> |
-| `/chatlog msg <Spieler>`    | Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler.                                                       |
-| `/chatlog plot`             | Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log.                                          |
-| `/chatlog plot <Spieler>`   | Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log und markiere den genannten Spieler.       |
-| `/chatlog global`           | Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log. (nur Citybuild 1.8)                                                                |
-| `/chatlog global <Spieler>` | Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log und markiere den angegebenen Spieler. (nur Citybuild 1.8.)                          |
+<table><thead><tr><th width="320">Befehl</th><th>Funktion</th></tr></thead><tbody><tr><td><code>/chatlog</code></td><td>Zeige dir die Hilfe/Übersicht an.</td></tr><tr><td><code>/chatlog all</code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog all &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log und markiere den genannten Spieler.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog msg &#x3C;Spieler></code></td><td>Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler.</td></tr><tr><td><code>/chatlog plot</code> </td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log.</td></tr><tr><td><code>/chatlog plot &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log und markiere den genannten Spieler.</td></tr><tr><td><code>/chatlog global</code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log. (nur Citybuild 1.8)</td></tr><tr><td><code>/chatlog global &#x3C;Spieler></code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log und markiere den angegebenen Spieler. (nur Citybuild 1.8.)</td></tr></tbody></table>
 
-Chatlogs, welche ihr aus dem öffentlichen Chat, Global-Chat oder Plot-Chat erstellt, könnt ihr auf der [Chatlog-Seite](../hilfreiche-links/griefergames-dienste.md) einsehen. Hierfür wird ein verknüpfter GGAuth-Account benötigt.
+Habt ihr keinen GGAuth-Account könnt ihr Chatlogs erstellen, jedoch nicht in eurem Account sichern. Ihr müsst dann nach Erstellen des Chatlogs den Link aus dem Chat seperat speichern, damit ihr ihn für eine Meldung verwenden könnt.
 
-Chatlogs, welche ihr von Direktnachrichten erstellt (oder wenn ihr keinen GGAuth-Account habt), lassen sich nicht auf der Chatlog-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chatlog abspeichern.
+Habt ihr euren Minecraft-Account mit GGAuth verknüpft, könnt ihr Chatlogs auch auf der [Chatlog-Seite](../hilfreiche-links/griefergames-dienste.md) einsehen. Dies funktioniert für Chatlogs aus dem Citybuild-Chat, dem Grundstück-Chat und dem Global-Chat (nur Citybuild 1.8).
+
+{% hint style="danger" %}
+Chatlogs, welche ihr von Direktnachrichten erstellt, lassen sich **nicht** auf der Chatlog-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chatlog seperat abspeichern.
+{% endhint %}
+
+
 
 ### Videoaufnahmen?
 
@@ -74,7 +75,7 @@ Wenn ihr als Betriebssystem Windows 10 oder Windows 11 besitzt, dann verfügt di
 Diese Option benötigt etwas mehr Leistung und sollte daher nur auf performanten Systemen eingesetzt werden.
 {% endhint %}
 
-#### _NVIDIA GEForce Experience_
+#### _NVIDIA GeForce Experience_
 
 Nutzt ihr eine NVIDIA-Grafikkarte, könnt ihr über das NVIDIA GeForce Experience-Overlay die Option "ShadowPlay" aktivieren. Drückt einfach die Tastenkombination Alt + Z, um das Overlay zu erreichen.&#x20;
 
