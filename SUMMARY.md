@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Startseite](README.md)
-* [☁ Cloud Wiki](https://wiki.griefergames.live)
+* [☁️ Cloud Wiki](https://wiki.griefergames.live)
 * [🌐 Das Netzwerk](das-netzwerk.md)
 * [🔗 Server verbinden...](server-verbinden.../README.md)
   * [...in der Java-Version](server-verbinden.../...in-der-java-version.md)
@@ -10,11 +10,11 @@
 
 ## Grundlagen
 
-* [🏙 Spielmodus Citybuild](grundlagen/spielmodus-citybuild/README.md)
+* [🏙️ Spielmodus Citybuild](grundlagen/spielmodus-citybuild/README.md)
   * [🚩 Spielstart und erste Schritte](grundlagen/spielmodus-citybuild/spielstart-und-erste-schritte.md)
-  * [🏘 Citybuild 1-22](grundlagen/spielmodus-citybuild/citybuild-1-22.md)
+  * [🏘️ Citybuild 1-22](grundlagen/spielmodus-citybuild/citybuild-1-22.md)
   * [🌇 Citybuild Evil](grundlagen/spielmodus-citybuild/citybuild-evil.md)
-  * [🏔 Citybuild Nature & Extreme](grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme.md)
+  * [🏔️ Citybuild Nature & Extreme](grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme.md)
   * [🌼 Farmserver Wasser & Lava](grundlagen/spielmodus-citybuild/farmserver-wasser-and-lava.md)
 * [🏡 Grundstücke](grundlagen/grundstuecke/README.md)
   * [Grundstück-Menü](grundlagen/grundstuecke/grundstueck-menue.md)
@@ -22,7 +22,7 @@
   * [Grundstücke überschreiben](grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)
   * [Grundstücke inaktiver Spieler beantragen](grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)
   * [Grundstücke verändern](grundlagen/grundstuecke/grundstuecke-veraendern.md)
-* [⚙ Befehlsübersicht](grundlagen/befehlsuebersicht/README.md)
+* [⚙️ Befehlsübersicht](grundlagen/befehlsuebersicht/README.md)
   * [Allgemeine Befehle](grundlagen/befehlsuebersicht/allgemeine-befehle.md)
   * [Grundstücks-Befehle](grundlagen/befehlsuebersicht/grundstuecks-befehle/README.md)
     * [Grundstücks-Informationen](grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md)
@@ -33,10 +33,10 @@
     * [Checkplot](grundlagen/befehlsuebersicht/spezielle-features/checkplot.md)
     * [Hologramme](grundlagen/befehlsuebersicht/spezielle-features/hologramme.md)
 * [💰 Währungen](grundlagen/waehrungen.md)
-* [⬆ Booster & Perks](grundlagen/booster-and-perks.md)
-* [🅱 CustomBlocks](grundlagen/customblocks/README.md)
+* [⬆️ Booster & Perks](grundlagen/booster-and-perks.md)
+* [🅱️ CustomBlocks](grundlagen/customblocks/README.md)
   * [Aufzüge & Teleporter](grundlagen/customblocks/aufzuege-and-teleporter.md)
-* [♾ Passive Spawner](grundlagen/passive-spawner.md)
+* [♾️ Passive Spawner](grundlagen/passive-spawner.md)
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 
 ## Erweiterte Features
@@ -48,13 +48,14 @@
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
 * [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
 * [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
-* [🏛 Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
+* [🏛️ Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
 * [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
-* [🧑🏭 Das Job-System](erweiterte-features/das-job-system.md)
-* [🖌 Das Prefix-System](erweiterte-features/das-prefix-system.md)
+* [🧑‍🏭 Das Job-System](erweiterte-features/das-job-system.md)
+* [🖌️ Das Prefix-System](erweiterte-features/das-prefix-system.md)
 * [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
 * [📉 Server-Performance](erweiterte-features/server-performance.md)
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
+* [🧙 Der Zauberwald](erweiterte-features/der-zauberwald.md)
 
 ## GrieferGames Allgemein
 
@@ -63,8 +64,8 @@
 
 ## Hilfreiche Links
 
-* [🛠 Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
-* [⚒ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
+* [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
+* [⚒️ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
 * [📋 GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/)
 * [📉 GrieferWert - Preisübersicht](http://www.grieferwert.net/)
-* [🏗 under construction](hilfreiche-links/under-construction.md)
+* [🏗️ under construction](hilfreiche-links/under-construction.md)
