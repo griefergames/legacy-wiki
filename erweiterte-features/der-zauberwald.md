@@ -4,6 +4,8 @@ description: Die neue Dimension
 
 # 🧙 Der Zauberwald
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Der Spawn des Zauberwalds entführt euch in magische Höhen</p></figcaption></figure>
+
 <div data-full-width="false">
 
 <figure><img src="https://lh7-us.googleusercontent.com/TvKW4N-dSejqwGDputGriziN2jZztWWIwe8rQr1OSPVYTJ3rim4mVWhfE6g6xYQNLj-EGolOWBBguC1Lh40Ed6_4JukgUy3w9HpEwuTngf0gEPzwo-fH6TGj4ym9rTyTN6I6XZIl1hbp-S7Y9CyZfFo" alt=""><figcaption><p>Beispielbild aus einem Zauberwald-Biom</p></figcaption></figure>
