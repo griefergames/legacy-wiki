@@ -24,7 +24,7 @@ Für das optimale Erlebnis im Zauberwald empfehlen wir die neueste Version der [
 
 ### Den Zauberwald betreten
 
-Den Zauberwald kannst du über einen NPC betreten, der vorerst jede Stunde bei einem zufälligen Spieler eines zufälligen Citybuilds erscheint. Sobald du mit diesem interagierst, wirst du in den Zauberwald teleportiert und darfst dich dort für 30 Minuten aufhalten. Über `/zauberwald` siehst du, wie lange du den Zauberwald noch betreten kannst.
+Den Zauberwald kannst du über einen NPC betreten, der gelegentlich bei einem zufälligen Spieler eines zufälligen Citybuilds erscheint. Sobald du mit diesem interagierst, wirst du in den Zauberwald teleportiert und darfst dich dort für eine gewisse Zeit aufhalten. Über `/zauberwald` siehst du, wie lange du den Zauberwald aktuell noch betreten kannst.
 
 <figure><img src="https://lh7-us.googleusercontent.com/JEUNom-HeWiQJkuBHYt_mIpbNlW_zU3eVy13KKL9-Zuuiwu7RpHndYhO_8rpwylNnMIUIyitL9N_Z9spIHLXtCmNOT4c52lUtjtbV-tOWdyoCWH8Kwbc7LhtlRMUbZ8t1yBZ8b9n6dkVmVMChtku8Hk" alt=""><figcaption><p>Der Zauberer auf einem Spieler-Grundstück</p></figcaption></figure>
 
