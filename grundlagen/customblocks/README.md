@@ -44,8 +44,6 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 
 Die Forge-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) zu finden.
 
-Sollte die Forge-Mod nicht verfügbar sein, kann diese ebenfalls aus unserem [GitHub heruntergeladen](https://github.com/griefergames/customblocks-download/blob/master/1.8.9/forge/MysteryBlocks-1.8.9-1.0.2.jar) werden.
-
 ### ​<img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric (Neuste Minecraft-Version)
 
 Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.griefergames.live/funktionen/customblocks#customblocks-als-fabric-mod). Fabric steht nur in höheren Spielversionen zur Verfügung. Diese Version ist nicht für Spieler geeignet, welche nur in der 1.8.9 spielen!
