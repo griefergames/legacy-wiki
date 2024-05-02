@@ -37,7 +37,7 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 
     <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 3. Navigiere nun in deinen Minecraft Ordner `%appdata%/.minecraft` und navigiere dort in den Ordner "mods"
-4. Ziehe in diesen Ordner die MysteryBlocks-Datei
+4. Ziehe die [**CustomBlocks**](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) Datei in diesen Ordner.
 5. Starte dein Spiel neu und du hast die GrieferGames CustomBlocks installiert!
 
 </details>
