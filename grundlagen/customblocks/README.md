@@ -20,7 +20,7 @@ Die Nutzung der Blöcke ist freiwillig. Wir empfehlen natürlich die Erweiterung
 
 Für die 1.8 Version stehen die Blöcke zusätzlich als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.
 
-Sollte die Installation über den MysteryMod-Client mal nicht korrekt funktionieren, kannst du die aktuelle Möbel-Version immer aus unserem [GitHub herunterladen](https://github.com/griefergames/customblocks-download/tree/master/1.8.9).​
+Starte den MysteryMod 1.8.9 Client, öffne die Minecraft Einstellungen, öffne MysteryMod Settings, öffne Addons und installiere das "Furniture" Addon. Starte danach den Client neu und Du hast die CustomBlocks installiert!
 
 ### ​<img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
 
