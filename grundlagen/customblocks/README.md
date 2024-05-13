@@ -1,7 +1,7 @@
 ---
 description: >-
   Erweitere Minecraft um neue, individuelle Blöcke durch die GrieferGames
-  CustomBlocks-Mod.
+  CustomBlocks Mod.
 ---
 
 # 🅱️ CustomBlocks
@@ -51,8 +51,6 @@ Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.
 ### Ihr braucht Hilfe? <a href="#rm9rldqn4nks" id="rm9rldqn4nks"></a>
 
 Solltet ihr Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr [unserem Discord](https://discord.griefergames.net/) beitreten und dort nach Hilfe fragen.
-
-
 
 <details>
 
