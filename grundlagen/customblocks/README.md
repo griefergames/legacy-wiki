@@ -28,7 +28,7 @@ Solltet ihr MysteryMod nicht verwenden wollen, stehen euch die CustomBlocks auch
 
 <details>
 
-<summary>Installation der 54Forge-Mod 1.8.9</summary>
+<summary>Installation der Forge-Mod 1.8.9</summary>
 
 Für die Installation wird Forge benötigt. Solltest du Forge schon installiert haben, kannst du bei Punkt 3 starten.
 
