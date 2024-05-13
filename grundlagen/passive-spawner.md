@@ -1,4 +1,4 @@
-# ♾ Passive Spawner
+# ♾️ Passive Spawner
 
 ### Spawner allgemein
 
@@ -98,3 +98,7 @@ Dieses Verhalten trifft **nur** auf die Grundstückswelt zu. In der Farmwelt und
 * 50U7R34P3R
 
 </details>
+
+{% hint style="danger" %}
+Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
+{% endhint %}

@@ -136,3 +136,7 @@ Auch hier kannst du einfach ein vorhandenes Item aus deinem Inventar auswählen 
 * 50U7R34P3R
 
 </details>
+
+{% hint style="danger" %}
+Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
+{% endhint %}

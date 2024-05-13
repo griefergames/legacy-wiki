@@ -1,4 +1,4 @@
-# ⬆ Booster & Perks
+# ⬆️ Booster & Perks
 
 ### Booster
 
@@ -46,19 +46,21 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 
 | Perk               | Funktion                                     | Preis                               |
 | ------------------ | -------------------------------------------- | ----------------------------------- |
-| Kein Fallschaden   | Du erhältst keinen Fallschaden mehr.         | 500.000 $                           |
-| Kein Hunger        | Deine Hunger-Anzeige sinkt nicht mehr.       | 250.000 $                           |
-| Schnelligkeit+     | +20% Schnelligkeit                           | 250.000$                            |
+| Kein Fallschaden   | Du erhältst keinen Fallschaden mehr.         | 750.000 $                           |
+| Kein Hunger        | Deine Hunger-Anzeige sinkt nicht mehr.       | 500.000 $                           |
+| Schnelligkeit+     | +20% Schnelligkeit                           | 500.000$                            |
 | Feuerresistenz+    | Du erhältst keinen Feuerschaden.             | <p>500.000 $<br>20.000.000 Orbs</p> |
-| Unterwasseratmung+ | Du hast unbegrenzt Luft.                     | <p>250.000 $<br>10.000.000 Orbs</p> |
-| Stärke+            | +6 Angriffsschaden                           | 400.000 $                           |
-| Sprungkraft+       | Sprungkraft-Effekt                           | 250.000 $                           |
-| Nachtsicht+        | Nachtsicht-Effekt                            | <p>250.000 $<br>10.000.000 Orbs</p> |
+| Unterwasseratmung+ | Du hast unbegrenzt Luft.                     | <p>400.000 $<br>10.000.000 Orbs</p> |
+| Stärke+            | +6 Angriffsschaden                           | 500.000 $                           |
+| Sprungkraft+       | Sprungkraft-Effekt                           | 500.000 $                           |
+| Nachtsicht+        | Nachtsicht-Effekt                            | <p>400.000 $<br>10.000.000 Orbs</p> |
 | Doppelte XP        | Doppelte Menge an XP                         | 500.000 $                           |
-| KeepHotbar         | Items in deiner Hotbar sind beim Tod sicher. | 1.000.000 $                         |
-| KeepXP             | Gesammelte XP sind beim Tod sicher.          | 500.000 $                           |
+| KeepHotbar         | Items in deiner Hotbar sind beim Tod sicher. | 2.500.000 $                         |
+| KeepXP             | Gesammelte XP sind beim Tod sicher.          | 1.250.000 $                         |
 
 Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie gekauft hast.
+
+Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-zauberwald.md)!
 {% endtab %}
 
 {% tab title="Funktions-Perks" %}
@@ -66,10 +68,10 @@ Funktions-Perks schalten besondere Spielfunktionen frei.
 
 | Perk      | 	Funktion                                                     | Preis       |
 | --------- | ------------------------------------------------------------- | ----------- |
-| ClearChat | Fügt 1000 Leerzeilen im Chat ein.                             | 400.000 $   |
-| SlowChat  | Cooldown beim Schreiben von Nachrichten                       | 500.000 $   |
-| MuteP     | Schaltet einen Spieler für 15 Minuten stumm                   | 2.000.000 $ |
-| Startkick | Starte eine Abstimmung, um einen Spieler vom Server zu werfen | 1.500.000 $ |
+| ClearChat | Fügt 1000 Leerzeilen im Chat ein.                             | 1.500.000 $ |
+| SlowChat  | Cooldown beim Schreiben von Nachrichten                       | 1.500.000 $ |
+| MuteP     | Schaltet einen Spieler für 15 Minuten stumm                   | 5.000.000 $ |
+| Startkick | Starte eine Abstimmung, um einen Spieler vom Server zu werfen | 4.000.000 $ |
 
 Funktions-Perks lassen sich nicht deaktivieren. Um sie einzusetzen, verwendest du den entsprechenden Befehl des Perks.
 {% endtab %}
@@ -79,10 +81,11 @@ Funktions-Perks lassen sich nicht deaktivieren. Um sie einzusetzen, verwendest d
 
 Manche Features auf dem Netzwerk ermöglichen Effekte für Spiel-Charaktere für einen gewissen Zeitraum.
 
-Da in der Farmwelt der Fliegen-Booster nicht funktioniert, hast du die Möglichkeit dir beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#der-orb-verkaeufer-verkaeufer) einen Flugtrank zu besorgen. Sobald du diesen trinkst, kannst du für einen gewissen Zeitraum auf deinem Grundstück und in der Farmwelt fliegen. Beim Orb-Verkäufer erhältst du ebenfalls einen Abbautrank, den du trinken kannst, um eine erhöhte Abbaugeschwindigkeit zu erhalten.
+Da in der Farmwelt der Fliegen-Booster nicht funktioniert, hast du die Möglichkeit dir beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#der-orb-verkaeufer-verkaeufer) einen Flugtrank zu besorgen. Sobald du diesen trinkst, kannst du für einen gewissen Zeitraum auf deinem Grundstück und in der Farmwelt fliegen.&#x20;
 
-Solltest du für eine Gruppe Spieler einen Flug- oder Abbau-Effekt nutzen wollen, so kannst auch Wurftränke beim Orb-Verkäufer erwerben. \
-Dann stellt ihr euch im Kreis auf und werft diesen Trank, um alle den Effekt zu erhalten.
+Beim Orb-Verkäufer erhältst du ebenfalls einen Abbautrank, den du trinken kannst, um eine erhöhte Abbaugeschwindigkeit zu erhalten.
+
+Solltest du für eine Gruppe Spieler einen Flug- oder Abbau-Effekt nutzen wollen, so kannst auch Wurftränke beim Orb-Verkäufer erwerben. Dann stellt ihr euch im Kreis auf und werft diesen Trank, um alle den Effekt zu erhalten.
 
 | Flugtrank       | Erlaubt es dir für 15 Minuten zu fliegen                                 | 350.000 Orbs |
 | --------------- | ------------------------------------------------------------------------ | ------------ |
@@ -92,7 +95,7 @@ Dann stellt ihr euch im Kreis auf und werft diesen Trank, um alle den Effekt zu 
 
 Zusätzlich gibt es noch ein Item, welches dir erlaubt auf deinem Grundstück das Fliegen zu ermöglichen. Hierzu werden dann weder Booster noch Tränke benötigt. Dieses Item erhältst du gelegentlich beim [Adventurer](../erweiterte-features/das-adventurer-system.md#der-admin-shop) oder als Gewinn aus dem [Case-Opening](../erweiterte-features/das-case-opening.md).
 
-<table data-header-hidden><thead><tr><th width="330">Item</th><th>Funktion</th></tr></thead><tbody><tr><td>Plot-Fliegen 1 Tag</td><td>Ermöglicht es dir und vertrauten Spielern 1 Tag auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 3 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 3 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 7 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 7 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plotfliegen 30 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 30 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 60 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 60 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 90 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 90 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 180 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 180 Tage auf deinem Grundstück zu fliegen</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th width="330">Item</th><th>Funktion</th></tr></thead><tbody><tr><td>Plot-Fliegen 1 Tag</td><td>Ermöglicht es dir und vertrauten Spielern 1 Tag auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 3 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 3 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 7 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 7 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 30 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 30 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 60 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 60 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 90 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 90 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 180 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 180 Tage auf deinem Grundstück zu fliegen</td></tr></tbody></table>
 
 
 

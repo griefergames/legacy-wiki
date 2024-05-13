@@ -2,7 +2,7 @@
 description: Wo brauchen wir Unterstützung?
 ---
 
-# 🏗 under construction
+# 🏗️ under construction
 
 Auf dieser Seite findest du Auflistungen an Seiten, welche wir gerne befüllt sehen möchten.&#x20;
 
@@ -38,6 +38,8 @@ Diese Seiten sind bereits toll beschrieben, aber für das gewisse Extra fehlen e
 * [...schlägt fehl](../server-verbinden.../...schlaegt-fehl..md)
 * [Das Case-Opening](../erweiterte-features/das-case-opening.md)
 * [Server-Performance](../erweiterte-features/server-performance.md)
+* [Passive Spawner](../grundlagen/passive-spawner.md)
+* [Die Rezeptsammlung](../erweiterte-features/die-rezeptsammlung.md)
 
 {% hint style="info" %}
 Bitte nutze beim Erstellen von Screenshots keine Texturepacks oder Shader. Diese sehen sicher toll aus. Jedoch hat nicht jeder Spieler die Möglichkeit diese zu nutzen und könnte durch abweichende Ansichten verwirrt sein.
