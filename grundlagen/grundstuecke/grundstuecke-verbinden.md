@@ -10,7 +10,7 @@ Um ein Grundstück komplett im Quadrat zu Mergen sind 3 Mergevorgänge notwendig
 
 ### Merge-Fehler
 
-Beim Mergen treten manchmal Fehler auf. Diese Merge-Fehler äußern sich in der Regel als Straßen auf dem Grundstück, welche teilweise noch vorhanden sind oder Bereiche der ehemaligen Straßen in denen Blöcke nicht abbaubar sind. Um diese Fehler zu melden, stelle dich an die Position des Fehlers und gib den Befehl `/mergebug` und danach `/mergebug confirm` ein. Ein Teammitglied wird deine Meldung prüfen. Bei einem nicht behebbaren Fehler wird dieser dann von der Administration behoben. \
+Beim Mergen treten manchmal Fehler auf. Diese Merge-Fehler äußern sich in der Regel als Straßen auf dem Grundstück, welche teilweise noch vorhanden sind oder Bereiche der ehemaligen Straßen in denen Blöcke nicht abbaubar sind. Um [diese Fehler zu melden](../../faq/citybuild/merge-grundstuecke.md#merge-fehler-melden-merge-bug), stelle dich an die Position des Fehlers und gib den Befehl `/mergebug` und danach `/mergebug confirm` ein. Ein Teammitglied wird deine Meldung prüfen. Bei einem nicht behebbaren Fehler wird dieser dann von der Administration behoben. \
 Fehler, welche durch einen erneuten Merge-Vorgang selbst behoben werden können, werden abgelehnt. Du kannst den Status deiner Meldungen jederzeit mit `/mergebug list` einsehen.
 
 Du kannst Merge-Fehlern auch vorbeugen. Dafür wird empfohlen, dass du alle Einstellungen der zu verbindenen Grundstücke vorher zurücksetzt. Dafür kannst du im Grundstücksmenü auf die "Grundstücks-Befehle" gehen und dort auf “Einstellungen zurücksetzen” klicken.\

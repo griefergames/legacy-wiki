@@ -4,7 +4,7 @@ description: Die neue Dimension
 
 # 🧙 Der Zauberwald
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Der Spawn des Zauberwalds entführt euch in magische Höhen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Der Spawn des Zauberwalds entführt euch in magische Höhen</p></figcaption></figure>
 
 <div data-full-width="false">
 
@@ -172,7 +172,7 @@ Nachfolgend eine Auflistung der existierenden Materialien und ihrer speziellen F
 
 Die [Boss-Monster](der-zauberwald.md#custom-mobs-and-dungeons) können zusätzlich Trophäen in Form eines verzauberten Kopfes droppen:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Trophäe des Boss' "Zeus"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Trophäe des Boss' "Zeus"</p></figcaption></figure>
 
 ***
 

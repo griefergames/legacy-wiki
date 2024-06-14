@@ -38,6 +38,7 @@
   * [Aufzüge & Teleporter](grundlagen/customblocks/aufzuege-and-teleporter.md)
 * [♾️ Passive Spawner](grundlagen/passive-spawner.md)
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
+* [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
 
 ## Erweiterte Features
 
@@ -61,6 +62,28 @@
 
 * [😠 Das Scamming](griefergames-allgemein/das-scamming.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
+
+## Häufig gestellte Fragen <a href="#faq" id="faq"></a>
+
+* [Informationen zu GrieferGames](faq/griefergames/README.md)
+  * [Teammitglied werden](faq/griefergames/teammitglied-werden.md)
+  * [Kontakt & Verlinkungen](faq/griefergames/kontakt-and-verlinkungen.md)
+  * [VPN-Nutzung](faq/griefergames/vpn-nutzung.md)
+* [Minecraft: Allgemein](faq/allgemein/README.md)
+  * [Scoreboard deaktivieren](faq/allgemein/scoreboard-deaktivieren.md)
+  * [Bot-Nachrichten meiden](faq/allgemein/bot-nachrichten-meiden.md)
+  * [Fremdwerbung melden](faq/allgemein/fremdwerbung-melden.md)
+  * [Fehler bei Minecraft-Features](faq/allgemein/fehler-bei-minecraft-features.md)
+  * [Wertvolle & Verbotene Items](faq/allgemein/wertvolle-and-verbotene-items.md)
+  * [Resets der Minecraft-Welten](faq/allgemein/resets-der-minecraft-welten.md)
+  * [Nicknames und Realnames](faq/allgemein/nicknames-und-realnames.md)
+* [Minecraft: Bedrock Edition](faq/bedrock.md)
+* [Minecraft: Citybuild](faq/citybuild/README.md)
+  * [Grundstücke verwalten](faq/citybuild/grundstuecke-verwalten.md)
+  * [Spawner & Hologramme verwalten](faq/citybuild/spawner-and-hologramme-verwalten.md)
+  * [Merge-Grundstücke](faq/citybuild/merge-grundstuecke.md)
+* [TeamSpeak](faq/ts-discord.md)
+* [Webshop](faq/webshop.md)
 
 ## Hilfreiche Links
 

@@ -1,0 +1,9 @@
+# VPN-Nutzung
+
+Die Verwendung eines „Virtual Private Network“ (VPN) oder ProxyRelais (Proxy-Server) ist grundsätzlich erlaubt, wenn du dadurch gegen keine Serverregeln verstößt.
+
+{% hint style="warning" %}
+Bist du beispielsweise gebannt worden und nutzt anschließend einen VPN, um diesen Bann zu umgehen, ist dies verboten!
+{% endhint %}
+
+Bitte beachte, dass unser Netzwerk zum Schutz vor Bot-/DDoS-Angriffen oder aus rechtlichen Gründen nicht aus allen Ländern erreichbar ist. Wir empfehlen die Nutzung eines VPN-Servers aus dem europäischen DACH-Raum (Deutschland, Österreich & Schweiz) für eine optimale Verbindung.

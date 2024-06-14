@@ -6,13 +6,13 @@ u kannst unseren Server kostenlos unterstützen, indem du online für ihn abstim
 
 Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du jederzeit über den Befehl `/vote` auf unseren Citybuild-Servern abrufen.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
 Wenn du die [Vote-Seite](https://vote.griefergames.net/) aufrufst, wirst du automatisch auf die Seite unseres Netzwerks bei dem Anbieter minecraft-server.eu verbunden.
 
 Hier kannst du nun, in dem dafür vorgesehenen Feld deinen Spielernamen eingeben.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
 
 Nach der Eingabe deines Accounts und dem Klick auf den Button "Voten!" wird deine Stimme verarbeitet. Bitte schließe das Fenster noch nicht, da der Vorgang einige Sekunden dauern kann, bis er abgeschlossen ist.
 

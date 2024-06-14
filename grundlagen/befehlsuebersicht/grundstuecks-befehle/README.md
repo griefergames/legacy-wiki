@@ -14,11 +14,12 @@ description: Befehle, die das Plot betreffen
 
 ### Grundstücks-Teleport
 
-| Befehl                                           | Funktion                                                                                                                       |
-| ------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ |
-| <p>/p h {Zahl}<br>/plot home {Zahl}</p>          | <p>Teleportiere dich zu deinem Grundstück<br></p><p>Beispiel: <code>/p h 2</code> bringt dich auf dein zweites Grundstück.</p> |
-| <p>/p h {Spielername} {Zahl}<br>/p h {Alias}</p> | Teleportiert dich zum Grundstück eines Mitspielers.                                                                            |
-| /p middle                                        | Teleportiere dich zur MItte des Grundstück                                                                                     |
+| Befehl                                           | Funktion                                                                                                                                        |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>/p h {Zahl}<br>/plot home {Zahl}</p>          | <p>Teleportiere dich zu deinem Grundstück<br></p><p>Beispiel: <code>/p h 2</code> bringt dich auf dein zweites Grundstück.</p>                  |
+| <p>/p h {Spielername} {Zahl}<br>/p h {Alias}</p> | Teleportiert dich zum Grundstück eines Mitspielers.                                                                                             |
+| /p middle                                        | Teleportiere dich zur Mitte des Grundstück                                                                                                      |
+| <p>/p sethome<br>/p &#x3C;ID> sethome</p>        | [Versetze den Spawnpunkt](../../../faq/citybuild/grundstuecke-verwalten.md#grundstueck-unerreichbar) des Grundstücks an deine aktuelle Position |
 
 ### Grundstück verwalten
 
@@ -67,6 +68,7 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 | /p alias set {Text}                          | <p>Gib dem Grundstück einen Namen (Alias)<br><br><strong>Achtung!</strong> Es können keine Namen von Spielern genutzt werden, welche bereits auf dem Server angemeldet sind/waren.</p> |
 | <p>/p chat on<br>/p chat off</p>             | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p>                                                                                                                          |
 | /p flag set {Flag} {true/false/ID}           | [Grundstücks-Flag](grundstuecks-flags.md) setzen                                                                                                                                       |
+| /p setorder {Zahl}                           | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                               |
 | /bewertung                                   | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                   |
 | /bewerten                                    | Menü zur Grundstücks-Bewertung aufrufen                                                                                                                                                |
 | <p>/ptime {Zahl}<br>/ptime {Tageszeit}</p>   | Setze die aktuelle Zeit auf deinem Grundstück                                                                                                                                          |
