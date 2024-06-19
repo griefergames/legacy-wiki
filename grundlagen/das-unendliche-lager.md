@@ -6,11 +6,75 @@ description: Der (fast) unbegrenzte Speicher auf GrieferGames
 
 Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbegrenzter-speicher) stehen euch nun ebenfalls auch auf dem 1.8 Netzwerk zur Verfügung. Hier allerdings in etwas abgewandelter Form mit mehreren Besonderheiten.
 
-{% hint style="warning" %}
-Es sind vorerst nur Karotten, Kartoffeln, Zuckerrohr, Pilze, Kakteen, Weizen, Samen, Melonenscheiben & Kürbisse lagerbar.
-{% endhint %}
+<details>
 
+<summary>Folgende Items sind lagerbar:</summary>
 
+* Karotten
+* Kartoffeln
+* Zuckerrohr
+* Pilze
+* Kakteen
+* Weizen
+* Samen
+* Melonenscheiben&#x20;
+* Kürbisse
+* Diamant
+* Smaragd
+* Lapis
+* Kohle
+* Redstone
+* Eisenbarren
+* Goldbarren
+* Goldklumpen
+* Bruchstein
+* Erde
+* Diamanterz
+* Smaragderz
+* Lapiserz
+* Kohleerz
+* Redstoneerz
+* Eisenerz
+* Golderz
+* Stein
+* Pfeil
+* Hasenpfote
+* Kaninchenfell
+* Leder
+* Federn
+* Wolle
+* Prismarinscherben
+* Prismarinkristalle
+* Zucker
+* Spinnenauge
+* Glowstonestaub
+* Stock
+* Schwarzpulver
+* Glasflasche
+* Magmacreme
+* Lohenrute
+* Faden
+* Enderperle
+* Verrottetes Fleisch
+* Ghast-Träne
+* Schleimball
+* Knochen
+* Tintenbeutel
+* Rohes Rindfleisch
+* Rohes Hühnchen
+* Rohes Kaninchen
+* Rohes Hammelfleisch
+* Roher Fisch
+* Eier
+* Netherwarze
+* Sonnenblume
+* Rosenstrauch
+* Flieder
+* Pfingstrose
+
+Alle Sub-ID's dieser Items (bspw. Granit bei Stein oder div. Farben bei Wolle) sind hierin mit einbegriffen.
+
+</details>
 
 ### Crafting-Rezept
 
