@@ -66,4 +66,24 @@ In einzelnen Ausnahmefällen übertragen wir Ränge auf einen neuen Account.&#x2
 
 Bei diesem Vorgang wird der bisherige Account zur Verhinderung von Missbrauch permanent von unseren Servern gebannt und der Rang auf dem neuen Account übertragen.
 
-Sollte eine Übertragung deines Ranges zwingend erforderlich sein, sende bitte eine E-Mail an den Webshop-Support und erläutere genau, was passiert ist. Zur besseren Bearbeitung solltest du bitte bei jeder Anfrage direkt die Transaktionsnummer aus der Bestellbestätigung des Rang-Kaufs hinzufügen.
+Sollte eine Übertragung deines Ranges zwingend erforderlich sein, sende bitte eine E-Mail an den [Webshop-Support](mailto:shop@griefergames.net) und erläutere genau, was passiert ist. Zur besseren Bearbeitung solltest du bitte bei jeder Anfrage direkt die Transaktionsnummer aus der Bestellbestätigung des Rang-Kaufs hinzufügen.
+
+
+
+### Kann ich meine Bestellung widerrufen?
+
+Im Bestellvorgang hast du auf die gesetzliche Widerrufsfrist von 14 Tagen verzichtet, damit die digitalen Güter direkt geliefert und genutzt werden können.
+
+Die vollständige Widerrufsbelehrung für digitale Inhalte kannst du auf der [offiziellen Shop-Seite](https://store.griefergames.net/) über [Widerruf für digitale Inhalte](https://store.griefergames.net/widerruf\_fuer\_digitale\_inhalte/) einsehen.
+
+Falls du weiterführende Fragen zu deiner Bestellung hast, kannst du gerne jederzeit eine E-Mail an den [Webshop-Support](mailto:shop@griefergames.net) senden.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

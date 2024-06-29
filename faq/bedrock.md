@@ -73,3 +73,12 @@ Deswegen bauen wir immer mehr Menüs für unsere Bedrock-Nutzer auf Bedrock-Men�
 Diese Ersatzformulare sind standardmäßig für alle Bedrock-Nutzer aktiv. Solltest du Probleme mit einem Bedrock-Menü haben oder die Funktion beeinträchtigt sein, melde dies bitte als Fehler im Forum.\
 Du kannst in den Server-Einstellungen der Bedrock Edition dann die Ersatzformulare deaktivieren und das Standard-GUI aus der Java Edition nutzen bis der Fehler behoben wurde.
 
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

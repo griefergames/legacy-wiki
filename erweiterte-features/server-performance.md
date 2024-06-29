@@ -112,6 +112,21 @@ Das System nutzt verschiedene Indikatoren, um zu ermitteln, ob ein Account aktiv
 
 
 
+### Redstone deaktiviert
+
+Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstruktionen zu beeinträchtigen, wurden Sicherheitsvorkehrungen an den Grundstücken vorgenommen. Durch diese Vorkehrung werden Grundstücke, die eine erhöhte Redstone-Aktivität vorweisen, automatisch von einem Plugin „eingeschränkt“, sodass die Redstone-Schaltung nciht mehr genutzt werden kann.
+
+Ein Grundstück kann daher, wenn besonders viele, große oder schnelle Redstone-Schaltungen auf dem Grundstück verbaut sind, von der Benutzung von Redstone bis zum nächsten Server-Neustart (um 4 Uhr morgens) eingeschränkt werden.
+
+
+
+Leider lässt sich diese Einschränkung des Grundstücks nicht manuell ändern. \
+Das heißt: Wenn diese Einschränkung ausgelöst wurde, musst du leider damit leben und vorteilsweise noch einmal deine Konstruktionen näher anschauen und entscheiden, ob du diese nicht etwas minimierst.
+
+Aus Gründen der Sicherheit können wir natürlich nicht genau mitteilen, ab welchen Limits diese Einschränkungen aktiv werden.
+
+
+
 <details>
 
 <summary>An diesem Artikel beteiligt</summary>

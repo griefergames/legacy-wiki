@@ -345,6 +345,21 @@ Bei der Nutzung der Aushöhlen-Funktion kann es zu Verlusten kommen. Sei also vo
 Verluste, welche durch die Nutzung entstehen, werden nicht erstattet.
 {% endhint %}
 
+### Biom
+
+Der Befehl zum Ändern des Bioms lautet `/p biome`. \
+Ein Beispiel für einen Biom-Befehl wäre `/p biome roofed_forest`.
+
+Im Minecraft Wiki findest du eine Aufstellung aller [Biome und ihrer Eigenschaften](https://minecraft.fandom.com/de/wiki/Biom). Leerzeichen im Namen eines Bioms müssen durch einen Unterstrich `_` ersetzt werden.
+
+{% hint style="info" %}
+Auf dem "Citybuild 1.8"-Netzwerk stehen **nicht** alle Biome zur Verfügung. Hier sind nur Biome nutzbar, welche bis zur Vollversion 1.8 integriert wurden.&#x20;
+
+Auf dem "Citybuild Cloud"-Netzwerk sind alle Biome nutzbar, welche in der aktuellen Version vorhanden sind.
+{% endhint %}
+
+Nach dem Umstellen des Bioms auf deinem Grundstück, werden die Änderungen erst wirksam, wenn die Chunks entladen und neu geladen werden. Dies kannst du erzwingen, indem du entweder den Server verlässt und dich neu verbindest oder wenn du dich zum Spawn teleportierst und dann zum Grundstück zurückkehrst. In dieser Zeit darf sich auch keine andere Person in der Nähe des Grundstücks aufhalten.
+
 
 
 <details>

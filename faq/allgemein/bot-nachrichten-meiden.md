@@ -24,3 +24,13 @@ Installiere dir für deine Java-Edition die [Modifikation](../../hilfreiche-link
 #### **Fremdwerbung**
 
 Mit dem Befehl `/fremdwerbung` kannst du Nachrichten von Bot-Accounts melden, welche andere Server oder Webseiten bewerben. Mehr Informationen findest du in der FAQ [Fremdwerbung melden](fremdwerbung-melden.md).
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

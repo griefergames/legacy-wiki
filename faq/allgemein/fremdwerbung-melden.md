@@ -13,3 +13,13 @@ Auch wenn der Bot versucht die Adresse zu umschreiben (meinserver -pxnkt- m c) b
 
 
 Über den Befehl erhalten wir als Team **direkt** eine Meldung und können die entsprechenden Gegenmaßnahmen treffen. Mit diesen Informationen blockieren wir kurzfristig die Kommunikation des Bot-Accounts und haben mittelfristig eine solide Basis an Daten für unser System, welches Fremdwerbung eigenständig erkennt und blockiert.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

@@ -2,7 +2,7 @@
 description: Aufbau und Funktion der Citybuild-Server 1-22
 ---
 
-# 🏘 Citybuild 1-22
+# 🏘️ Citybuild 1-22
 
 Die Citybuild-Server 1 bis 22 erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
 
@@ -16,7 +16,7 @@ Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichf�
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Erde, Grober Erde und einer Schicht Gras [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
 * Die maximale Bauhöhe liegt bei 254.
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt auf Citybuild 8</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt auf Citybuild 8</p></figcaption></figure>
 
 Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende Rechte oder Items, welche du freischalten kannst.\
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).

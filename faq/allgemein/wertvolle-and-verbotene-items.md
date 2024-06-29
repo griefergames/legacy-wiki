@@ -20,3 +20,13 @@ Wir bitten darum, unbekannte Items dieser Form uns umgehend im Forum zu melden!
 {% endhint %}
 
 Bei Verstoß können harte Konsequenzen für den Spieler, seinen Rang, seine Grundstücke und Items folgen.
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

@@ -35,3 +35,13 @@ Da Screenshots nicht mehr als Beweismittel zulässig sind, ist ein Realname-Bewe
 Bei einem Chatlog werden Nicknames automatisch zum Realname geändert. Hier ist kein zusätzlicher Nachweis per Realname-Befehl erforderlich.
 
 Welches Beweismittel für deine Meldung erforderlich ist, kannst du jederzeit [nachlesen](../../griefergames-allgemein/spieler-melden.md).
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

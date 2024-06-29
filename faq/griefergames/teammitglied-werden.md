@@ -45,3 +45,12 @@ Dann kannst du mit einer Bewerbung zum bezahlten Entwickler zeigen, was du drauf
 
 Alle Informationen hierzu findest du in den [Bewerbungsinformationen](https://forum.griefergames.de/forum/board/255) zum Developer.
 
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

@@ -14,3 +14,12 @@ Sollte nach der Durchführung ein Spawn nicht betretbar sein, so ist dies bitte 
 
 Der Farmwelt-Reset findet automatisch am 04. des Monats statt. Der genaue Zeitpunkt kann auch jederzeit in der [Stadtwelt](../../erweiterte-features/die-hauptstadt.md) eingesehen werden.
 
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

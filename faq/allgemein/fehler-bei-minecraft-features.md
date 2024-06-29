@@ -28,3 +28,13 @@ Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst 
 
 
 Bei Beeinträchtigungen der Server-Performance brauchst du keine Fehlermeldung erstellen. Schildere uns diese einfach im [Serverperformance-Thread](https://forum.griefergames.de/forum/thread/17508-statement-zur-serverperformance/).
+
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>

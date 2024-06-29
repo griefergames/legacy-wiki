@@ -6,7 +6,7 @@ description: Besonderheiten von Citybuild Evil
 
 Den Citybuild-Server Evil erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild Evil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild Evil</p></figcaption></figure>
 
 Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -16,7 +16,7 @@ Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichfö
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Netherrack [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
 * Die maximale Bauhöhe liegt bei 254.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt von Citybuild Evil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt von Citybuild Evil</p></figcaption></figure>
 
 Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende Rechte oder Items, welche du freischalten kannst.\
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).

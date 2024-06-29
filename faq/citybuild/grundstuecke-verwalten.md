@@ -55,3 +55,12 @@ Hierfür kannst du den Befehl `/p setorder <Zahl>` verwenden, während du auf ei
 
 Wiederhole den Vorgang für alle deine Grundstücke mit aufsteigender Reihenfolge, um das beste Ergebnis zu erzielen.
 
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* 50U7R34P3R
+
+</details>
