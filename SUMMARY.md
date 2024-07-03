@@ -95,7 +95,7 @@
   * [Medien hochladen](faq/forum/medien-hochladen.md)
   * [Account verwalten](faq/forum/account-verwalten.md)
   * [Themen pushen](faq/forum/themen-pushen.md)
-  * [Gespeicherte Antworten](faq/forum/gespeicherte-antworten.md)
+  * [Persönliche Notizen](faq/forum/gespeicherte-antworten.md)
 * [TeamSpeak](faq/ts-discord.md)
 * [Webshop](faq/webshop.md)
 
