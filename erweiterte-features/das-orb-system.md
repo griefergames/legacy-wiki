@@ -30,7 +30,8 @@ Besondere Items (bspw. Admin-Items oder abweichende Namen/Signatur/NBT) werden v
 
 Je seltener und schwerer das Item zu farmen ist, desto mehr Orbs gibt es für das Item.
 
-Der Preis jedes Items wird zwei Mal am Tag zurückgesetzt. Das heißt, zu bestimmten Uhrzeiten bekommt ihr teilweise mehr Orbs für eure Items. Je mehr Items nun von einem Item-Typ auf dem Citybuild-Server abgegeben werden, desto weniger Orbs bekommst du bei der nächsten Abgabe der Items. Dafür gibt es zwei Preisfall-Stufen. \
+Der Preis jedes Items täglich um 18 Uhr zurückgesetzt. Das heißt, zu bestimmten Uhrzeiten bekommt ihr teilweise mehr Orbs für eure Items. Je mehr Items nun von einem Item-Typ auf dem Citybuild-Server abgegeben werden, desto weniger Orbs bekommst du bei der nächsten Abgabe der Items. Dafür gibt es zwei Preisfall-Stufen.
+
 Wenn eine bestimmte Anzahl an abgegebenen Items erreicht wird, greift der Preisfall und jeder Spieler auf dem Citybuild-Server bekommt weniger Orbs für diese Item-Art. Der resultierende Preis verbleibt bis zum nächsten Preisreset für jeden Spieler.
 
 <details>
@@ -42,6 +43,13 @@ Wenn eine bestimmte Anzahl an abgegebenen Items erreicht wird, greift der Preisf
 3. Preis: 1 Stein = 10 Orbs
 
 </details>
+
+{% hint style="danger" %}
+Enige Items haben zudem eine Preisfallstufe, welche die Menge auf unter 1 Orb setzt.\
+Kakteen erzielen bspw. im zweiten Preisfall nur 0,2 Orbs.
+
+Die Anzeige "0 Orbs" ist hier ein bekannter Fehler, welchen wir leider nicht beheben können. Die Orbs werden dennoch korrekt berechnet und ausgegeben.
+{% endhint %}
 
 Der Orb-Händler erkennt auch komprimierte Items und gibt euch passend Orbs für die komprimierte Item-Anzahl im Austausch.
 
