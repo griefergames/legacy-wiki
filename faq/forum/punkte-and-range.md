@@ -4,14 +4,13 @@
 
 Du erhältst Aktivitätspunkte - auch "Punkte" oder "Forenpunkte" genannt - für bestimmte Aktionen im Forum. In der folgenden Tabelle erhältst du eine Übersicht darüber, wie deine Aktivitätspunkte zustande kommen.
 
-| Art                   | Punkte | Wertung                 |
-| --------------------- | ------ | ----------------------- |
-| Erhaltene Reaktionen  | 1      | überall                 |
-| Beiträge              | 10     | nur in bestimmten Foren |
-| Themen                | 15     | nur in bestimmten Foren |
-| News                  | 5      | nur beim Erstellen      |
-| News-Update           | 1      | nur beim Erstellen      |
-| Hilfreichster Beitrag | 5      | nur in bestimmten Foren |
+| Art                  | Punkte | Wertung                 |
+| -------------------- | ------ | ----------------------- |
+| Erhaltene Reaktionen | 1      | überall                 |
+| Beiträge             | 10     | nur in bestimmten Foren |
+| Themen               | 15     | nur in bestimmten Foren |
+| News                 | 5      | nur beim Erstellen      |
+| News-Update          | 1      | nur beim Erstellen      |
 
 In welchen Foren du Aktivitätspunkte sammeln kannst und in welchen nicht, erfährt du in [dieser FAQ](erste-schritte.md#in-welches-unterforum-gehort-mein-thema).&#x20;
 

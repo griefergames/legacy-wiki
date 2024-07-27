@@ -40,6 +40,7 @@
 * [♾️ Passive Spawner](grundlagen/passive-spawner.md)
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 * [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
+* [📈 Das Auktionshaus](grundlagen/das-auktionshaus.md)
 
 ## Erweiterte Features
 
