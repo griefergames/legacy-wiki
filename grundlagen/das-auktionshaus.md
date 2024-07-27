@@ -60,13 +60,15 @@ Sowohl beim Direktgebot, als auch beim Gebotslimit wird der von euch **gebotene 
 
 Wurdet ihr überboten und möchtet nicht weiter mitbieten, könnt ihr auch noch während der Auktion euer Geld wieder abholen. Hierfür geht ihr in die einzelne Auktion und drückt den Button "Geld abholen".
 
-
+<figure><img src="../.gitbook/assets/ah_geld_abholen (1).png" alt=""><figcaption><p>Geld aus der Auktion abholen.</p></figcaption></figure>
 
 Wenn eine Auktion endet, werden alle Gelder an die nicht erfolgreichen Bieter zurückgezahlt. Ebenso werden ggf. Überschüsse des Gewinners eines Gebotslimits ausgezahlt.
 
 #### Item abholen <a href="#item-abholen" id="item-abholen"></a>
 
-Hast du eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_ kannst du das Item in der Auktion abholen. Dazu öffne die gewünschte Auktion (über beobachtete Auktionen, Auktionshistorie oder Meine Auktionen) und klicke auf ![](https://wiki.griefergames.live/\~gitbook/image?url=https%3A%2F%2F1309253419-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252Fi10PgHQTIUUm2awhkL0L%252Fuploads%252FtQKHRGOnMFfhNUcEne5B%252Fimage.png%3Falt%3Dmedia%26token%3D4978762d-3ea0-400b-8488-212c962826d8\&width=300\&dpr=4\&quality=100\&sign=cac58b03\&sv=1), um das Item zu erhalten.
+Habt ihr eine Auktion gewonnen _(oder ist dein Item nicht verkauft worden)_ könnt ihr das Item in der Auktion abholen. Dazu öffnet ihr die gewünschte Auktion (über beobachtete Auktionen, Auktionshistorie oder Meine Auktionen) und klickt auf den Button, um das Item zu erhalten.
+
+<figure><img src="../.gitbook/assets/ah_Item_abholen.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein gleiches Item davon im Inventar hast.
@@ -81,6 +83,8 @@ Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden s
 ### Auktion erstellen <a href="#auktion-erstellen" id="auktion-erstellen"></a>
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wählt ihr in der Auktionsübersicht "Meine Auktionen". Von dort könnt ihr über die Schleimkugel eine neue Auktion erstellen.
+
+<figure><img src="../.gitbook/assets/ah_meine_auktionen.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
@@ -110,6 +114,8 @@ Folgende Laufzeitstufen gibt es: 1 Stunde, 3 Stunden, 6 Stunden, 12 Stunden, 24 
 
 #### Auktion bestätigen & erstellen <a href="#auktion-bestatigen-and-erstellen" id="auktion-bestatigen-and-erstellen"></a>
 
+<figure><img src="../.gitbook/assets/ah_Auktion_erstellen.png" alt=""><figcaption></figcaption></figure>
+
 Wenn ihr alle gewünschten Einstellungen getroffen habt, könnt ihr die Auktion mit einem Klick auf den Grünen Farbstoff "Bestätigen" abschließend erstellen.
 
 Je nach Einstellung fällt dabei eine **Gebühr** für das Erstellen der Auktion von **10 %** an. Dafür ausschlaggebend ist der höchste eingestellte Preis (Mindestpreis, Sofortkaufpreis). Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
@@ -120,7 +126,11 @@ Je nach Einstellung fällt dabei eine **Gebühr** für das Erstellen der Auktion
 
 Verklickt? Falsch eingestellt? Oder das Item doch anderweitig verkauft? Dann könnt ihr die Auktion zurückziehen.
 
+<figure><img src="../.gitbook/assets/ah_beobachtete_auktionen.png" alt=""><figcaption></figcaption></figure>
+
 Geht dazu in eure Auktion und klickt auf den Button zum Zurückziehen der Auktion.
+
+<figure><img src="../.gitbook/assets/ah_auktion_zurückziehen.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an! Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückziehen.
