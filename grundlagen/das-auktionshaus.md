@@ -152,29 +152,62 @@ Zusätzlich zu den letzten 30 Tagen befinden sich hier auch ältere Auktionen, b
 
 In einigen Menüs stehen Filter zur Verfügung.
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption></figcaption></figure>
+#### Item-Filter
 
 Hier kann per Klick auf ein Item im Inventar auf einen Item-Typ gefiltert werden. (Z. B. Feder -> Zeigt auch Fly-Perks an).&#x20;
 
+<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>Filter zur Auswahl eines Items aus dem eigenen Inventar.</p></figcaption></figure>
+
+#### Filter-Kategorie
+
 Zusätzlich kann per Klick auf den Filter-Button eine vorgegebene Kategorie gewählt werden.&#x20;
+
+<figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption><p>Die verfügbaren Filter im Auktionshaus.</p></figcaption></figure>
+
+<details>
+
+<summary>Aktuelle Filter-Kategorien</summary>
+
+Folgende Filter sind aktuell im Auktionshaus vorhanden:
+
+* Rüstungen
+* Waffen
+* Werkzeuge
+* Sofortkauf
+* Teure Items (> 5 Millionen)
+* Günstige Items (< 500 Tausend)
+* Köpfe
+* Prefixe
+* OP-Verzauberungen (nicht für Spieler mgl.)
+* Komprimierte Items
+* Signierungen von AbgegrieftHD
+* Admin-Items
+* CustomBlocks
+* CaseOpening-Kisten
+* Zauberwald-Items
+
+</details>
 
 Im Filtermenü kann mit Klick auf den "Kein-Filter"-Button, ein gesetzter Filter (auch Item-Typ-Filter) aufgehoben werden.
 
-**Die folgenden Filter stehen aktuell zur Verfügung:**
-
-* **Rüstungen:** Filtert alle Items, welche eine Rüstung sind bzw. Rüstungswerte besitzen.
-* **Waffen:** Filtert alle Items, die Waffen sind bzw. Waffenwerte besitzen.
-* **Werkzeuge:** Filtert alle Items, die Werkzeuge sind.
-
 {% hint style="info" %}
-Wenn die vorhandenen Filter erweitert werden, können Items (je nach Art) auch in mehreren Kategorien liegen. (Bspw. Prefixe unter "Prefix", "Einlösbares Items" und ggf. "Verzaubert")
+Items können (je nach Art) auch in mehreren Kategorien liegen.&#x20;
 {% endhint %}
+
+#### Übersicht-Filter
+
+Unter "Meine Auktionen" und "Meine beobachteten Auktionen" könnt ihr zudem Filter einstellen, welche euch eine bessere Übersicht verschaffen.\
+Diese sorgen dafür, dass beendete Auktionen in euren Auktionen ausgeblendet werden (nur laufende anzeigen) und dass bereits abgeholte Auktionsinhalte ausgeblendet werden (nur ausstehende Items/Geld anzeigen).
+
+<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Filter in "Meine Auktionen" um nur Auktionen anzuzeigen, welche noch laufen.</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>Filter in "Meine beobachteten Auktionen", um nur Auktionen anzuzeigen, welche zur Abholung bereit stehen.</p></figcaption></figure>
 
 
 
 <details>
 
-<summary>An diesem Artrikel beteiligt</summary>
+<summary>An diesem Artikel beteiligt</summary>
 
 * SytaxOfficial
 * 50U7R34P3R
