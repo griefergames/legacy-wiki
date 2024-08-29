@@ -31,6 +31,14 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
 <details>
 
+<summary><strong>Senior Developer</strong></summary>
+
+* p4skal
+
+</details>
+
+<details>
+
 <summary><strong>Developer</strong></summary>
 
 * prince\_of\_D
