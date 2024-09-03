@@ -81,6 +81,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * HD1920x1080
 * Wurmi\_das\_Fratz
 * PhantomExitus
+* Lord_Bard
 
 </details>
 
