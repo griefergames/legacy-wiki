@@ -41,7 +41,6 @@ description: Befehle, welche nur mit bestimmten Rängen ausgeführt werden könn
 | /p flag set farewell \[Text]                                                    | Grußnachricht beim Verlassen des Grundstücks anzeigen                                                                                       |
 | /p flag set music \[ID]                                                         | Musik auf dem Grundstück abspielen                                                                                                          |
 | [/pholo](spezielle-features/hologramme.md)                                      | Hologramm verwalten                                                                                                                         |
-| /trails                                                                         | Im Hub das Effekt-Menü aufrufen                                                                                                             |
 | /d guardian, enderman, endermite, iron\_golem, magma\_cube, ocelot, pig, rabbit | In einen Wächter, einen Enderman, eine Endermite, einen Eisengolem, einen Magmaschleim, einen Ozelot, ein Schwein, ein Kaninchen verwandeln |
 | /ud                                                                             | Verwandlung aufheben                                                                                                                        |
 {% endtab %}

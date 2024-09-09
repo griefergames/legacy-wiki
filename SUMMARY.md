@@ -105,5 +105,4 @@
 * [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
 * [⚒️ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
 * [📋 GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/)
-* [📉 GrieferWert - Preisübersicht](http://www.grieferwert.net/)
 * [🏗️ under construction](hilfreiche-links/under-construction.md)

@@ -1,4 +1,4 @@
-# 🧑🏭 Das Job-System
+# 🧑‍🏭 Das Job-System
 
 Ein neuer NPC ist aufgetaucht und hat ein neues Feature im Gepäck. Ihr könnt nun Aufträge vergeben, damit euch andere Spieler Items erfarmen. Hierbei stellt ihr einen Auftrag ein, welches Item für euch gefarmt werden soll und in welcher Menge.
 
@@ -43,10 +43,6 @@ Ich benötige einen bestimmten Materialblock – Wie erhalte ich diesen?
 
 {% hint style="success" %}
 Tipp: Realistische Preise erhöhen eure Chance, dass andere Spieler diesen Block an Euch verkaufen.&#x20;
-{% endhint %}
-
-{% hint style="success" %}
-Tipp: Eine Übersicht der Preise erhaltet Ihr auf Grieferwert.
 {% endhint %}
 {% endtab %}
 
