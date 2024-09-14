@@ -39,6 +39,8 @@ Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergre
 Die aktuelle Testphase des Systems bedeutet auch, dass dieser Service jederzeit wieder (temporär) eingestellt werden kann. Das kommt auf die Fehlerlage und andere interne Faktoren an.
 {% endhint %}
 
+### Kritische Entities
+
 {% hint style="danger" %}
 **Kritische Entities**
 
@@ -50,16 +52,16 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * Item-Rahmen, Rüstungsständer, Gemälde etc.
   * Köpfe
 * **Diese Blöcke/Entities können möglicherweise verschwinden:**
-  * Hologramme&#x20;
-  * Partikeleffekte
-* **Diese Blöcke müssen abgebaut und neu platziert werden:**
+  * Hologramme
+* **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
   * Teleporter&#x20;
-* **Bei diesen Blöcken gehen Einstellungen, Verbindungen oder Funktion verloren:**
+* **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
   * Trichter
-  * Spawner (Koordinaten, Spawn-Ei & Upgrades in der Anfrage angeben)
-  * CaseOpenings (Koordinaten in der Anfrage angeben)
-  * 4-Gewinnt-Blöcke (Koordinaten in der Anfrage angeben)
-  * Unendliche Lager (Koordinaten in der Anfrage angeben)\
+* **Folgende Blöcke können die Funktion verlieren:**
+  * Spawner (Koordinaten, Spawn-Ei & Upgrades in dem Antrag angeben)
+  * CaseOpenings (Koordinaten in dem Antrag angeben)
+  * 4-Gewinnt-Blöcke (Koordinaten in dem Antrag angeben)
+  * Unendliche Lager (Koordinaten in dem Antrag angeben)\
 
 
 ***
@@ -76,12 +78,13 @@ Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Bl
   * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
   * Mobs (vorher mit "Magischer Leine" einfangen)
   * Plot-NPCs (Koordinaten + Einstellungen angeben)
-* **Diese Blöcke müssen abgebaut und neu platziert werden:**
+* **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
   * Teleporter
-* **Bei diesen Blöcken gehen Einstellungen, Verbindungen oder Funktion verloren:**
+* **Bei diesen Blöcken können Einstellungen und Verbindungen verloren gehen:**
   * Trichter
-  * CaseOpenings (Koordinaten in der Anfrage angeben)
-  * GamingStations (Koordinaten in der Anfrage angeben)
+* **Folgende Blöcke können die Funktion verlieren:**
+  * CaseOpenings (Koordinaten in dem Antrag angeben)
+  * GamingStations (Koordinaten in dem Antrag angeben)
 
 
 
