@@ -10,11 +10,9 @@ Diesen Vorgang bieten wir **nicht** als offiziellen Service an. Du kannst dich m
 
 ### Wie lasse ich mein Grundstück verschieben?
 
-Wenn du ein Grundstück verschoben haben möchtest, hast du die Möglichkeit dieses abzubauen und an einer anderen Stelle neu aufzubauen. Hierfür empfehlen sich die [Modifikationen](../../hilfreiche-links/empfohlene-modifikationen.md) Schematica bzw. LiteMatica.
+Wenn du ein Grundstück verschoben haben möchtest, hast du die Möglichkeit dieses abzubauen und an einer anderen Stelle neu aufzubauen. Hierfür empfehlen sich die [Modifikationen](../../../hilfreiche-links/empfohlene-modifikationen.md) Schematica bzw. LiteMatica.
 
-Als alternative Übertragungsmöglichkeit kannst du eine Grundstücksverschiebung über das Team erfragen. Erstelle dazu ein Thema in unserem Forum im Bereich [Grundstücksverschiebungen](https://forum.griefergames.de/forum/board/304). Deine Anfrage wird anschließend vom zuständigen Content geprüft und ggf. weitergeleitet.
-
-Hier kann es teilweise zu Wartezeiten kommen. Achte daher bitte bei deinem Antrag darauf, alle nötigen Informationen im Antrag zu vermerken. Mehr Informationen erhältst du im angepinnten Info-Beitrag im Forum.
+Als alternative Übertragungsmöglichkeit kannst du eine [Grundstücksverschiebung](grundstucke-verschieben-and-erweitern.md) über das Team erfragen.
 
 
 
@@ -24,7 +22,7 @@ Du versuchst dein Grundstück zu besuchen und es ist nicht mehr da? \
 Das kann verschiedene Gründe haben:
 
 1. Befindest du dich auf dem richtigen Citybuild? Überprüfen kannst du dies mit dem Befehl `/zuhause`.
-2. Warst du eine [längere Zeit inaktiv](../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)? Falls dies der Fall ist, kann es sein, dass ein Teammitglied das Grundstück, solange es nicht bzw. nur sehr knapp bebaut war, gelöscht hat.
+2. Warst du eine [längere Zeit inaktiv](../../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)? Falls dies der Fall ist, kann es sein, dass ein Teammitglied das Grundstück, solange es nicht bzw. nur sehr knapp bebaut war, gelöscht hat.
 3. Du hattest ein unangemessenes Bauwerk auf diesem Grundstück (Penis, Swastika). \
    Das Grundstück wurde von einem Admin/Moderator gelöscht.
 4. Du hattest duplizierte Items auf deinem Grundstück. \
@@ -37,13 +35,13 @@ Falls das alles nicht zutrifft, kann es sein, dass das Grundstück durch einen S
 
 ### Mein Grundstück ist unerreichbar. Was tun?
 
-1. Hast du das Problem auf den [Citybuilds Nature oder Extreme](../../grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme.md), kann es sein, dass dein Nachbar alle oder nur dich vom seinem Grundstück gebannt hat und du somit nicht auf das eigene Grundstück gelangen kannst.\
+1. Hast du das Problem auf den [Citybuilds Nature oder Extreme](../../../grundlagen/spielmodus-citybuild/citybuild-nature-and-extreme.md), kann es sein, dass dein Nachbar alle oder nur dich vom seinem Grundstück gebannt hat und du somit nicht auf das eigene Grundstück gelangen kannst.\
    Das liegt daran, dass man standardmäßig auf dem "Rand" vor seinem eigenen Grundstück spawnt. Auf den natürlich generierten Citybuild-Servern existieren jedoch keine Straßen & Ränder, weswegen man direkt auf dem Nachbar-Grundstück spawnt.\
    In diesem Fall kannst du ein Teammitglied fragen, ob dieses dich zu deinem Grundstück bringen kann. Da Teammitglieder nicht von Grundstücken verboten werden können, haben sie die Möglichkeit, auf solche Grundstücke zu gelangen.
 2. Wenn du zu deinem Grundstück gehen möchtest, dies allerdings nicht funktioniert und du wieder am Spawn landest oder auf einem fremden Grundstück, so hast du in der vergangenheit den Spawnpunkt des Grundstücks versetzt. \
-   Falls dein Grundstück einen Alias hat, kannst du über den Befehl `/p i <alias>` die [Grundstück-ID ermitteln](../../grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md). Du kannst dich dann zu einem Nachbar-Grundstück teleportieren und zu Fuße zu deinem Grundstück gelangen.  \
+   Falls dein Grundstück einen Alias hat, kannst du über den Befehl `/p i <alias>` die [Grundstück-ID ermitteln](../../../grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md). Du kannst dich dann zu einem Nachbar-Grundstück teleportieren und zu Fuße zu deinem Grundstück gelangen.  \
    Falls dein Grundstück keinen Alias hat, musst du dich ein Teammitglied wenden, welches dir die Grundstücksnummer mitteilt oder dich zu deinem Grundstück teleportieren kann.\
-   Mit dem Befehl `/p sethome` kannst du dann den [Spawnpunkt deines Grundstücks](../../grundlagen/befehlsuebersicht/grundstuecks-befehle/#grundstuecks-teleport) zurücksetzen oder nach Belieben neu vergeben.
+   Mit dem Befehl `/p sethome` kannst du dann den [Spawnpunkt deines Grundstücks](../../../grundlagen/befehlsuebersicht/grundstuecks-befehle/#grundstuecks-teleport) zurücksetzen oder nach Belieben neu vergeben.
 
 
 

@@ -209,7 +209,7 @@ Diese sorgen dafür, dass beendete Auktionen in euren Auktionen ausgeblendet wer
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* SytaxOfficial
+* SyntaxOfficial
 * 50U7R34P3R
 
 </details>
