@@ -261,6 +261,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * kinsoe
 * Viryqz
 * Kico
+* Regisseur\_
 
 </details>
 
