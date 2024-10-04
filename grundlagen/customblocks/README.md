@@ -42,22 +42,6 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 
 </details>
 
-<details>
-
-<summary>Installation der Forge-Mod 1.8.9</summary>
-
-Für die Installation wird Forge benötigt. Solltest du Forge schon installiert haben, kannst du bei Punkt 3 starten.
-
-1. Lade dir den [1.8.9 Forge Installer](https://files.minecraftforge.net/net/minecraftforge/forge/index\_1.8.9.html) herunter
-2.  Führe den Installer aus und klicke auf “OK”
-
-    <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
-3. Navigiere nun in deinen Minecraft Ordner `%appdata%/.minecraft` und navigiere dort in den Ordner "mods"
-4. Ziehe die [**CustomBlocks**](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1)-Datei in diesen Ordner.
-5. Starte dein Spiel neu und du hast die GrieferGames CustomBlocks installiert!
-
-</details>
-
 Die Forge-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) zu finden.
 
 ### ​<img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric (neuste Minecraft-Version)
