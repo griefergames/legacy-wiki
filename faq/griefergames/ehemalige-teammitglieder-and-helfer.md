@@ -228,6 +228,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * EmreOzora (CB22)
 * luca\_fendt (Nature & Extreme)
 * NfsNateDenver (CB2)
+* TexasLanguste23 (CB5)
 
 </details>
 
