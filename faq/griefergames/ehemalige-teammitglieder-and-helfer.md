@@ -229,7 +229,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * luca\_fendt (Nature & Extreme)
 * NfsNateDenver (CB2)
 * TexasLanguste23 (CB5)
-* \_MangoLassi_ (CB14
+* \_MangoLassi_ (CB14)
 
 </details>
 
