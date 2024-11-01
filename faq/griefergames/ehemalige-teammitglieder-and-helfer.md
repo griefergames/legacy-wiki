@@ -230,6 +230,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * NfsNateDenver (CB2)
 * TexasLanguste23 (CB5)
 * \_MangoLassi_ (CB14)
+* SY_MarvAP (CB10)
 
 </details>
 
