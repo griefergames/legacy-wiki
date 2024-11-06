@@ -231,6 +231,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * TexasLanguste23 (CB5)
 * \_MangoLassi_ (CB14)
 * SY_MarvAP (CB10)
+* RolDom_FCR (CB15)
 
 </details>
 
