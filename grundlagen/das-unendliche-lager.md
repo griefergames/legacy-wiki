@@ -29,14 +29,12 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Goldklumpen
 * Bruchstein
 * Erde
-* Erze (alle Arten)
 * Stein
 * Pfeil
 * Hasenpfote
 * Kaninchenfell
 * Leder
 * Federn
-* Wolle (alle Farben)
 * Prismarinscherben
 * Prismarinkristalle
 * Zucker
@@ -62,20 +60,29 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Eier
 * Netherwarze
 * Sonnenblume
-* Rosenstrauch
-* Flieder
-* Pfingstrose
-* Blumen (alle Arten)
-* Gras (alle Arten)
 * Melonenblock
 * Grasblock
 * Sand
-* Erzblöcke (alle Arten)
 * XP-Flaschen
 * Schneeball
 * Netherquarzerz
+* Rosenstrauch
+* Flieder
+* Pfingstrose
+* Lohenstaub
+* Feuerkugel
+* Enderauge
+* Wolle (alle Farben)
+* Gras (alle Arten)
+* Blumen (alle Arten)
+* Erze (alle Arten)
+* Erzblöcke (alle Arten)
 * Holzstamm (alle Arten)
 * Holzbrett (alle Arten)
+* Ton (alle Arten)
+* Teppiche (alle Arten)
+* Nether-Blöcke (alle Arten)
+* Glas (alle Arten)
 
 Alle Sub-ID's dieser Items (bspw. Granit bei Stein oder div. Farben bei Wolle) sind hierin mit einbegriffen.
 
