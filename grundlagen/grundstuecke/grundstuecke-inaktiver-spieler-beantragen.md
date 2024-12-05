@@ -55,7 +55,7 @@ Ein Grundstück kannst du nur annehmen, wenn du noch ein weiteres Grundstück au
 {% endhint %}
 
 {% hint style="success" %}
-Wenn du Fragen zu deinem Antrag hast, kannst du diese auch direkt dem Teamler stellen, der die Checkplot.Anträge auf deinem Citybuild-Server prüft.
+Wenn du Fragen zu deinem Antrag hast, kannst du diese auch direkt dem Teamler stellen, der die Checkplot-Anträge auf deinem Citybuild-Server prüft.
 
 Die [Liste der zuständigen Teammitglieder](https://forum.griefergames.de/faq/#entry-114) findest du in den FAQ im Forum.
 {% endhint %}
