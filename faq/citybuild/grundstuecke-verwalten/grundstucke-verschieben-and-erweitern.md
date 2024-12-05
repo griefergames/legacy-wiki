@@ -52,16 +52,17 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * Item-Rahmen, Rüstungsständer, Gemälde etc.
   * Köpfe
 * **Diese Blöcke/Entities können möglicherweise verschwinden:**
+  * Partikeleffekte
   * Hologramme
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
   * Teleporter&#x20;
 * **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
   * Trichter
-* **Folgende Blöcke können die Funktion verlieren:**
-  * Spawner (Koordinaten, Spawn-Ei & Upgrades in dem Antrag angeben)
-  * CaseOpenings (Koordinaten in dem Antrag angeben)
-  * 4-Gewinnt-Blöcke (Koordinaten in dem Antrag angeben)
-  * Unendliche Lager (Koordinaten in dem Antrag angeben)\
+* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
+  * Spawner (Spawn-Ei & Upgrades ebenfalls angeben)
+  * CaseOpenings
+  * 4-Gewinnt-Blöcke
+  * Unendliche Lager\
 
 
 ***
@@ -82,9 +83,9 @@ Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Bl
   * Teleporter
 * **Bei diesen Blöcken können Einstellungen und Verbindungen verloren gehen:**
   * Trichter
-* **Folgende Blöcke können die Funktion verlieren:**
-  * CaseOpenings (Koordinaten in dem Antrag angeben)
-  * GamingStations (Koordinaten in dem Antrag angeben)
+* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
+  * CaseOpenings
+  * GamingStations
 
 
 

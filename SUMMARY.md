@@ -41,7 +41,6 @@
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 * [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
 * [📈 Das Auktionshaus](grundlagen/das-auktionshaus.md)
-* [Karten](grundlagen/karten.md)
 
 ## Erweiterte Features
 
@@ -50,11 +49,12 @@
 * [💬 Das Chat-System](erweiterte-features/das-chat-system.md)
 * [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
-* [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
 * [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
 * [🏛️ Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
 * [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
 * [🧑‍🏭 Das Job-System](erweiterte-features/das-job-system.md)
+* [🗺️ Kartengenerierung](erweiterte-features/kartengenerierung.md)
+* [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
 * [🖌️ Das Prefix-System](erweiterte-features/das-prefix-system.md)
 * [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
 * [📉 Server-Performance](erweiterte-features/server-performance.md)
