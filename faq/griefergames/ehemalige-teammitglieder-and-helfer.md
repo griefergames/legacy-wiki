@@ -232,6 +232,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * \_MangoLassi_ (CB14)
 * SY_MarvAP (CB10)
 * RolDom_FCR (CB15)
+* DerNeueHappy19 (CB22)
 
 </details>
 
