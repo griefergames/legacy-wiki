@@ -27,14 +27,10 @@ Ein passiver Spawner wird entsprechend des eingesetzten Spawn-Ei Items erzeugen,
 
 Der Spawner lagert die Items im eigenen Spawner-Lager, welches mit einem Rechtsklick auf den Spawner geöffnet werden kann. Ist das Spawner-Lager voll, werden keine weiteren Items mehr generiert.
 
-<figure><img src="https://forum.griefergames.de/media/262-spawnerlager-png/" alt=""><figcaption><p>Standard Spawner-Lager (ohne Upgrades)</p></figcaption></figure>
-
 * Die farbig markierten Flächen des Spawner-Lagers lassen sich durch entsprechende Lager-Upgrades freischalten und das Lager somit vergrößern.
 * Bewegt man die Maus über die Erfahrungsflasche, wird einem angezeigt, wie viele Erfahrungspunkte der Spawner aktuell gelagert hat. Erfahrungspunkte werden komplett übertragen, sobald man ein Item aus dem Spawner-Lager entnehmt.
 * Bewegt man die Maus über den Kompass, wird einem angezeigt, wann der Spawner das nächste Mal seinen Inhalt aktualisiert.
 * Durch einen Klick auf die Redstone-Fackel gelangt man in die Einstellungen des Spawners.
-
-<figure><img src="https://forum.griefergames.de/media/263-spawnereinstellungen-png/" alt=""><figcaption><p><em>In diesem Artikel nutzen wir einen Wächter-Spawner als Beispiel.</em> <br><em>Das Menü ist vom Funktionsumfang her bei allen Spawn-Eiern gleich.</em></p></figcaption></figure>
 
 #### **Was kann ich im Spawner einstellen?**
 
@@ -62,8 +58,6 @@ Erworbene Upgrades bleiben im Spawner gespeichert, auch wenn man das Spawn-Ei we
 
 
 Einige Upgrades erfordern zur Freischaltung das Einzahlen von Items. In diesem Fall öffnet sich ein neues Menü, in welchem man diese einzahlen könnt und euren Fortschritt zur Freischaltung einsehen könnt.
-
-<figure><img src="https://forum.griefergames.de/media/260-upgrade1fortschritt-png/" alt=""><figcaption><p>Upgrade-Anforderung eines passiven Spawners</p></figcaption></figure>
 
 Die geforderten Items, sowie die Menge variieren je nach eingesetztem Spawn-Ei und Upgrade-Stufe.
 

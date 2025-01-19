@@ -15,11 +15,7 @@ layout:
 
 # Startseite
 
-<div align="left">
-
-<figure><img src=".gitbook/assets/GG_logo_schriftzug.png" alt="GrieferGames Schriftzug"><figcaption></figcaption></figure>
-
-</div>
+<div align="left"><figure><img src=".gitbook/assets/GG_logo_schriftzug.png" alt="GrieferGames Schriftzug"><figcaption></figcaption></figure></div>
 
 ## Über GrieferGames
 
@@ -28,6 +24,14 @@ GrieferGames ist ein Citybuild-Server-Netzwerk aus dem deutschen Raum. Es werden
 ## Das Wiki
 
 In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den Features des 1.8-Netzwerks. Weitere Informationen, Tipps und Anregungen findest du im [GrieferGames Forum](https://forum.griefergames.de).
+
+***
+
+## Jetzt NEU! Die GrieferGames Item-Liste!
+
+{% embed url="https://items.griefergames.net/" %}
+
+***
 
 ## Inhalte zum Wiki beitragen
 

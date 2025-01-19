@@ -2,13 +2,14 @@
 description: Linksammlung zu verschiedenen GrieferGames-Diensten
 ---
 
-# ⚒ GrieferGames - Dienste
+# ⚒️ GrieferGames - Dienste
 
 * [GG Auth](https://auth.griefergames.de/)
 * [GG Chatlog](https://chatlog.griefergames.de/my-chatlogs)
 * [GG Discord](https://discord.griefergames.net/)
 * [GG Forum](https://forum.griefergames.de/forum/)
-* GG Profil-System
+* [GG Item-Liste](https://items.griefergames.net/)
+* [GG Profil-System](https://profile.griefergames.live/)
 * [GG Teamspeak](ts3server://griefergames.net)
 * [GG Ticket-System](https://ticket.griefergames.de/)
 * [GG Webshop](https://store.griefergames.net)

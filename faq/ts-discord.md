@@ -143,7 +143,7 @@ Jetzt nur noch auf „Anwenden“ klicken und fertig.
 
 Das Ganze sollte nun so aussehen:
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Empfohlene Einstellungen für Push-to-Talk in TeamSpeak 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Empfohlene Einstellungen für Push-to-Talk in TeamSpeak 3</p></figcaption></figure>
 
 Es gibt natürlich noch weitere Möglichkeiten, die Qualität deiner Audioverbindung zu verbessern. Du kannst dir ein qualitativ hochwertiges Mikrofon (und Mischpult) zulegen oder einfach VoiceMeeter benutzen. Diese Software ist ein virtuelles Mischpult und bietet grandiose Einstellungen. \
 Wie du diese Software installierst und einstellst, erfährst du durch Tutorials auf YouTube.

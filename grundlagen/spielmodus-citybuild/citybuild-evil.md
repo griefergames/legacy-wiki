@@ -6,7 +6,7 @@ description: Besonderheiten von Citybuild Evil
 
 Den Citybuild-Server Evil erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild Evil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild Evil</p></figcaption></figure>
 
 Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 

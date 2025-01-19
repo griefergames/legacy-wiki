@@ -36,7 +36,7 @@ Alternativ kannst du auch die Befehle für den jeweiligen Booster verwenden, um 
 Perks sind spielerbezogene Vorteile. Sie verändern Charakterwerte oder schalten andere Funktionen frei, mit denen du in den Spielverlauf eingreifen kannst.\
 Eine Liste aller verfügbaren Perks erhältst du durch den Befehl `/perks`.
 
-<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Das Perk-Menü</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Das Perk-Menü</p></figcaption></figure>
 
 Perks kannst du für [GrieferGames-Dollar](waehrungen.md#griefergames-dollar) kaufen oder beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#perks) mit deinen Orbs erwerben. Einmal erworbene Perks sind dauerhaft für deinen Charakter verfügbar.
 
@@ -44,21 +44,43 @@ Perks kannst du für [GrieferGames-Dollar](waehrungen.md#griefergames-dollar) ka
 {% tab title="Charakter-Perks" %}
 Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 
-| Perk               | Funktion                                     | Preis                               |
-| ------------------ | -------------------------------------------- | ----------------------------------- |
-| Kein Fallschaden   | Du erhältst keinen Fallschaden mehr.         | 750.000 $                           |
-| Kein Hunger        | Deine Hunger-Anzeige sinkt nicht mehr.       | 500.000 $                           |
-| Schnelligkeit+     | +20% Schnelligkeit                           | 500.000$                            |
-| Feuerresistenz+    | Du erhältst keinen Feuerschaden.             | <p>500.000 $<br>20.000.000 Orbs</p> |
-| Unterwasseratmung+ | Du hast unbegrenzt Luft.                     | <p>400.000 $<br>10.000.000 Orbs</p> |
-| Stärke+            | +6 Angriffsschaden                           | 500.000 $                           |
-| Sprungkraft+       | Sprungkraft-Effekt                           | 500.000 $                           |
-| Nachtsicht+        | Nachtsicht-Effekt                            | <p>400.000 $<br>10.000.000 Orbs</p> |
-| Doppelte XP        | Doppelte Menge an XP                         | 500.000 $                           |
-| KeepHotbar         | Items in deiner Hotbar sind beim Tod sicher. | 2.500.000 $                         |
-| KeepXP             | Gesammelte XP sind beim Tod sicher.          | 1.250.000 $                         |
+| Perk                  | Funktion                                                         | Preis                               |
+| --------------------- | ---------------------------------------------------------------- | ----------------------------------- |
+| Kein Fallschaden      | Du erhältst keinen Fallschaden mehr.                             | 750.000 $                           |
+| Kein Hunger           | Deine Hunger-Anzeige sinkt nicht mehr.                           | 500.000 $                           |
+| Regeneration+         | "Regeneration 2"-Effekt                                          | CaseOpening                         |
+| Regeneration+2        | "Regeneration 4"-Effekt                                          | CaseOpening                         |
+| Schnelligkeit+        | +20% Geschwindigkeit                                             | 500.000$                            |
+| Schnelligkeit+ 2      | +20% Geschwindigkeit                                             | CaseOpening                         |
+| Eile+                 | "Eile 2"-Effekt                                                  | CaseOpening                         |
+| Eile+ 2               | "Eile 4"-Effekt                                                  | CaseOpening                         |
+| Feuerresistenz+       | Du erhältst keinen Feuerschaden.                                 | <p>500.000 $<br>20.000.000 Orbs</p> |
+| Unterwasseratmung+    | Du hast unbegrenzt Luft.                                         | <p>400.000 $<br>10.000.000 Orbs</p> |
+| Gärtner               | Du kannst Pflanzen schneller wachsen lassen.                     | CaseOpening                         |
+| Stärke+               | +260% Angriffsschaden                                            | 500.000 $                           |
+| Stärke+ 2             | +260% Angriffsschaden                                            | CaseOpening                         |
+| Resistenz+            | "Resistenz 2"-Effekt                                             | CaseOpening                         |
+| Resistenz+ 2          | "Resistenz 4"-Effekt                                             | CaseOpening                         |
+| Sprungkraft+          | Sprungkraft-Effekt                                               | 500.000 $                           |
+| Sprungkraft+ 2        | Verbesserter Sprungkraft-Effekt                                  | CaseOpening                         |
+| Nachtsicht+           | Nachtsicht-Effekt                                                | <p>400.000 $<br>10.000.000 Orbs</p> |
+| Unsichtbarkeit +      | Unsichtbarkeit-Effekt                                            | CaseOpening                         |
+| Doppelte XP           | Doppelte Menge an XP                                             | 500.000 $                           |
+| Vierfach XP           | Vierfache Menge an XP                                            | CaseOpening                         |
+| KeepHotbar            | Items in deiner Hotbar sind beim Tod sicher.                     | 2.500.000 $                         |
+| KeepInventory         | Items in deinem Inventar und deiner Hotbar sind beim Tod sicher. | CaseOpening                         |
+| KeepXP                | Gesammelte XP sind beim Tod sicher.                              | 1.250.000 $                         |
+| 5 Extra-Herzen        | Du erhältst 5 zusätzliche Herzen.                                | CaseOpening                         |
+| 10 Extra-Herzen       | Du erhältst 10 zusätzliche Herzen.                               | CaseOpening                         |
+| Kein Creeper-Schaden  | Creeper fügen dir keinen Schaden zu.                             | CaseOpening                         |
+| Kein Lohen-Schaden    | Lohen fügen dir keinen Schaden zu.                               | CaseOpening                         |
+| Kein Enderman-Schaden | Enderman fügen dir keinen Schaden zu.                            | CaseOpening                         |
+| Kein Spinnen-Schaden  | Spinnen fügen dir keinen Schaden zu.                             | CaseOpening                         |
+| Kein Zombie-Schaden   | Zombies fügen dir keinen Schaden zu.                             | CaseOpening                         |
+| Kein Ghast-Schaden    | Ghasts fügen dir keinen Schaden zu.                              | CaseOpening                         |
+| Kein Skelett-Schaden  | Skelette fügen dir keinen Schaden zu.                            | CaseOpening                         |
 
-Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie gekauft hast.
+Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie freigeschaltet hast.
 
 Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-zauberwald.md)!
 {% endtab %}
@@ -66,12 +88,12 @@ Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-z
 {% tab title="Funktions-Perks" %}
 Funktions-Perks schalten besondere Spielfunktionen frei.
 
-| Perk      | 	Funktion                                                     | Preis       |
-| --------- | ------------------------------------------------------------- | ----------- |
-| ClearChat | Fügt 1000 Leerzeilen im Chat ein.                             | 1.500.000 $ |
-| SlowChat  | Cooldown beim Schreiben von Nachrichten                       | 1.500.000 $ |
-| MuteP     | Schaltet einen Spieler für 15 Minuten stumm                   | 5.000.000 $ |
-| Startkick | Starte eine Abstimmung, um einen Spieler vom Server zu werfen | 4.000.000 $ |
+| Perk      | 	Funktion                                                     | Preis        |
+| --------- | ------------------------------------------------------------- | ------------ |
+| ClearChat | Fügt 1000 Leerzeilen im Chat ein.                             | 1.500.000 $  |
+| SlowChat  | Cooldown beim Schreiben von Nachrichten                       | 1.500.000 $  |
+| MuteP     | Schaltet einen Spieler für 15 Minuten stumm                   | 10.000.000 $ |
+| Startkick | Starte eine Abstimmung, um einen Spieler vom Server zu werfen | 10.000.000 $ |
 
 Funktions-Perks lassen sich nicht deaktivieren. Um sie einzusetzen, verwendest du den entsprechenden Befehl des Perks.
 {% endtab %}

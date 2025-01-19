@@ -1,18 +1,24 @@
 # 📊 Das Vote-System
 
-u kannst unseren Server kostenlos unterstützen, indem du online für ihn abstimmst.
+Du kannst unseren Server kostenlos unterstützen, indem du online für ihn abstimmst.
 
 ### Für den Server abstimmen
 
 Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du jederzeit über den Befehl `/vote` auf unseren Citybuild-Servern abrufen.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
 Wenn du die [Vote-Seite](https://vote.griefergames.net/) aufrufst, wirst du automatisch auf die Seite unseres Netzwerks bei dem Anbieter minecraft-server.eu verbunden.
 
 Hier kannst du nun, in dem dafür vorgesehenen Feld deinen Spielernamen eingeben.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
+
+{% hint style="success" %}
+Wenn du den Link aus dem Chat benutzt, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
+
+Du musst nur noch auf den Button "Voten!" drücken.
+{% endhint %}
 
 Nach der Eingabe deines Accounts und dem Klick auf den Button "Voten!" wird deine Stimme verarbeitet. Bitte schließe das Fenster noch nicht, da der Vorgang einige Sekunden dauern kann, bis er abgeschlossen ist.
 
@@ -39,7 +45,7 @@ Wenn du erfolgreich für den Server abgestimmt hast, kannst du dir In-Game eine 
 
 Du musst deine Belohnung nicht sofort einlösen. Wir sammeln diese auch für dich. Votest du an 5 Tagen und gibst dann `/geschenk` ein, erhältst du die Belohnung für alle 5 Tage auf einmal.
 
-Pro täglicher Abstimmung erhält dein Account 32 Brote, [$200](../grundlagen/waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste).
+Pro täglicher Abstimmung erhält dein Account 16 Brote, [$100](../grundlagen/waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste).
 
 Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen für deine erreichten Vote-Streak-Ziele. Diese kannst du bis zu insgesamt 1500 Tage lang aufbauen.
 

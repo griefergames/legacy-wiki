@@ -28,6 +28,7 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Goldbarren
 * Goldklumpen
 * Bruchstein
+* Bemosster Bruchstein
 * Erde
 * Stein
 * Pfeil
@@ -63,8 +64,14 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Melonenblock
 * Grasblock
 * Sand
+* Sandstein
 * XP-Flaschen
 * Schneeball
+* Schneeblock
+* Eis
+* Packeis
+* Spinnennetz
+* Seerosenblatt
 * Netherquarzerz
 * Rosenstrauch
 * Flieder
@@ -72,6 +79,43 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Lohenstaub
 * Feuerkugel
 * Enderauge
+* Ranken
+* Myzel
+* Kies
+* Feuerstein
+* Seelaterne
+* TNT
+* Amboss
+* Bücher
+* Schüssel
+* Leerer Eimer
+* Papier
+* Kompass
+* Leere Karte
+* Ofen
+* Plattenspieler
+* Braustand
+* Zaubertisch
+* Endertruhe
+* Rahmen
+* Kessel
+* SChild
+* Eisengitter
+* Gemälde
+* Leine
+* Uhr
+* Werkbank
+* Steinziegel
+* Ziegelsteine
+* Ziegel
+* Netherziegel
+* Schleimblock
+* Ofenkartoffel
+* Schwamm
+* Fermentiertes Spinnenauge
+* Goldene Karotte
+* Rüstungsständer
+* Glitzernde Melonenscheibe
 * Wolle (alle Farben)
 * Gras (alle Arten)
 * Blumen (alle Arten)
@@ -83,6 +127,10 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 * Teppiche (alle Arten)
 * Nether-Blöcke (alle Arten)
 * Glas (alle Arten)
+* Laub (Alle Arten)
+* Pilzblock (Alle Arten)
+* Prismarinblock (Alle Arten)
+* Redstone-Items (Alle Arten)
 
 Alle Sub-ID's dieser Items (bspw. Granit bei Stein oder div. Farben bei Wolle) sind hierin mit einbegriffen.
 

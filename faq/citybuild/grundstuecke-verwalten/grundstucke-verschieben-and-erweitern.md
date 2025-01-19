@@ -30,7 +30,8 @@ Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung i
 
 Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergreifend möglich, allerdings nur mit Einschränkungen.&#x20;
 
-* Grundstücke, die nicht viereckig oder zu groß sind (ca. maximal 80er Merges), können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.&#x20;
+* Grundstücke, die nicht viereckig oder zu groß sind, können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.&#x20;
+  * In der Regel max. \~ 100er Merges - Ausnahmen sind jedoch möglich
 * Ränder und Straßen (inklusive Schilder & Köpfe) werden nicht mit verschoben.
 * Dieser Service ist aktuell **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
 

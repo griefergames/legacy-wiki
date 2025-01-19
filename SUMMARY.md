@@ -28,7 +28,7 @@
   * [Grundstücks-Befehle](grundlagen/befehlsuebersicht/grundstuecks-befehle/README.md)
     * [Grundstücks-Informationen](grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md)
     * [Grundstücks-Flags](grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md)
-  * [Rang-Befehle](grundlagen/befehlsuebersicht/rang-befehle.md)
+  * [Rang-Rechte](grundlagen/befehlsuebersicht/rang-befehle.md)
   * [Spezielle Features](grundlagen/befehlsuebersicht/spezielle-features/README.md)
     * [Clan-System](grundlagen/befehlsuebersicht/spezielle-features/clan-system.md)
     * [Checkplot](grundlagen/befehlsuebersicht/spezielle-features/checkplot.md)
@@ -104,7 +104,8 @@
 
 ## Hilfreiche Links
 
-* [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
+* [🆕 GrieferGames Item-Liste](https://items.griefergames.net/)
 * [⚒️ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
 * [📋 GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/)
+* [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
 * [🏗️ under construction](hilfreiche-links/under-construction.md)
