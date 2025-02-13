@@ -23,15 +23,20 @@ Sollten deine Aktivitätspunkte längere Zeit im Minusbereich sein (z. B. „Pun
 
 ### Belohnungen
 
-Ab insgesamt 20.000 gesammelten Aktivitätspunkten erhalten Nutzer einen eigenen Kopf-Emoji vom Minecraft-Skin ihres Hauptaccounts im Forum und eine dazugehörige Trophäe. \
-Hast du die Anzahl an Punkten erreicht, kannst du dich gerne per Konversation an unseren Content 50U7R34P3R wenden.
+<figure><img src="../../.gitbook/assets/image (140).png" alt=""><figcaption><p>Trophäe für Nutzer mit eigenem Kopf-Emoji</p></figcaption></figure>
+
+In der Vergangenheit war es möglich ab insgesamt 20.000 gesammelten Aktivitätspunkten Nutzer einen eigenen Kopf-Emoji vom Minecraft-Skin des Hauptaccounts im Forum und eine dazugehörige Trophäe zu erhalten.&#x20;
 
 {% hint style="info" %}
-Die Grenze kann jederzeit weiter angepasst werden – dies liegt allerdings im Ermessen der Forum-Administration.
+Aufgrund der geringen berechtigten Nutzeranzahl, haben wir uns entschieden diese Belohnung in Zukunft nicht länger anzubieten.
+
+Neue Emojis und die Trophäe werden seit dem 13.02.2025 nicht mehr vergeben.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-Bist du länger als ein Jahr im Forum inaktiv, wird dein Kopf-Emoji wieder entfernt. Die Trophäe bleibt dir hier jedoch erhalten.
+Warst du länger als ein Jahr im Forum inaktiv, wird dein Kopf-Emoji aufgrund Inaktivität entfernt. Die Trophäe bleibt dir jedoch erhalten.
+
+Diese Regelung wurde am 13.02.2025 außer Kraft gesetzt. Alle Emojis, welche derzeit aktiv sind, bleiben erhalten.
 {% endhint %}
 
 ### Foren-Ränge
@@ -85,11 +90,7 @@ Dieser Rang wurde an die 2 Benutzer vergeben, welche 2017 bei dem Rätsel-Event 
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
-<div data-full-width="false">
-
-<figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure></div>
 
 **Administrator / BOT**\
 Diese Ränge sind systemseitige Ränge, welche an offizielle Accounts von GrieferGames vergeben werden.

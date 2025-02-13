@@ -18,7 +18,7 @@ Wir haben jedoch gewisse Mindestanforderungen, damit nicht jeder, der beispielsw
 {% hint style="info" %}
 HIermit meinen wir, dass man wöchentlich mindestens zwei mal GrieferGames-Streams auf seinem Kanal veranstaltet und die Streams eine Mindestgesamtdauer von 4 Stunden innerhalb einer Woche haben sollten. \
 \
-Die Zeit kann dabei frei eingeteilt werden: Beispielsweise 2 zweistündige Streams oder 4 Streams je 30 Minuten.\
+Die Zeit kann dabei frei eingeteilt werden: Beispielsweise 2 zweistündige Streams oder 4 Streams je 60 Minuten.\
 Auf die Minute genau müssen die Streams nicht gehen; Hauptsache die Mindestgesamtdauer und die Mindestanzahl der Streams in der Woche werden erreicht.
 {% endhint %}
 

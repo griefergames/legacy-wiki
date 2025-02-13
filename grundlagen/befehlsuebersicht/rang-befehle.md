@@ -107,7 +107,7 @@ description: Rechte, welche nur mit bestimmten Rängen hat
 | Befehl                         | Funktion                                                                                        |
 | ------------------------------ | ----------------------------------------------------------------------------------------------- |
 | `/globalbroadcast <Nachricht>` | Sendet eine hervorgehobene Nachricht an das Netzwerk.                                           |
-| `/ultra <Spieler>`             | Einem Spieler ohne Rang den [Ultra-Rang ](rang-befehle.md#ultra)für 7 Tage geben.               |
+| `/ultra <Spieler>`             | Einem Spieler ohne Rang dauerhaft den [Ultra-Rang ](rang-befehle.md#ultra)vergeben.             |
 | `@<Spielername>`               | Erwähnt einen Spieler im Chat.                                                                  |
 |                                | Beim Anklicken eines Heros erhält ein  Spieler eine zufällige Anzahl an Kristallen.             |
 |                                | Beim Serverbeitritt (mit /status aktiv) wird ein Feuerwerk gezündet.                            |

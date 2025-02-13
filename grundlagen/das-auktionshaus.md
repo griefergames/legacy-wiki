@@ -134,6 +134,8 @@ Geht dazu in eure Auktion und klickt auf den Button zum Zurückziehen der Auktio
 
 {% hint style="danger" %}
 Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an! Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückziehen.
+
+Wurde noch kein Gebot abgegeben wird eine **Strafgebühr** von **5% des Startgebots/Sofortkaupreises** (sofern vorhanden) erhoben.
 {% endhint %}
 
 

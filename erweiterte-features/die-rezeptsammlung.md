@@ -13,7 +13,7 @@ In der Rezeptsammlung habt ihr 4 verschiedene Auswahlmöglichkeiten:
 
 Hierbei handelt es sich um eine Sammlung aller Standard-Minecraft-Rezepte. Du kannst hier das passende Item aus den vorhandenen Kategorien heraussuchen. Öffnest du ein Rezept und hast alle benötigten Materialien im Inventar kannst du das Item auch direkt in der Rezept-Ansicht herstellen.
 
-Hast du bereits ein Item im Inventar, vonb welchem du mehr herstellen willst, so kannst du nmach Auswahl der Standard-Rezepte auf das Item in deinem Inventar klicken. Wenn es ein Rezept zur Herstellung gibt, wirst du direkt in die Rezept-Ansicht des Items gebracht.
+Hast du bereits ein Item im Inventar, von welchem du mehr herstellen willst, so kannst du nach Auswahl der Standard-Rezepte auf das Item in deinem Inventar klicken. Wenn es ein Rezept zur Herstellung gibt, wirst du direkt in die Rezept-Ansicht des Items gebracht.
 
 {% hint style="info" %}
 Einige Items haben mehrere verschiedene Rezeptvarianten. Diese können über das +/- Symbol in der Rezeptansicht gewechselt werden.

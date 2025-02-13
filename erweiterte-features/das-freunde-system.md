@@ -33,11 +33,15 @@ Jedoch kannst du nicht unbegrenzt Freunde haben. Die maximale Anzahl an Freunden
 Du kannst auch einstellen, was welcher Freund sehen kann. \
 Dazu gibt es 2 verschiedene Gruppen. Es gibt “Freund” und “Best Buddy”.
 
+<figure><img src="../.gitbook/assets/image (138).png" alt=""><figcaption><p>Die Einstellungen des Freunde-Menü</p></figcaption></figure>
+
 Wenn du im Menü auf die Redstone-Fackel klickst, kommst du zu den erweiterten Einstellungen. Beim Netherstern kannst du auswählen, ob es möglich sein soll, dir Freundschaftschaftsanfragen zu schicken oder nicht.
 
 Daneben kannst du einstellen, was welche Gruppe sehen kann. Die Scheiben unter dem Goldbarren stellen dar, was Personen aus der Gruppe “Freund” sehen können. Die Scheiben unter dem Smaragd zeigen die Einstellungen für die Gruppe “Best Buddy” an.
 
 #### Wie verwalte ich meine Freunde?
+
+<figure><img src="../.gitbook/assets/image (139).png" alt=""><figcaption><p>Aktive Freundschaft</p></figcaption></figure>
 
 Dazu klickst du im Freunde-Menü auf den Kopf von dem Freund, dessen Gruppe du bearbeiten willst. Standardmäßig sind alle Spieler in der Rolle “Freund”. Wenn die Scheibe neben dem Emerald grün ist, ist die Person ein “Best Buddy”. Dies kannst du durch einen Klick auf die Scheibe ändern.
 
@@ -51,9 +55,6 @@ Der rote Ton-Block ist dafür da, um eine Freundschaft aufzulösen.
 
 * MisterPflanze
 * 50U7R34P3R
+* giftlippenstift
 
 </details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}
