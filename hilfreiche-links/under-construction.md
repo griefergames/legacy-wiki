@@ -14,7 +14,7 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
-* [Clans](../erweiterte-features/das-clan-system.md)
+* \-
 
 ### Unvollständige Seiten (stub)
 
@@ -31,7 +31,6 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 
 Diese Seiten sind bereits toll beschrieben, aber für das gewisse Extra fehlen einfach noch ein paar Bilder. Hast du Lust ein paar Screenshots zu machen und damit den Artikel ansehnlicher zu gestalten?
 
-* [Freunde](../erweiterte-features/das-freunde-system.md)
 * [Booster & Perks](../grundlagen/booster-and-perks.md)
 * [Währungen](../grundlagen/waehrungen.md)
 * [Grundstücke überschreiben](../grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)

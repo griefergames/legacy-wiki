@@ -68,7 +68,3 @@ Clan-Faking (Ausgeben und Fälschen von anderen Clans) verstößt gegen unser [R
 * 50U7R34P3R
 
 </details>
-
-{% hint style="danger" %}
-Dieser Artikel ist noch nicht vorhanden. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}
