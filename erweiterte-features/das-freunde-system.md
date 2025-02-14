@@ -53,8 +53,8 @@ Der rote Ton-Block ist dafür da, um eine Freundschaft aufzulösen.
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* MisterPflanze
-* 50U7R34P3R
-* giftlippenstift
+* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
+* [giftlippenstift](https://profile.griefergames.live/minecraft/5eb7f506-c982-4104-8e1f-b4f38001ccaf)
 
 </details>

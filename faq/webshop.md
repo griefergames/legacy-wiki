@@ -74,7 +74,7 @@ Sollte eine Übertragung deines Ranges zwingend erforderlich sein, sende bitte e
 
 Im Bestellvorgang hast du auf die gesetzliche Widerrufsfrist von 14 Tagen verzichtet, damit die digitalen Güter direkt geliefert und genutzt werden können.
 
-Die vollständige Widerrufsbelehrung für digitale Inhalte kannst du auf der [offiziellen Shop-Seite](https://store.griefergames.net/) über [Widerruf für digitale Inhalte](https://store.griefergames.net/widerruf\_fuer\_digitale\_inhalte/) einsehen.
+Die vollständige Widerrufsbelehrung für digitale Inhalte kannst du auf der [offiziellen Shop-Seite](https://store.griefergames.net/) über [Widerruf für digitale Inhalte](https://store.griefergames.net/widerruf_fuer_digitale_inhalte/) einsehen.
 
 Falls du weiterführende Fragen zu deiner Bestellung hast, kannst du gerne jederzeit eine E-Mail an den [Webshop-Support](mailto:shop@griefergames.net) senden.
 
@@ -84,6 +84,6 @@ Falls du weiterführende Fragen zu deiner Bestellung hast, kannst du gerne jeder
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

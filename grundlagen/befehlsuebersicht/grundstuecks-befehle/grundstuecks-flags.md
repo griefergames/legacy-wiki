@@ -29,7 +29,7 @@ Möchte man alle „use“-Flags deaktivieren, wird anstatt der IDs, der Wert �
 
 #### **Wie finde ich die ID eines Blocks raus?**
 
-* [Offizielles Minecraft-Wiki](https://minecraft-de.gamepedia.com/Numerische\_Identifikation#Block-IDs)
+* [Offizielles Minecraft-Wiki](https://minecraft-de.gamepedia.com/Numerische_Identifikation#Block-IDs)
 * Google
 * [ID-Liste](https://minecraft-ids.grahamedgecombe.com/) von Graham Edgecombe
 * F3 + H (Tastenkombination in Minecraft) zeigt die ID hinter dem Namen des Items an
@@ -53,6 +53,6 @@ Alternativ kann man den Befehl `/removeflags` zum Entfernen der Flag verwenden.
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

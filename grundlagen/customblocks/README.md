@@ -32,7 +32,7 @@ Solltet ihr MysteryMod nicht verwenden wollen, stehen euch die CustomBlocks auch
 
 Für die Installation wird Forge benötigt. Solltest du Forge schon installiert haben, kannst du bei Punkt 3 starten.
 
-1. Lade dir den [1.8.9 Forge Installer](https://files.minecraftforge.net/net/minecraftforge/forge/index\_1.8.9.html) herunter
+1. Lade dir den [1.8.9 Forge Installer](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) herunter
 2.  Führe den Installer aus und klicke auf “OK”
 
     <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
@@ -52,11 +52,13 @@ Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.
 
 Solltet ihr Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr [unserem Discord](https://discord.griefergames.net/) beitreten und dort nach Hilfe fragen.
 
+
+
 <details>
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* SyntaxOfficial
-* CosmoHDx
+* [SyntaxOfficial](https://profile.griefergames.live/minecraft/5680a974-0d5f-460d-87a2-a33b076d4d08)
+* [CosmoHDx](https://profile.griefergames.live/minecraft/2416dddf-e794-4efe-a1b0-95679cb4c68e)
 
 </details>

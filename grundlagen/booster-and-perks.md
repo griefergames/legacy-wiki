@@ -125,8 +125,8 @@ Zusätzlich gibt es noch ein Item, welches dir erlaubt auf deinem Grundstück da
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Lohoff44
-* 50U7R34P3R
+* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
 

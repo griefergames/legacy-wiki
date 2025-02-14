@@ -8,38 +8,22 @@ Dies kannst du vornehmen, indem du die entsprechende Schaltfläche am jeweiligen
 
 *   Fremder Beitrag:&#x20;
 
-    <div align="left">
-
-    <figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (91).png" alt=""><figcaption></figcaption></figure></div>
 *   Eigener Beitrag:&#x20;
 
-    <div align="left">
-
-    <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure></div>
 
 In Kommentaren (bspw. News-Kommentare & Pinnwand-Kommentare) findest du die Schaltfläche, wenn du mit der Maus über den Kommentar gehst an der oberen rechten Ecke:
 
 *   News-/Pinnwand-Kommentar:&#x20;
 
-    <div align="left">
-
-    <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure></div>
 
 Benutzerprofile lassen sich ebenfalls melden, wenn diese unangemessene Inhalte (Profilbild, Titelbild, Signatur, "Über mich"-Angaben, etc.) enthalten. Hierfür klickst du auf das Kontextmenü auf der rechten Seite unter dem Titelbild und wählst den Eintrag "Benutzerprofil melden" aus.
 
 *   Benutzerprofil:&#x20;
 
-    <div align="left">
-
-    <figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
-
-    </div>
+    <div align="left"><figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure></div>
 
 Nach Meldung eines Inhalts erscheint ein Pop-Up zur Eingabe eines Grundes. Hier kannst du hinterlegen, weswegen der Inhalt unangemessen ist bzw. gegen unser Regelwerk verstößt.
 
@@ -88,6 +72,6 @@ Die Bestrafungsmethode ist nur im Forum als „Verwarnung“ definiert, auf dem 
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

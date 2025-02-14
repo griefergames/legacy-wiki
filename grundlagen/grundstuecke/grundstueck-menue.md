@@ -10,27 +10,27 @@ Hierfür stellen wir dir das Grundstücks-Menü vor, in welchem du viele verschi
 
 Das Menü rufst du auf deinem Grundstück mit `/plot`, `/p`, `/menü` oder `/m` auf.
 
-![](https://lh4.googleusercontent.com/qp0J3BN2\_sdggjkTgdaLh7jfiDM1dkbfrsglWrOuufE8AiupgRL4hGy3Ou0NL0g\_Xbl-6A-7VcZpWYtcUvBqoFUhhvq6A7Apnph4e4dheMS4H0SvZg4f1tWW\_DyWTC6RzzrDnHIdEvVOefVr-cicZhY)
+![](https://lh4.googleusercontent.com/qp0J3BN2_sdggjkTgdaLh7jfiDM1dkbfrsglWrOuufE8AiupgRL4hGy3Ou0NL0g_Xbl-6A-7VcZpWYtcUvBqoFUhhvq6A7Apnph4e4dheMS4H0SvZg4f1tWW_DyWTC6RzzrDnHIdEvVOefVr-cicZhY)
 
 | Icon / Bezeichnung                                                                                                                                                                                                                                | Befehl                | Funktion                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------- |
-| ![](https://lh5.googleusercontent.com/CxIJVkyJcbpExRktthnabNGs8jppHHP4FncnZgjOrBgQTNZIEPnS46H02zbCTm1EKPujD\_JNae1-\_LO3X-Y9b23P1Yon4tadDGWgPv-GDJDmnMEjYBN4Svh5YsP5vuVNwlw98IzdXZIYOsLvIiJBmcc)                                                  | <p><br></p>           | <p>Grundstücksbefehle</p><p><br></p>                                                                       |
+| ![](https://lh5.googleusercontent.com/CxIJVkyJcbpExRktthnabNGs8jppHHP4FncnZgjOrBgQTNZIEPnS46H02zbCTm1EKPujD_JNae1-_LO3X-Y9b23P1Yon4tadDGWgPv-GDJDmnMEjYBN4Svh5YsP5vuVNwlw98IzdXZIYOsLvIiJBmcc)                                                    | <p><br></p>           | <p>Grundstücksbefehle</p><p><br></p>                                                                       |
 | <p><img src="https://lh6.googleusercontent.com/uJoLErE2CIgvTA97Tivic75Fy-m5XLHTLWKcnGhszpUOhhcxIppoIEturm_8MaONmHA0q9HC7bLY_JqaQ2Z8tnMdoDzpsqG33X_8Xl1Tz2evatibT23g1YOZ_LpGj7sGrKXziimAQZAmjzYfmzaopvQ" alt=""><br>Grundstückschat - /p chat</p>  | /p chat               | Hier hast du die Möglichkeit auszuwählen, dass deine Chatnachrichten nur auf dem Grundstück zu lesen sind. |
 | <p><img src="https://lh4.googleusercontent.com/m3A2-6ORR8tKH21MVdcwm9oW8ttQ8ku9Cwab11JAIsUpvIgRjo2JIr4mDTNK4ZAFBN4DO2ezjpPzOEzxLVuzek7sEYqYOTdN0G2A4ryZHtdxoXAOlHg_Tzi-lNfZsshtF9KW58xUUEfpvtaAzbTwMe8" alt=""><br>Alias entfernen</p>            | /p alias remove       | Hier hast du die Möglichkeit, deinem Grundstück dem Alias zu entfernen                                     |
 | <p><img src="https://lh6.googleusercontent.com/63054HYmu5trCll-m4QNcVpPPD4xvIblu9a2mvP9vhY0jSzC327Ug5PYYGLGXthYKJyU15aRm6Fj8JZ5-ZDR6y2SXRvDGXKi41f9JT00gp5Llf0CtortbXuyIwM_Cs5YLbVhPWlmH3i08B4HDM8Jvdc" alt=""><br>Beschreibung entfernen</p>     | /p description remove | Entferne die Beschreibung auf deinem Grundstück                                                            |
 | <p><img src="https://lh3.googleusercontent.com/jPnn_Bsf1N7_0EPC_7M-plVPB9VDUNuM8mrWz8YsBx_wLmG3nrbolg6TlCTf_MHvlft-dIxjLJBydTCoYZcezhBx3tFlXMSkJ1r62Lw43XlXgENyFLr8cs9evBHJdrXhDrpnRgdaWzKjpYo-yNjjB_M" alt=""><br>Rechteentzug</p>               | /p remove \*          | Entferne alle Rechte, die du vergeben hast.                                                                |
-| ![](https://lh4.googleusercontent.com/MZLV2QGx12sjDkgk9m5jpECqzPn9VwVOPFUmvDVPH75GxSZ0euGPGUScvhRIyKddG7eWfqY0KWoqyCF7WFC7vpMW0dlXBArS5opAQyiK2WD9WNPQb2ttxnZz5XoE0QvXk29DqAxPEajYeOM\_KbYXjVg)Grundstücksinformation                             | /p i                  | Schaue, wo sich dein Grundstück befindet und welcher Alias aktuell gesetzt ist.                            |
+| ![](https://lh4.googleusercontent.com/MZLV2QGx12sjDkgk9m5jpECqzPn9VwVOPFUmvDVPH75GxSZ0euGPGUScvhRIyKddG7eWfqY0KWoqyCF7WFC7vpMW0dlXBArS5opAQyiK2WD9WNPQb2ttxnZz5XoE0QvXk29DqAxPEajYeOM_KbYXjVg)Grundstücksinformation                              | /p i                  | Schaue, wo sich dein Grundstück befindet und welcher Alias aktuell gesetzt ist.                            |
 | <p><img src="https://lh6.googleusercontent.com/Nqa1_ErfvzlHjB8J6MZg4Esj1wu-cPyNBj0HXkcCm6Uwkx8VO8w_KylSMRONPdyV_XgZpXfBGUFok_s5eAfCBZGamgsXgr0Z324NtFS4Se1-EHkkfVP9Rmu_MAU0rCDmR2jOITDSVXjpvBF3DgzkqnY" alt=""><br>Einstellungen zurücksetzen</p> | <p><br></p>           | Klicke um alle Einstellungen zurück auf den Standard zu setzen.                                            |
 
 ### Grundstücks-Flags
 
 ### ![](https://lh4.googleusercontent.com/yp7Kmb3RxoTzLMzVMA-gEMlWvGtBUO2FFlqUqooB1xpJ2TYHTHDSGBE4FptrWOIU15E5v17T8CpwStd3ct1b5fVn8L1G3CgMvJvphb3IcSpjr5bNqDHrO5SSpFnX6geeFxli-ve4GpDpt-MWVynbirM)
 
-![](https://lh4.googleusercontent.com/9XI6wgV7c5I36Emj8jLAbP3SfzpLf4Df4Uj36FVhGa5R59Srx7Mfh4-3dPG151oKEUBUQB4xf3an5t7TrbIno3LtTT6ij7HwtAYQugKK2uV9u4JWIdNCfCuceFctPYMy0pJH04zJsrp9ko\_1QBjaxgA)
+![](https://lh4.googleusercontent.com/9XI6wgV7c5I36Emj8jLAbP3SfzpLf4Df4Uj36FVhGa5R59Srx7Mfh4-3dPG151oKEUBUQB4xf3an5t7TrbIno3LtTT6ij7HwtAYQugKK2uV9u4JWIdNCfCuceFctPYMy0pJH04zJsrp9ko_1QBjaxgA)
 
 | Icon / Bezeichnung                                                                                                                                                                                                                           | Befehl                                                                              | Funktion                                                                                                                                                                          |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](https://lh6.googleusercontent.com/v2oi\_698A7CveYplEqtLkTJAwBPvDdxcXQ\_HkJDJSNwPZ1UW680V4M\_Mhs4mGCDcZcEUT6WKZ-jrhjFpzSP2vk4RgWmws6yYCMaq71n0fksTn0c3tY3gNaCTOXpB-nPqbLvnfVBS71j3456\_H2Xp6wE)                                           | <p><br></p>                                                                         | Grundstücks-Flags                                                                                                                                                                 |
+| ![](https://lh6.googleusercontent.com/v2oi_698A7CveYplEqtLkTJAwBPvDdxcXQ_HkJDJSNwPZ1UW680V4M_Mhs4mGCDcZcEUT6WKZ-jrhjFpzSP2vk4RgWmws6yYCMaq71n0fksTn0c3tY3gNaCTOXpB-nPqbLvnfVBS71j3456_H2Xp6wE)                                               | <p><br></p>                                                                         | Grundstücks-Flags                                                                                                                                                                 |
 | <p><img src="https://lh6.googleusercontent.com/DFfnqxfq8S_6Z3PbfyAiJ0I15T-1gLVs7x0CQmVSv12O-FUJpWel41qyTZn4s7FB_BF7sDcgHgo5t_pG9kH-nB2FFUc7VePAFRNMqrFwaQTY3sn8_ZfL1TJ3nTu2IWUy8gVO5eJnztokCQTgTXJH6B8" alt=""><br>PvP</p>                   | <p>/p flag set pvp true<br>/p flag set pvp false</p>                                | Ist PvP aktiviert, könnt ihr euch auf dem Grundstück gegenseitig Schaden zufügen.                                                                                                 |
 | <p><img src="https://lh4.googleusercontent.com/PPd0bHexZ0P2tzBgJUizQsGOJRaMfeycY44Pt63BlaaJhFHdhREyVmSXg-pVBa_18YauTmUqOlEp1GA5JLUqPPUtcCzJpKJjdEzML8bfCQhRB_b67c6_E9e379HYHno5PHx5ZUy_1deN-JPlk8g0Q18" alt=""><br>Animal-Attack</p>         | <p>/p flag set animal-attack true<br>/p flag set animal-attack false</p>            | Ist Animal-Attack aktiviert, so können Spieler auf dem Grundstück Tiere angreifen.                                                                                                |
 | <p><img src="https://lh3.googleusercontent.com/0COTeHpPwnhGoKu06u6ZUTrYelQ8xeaYY6WTcbMufZRMZrzeFzEY-gcaT7sHrdSQbTo-Z1ssue9VyjfxetivWROBmXfbQ40r5047w7512GVyBTDfxuezB7d_kVCVXzQnDaZDIfSIF9zNwYhWZ17aQJE" alt=""><br>Explosionen</p>           | <p>/p flag set explosion true<br>/p flag set explosion false</p>                    | Ist Explosionen aktiviert, so kann TNT Schaden anrichten.                                                                                                                         |
@@ -52,11 +52,11 @@ Das Menü rufst du auf deinem Grundstück mit `/plot`, `/p`, `/menü` oder `/m` 
 
 ### Use-Flag-Menü
 
-![](https://lh3.googleusercontent.com/xZoDVKfv\_LBB1lDHloqv8Jg-5gJDrJvPVcXQqaqcC63J21oHkf0BeC\_fau2PxjdF-x0DBANNqpJLdZjTFHdYl-M18SDNRDkPA1XDgaNUDxYhU6fZoxqMRLyWPA4FvvxLB71XXcWIQQzWEW24Y2mZVNI)
+![](https://lh3.googleusercontent.com/xZoDVKfv_LBB1lDHloqv8Jg-5gJDrJvPVcXQqaqcC63J21oHkf0BeC_fau2PxjdF-x0DBANNqpJLdZjTFHdYl-M18SDNRDkPA1XDgaNUDxYhU6fZoxqMRLyWPA4FvvxLB71XXcWIQQzWEW24Y2mZVNI)
 
-| Icon / Bezeichnung                                                                                                                                                                                | Befehl                    | Funktion      |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------- |
-| ![](https://lh4.googleusercontent.com/BiVrKk7iWV7zrVYYDQEeFMEVWagyrx\_BOW5O4F8xQoYSD2yIKUdyz5voZs-bWLKVBl4\_JfBxyGuQcWtmmx2WQls3ftJhzE5EpQ\_dNBPAaSHsX-kDbs-LbvyTDD5n-yH28yYMp90pmS8LF3viEPI9ewQ) | /p flag set use \<ItemID> | Use-Flag-Menü |
+| Icon / Bezeichnung                                                                                                                                                                             | Befehl                    | Funktion      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ------------- |
+| ![](https://lh4.googleusercontent.com/BiVrKk7iWV7zrVYYDQEeFMEVWagyrx_BOW5O4F8xQoYSD2yIKUdyz5voZs-bWLKVBl4_JfBxyGuQcWtmmx2WQls3ftJhzE5EpQ_dNBPAaSHsX-kDbs-LbvyTDD5n-yH28yYMp90pmS8LF3viEPI9ewQ) | /p flag set use \<ItemID> | Use-Flag-Menü |
 
 Mit dem Use-Flag-Menü hast du die Möglichkeit gängie Blöcke für Spieler freizugeben.
 
@@ -68,8 +68,8 @@ Ob eine Use-Flag gerade freigegeben ist, erkennst du daran, ob das Item leuchtet
 
 Beispiel:
 
-| ![](https://lh3.googleusercontent.com/lfGJO4\_PKgWA-goJdWNXNupCET5l1fhm4DN\_2R-xPnI1RJ2nJioTC2WsjJ2OHN0-dfD5WQFfXmmAwXKYcUSyXkoH8BnyX3FH9qHAl5MBmetiGZG38glOyQUuX5Y--b9begnqEqzUo\_ysmUdQ4W0Eazs)Werkbank nicht freigegeben | ![](https://lh5.googleusercontent.com/vFmbGH7C04NgJhjKvxcIxR8zvY0U42AlTZW\_jDihiv5GvZqpZpeq5RHvKh4P2SgosZfIEIfgdFQAo-wLoMq-cs6aFGjXoW2TZ1Vc6NDstfth1xl-5KnADsZIxOCyAr58bAVIzKmIQeHM8f9Dn3PF7cA)Werkbank freigegeben |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://lh3.googleusercontent.com/lfGJO4_PKgWA-goJdWNXNupCET5l1fhm4DN_2R-xPnI1RJ2nJioTC2WsjJ2OHN0-dfD5WQFfXmmAwXKYcUSyXkoH8BnyX3FH9qHAl5MBmetiGZG38glOyQUuX5Y--b9begnqEqzUo_ysmUdQ4W0Eazs)Werkbank nicht freigegeben | ![](https://lh5.googleusercontent.com/vFmbGH7C04NgJhjKvxcIxR8zvY0U42AlTZW_jDihiv5GvZqpZpeq5RHvKh4P2SgosZfIEIfgdFQAo-wLoMq-cs6aFGjXoW2TZ1Vc6NDstfth1xl-5KnADsZIxOCyAr58bAVIzKmIQeHM8f9Dn3PF7cA)Werkbank freigegeben |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 
 ### Weitere Menü-Punkte
 
@@ -92,7 +92,7 @@ Zusätzlich findest du in den Grundstücksbefehlen folgende Möglichkeiten:
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Lohoff44
-* 50U7R34P3R
+* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -114,7 +114,7 @@ Seit einiger Zeit wird das Orb-System immer häufiger kritisiert und ein Update 
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* BentosMentos
-* 50U7R34P3R
+* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -75,7 +75,7 @@ description: Übersicht & Funktion der Grundlagen-Befehle
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* MisterPflanze
-* 50U7R34P3R
+* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -2,8 +2,6 @@
 
 Alle aktuellen Teammitglieder können in der [Teamliste](zustandigkeiten.md) eingesehen werden.
 
-
-
 Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
 ### Management
@@ -81,7 +79,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * HD1920x1080
 * Wurmi\_das\_Fratz
 * PhantomExitus
-* Lord_Bard
+* Lord\_Bard
 
 </details>
 
@@ -229,9 +227,9 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * luca\_fendt (Nature & Extreme)
 * NfsNateDenver (CB2)
 * TexasLanguste23 (CB5)
-* \_MangoLassi_ (CB14)
-* SY_MarvAP (CB10)
-* RolDom_FCR (CB15)
+* \_MangoLassi\_ (CB14)
+* SY\_MarvAP (CB10)
+* RolDom\_FCR (CB15)
 * DerNeueHappy19 (CB22)
 
 </details>
@@ -289,13 +287,11 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 Bei den aufgelisteten Spielern garantieren wir **keine** eindeutige Übereinstimmung für deren aktuellen Minecraft-Namen.
 {% endhint %}
 
-
-
 <details>
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Bantor
-* 50U7R34P3R
+* [Bantor](https://profile.griefergames.live/minecraft/e7d2c9ff-9fe2-4813-a519-c3c71fb832e6)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -68,11 +68,7 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 
 {% tabs %}
 {% tab title="Klassische Items" %}
-<div data-full-width="true">
-
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure>
-
-</div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure></div>
 
 * ![](<../.gitbook/assets/image (22).png>) Klassische Rüstung (Brustplatte)
   * Diamant-Brustplatte mit Verzauberung Schutz 7 & Haltbarkeit 5
@@ -229,8 +225,8 @@ Es gibt also manche Momente wo sehr seltene Admin-Items in der Kiste sind, manch
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* BentosMentos
-* MisterPflanze
-* 50U7R34P3R
+* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
+* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -2,7 +2,7 @@
 description: Besonderheiten von Citybuild Nature & Extreme
 ---
 
-# 🏔 Citybuild Nature & Extreme
+# 🏔️ Citybuild Nature & Extreme
 
 Die Citybuild-Server Nature und Extreme erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch`.&#x20;
 
@@ -36,6 +36,6 @@ Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen 
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

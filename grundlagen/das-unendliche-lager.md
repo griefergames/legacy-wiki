@@ -175,9 +175,9 @@ Diese Funktion greift priorisiert vor dem "Einsaugen" durch Trichter.
 
 <details>
 
-<summary>An diesem Artikel beteiligt:</summary>
+<summary>An diesem Artikel beteiligt</summary>
 
-* SyntaxOfficial
-* 50U7R34P3R
+* [SyntaxOfficial](https://profile.griefergames.live/minecraft/5680a974-0d5f-460d-87a2-a33b076d4d08)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

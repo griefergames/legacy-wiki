@@ -36,7 +36,7 @@
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Bantor
-* 50U7R34P3R
+* [Bantor](https://profile.griefergames.live/minecraft/e7d2c9ff-9fe2-4813-a519-c3c71fb832e6)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -90,7 +90,7 @@ Durch einen Klick auf den goldenen "Vote-Streak"-Kopf erhältst du eine Übersic
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Zheng\_Aokiji
-* 50U7R34P3R
+* [Zheng\_Aokiji](https://profile.griefergames.live/minecraft/e76216f9-a714-4351-b9d1-fcb54a7d7a23)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

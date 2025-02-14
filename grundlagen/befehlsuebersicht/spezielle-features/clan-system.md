@@ -27,6 +27,6 @@ Clan-Befehle im Clan-System
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

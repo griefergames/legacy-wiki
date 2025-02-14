@@ -64,7 +64,7 @@ Clan-Faking (Ausgeben und Fälschen von anderen Clans) verstößt gegen unser [R
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* ?
-* 50U7R34P3R
+* [1542674252](https://profile.griefergames.live/minecraft/8449df7d-346f-49ae-b946-74207dd01d39)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -32,8 +32,8 @@ Als Besitzer kannst du im Menü auch die Teleportpunkte individuell gestalten, z
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* Creepertiv
-* 50U7R34P3R
+* [Creepertiv](https://profile.griefergames.live/minecraft/6efaa799-f20d-4ac8-b0cc-e3fc1db2caab)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
 
