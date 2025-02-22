@@ -4,8 +4,6 @@
 
 Es wird keinen kompletten Reset unserer Citybuild-Server geben – unvorhergesehene Fehler und Serverprobleme außen vor gelassen, bei welchen es nötig werden kann ein Backup einzuspielen, welches den letzten funktionierenden Zustand abbildet!
 
-
-
 ### Farmwelten
 
 Bei diesem Vorgang werden die Farmwelten unserer Citybuild-Server komplett neu generiert.
@@ -13,6 +11,10 @@ Bei diesem Vorgang werden die Farmwelten unserer Citybuild-Server komplett neu g
 Sollte nach der Durchführung ein Spawn nicht betretbar sein, so ist dies bitte umgehend bei einem Teammitglied zu melden.
 
 Der Farmwelt-Reset findet automatisch am 04. des Monats statt. Der genaue Zeitpunkt kann auch jederzeit in der [Stadtwelt](../../erweiterte-features/die-hauptstadt.md) eingesehen werden.
+
+### Zauberwald
+
+Der Zauberwald wird nicht zu festen Zeitpunkten zurückgesetzt, sondern nur bei Bedarf. Stellt das Team fest, dass es erforderlich ist die Spielwelt zu erneuern, wird der Zauberwald normalerweise mit dem nächsten Farmwelt-Reset zusammen zurückgesetzt.
 
 
 

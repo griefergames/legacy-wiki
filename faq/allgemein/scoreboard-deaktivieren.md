@@ -18,7 +18,7 @@ Unterstützung bei der Konfiguration deiner jeweiligen Client-Modifikation finde
 
 Für die Bedrock Edition haben wir zudem in den Server-Einstellungen eine passende Option eingefügt. Auch hier kannst du durch einen einfachen Klick das Scoreboard entfernen.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Bedrock-Einstellungen zum Verstecken des Scoreboard</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Bedrock-Einstellungen zum Verstecken des Scoreboard</p></figcaption></figure>
 
 
 

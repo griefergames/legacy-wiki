@@ -41,7 +41,7 @@ Am Hauptplatz haben auch der Adventurer-NPC und der Admin-Shop-NPC ihren Stand e
 
 <figure><img src="https://lh7-us.googleusercontent.com/e1K7oTHWNLiSFZUa4XMGGuF5j9tpg3xMROEyTxEO0F5YDLSBvzwI-CSZ6MaC7_DuBysfIlRVuF56Q5Id67KRBm0DfZEppIbp8_BXthHDbXRarQfg_kDfT4nr_rUlQE_7hARmtBJlFFdNzpFv3TGLIu0" alt=""><figcaption><p>Der Vote-NPC am Hauptplatz der Hauptstadt</p></figcaption></figure>
 
-Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr Vote-Belohnungen abholen könnt.&#x20;
+Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr [Vote-Belohnungen](das-vote-system.md#vote-belohnungen) abholen könnt.&#x20;
 
 ### Der Bürgermeister
 
@@ -59,7 +59,7 @@ Neben dem Bürgermeister ist eine Anzeige zum nächsten Farmwelt-Reset.
 
 <figure><img src="https://lh7-us.googleusercontent.com/XFEkGxSTg_ZkB0q-me8p0iCPlW9fg4enRvqlIaKgaoc_ry1lpP2DUl65kBIj_FO7XJrLkY0spXCVxiQpmvPKqNkfnzexBfx8AwrPx9NPdDPOnWl9b01V2gEwbbC0p9WnHoQelNDqDwfm3SFwz9pbo2o" alt=""><figcaption><p>Der Rand-Schmied im Inneren des Hauptgebäude der Hauptstadt</p></figcaption></figure>
 
-Beim [Rand-Schmied](../grundlagen/grundstuecke/grundstuecke-veraendern.md#rand-schmied) könnt ihr eure eigenen Rand-Effekte für euer Grundstück erstellen. Hierbei gelten bestimmte Beschränkungen für die Auswahl an Items und wieviele Items ihr verwenden könnt.
+Beim [Rand-Schmied](../grundlagen/grundstuecke/grundstuecke-veraendern.md#rand-schmied) könnt ihr eure eigenen Rand-Effekte für euer Grundstück erstellen. Hierbei gelten bestimmte Beschränkungen für die Auswahl an Items und wie viele Items ihr verwenden könnt.
 
 ### Der Jobs-NPC
 
@@ -76,7 +76,7 @@ Das Ziel des Gefängnis war es, eine weitere Möglichkeit für Bestrafungen einz
 
 Das Gefängnis selbst ist ein eigenes Gebäude auf jedem Citybuild-Server. Dort kann man freiwillig, aber auch aufgrund einer Strafe hingelangen.
 
-Spieler, die mit einer Strafe dort gefangen sind, müssen eine vorgegebene Anzahl an Obsidianblöcken abbauen, um frei zu kommen. Andere Spieler oder Schaulustige haben gleichzeitig die Möglichkeit, die inhaftierte Person von oben zu beobachten und ggf. mit kreativen Mitteln das Abbauen zu erschweren.
+Spieler, die mit einer Strafe dort gefangen sind, müssen eine vorgegebene Anzahl an Obsidianblöcken abbauen, um frei zu kommen. Andere Spieler oder Schaulustige haben gleichzeitig die Möglichkeit, die inhaftierte Person von oben zu beobachten und ggf. mit [kreativen Mitteln](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) das Abbauen zu erschweren.
 
 #### **Wie kommt man in das Gefängnis?**
 
@@ -91,9 +91,13 @@ Besucher können mit sämtlichen Befehlen reisen, die eine Teleportation beinhal
 
 Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken im Gefängnishof abbaut. Alternativ besteht die Möglichkeit, dass das Team jemanden vorzeitig freilässt. Hierfür besteht jedoch kein Anspruch und wird auch nur in besonderen und seltenen Fällen durchgeführt. Erstellt hierfür einen Antrag im [Strafaufhebungsbereich](https://forum.griefergames.de/forum/board/200-strafaufhebungsbereich/) des Forums oder über das [Ticket-System](../hilfreiche-links/griefergames-dienste.md).
 
+Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen. Team-Strafen (für Regelverstöße) lassen sich damit **nicht** aufheben.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
 #### **Andere Spieler**
 
-Besucher haben die Möglichkeit, den Inhaftierten den Abbau der Obsidianblöcke zu erschweren – beispielsweise durch Eier- oder Schneeballbeschuss. Passende Eier können beim Orb-Verkäufer erworben werden. Für den Beschuss gibt es eigene Zuschauerplätze um den Gefängnishof herum.\
+Besucher haben die Möglichkeit, den Inhaftierten den Abbau der Obsidianblöcke zu erschweren – beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer erworben werden. Für den Beschuss gibt es eigene Zuschauerplätze um den Gefängnishof herum.\
 Das Behindern von Inhaftierten ist allerdings **auch** ein zulässiger Grund, um durch eine [Community-Abstimmung inhaftiert](die-hauptstadt.md#strafen) zu werden.
 
 **Doch Vorsicht!** \

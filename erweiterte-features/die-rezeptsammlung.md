@@ -38,9 +38,9 @@ Die Komprimierungs-Stufe lässt sich über das +/- Symbol anpassen.
 
 GrieferGames hat auch eine Vielzahl besonderer Items, welche du herstellen kannst.
 
-#### Das Antike Schwert
+#### [Das Antike Schwert](https://items.griefergames.net/#Antikes_Schwert)
 
-![](https://forum.griefergames.de/media/47-faq-craftingrezept-antikes-schwert-rezept-png/)![](https://forum.griefergames.de/media/48-faq-craftingrezept-antikes-schwert-png/)
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 4 Dracheneier, 4 Leuchtfeuer, 1 Endportalrahmen_
 
@@ -48,17 +48,17 @@ Dieses Schwert hat eine Schärfe VIII-Verzauberung und lässt sich mit Verzauber
 
 Wenn man jetzt noch eine passende Rüstung dazu hätte...?
 
-#### Die Cola
+#### [Die Cola](https://items.griefergames.net/#Cola)
 
-![](https://forum.griefergames.de/media/49-faq-craftingrezept-cola-rezept-png/)![](https://forum.griefergames.de/media/50-faq-craftingrezept-cola-png/)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 5 Zucker, 3 Magmacreme, 1 Wassereimer_
 
 Cola für den besonderen Kick! Dieses erfrischende Getränk gibt dir einen Schnelligkeit II-Effekt und lässt dich 90 Sekunden lang mit 40% zusätzlicher Geschwindigkeit agieren.
 
-#### Die Yeezys
+#### [Die Yeezys](https://items.griefergames.net/#Yeezys)
 
-![](https://forum.griefergames.de/media/55-faq-craftingrezept-yeezys-rezept-png/)![](https://forum.griefergames.de/media/54-faq-craftingrezept-yeezys-png/)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 8 Smaragde, 1 Lederschuhe_
 
@@ -71,15 +71,13 @@ Wir empfehlen einen NoFall-Perk bei der Nutzung.
 
 #### Normaler Stein
 
-![](https://forum.griefergames.de/media/53-faq-craftingrezept-steine-rezept-png/)
-
 _Benötigte Materialien: 8 Bruchstein, 1 Kohle_
 
 Wer muss schon Stein im Ofen brennen, wenn man ihn auch herstellen kann?
 
-#### Der Dorfbewohner-Token
+#### [Der Dorfbewohner-Token](https://items.griefergames.net/#Dorfbewohner-Token)
 
-![](https://forum.griefergames.de/media/176-dorfbewohner-token-rezept-png/)![](https://forum.griefergames.de/media/178-dorfbewohner-token-png/)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 4 Smaragdblöcke, 5 Leuchtfeuer_
 
@@ -97,26 +95,19 @@ Der Dorfbewohner-Token schützt **nur** vor dem [MobRemover](server-performance.
 Die Dorfbewohner können weiterhin normal sterben oder durch [StopLag-Maßnahmen](server-performance.md#stoplag-clearlag) gelöscht werden!
 {% endhint %}
 
-#### Die Antike Rüstung
+#### [Die Antike Rüstung](https://items.griefergames.net/#Antike_R%C3%BCstung_-_Komplett)
 
-![](https://forum.griefergames.de/media/42-faq-craftingrezept-antike-r%C3%BCstung-helm-rezept-png/) Antiker Helm
-
-![](https://forum.griefergames.de/media/41-faq-craftingrezept-antike-r%C3%BCstung-brust-rezept-png/) Antiker Brustpanzer
-
-![](https://forum.griefergames.de/media/43-faq-craftingrezept-antike-r%C3%BCstung-hose-rezept-png/) Antike Beinschützer
-
-![](https://forum.griefergames.de/media/45-faq-craftingrezept-antike-r%C3%BCstung-schuhe-rezept-png/) Antike Stiefel\
-![](https://forum.griefergames.de/media/44-faq-craftingrezept-antike-r%C3%BCstung-helm-png/)
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: insgesamt 24 Leuchtfeuer_
 
 Jedes Rüstungsteil hat Schutz VI standardmäßig. Die perfekte Ausrüstung für einsame Farmer und gewiefte Kämpfer in der Arena. Zusammen mit dem Antiken Schwert wirst du zu einer wahren Kampfmaschine.
 
-#### Erschaffe Bruchstein-Generator
+#### [Erschaffe Bruchstein-Generator](https://items.griefergames.net/#Erschaffe_Bruchstein-Generator)
 
-![](https://forum.griefergames.de/media/181-cobble-gen-egg-png/)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-Benötigte Materialien: 1 Bruchstein, 1 Eisenbarren, 1 Goldbarren, 1 Kohle, 1 Redstonestaub, 1 Lapislazuli, 1 Smaragd, 1 Diamant, 1 Lore
+_Benötigte Materialien: 1 Bruchstein, 1 Eisenbarren, 1 Goldbarren, 1 Kohle, 1 Redstonestaub, 1 Lapislazuli, 1 Smaragd, 1 Diamant, 1 Lore_
 
 Setze dieses Item in einen [passiven Spawner](../grundlagen/passive-spawner.md#passive-spawner), um ihn zu einem Bruchstein- & Erze-Generator umzufunktionieren. \
 Das Item funktioniert wie ein reguläres Spawn-Ei. Ein bestehendes Spawn-Ei wird durch dieses ersetzt. Das Spawn-Ei wird nicht zurückerstattet.

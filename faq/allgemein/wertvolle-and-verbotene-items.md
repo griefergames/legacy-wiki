@@ -15,8 +15,8 @@ Wir behalten uns das Recht vor, ohne Absprache bspw. Grundstücke, Inventare ode
 Mit Ausnahme **duplizierter Items, Items mit rassistischem oder nationalsozialistischem Hintergrund, Befehlsblöcken, nicht eingebauten Ghast-Spawnern und Over-OP-Items (z.B. Schwerter mit Schärfe 100 \*\*)**, sind alle Items erlaubt, solange diese nicht den Betrieb des Servers schädigen und/oder den Spielspaß anderer Spieler negativ beeinflussen.
 
 {% hint style="info" %}
-Einige Items (z.B. Holzschwerter mit Schärfe 50) wurden von Admins in der Vergangenheit herausgegeben und sind somit legitim, zu besitzen. Die Verwendung von solchen Schwertern befindet sich in einer Grauzone. \
-Wir bitten darum, unbekannte Items dieser Form uns umgehend im Forum zu melden!
+Einige Items (z.B. [Holzschwerter mit Schärfe 50](https://items.griefergames.net/#Holzschwert_\(Sch%C3%A4rfe_50\))) wurden von Admins in der Vergangenheit herausgegeben und sind somit legitim, zu besitzen. Die Verwendung von solchen Schwertern befindet sich in einer Grauzone. \
+Wir bitten darum, uns unbekannte Items dieser Form umgehend zu melden!
 {% endhint %}
 
 Bei Verstoß können harte Konsequenzen für den Spieler, seinen Rang, seine Grundstücke und Items folgen.

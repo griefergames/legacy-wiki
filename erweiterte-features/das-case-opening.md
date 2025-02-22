@@ -11,7 +11,7 @@ Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Case-Opening an einem Citybuild-Spawn</p></figcaption></figure>
 
 Das Case-Opening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
-Aus einigen Kisten können zusätzlich eigene Case-Opening-Blöcke gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
+Aus einigen Kisten können zusätzlich [eigene Case-Opening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
 
@@ -56,7 +56,7 @@ Wird also ein Gewinn aus der Kiste gezogen, so ist er für andere Spieler und da
 Sind zu wenig Gewinne in der Kiste werden automatisch Köpfe hinzugefügt, um die Gewinnchancen auszugleichen.
 {% endhint %}
 
-Du kannst Community-Kisten beim [Admin-Shop](das-adventurer-system.md#der-admin-shop) des [Adventurer-Systems](das-adventurer-system.md) in der [Hauptstadt](die-hauptstadt.md) kaufen.
+Community-Kisten waren auch beim [Admin-Shop](das-adventurer-system.md#der-admin-shop) des [Adventurer-Systems](das-adventurer-system.md) in der [Hauptstadt](die-hauptstadt.md) erhältlich.
 
 #### Saisonale Kiste
 

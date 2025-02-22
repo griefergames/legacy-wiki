@@ -98,7 +98,7 @@ In der [Stadt](../../erweiterte-features/die-hauptstadt.md) (`/warp Stadt`) vers
 
 Wenn ihr den NPC nun anklickt, könnt ihr euch einen eigenen Rand erstellen.
 
-Zum Anfang könnt ihr zwei verschiedene Blöcke auswählen. Ihr könnt jedoch auch einen Rand-Slot-Generator einlösen, mit dem ihr dauerhaft bis zu zwei zusätzliche - also bis zu vier - Blöcke auswählen könnt.
+Zum Anfang könnt ihr zwei verschiedene Blöcke auswählen. Ihr könnt jedoch auch einen [Rand-Slot](https://items.griefergames.net/#Rand-Slot)-Generator einlösen, mit dem ihr dauerhaft bis zu zwei zusätzliche - also bis zu vier - Blöcke auswählen könnt.
 
 <figure><img src="https://lh5.googleusercontent.com/gPVF1VlehR5_pAqXbP0RDbjJeZYxENBvmM6MddBvjmVaJzin7WqVTV6knYo0hIKMrOQzg50FimZwcGOqi0dDHRrd220Ipw6a0J4gEKvMQa4EUspgFP5j-tKMNN_6jKEsCgZBZivVz4IZlD7z4WzPICM" alt=""><figcaption><p>Rand-Konfigurator mit 3 Slots</p></figcaption></figure>
 
@@ -217,7 +217,7 @@ Zuallererst braucht ihr dafür auf eurem Grundstück eine Wand aus Wolle, Glas o
 Wenn ihr hier z.B. Wolle auswählt, wird euer Gemälde dann ganz aus Wolle bestehen.
 {% endhint %}
 
-Nun braucht ihr die verzauberten Wand-Bücher. Diese erhaltet ihr aus Vote-Kisten oder aus Epischen Kisten. Hierbei steht bei jedem Buch die Wand-Energie, was die Anzahl an Blöcken angibt, welche ihr mit diesem Buch einfärben könnt.
+Nun braucht ihr die [verzauberten Wand-Bücher](https://items.griefergames.net/#Verzaubertes_Wand-Buch). Diese erhaltet ihr aus [Vote-Kisten oder aus Epischen Kisten](../../erweiterte-features/das-case-opening.md). Hierbei steht bei jedem Buch die Wand-Energie, was die Anzahl an Blöcken angibt, welche ihr mit diesem Buch einfärben könnt.
 
 <figure><img src="https://lh3.googleusercontent.com/IQkzrX592xgXOl7qcx279phNk58PCoiHraIt-71ENUCvOqBBHCjJRVcNWjKGWv6nk777qhv4cYPPytCnP9wKUHiVhugP2np-KNVfkexN6qRFjFngJpZslVQnmjdHJIm31EYBZUBXV2V79c_ezp-Lu98" alt=""><figcaption></figcaption></figure>
 

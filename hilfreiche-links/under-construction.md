@@ -14,7 +14,8 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
-* \-
+* [Block des Tages](../erweiterte-features/der-block-des-tages.md)
+* [Handels-System](../grundlagen/das-handels-system.md)
 
 ### Unvollständige Seiten (stub)
 

@@ -12,7 +12,7 @@ Wäre es da nicht schön sein Wunschmotiv schnell und einfach als Karte verfügb
 
 ### /createkarte - Das Recht
 
-Um den Kartengenerator nutzen zu können, benötigt man das entsprechende Recht.&#x20;
+Um den Kartengenerator nutzen zu können, benötigt man das entsprechende [Recht](https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht).&#x20;
 
 {% hint style="danger" %}
 Derzeit ist dieses Recht nur begrenzt verfügbar und aus den Winter-Kisten erhältlich.

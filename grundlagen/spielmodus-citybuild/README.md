@@ -4,7 +4,7 @@ description: Allgemeine Informationen zu Citybuild
 
 # 🏙️ Spielmodus Citybuild
 
-Citybuild, zu deutsch "Stadtbau" ist ein Spielmodus mit einer zusätzlichen Minecraft-Welt, in welcher jeder Spieler festgelegte Grundfstücke (Plots) beanspruchen (claimen) und diese anschließend nach eigenem Wunsch gestalten und bebauen kann.
+Citybuild, zu deutsch "Stadtbau" ist ein Spielmodus mit einer zusätzlichen Minecraft-Welt, in welcher jeder Spieler festgelegte Grundstücke (Plots) beanspruchen (claimen) und diese anschließend nach eigenem Wunsch gestalten und bebauen kann.
 
 Zusätzlich zur Plotwelt hast du auf jedem Server eine normale Minecraft-Welt (Farmwelt) und einen Nether. Das Ende ist auf unseren Citybuild-Servern **nicht** freigeschaltet.
 

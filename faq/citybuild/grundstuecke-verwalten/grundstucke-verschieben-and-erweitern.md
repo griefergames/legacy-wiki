@@ -148,9 +148,7 @@ Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich a
 
 * Erstelle deinen Antrag im passenden Unterforum:
 
-{% embed url="https://forum.griefergames.de/forum/board/304" %}
-
-{% embed url="https://forum.griefergames.de/forum/board/186" fullWidth="false" %}
+{% embed url="https://forum.griefergames.de/forum/board/304-grundst%C3%BCcksverschiebungen-erweiterungen/" %}
 
 
 

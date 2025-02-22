@@ -7,7 +7,7 @@ description: Du hast dich zum Start des Spiels auf dem 1.8-Netzwerk entschieden?
 ### Herzlich Willkommen auf GrieferGames - Citybuild 1.8.
 
 Du hast dich also auf unseren [Server verbunden](../../server-verbinden.../) und in unserer [Lobby](../../das-netzwerk.md) entschieden, auf unserem 1.8-Netzwerk zu starten. Du befindest dich nun im Portalraum, von welchem aus du dich für einen Citybuild-Server zu Beginn entscheiden kannst.\
-Falls du Unterstützung bei der Auwahl deines Citybuild-Servers brauchst, findest du einige Eindrücke und Beschreibungen in den anderen Artikeln dieser Kategorie.
+Falls du Unterstützung bei der Auswahl deines Citybuild-Servers brauchst, findest du einige Eindrücke und Beschreibungen in den anderen Artikeln dieser Kategorie.
 
 Durch das Betreten eines Portals gelangst du nun auf den entsprechenden Server und bist bereit dein Abenteuer auf GrieferGames zu beginnen.
 
@@ -29,8 +29,8 @@ Um zu deinem Grundstück zurück zu kommen, kannst du jederzeit den Befehl `/plo
 
 Deine gefarmten Materialien kannst du nun auf deinem Grundstück unterbringen. Nutze hierfür Kisten, welche du aus Holz herstellen kannst. Um Gegenstände herzustellen, kannst du dir eine Werkbank bauen und auf deinem Grundstück aufstellen oder jederzeit den Befehl `/craft` verwenden, um eine mobile Werkbank zu öffnen.
 
-Wenn du dir bei einem Rezept unsicher bist, kannst du alle Rezepte über den Befehl `/rezepte` aufrufen und vernwenden. \
-Hast du bereits ein Item im Inventar, welches du erneut herstellen willst, kannst du nach Aufruf des Rezept-Menü für Standard-Blöcke das Item in deinem Inventar anklicken und das passende Rezept wird direkt ausgewählt und geöffnet.
+Wenn du dir bei einem Rezept unsicher bist, kannst du [alle Rezepte](../../erweiterte-features/die-rezeptsammlung.md) über den Befehl `/rezepte` aufrufen und vernwenden. \
+Hast du bereits ein Item im Inventar, welches du erneut herstellen willst, kannst du nach Aufruf des [Rezept-Menü für Standard-Blöcke](../../erweiterte-features/die-rezeptsammlung.md#standardrezepte) das Item in deinem Inventar anklicken und das passende Rezept wird direkt ausgewählt und geöffnet.
 
 Für mehr Befehle, kannst du dir unsere [Befehlsübersicht](../befehlsuebersicht/) anschauen. Möchtest du mehr Informationen zu Grundstücken und deren Einstellungen, findest du diese [hier](../grundstuecke/).
 

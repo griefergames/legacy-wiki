@@ -2,7 +2,7 @@
 
 ### Spawner allgemein
 
-Spawner sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Ei vom Spieler verändert werden.
+[Spawner ](https://items.griefergames.net/#Spawner)sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Ei vom Spieler verändert werden.
 
 Spawner erzeugen, während sie geladen sind (ein Spieler befindet sich im Umkreis von 16 Blöcken), alle 10 bis 40 Sekunden bis zu vier Kreaturen. Die Kreaturen erscheinen in einem 9×3×9 Blöcke großen, auf den Spawner zentrierten freien Bereich, also innerhalb eines drei Blöcke hohen Quaders von neun Blöcken Seitenlänge.
 
@@ -47,8 +47,8 @@ Ein Wechsel des Spawner-Modus zwischen aktiv und passiv ist nur alle 6 Stunden m
 
 Auf der linken Seite des Einstellungs-Menüs kann man Upgrades für den Spawner erwerben/freischalten. Dabei hat man die Auswahl aus Drop-Upgrades, Lager-Upgrades und EXP-Upgrades. Für jedes Upgrade gibt mehrere Stufen.
 
-* **Drop-Upgrades** erhöhen die Menge an Items, welche der Spawner erzeugt. Je höher dieses Upgrade ist, desto mehr Items werden vom Spawner in der gleichen Zeit erzeugt.
-* **Lager-Upgrades** vergrößern das Spawner-Lager um weitere Plätze. Je höher dieses Upgrade ist, desto mehr Platz steht im Lager zur Verfügung.
+* [**Drop-Upgrades**](https://items.griefergames.net/#Orb-Items_%7C_Drop_Upgrade_IV) erhöhen die Menge an Items, welche der Spawner erzeugt. Je höher dieses Upgrade ist, desto mehr Items werden vom Spawner in der gleichen Zeit erzeugt.
+* [**Lager-Upgrades**](https://items.griefergames.net/#Orb-Items_%7C_Lager_Upgrade_IV) vergrößern das Spawner-Lager um weitere Plätze. Je höher dieses Upgrade ist, desto mehr Platz steht im Lager zur Verfügung.
 * **EXP-Upgrades** erhöhen die Menge an Erfahrungspunkten, welche der Spawner erzeugt. Je höher dieses Upgrade ist, desto mehr Erfahrungspunkte werden in der gleichen Zeit erzeugt.
 
 Eine weitere Funktion ist das **Filter-Upgrade**, welches über einen Klick auf die Barriere oben rechts freigeschaltet werden kann. Nach der Freischaltung kann man, mit den 8 Items um den Filter herum, bestimmte Drops des aktuellen Spawners blockieren oder verändern.
@@ -65,9 +65,7 @@ Die geforderten Items, sowie die Menge variieren je nach eingesetztem Spawn-Ei u
 
 Einige Spawn-Eier werden reinweg zu Deko-Zwecken verwendet, da die Kreaturen, welche der Spawner erstellt, keine Items als Drop haben. Im passiven Modus erzeugt der Spawner dann keine Items. Im aktiven Modus werden wie gewohnt die Kreaturen gespawnt.
 
-Zur Entlastung der Serverperformance ist es möglich einen Spawner zu einem „Bruchstein- und Erze-Generator“ umzuwandeln. Hierfür wird ein spezielles Spawn-Ei benötigt, welches sich mit folgendem Rezept herstellen lässt:
-
-<figure><img src="https://forum.griefergames.de/media/261-cobblegen-png/" alt=""><figcaption><p>Rezept für einen Bruchstein-Generator, welcher wie Spawn-Ei im Passiven Spawner verwendet werden kann</p></figcaption></figure>
+Zur Entlastung der Serverperformance ist es möglich einen Spawner zu einem „Bruchstein- und Erze-Generator“ umzuwandeln. Hierfür wird ein [spezielles Spawn-Ei](https://items.griefergames.net/#Erschaffe_Bruchstein-Generator) benötigt, welches sich mit einem [Spezial-Rezept](../erweiterte-features/die-rezeptsammlung.md#spezial-rezepte) herstellen lässt.
 
 Der Spawner erstellt (im passiven Modus) anschließend Bruchstein und alle Formen von Erzen als Items im Spawner-Lager.
 

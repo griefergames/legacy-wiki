@@ -68,36 +68,36 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 
 {% tabs %}
 {% tab title="Klassische Items" %}
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure></div>
 
-* ![](<../.gitbook/assets/image (22).png>) Klassische Rüstung (Brustplatte)
+* ![](<../.gitbook/assets/image (22).png>) [Klassische Rüstung (Brustplatte)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Brust\))
   * Diamant-Brustplatte mit Verzauberung Schutz 7 & Haltbarkeit 5
-* ![](<../.gitbook/assets/image (23).png>) Klassische Rüstung (Helm)
+* ![](<../.gitbook/assets/image (23).png>) [Klassische Rüstung (Helm)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Helm\))
   * Diamant-Helm mit Verzauberung Schutz 7 & Haltbarkeit 5
-* ![](<../.gitbook/assets/image (24).png>) Klassische Rüstung (Beinschienen)
+* ![](<../.gitbook/assets/image (24).png>) [Klassische Rüstung (Beinschienen)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Hose\))
   * Diamant-Beinschützer  mit Verzauberung Schutz 7 & Haltbarkeit 5
-* ![](<../.gitbook/assets/image (25).png>) Klassische Rüstung (Stiefel)
+* ![](<../.gitbook/assets/image (25).png>) [Klassische Rüstung (Stiefel)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Schuhe\))
   * Diamant-Stiefel mit Verzauberung Schutz 7, Haltbarkeit 5 & Federfall 4
-* ![](<../.gitbook/assets/image (26).png>) Klassisches Schwert
+* ![](<../.gitbook/assets/image (26).png>) [Klassisches Schwert](https://items.griefergames.net/#Adventurer-Items_%7C_Klassisches_Schwert)
   * Diamant-Schwert mit Verzauberung Schärfe 7, Haltbarkeit 3 & Verbrennung 2
-* ![](<../.gitbook/assets/image (27).png>) Klassische Axt
+* ![](<../.gitbook/assets/image (27).png>) [Klassische Axt](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_Axt_3x3)
   * Diamant-Axt mit Verzauberung Effizienz 7 & Haltbarkeit 3
   * Spezial-Effekt: Baut einen ganzen Baum ab! (max. 1 Stack Holz)
-* ![](<../.gitbook/assets/image (28).png>) Klassische Schaufel
+* ![](<../.gitbook/assets/image (28).png>) [Klassische Schaufel](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_Schaufel_3x3)
   * Diamant-Schaufel mit Verzauberung Effizienz 7 & Haltbarkeit 3
   * Spezial-Effekt: Baut ein 3x3-Feld ab!
-* ![](<../.gitbook/assets/image (29).png>) Klassische Spitzhacke
+* ![](<../.gitbook/assets/image (29).png>) [Klassische Spitzhacke](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_Spitzhacke_3x3)
   * Diamant-Spitzhacke mit Verzauberung Effizienz 7 & Haltbarkeit 3
   * Spezial-Effekt: Baut ein 3x3-Feld ab!
-* ![](<../.gitbook/assets/image (30).png>) Grundstück-Gutschein
+* ![](<../.gitbook/assets/image (30).png>) [Grundstück-Gutschein](https://items.griefergames.net/#Grundst%C3%BCck-Gutschein)
   * Mit diesem Gutschein kannst du ein freies Grundstück ohne Kosten beanspruchen.
-* ![](<../.gitbook/assets/image (31).png>) Merge-Gutschein
+* ![](<../.gitbook/assets/image (31).png>) [Merge-Gutschein](https://items.griefergames.net/#Merge-Gutschein)
   * Mit diesem Gutschein kannst du einen Merge-Vorgang ohne Kosten ausführen.
-* ![](<../.gitbook/assets/image (32).png>) Plot-Fliegen (3 Tage)
+* ![](<../.gitbook/assets/image (32).png>) [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) (3 Tage)
   * Mit diesem Gutschein aktivierst du den Plot-Fliegen-Effekt für 3 Tage.
-* ![](<../.gitbook/assets/image (33).png>) Sammelball
+* ![](<../.gitbook/assets/image (33).png>) [Sammelball](https://items.griefergames.net/#Sammelball)
   * Mit einem Sammelball kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 100 Anwendungen.
-* ![](<../.gitbook/assets/image (34).png>) 12x Kleiner Rüstungsständer
+* ![](<../.gitbook/assets/image (34).png>) 12x [Kleiner Rüstungsständer](https://items.griefergames.net/#Adventurer-Items_%7C_Kleiner_R%C3%BCstungsst%C3%A4nder)
   * Setze einen kleinen Rüstungsständer. Für die Minis!
 {% endtab %}
 
@@ -124,37 +124,37 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Die Kategorie "Kleine Rüstungsständer"</p></figcaption></figure>
 
 * ![](<../.gitbook/assets/image (45).png>) 6x Kleiner Rüstungsständer:
-  * Setze einen kleinen Rüstungsständer. Für die Minis!
+  * Setze einen [kleinen Rüstungsständer](https://items.griefergames.net/#Adventurer-Items_%7C_Kleiner_R%C3%BCstungsst%C3%A4nder). Für die Minis!
 {% endtab %}
 
 {% tab title="Adventurer-Items" %}
 <figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption><p>Die Kategorie "Adventurer-Items"</p></figcaption></figure>
 
-* ![](<../.gitbook/assets/image (47).png>) Adventurer-Master-Schwert
+* ![](<../.gitbook/assets/image (47).png>) [Adventurer-Master-Schwert](https://items.griefergames.net/#Adventurer-Items_%7C_Adventurer_Master-Schwert)
   * Diamant-Schwert mit Verzauberung Schärfe 25, Haltbarkeit 10 & Verbrennung 10
-* ![](<../.gitbook/assets/image (48).png>) Adventurer-Master-Bogen
+* ![](<../.gitbook/assets/image (48).png>) [Adventurer-Master-Bogen](https://items.griefergames.net/#Adventurer-Items_%7C_Adventurer_Master-Bogen)
   * Bogen mit Verzauberung Stärke 10, Haltbarkeit 10, Flamme 10 & Unendlich 10
-* ![](<../.gitbook/assets/image (58).png>) Adventurer-Master-Axt
+* ![](<../.gitbook/assets/image (58).png>) [Adventurer-Master-Axt](https://items.griefergames.net/#Adventurer-Items_%7C_Adventurer_Master-Axt)
   * Diamant-Axt mit Verzauberung Effizienz 20 & Haltbarkeit 15
   * Spezial-Effekt: Baut einen ganzen Baum ab!
-* ![](<../.gitbook/assets/image (50).png>) Adventurer-Master-Schaufel
+* ![](<../.gitbook/assets/image (50).png>) [Adventurer-Master-Schaufel](https://items.griefergames.net/#Adventurer-Items_%7C_Adventurer_Master-Schaufel)
   * Diamant-Schaufel mit Verzauberung Effizienz 20 & Haltbarkeit 15
   * Spezial-Effekt: Baut ein 5x5-Feld ab!
-* ![](<../.gitbook/assets/image (51).png>) Adventurer-Master-Spitzhacke
+* ![](<../.gitbook/assets/image (51).png>) [Adventurer-Master-Spitzhacke](https://items.griefergames.net/#Adventurer-Items_%7C_Adventurer_Master-Spitzhacke)
   * Diamant-Spitzhacke mit Verzauberung Effizienz 20 & Haltbarkeit 15
   * Spezial-Effekt: Baut ein 5x5-Feld ab!
-* ![](<../.gitbook/assets/image (52).png>) 12x Grundstück-Gutschein
+* ![](<../.gitbook/assets/image (52).png>) 12x [Grundstück-Gutschein](https://items.griefergames.net/#Grundst%C3%BCck-Gutschein)
   * Mit diesem Gutschein kannst du ein freies Grundstück ohne Kosten beanspruchen.
-* ![](<../.gitbook/assets/image (53).png>) 6x Merge-Gutschein
+* ![](<../.gitbook/assets/image (53).png>) 6x [Merge-Gutschein](https://items.griefergames.net/#Merge-Gutschein)
   * Mit diesem Gutschein kannst du einen Merge-Vorgang ohne Kosten ausführen.
-* ![](<../.gitbook/assets/image (54).png>) Plot-Fliegen (30 Tage)
+* ![](<../.gitbook/assets/image (54).png>) [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) (30 Tage)
   * Mit diesem Gutschein aktivierst du den Plot-Fliegen-Effekt für 3 Tage.
-* ![](<../.gitbook/assets/image (55).png>) Sammelball
+* ![](<../.gitbook/assets/image (55).png>) [Sammelball](https://items.griefergames.net/#Sammelball)
   * Mit einem Sammelball kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 750 Anwendungen.
-* ![](<../.gitbook/assets/image (56).png>) Smaragd-Amulett
+* ![](<../.gitbook/assets/image (56).png>) [Smaragd-Amulett](https://items.griefergames.net/#Adventurer-Item_%7C_Smaragd_Amulett)
   * Smaragd mit Verzauberung Schutz 10 & Federfall 10
   * Schutz-Edelstein für den kleinen Spieler
-* ![](<../.gitbook/assets/image (57).png>) Bergkristall
+* ![](<../.gitbook/assets/image (57).png>) [Bergkristall](https://items.griefergames.net/#Adventurer-Items_%7C_Bergkristall)
   * Prismarinkristall mit Verzauberung Dornen 3
   * Lass sie deinen Schmerz fühlen
 {% endtab %}
@@ -193,18 +193,18 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 {% tab title="Prefixe" %}
 <figure><img src="../.gitbook/assets/image (63).png" alt=""><figcaption><p>Die Kategorie "Prefixe"</p></figcaption></figure>
 
-* ![](<../.gitbook/assets/image (64).png>) Ocean Farbe
+* ![](<../.gitbook/assets/image (64).png>) [Ocean Farbe](https://items.griefergames.net/#Prefixe_%7C_Ocean_Farbe)
   * ![](<../.gitbook/assets/image (67).png>)
-* ![](<../.gitbook/assets/image (65).png>) Galaxy Farbe
+* ![](<../.gitbook/assets/image (65).png>) [Galaxy Farbe](https://items.griefergames.net/#Prefixe_%7C_Galaxy_Farbe)
   * ![](<../.gitbook/assets/image (68).png>)
-* ![](<../.gitbook/assets/image (66).png>) Inferno Farbe
+* ![](<../.gitbook/assets/image (66).png>) [Inferno Farbe](https://items.griefergames.net/#Prefixe_%7C_Inferno_Farbe)
   * ![](<../.gitbook/assets/image (69).png>)
 {% endtab %}
 
 {% tab title="Deko-Köpfe" %}
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Die Kategorie "Deko-Köpfe"</p></figcaption></figure>
 
-In dieser Kategorie findet sich eine Vielzahl von Deko-Köpfen, welche thematisch zugeordnet sind.&#x20;
+In dieser Kategorie findet sich eine Vielzahl von [Deko-Köpfen](https://items.griefergames.net/#K%C3%B6pfe_%7C_Deko-Kopf), welche thematisch zugeordnet sind.&#x20;
 
 Die aktuelle Kollektion behandelt das Thema "Spawn-Eier" und beinhaltet 21 Köpfe als Set zum Sammeln.
 {% endtab %}
@@ -214,10 +214,15 @@ Die aktuelle Kollektion behandelt das Thema "Spawn-Eier" und beinhaltet 21 Köpf
 
 ### ![](<../.gitbook/assets/image (62).png>) Community-Kisten
 
-Die Community-Kisten sind manchmal im gleichen Slot wie die Luckyblöcke erhältlich. Sie kosten 8 Adventurer-Coins pro Kiste und können im [Case-Opening](das-case-opening.md) geöffnet werden.
+Die Community-Kisten waren manchmal im gleichen Slot wie die [Luckyblöcke](https://items.griefergames.net/#LuckyBlock) erhältlich. Sie kosteten 8 Adventurer-Coins pro Kiste und können im [Case-Opening](das-case-opening.md) geöffnet werden.
 
-Das Besondere an den [Community-Kisten](das-case-opening.md#die-community-kiste) ist, dass diese mit Item-Spenden von aktiven Spielern, Items von dauerhaft gebannten Spielern und beschlagnahmnten Items von Scammern befüllt werden.\
-Es gibt also manche Momente wo sehr seltene Admin-Items in der Kiste sind, manchmal ist aber auch nur ein Leuchtfeuer darin.
+Das Besondere an den [Community-Kisten](das-case-opening.md#die-community-kiste) war, dass diese mit Item-Spenden von aktiven Spielern, Items von dauerhaft gebannten Spielern und beschlagnahmten Items von Scammern befüllt wurden.\
+Es gab also manche Momente wo sehr seltene Admin-Items in der Kiste sind, manchmal war aber auch nur ein Leuchtfeuer darin.
+
+{% hint style="info" %}
+Es werden keine neuen Community-Kisten mehr ausgegeben.\
+Vorhandene Community-Kisten können weiterhin geöffnet werden. Die Inhalte wurden bereits mehrfach nachgefüllt.
+{% endhint %}
 
 
 

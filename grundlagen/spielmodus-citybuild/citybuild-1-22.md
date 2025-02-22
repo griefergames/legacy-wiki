@@ -6,7 +6,7 @@ description: Aufbau und Funktion der Citybuild-Server 1-22
 
 Die Citybuild-Server 1 bis 22 erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild 1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild 1</p></figcaption></figure>
 
 Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -16,9 +16,9 @@ Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichf�
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Erde, Grober Erde und einer Schicht Gras [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
 * Die maximale Bauhöhe liegt bei 254.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt auf Citybuild 8</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt auf Citybuild 8</p></figcaption></figure>
 
-Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende Rechte oder Items, welche du freischalten kannst.\
+Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende [Rechte](../befehlsuebersicht/rang-befehle.md) oder [Items](https://items.griefergames.net/), welche du freischalten kannst.\
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).
 
 
@@ -29,7 +29,8 @@ Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen 
 * Citybuild 4: Projekt "old-Spawn". Bei dem Warp-Punkt `/warp old-spawn` befindet sich ein altes Citybuild-Spawngrundstück, welcher von der Community erhalten wurde.
 *   Citybuild 1-6: Auf diesen Citybuild-Servern haben die Straßen teilweise ein abweichendes Design
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Designte Straßen auf Citybuild 3</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Designte Straßen auf Citybuild 3</p></figcaption></figure>
+* Citybuild 7: Auf diesem Ciotybuild sind die Straßen zwischen Grundstücken breiter. Merge-Grundstücke sind dadurch ebenfalls größer.
 * Citybuild 21: "Anti-Scammer"-Server. Sehr strikte Community. Lass dir hier besser nichts zu Schulden kommen.
 * Citybuild 22: Letzter Citybuild-Server des Netzwerks. Hohe Spieleraktivität, viel Handel.
 

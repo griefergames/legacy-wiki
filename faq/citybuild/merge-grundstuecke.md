@@ -33,7 +33,7 @@ Durch einen erneuten Merge-Vorgang in die entsprechende Richtung lassen sich feh
 {% hint style="warning" %}
 Merge-Fehler zu Grundstück-Rechten und Grundstück-Einstellungen werden nicht über diese Wege bearbeitet.
 
-Diese Art von Fehler lassen sich durch den Grundstückbesitzer selbst beheben. Entsprechende Anleitungen findest du im Info-Thread des Merge-Bereiches im Forum.
+Diese Art von Fehler lassen sich durch den Grundstückbesitzer selbst beheben.&#x20;
 {% endhint %}
 
 

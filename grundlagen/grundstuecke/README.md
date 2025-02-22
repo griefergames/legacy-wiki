@@ -3,9 +3,9 @@
 Jeder Spieler kann Grundstücke auf den Citybuild-Servern besitzen und diese bebauen.
 
 Die ersten 4 Grundstücke auf jedem [Citybuild-Server](../spielmodus-citybuild/) sind kostenfrei.\
-Die maximale Anzahl an Grundstücken kann durch spezielle Items dauerhaft erweitert werden.\
+Die maximale Anzahl an Grundstücken kann durch [spezielle Items](https://items.griefergames.net/#Rechte_%7C_%2B1_Grundst%C3%BCck-Slot) dauerhaft erweitert werden.\
 Das Beanspruchen von Grundstücken über der maximalen Anzahl kostet 10.000$ pro Grundstück.\
-Die Kosten für solch eine Beanspruchung können durch die Nutzung eines Grundstück-Gutschein aufgehoben werden.
+Die Kosten für solch eine Beanspruchung können durch die Nutzung eines [Grundstück-Gutschein](https://items.griefergames.net/#Grundst%C3%BCck-Gutschein) aufgehoben werden.
 
 Ein Grundstück ohne Besitzer kannst du jederzeit für dich [beanspruchen](../befehlsuebersicht/grundstuecks-befehle/#grundstuecke-erhalten).\
 Um das Grundstück eines anderen Spielers zu erhalten, gibt es zwei Wege:

@@ -6,13 +6,13 @@ Du kannst unseren Server kostenlos unterstützen, indem du online für ihn absti
 
 Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du jederzeit über den Befehl `/vote` auf unseren Citybuild-Servern abrufen.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
 Wenn du die [Vote-Seite](https://vote.griefergames.net/) aufrufst, wirst du automatisch auf die Seite unseres Netzwerks bei dem Anbieter minecraft-server.eu verbunden.
 
 Hier kannst du nun, in dem dafür vorgesehenen Feld deinen Spielernamen eingeben.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
 
 {% hint style="success" %}
 Wenn du den Link aus dem Chat benutzt, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
@@ -22,7 +22,7 @@ Du musst nur noch auf den Button "Voten!" drücken.
 
 Nach der Eingabe deines Accounts und dem Klick auf den Button "Voten!" wird deine Stimme verarbeitet. Bitte schließe das Fenster noch nicht, da der Vorgang einige Sekunden dauern kann, bis er abgeschlossen ist.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Erfolgsmeldung für das Abstimmen.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Erfolgsmeldung für das Abstimmen.</p></figcaption></figure>
 
 Wenn die grüne Erfolgsmeldung kommt, dass du erfolgreich für den Server abgestimmt hast, kannst du das Fenster schließen.
 
@@ -69,7 +69,7 @@ Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen f
 {% hint style="danger" %}
 Wenn du mehrere Tage in Folge nicht abstimmst wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne.
 
-Mit dem Item "Vote-Streak-Retter" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast..
+Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast..
 {% endhint %}
 
 {% hint style="info" %}
@@ -80,7 +80,7 @@ Wenn du am Tag der Streak die Belohnung nicht abholen kannst, versuche es am nä
 
 Beim Vote-NPC in der Hauptstadt findest du eine Übersicht über deine aktuelle Vote-Streak, ob du heute bereits abgestimmt hast und ob du Vote-Belohnungen abholen kannst.
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>Vote-System bei einer Streak von 1 Vote</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Vote-System bei einer Streak von 1 Vote</p></figcaption></figure>
 
 Durch einen Klick auf den goldenen "Vote-Streak"-Kopf erhältst du eine Übersicht über deine Streak und die Belohnungen. Hier kannst du ggf. ausstehende Zusatz-Belohnungen für deine aktive Streak auch direkt abholen.
 

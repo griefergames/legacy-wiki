@@ -2,6 +2,7 @@
 description: >-
   Die Übersicht über die Clan-Befehle findest du jetzt auf der Seite des
   Clan-Systems.
+hidden: true
 layout:
   title:
     visible: true

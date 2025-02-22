@@ -47,7 +47,7 @@ Minecraft löscht aus eigenem Antrieb Items und Kreaturen, um die benötigte Rec
 
 #### MobRemover
 
-Der MobRemover entfernt alle 15 Minuten sämtliche Kreaturen in allen geladenen Chunks. Dorfbewohner können mit einem pasenden Token hiervor gesichert werden.
+Der MobRemover entfernt alle 15 Minuten sämtliche Kreaturen in allen geladenen Chunks. Dorfbewohner können mit einem passenden [Token](https://items.griefergames.net/#Dorfbewohner-Token) hiervor gesichert werden.
 
 #### ItemRemover
 
@@ -55,7 +55,7 @@ Der ItemRemover entfernt alle 20 Minuten frei schwebende Items in allen geladene
 
 #### MoneyDrop-Stopp
 
-Wird die [Join-Cap (Freie Serverslots)](server-performance.md#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine Moneydrops aus den [Case-Opening-Kisten](das-case-opening.md#case-opening) mehr generiert. Die Kiste wird dem Spieler zurück erstattet.
+Wird die [Join-Cap (Freie Serverslots)](server-performance.md#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine [Moneydrops](https://items.griefergames.net/#10.000%24_10x-Money-Drop) aus den [Case-Opening-Kisten](das-case-opening.md#case-opening) mehr generiert. Die Kiste wird dem Spieler zurück erstattet.
 
 #### Stoplag/ClearLag
 
@@ -118,10 +118,8 @@ Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstrukti
 
 Ein Grundstück kann daher, wenn besonders viele, große oder schnelle Redstone-Schaltungen auf dem Grundstück verbaut sind, von der Benutzung von Redstone bis zum nächsten Server-Neustart (um 4 Uhr morgens) eingeschränkt werden.
 
-
-
 Leider lässt sich diese Einschränkung des Grundstücks nicht manuell ändern. \
-Das heißt: Wenn diese Einschränkung ausgelöst wurde, musst du leider damit leben und vorteilsweise noch einmal deine Konstruktionen näher anschauen und entscheiden, ob du diese nicht etwas minimierst.
+**Das heißt:** Wenn diese Einschränkung ausgelöst wurde, musst du leider damit leben und vorteilsweise noch einmal deine Konstruktionen näher anschauen und entscheiden, ob du diese nicht etwas minimierst.
 
 Aus Gründen der Sicherheit können wir natürlich nicht genau mitteilen, ab welchen Limits diese Einschränkungen aktiv werden.
 

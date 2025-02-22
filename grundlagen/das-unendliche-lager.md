@@ -146,7 +146,7 @@ Das unendliche Lager kann über folgendes Rezept in der Werkbank hergestellt wer
 
 ### Allgemeine Funktionsweise
 
-Anders als auf der Cloud ist das unendliche Lager auf der 1.8 eine Truhe und speichert weit aus mehr Items (also über 2.147.483.647 Einheiten).&#x20;
+Anders als auf der Cloud ist das [unendliche Lager auf der 1.8 eine Truhe](https://items.griefergames.net/#Unbegrenzter_Speicher) und speichert weit aus mehr Items (also über 2.147.483.647 Einheiten).&#x20;
 
 Das Lager speichert immer den Item-Typ, welcher als erstes reingelegt wurde - ab diesem Zeitpunkt ist das Lager speziell auf dieses Item fixiert und kann keine anderen Items mehr aufnehmen. Pro Grundstück können zwar mehrere unendliche Lager eines bestimmten Item-Typs verwendet werden, allerdings kann nur eines davon als ["passive Farm" (Einsaugmodus)](das-unendliche-lager.md#passive-farmen)​​ aktiv sein.&#x20;
 
@@ -158,7 +158,7 @@ Die Lager lassen sich nur abbauen, wenn sie komplett leer sind. Durch `/breakblo
 
 ### Komprimierte Items
 
-Das unendliche Lager verfügt außerdem über einen automatischen Komprimierer. Das bedeutet, dass man mit Shift + Rechtsklick auf die Kiste in ein Menü kommt, aus welchem man sich das gelagerte Item direkt in komprimierter Form rausziehen kann.
+Das unendliche Lager verfügt außerdem über einen automatischen Komprimierer. Das bedeutet, dass man mit Shift + Rechtsklick auf die Kiste in ein Menü kommt, aus welchem man sich das gelagerte Item direkt [in komprimierter Form](../erweiterte-features/die-rezeptsammlung.md#item-komprimierung) rausziehen kann.
 
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXceDepXC_XNRdYYalRHWNtwTzsVQ5ko1AwrZv1g3ebCPUrN-5xBV7HszMGzJXisuczfKh1Hyi-1rTSVZhG05KdFJx1zLViiUqndY3bEM7-v5C9J-V8duIT5fa-RHNt0DKFc7sBcbURg4iEz7q7o82DSV_ZD?key=Fbef1cizwBxjBjyjDaG3uQ" alt=""><figcaption><p>Abruf eingelagerter Items mit vorher eingestellter Komprimierungsstufe</p></figcaption></figure>
 

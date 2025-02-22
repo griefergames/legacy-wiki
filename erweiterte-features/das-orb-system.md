@@ -79,7 +79,7 @@ In dieser Kategorie könnt ihr euch drei verschiedene Partikel kaufen, welche nu
 {% tab title="Spezielle Items" %}
 In dieser Kategorie könnt ihr euch spezielle Items kaufen.&#x20;
 
-Hier gibt es “Trophäen” wie den Kaktus- und Kürbiskönig.
+Hier gibt es “Trophäen” wie den [Kaktus-](https://items.griefergames.net/#Orb-Items_%7C_Kaktusk%C3%B6nig) und [Kürbiskönig](https://items.griefergames.net/#Orb-Items_%7C_K%C3%BCrbisk%C3%B6nig).
 
 Ebenso finden sich hier nützliche Dinge, wie Upgrades für passive Spawner, Flug-/Abbautränke und magische Items, mit welchen ihr zum Beispiel mit einem Eimer 1000 Wasserblöcke setzen könnt.
 {% endtab %}

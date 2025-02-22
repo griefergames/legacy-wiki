@@ -2,7 +2,7 @@
 
 ### Aufzug
 
-Um schnellstmöglich zwischen verschiedenen Höhen zu wechseln, ist ein Aufzug sehr praktisch.
+Um schnellstmöglich zwischen verschiedenen Höhen zu wechseln, ist ein [Aufzug ](http://items.griefergames.net/#Aufzug)sehr praktisch.
 
 Hierfür musst du nur zwei Aufzüge auf zwei unterschiedlichen Höhen an derselben Position (X- & Z-Koordinate) platzieren.
 
@@ -14,7 +14,7 @@ Aufzüge können Spieler durch solide Blöcke hindurch transportieren. Sie eigne
 
 ### Teleporter
 
-Willst du auch die Position verändern oder sogar Spieler zu einem anderen Plot bringen, so hilft dir hierbei ein Teleporter.
+Willst du auch die Position verändern oder sogar Spieler zu einem anderen Plot bringen, so hilft dir hierbei ein [Teleporter](https://items.griefergames.net/#Teleporter).
 
 Diesen platzierst du einfach an einer gewünschten Position. Alle Teleporter eines Spielers (Grundstückbesitzer) werden automatisch in das gleiche Netzwerk eingebunden. Durch Springen oder Schleichen auf einem Teleporter wird man zum nächsten/vorherigen Teleporter-Punkt transportiert.&#x20;
 
