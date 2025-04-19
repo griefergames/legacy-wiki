@@ -232,6 +232,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * RolDom\_FCR (CB15)
 * DerNeueHappy19 (CB22)
 * 1DrachiiLSP (CB1)
+* Schokuhlade (CB19)
 
 </details>
 
