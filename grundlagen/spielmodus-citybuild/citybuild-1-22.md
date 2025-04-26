@@ -30,7 +30,7 @@ Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen 
 *   Citybuild 1-6: Auf diesen Citybuild-Servern haben die Straßen teilweise ein abweichendes Design
 
     <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Designte Straßen auf Citybuild 3</p></figcaption></figure>
-* Citybuild 7: Auf diesem Ciotybuild sind die Straßen zwischen Grundstücken breiter. Merge-Grundstücke sind dadurch ebenfalls größer.
+* Citybuild 7: Auf diesem Citybuild sind die Straßen zwischen Grundstücken breiter. Merge-Grundstücke sind dadurch ebenfalls größer.
 * Citybuild 21: "Anti-Scammer"-Server. Sehr strikte Community. Lass dir hier besser nichts zu Schulden kommen.
 * Citybuild 22: Letzter Citybuild-Server des Netzwerks. Hohe Spieleraktivität, viel Handel.
 

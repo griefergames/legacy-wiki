@@ -22,6 +22,16 @@ Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen 
 
 <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Wasserfluss stoppt an einer Grundstücksgrenze</p></figcaption></figure>
 
+{% hint style="danger" %}
+Wird ein Grundstück auf den Citybuild-Servern Nature/Extreme zu häufig zurückgesetzt, kommt es zu einem Fehler, bei welchem keine Blöcke mehr auf dem Grundstück droppen.
+
+Dies gilt sowohl für natürlich generierte Blöcke beim Abbau, als auch für Items, die ein Spieler abwirft/verliert.
+
+Der Fehler behebt sich zum nächsten Server-Neustart selbstständig. Verlorene Items können nicht erstattet werden.
+{% endhint %}
+
+
+
 ### Besonderheiten
 
 * Plotwelt mit natürlicher Weltgenerierung

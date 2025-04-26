@@ -35,7 +35,25 @@ Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 S
 Adventurer-Coins (oder kurz "Coins") sind eine Serverwährung, welche beim [Adventurer](../erweiterte-features/das-adventurer-system.md#adventurer) erhältlich sind. Coins werden durch das Erledigen von Aufgaben für den Adventurer generiert. Spieler können daher nur zeitlich begrenzt eine bestimmte Menge an Coins durch Spielaktivität generieren.
 
 Coins können beim [Admin-Shop](../erweiterte-features/das-adventurer-system.md#der-admin-shop) eingesetzt werden, um spezielle Item, sowie optische und funktionelle Features zu erwerben.\
-Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
+Adventure-Coins sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
+
+### Swap-Token
+
+Swap-Tokens sind eine saisonale Währung, welche vor allem zu besonderen Anlässen temporär im Spiel nutzbar sind. Tokens kann man durch die Abgabe von Items bei einem Tausch-NPC erhalten. Hierbei bekommt man verschieden viele Tokens für verschiedene Items.
+
+{% hint style="info" %}
+In der Vergangenheit gab es zur Weihnachtszeit 2024 die Tausch-Elfe und zu Ostern 2025 den Tausch-Hase.&#x20;
+{% endhint %}
+
+Für gängige Admin-Items wie [Grundgestein](https://items.griefergames.net/#Grundgestein), [Barrieren](https://items.griefergames.net/#Barriere) oder [Dracheneier ](https://items.griefergames.net/#Drachenei)kann man einen Swap-Token gutgeschrieben bekommen. Für spezielle saisonale Items, welche man aus dem CaserOpening ziehen kann erhält man bis zu 5 Swap-Tokens.
+
+Von den Swap-Tokens kann man sich beim selben NPC dann im Token-Shop Kisten für das Case-Opening, bekannte begehrte Items oder sogar exklusive Items und Item-Variationen kaufen.
+
+Swap-Tokens sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
+
+{% hint style="warning" %}
+Bitte beachte, dass die Swap-Tokens immer nur für den derzeitigen Token-Shop nutzbar sind, sie verfallen also wenn der temporäre NPC wieder weg ist.
+{% endhint %}
 
 
 
@@ -43,6 +61,7 @@ Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 S
 
 <summary>An diesem Artikel beteiligt</summary>
 
+* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

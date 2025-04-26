@@ -52,6 +52,8 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
 * **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
   * Item-Rahmen, Rüstungsständer, Gemälde etc.
   * Köpfe
+  * Jump-Pads
+  * Vitrinen
 * **Diese Blöcke/Entities können möglicherweise verschwinden:**
   * Partikeleffekte
   * Hologramme
@@ -76,14 +78,14 @@ Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Bl
   * Item-Rahmen, Rüstungsständer, Gemälde, etc.
   * Köpfe
   * Shulker-Kisten
+  * Jump-Pads
+  * Vitrinen
 * **Diese Blöcke/Entities können verschwinden:**
   * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
   * Mobs (vorher mit "Magischer Leine" einfangen)
   * Plot-NPCs (Koordinaten + Einstellungen angeben)
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
   * Teleporter
-* **Bei diesen Blöcken können Einstellungen und Verbindungen verloren gehen:**
-  * Trichter
 * **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
   * CaseOpenings
   * GamingStations

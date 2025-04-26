@@ -154,6 +154,8 @@ Außerdem sind auch Verbindungen mit Trichtern möglich. Die Funktionen des [Tri
 
 Die Lager lassen sich nur abbauen, wenn sie komplett leer sind. Durch `/breakblock` ist das Abbauen auch in gefülltem Zustand möglich. Die Items gehen in diesem Fall verloren.
 
+Unendliche Lager lassen sich mit der Flag `/unlimited-storage-public` für andere Spieler auf einem Grundstück freigeben.
+
 
 
 ### Komprimierte Items
@@ -170,6 +172,15 @@ Das unendliche Lager verfügt außerdem über einen automatischen Komprimierer. 
 
 Nach Auswahl werden alle Items dieses Typs, die auf dem Grundstück natürlich entstehen oder gedroppt werden würden, automatisch direkt in das Lager geleitet. \
 Diese Funktion greift priorisiert vor dem "Einsaugen" durch Trichter.
+
+
+
+### Einsaug-Modus zurücksetzen
+
+Um den Einsaug-Modus zurückzusetzen, kann man diesen am jeweiligen Unendlichen Lager wieder ausschalten. \
+Falls ein Unendliches Lager/Einsaug-Modus fehlerhaft hinterlegt ist, kann über den Befehl `/storage clear` der Fehler selbstständig behoben werden. Über den Befehl werden **alle** aktiven Einsaug-Modi auf dem jeweiligen Grundstück aufgehoben. \
+Die Einsaug-Modi können dann an den Unendlichen Lagern neu eingestellt werden.\
+
 
 
 

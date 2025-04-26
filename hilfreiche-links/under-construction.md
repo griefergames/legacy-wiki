@@ -14,7 +14,6 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
-* [Block des Tages](../erweiterte-features/der-block-des-tages.md)
 * [Handels-System](../grundlagen/das-handels-system.md)
 
 ### Unvollständige Seiten (stub)
@@ -27,6 +26,7 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 * [Grundstücke](../grundlagen/grundstuecke/)
 * [Aufzüge & Teleporter](../grundlagen/customblocks/aufzuege-and-teleporter.md)
 * [Die Hauptstadt](../erweiterte-features/die-hauptstadt.md) (außer Gefängnis)
+* [Block des Tages](../erweiterte-features/der-block-des-tages.md)
 
 ### Visuelle Überarbeitung (missing picture)
 

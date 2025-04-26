@@ -50,18 +50,19 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 | [Kein Fallschaden](https://items.griefergames.net/#Perks_%7C_Kein_Fallschaden_Perk)           | Du erhältst keinen Fallschaden mehr.                             | 750.000 $                           |
 | [Kein Hunger](https://items.griefergames.net/#Perks_%7C_Kein_Hunger_Perk)                     | Deine Hunger-Anzeige sinkt nicht mehr.                           | 500.000 $                           |
 | [Regeneration+](https://items.griefergames.net/#Perks_%7C_Regeneration%2B_Perk)               | "Regeneration 2"-Effekt                                          | CaseOpening                         |
-| Regeneration+2                                                                                | "Regeneration 4"-Effekt                                          | CaseOpening                         |
+| [Regeneration+2](https://items.griefergames.net/#Perks_%7C_Regeneration-Perk_Lvl_2)           | "Regeneration 4"-Effekt                                          | CaseOpening                         |
 | [Schnelligkeit+](https://items.griefergames.net/#Perks_%7C_Schnelligkeit%2B_Perk)             | +20% Geschwindigkeit                                             | 500.000$                            |
 | [Schnelligkeit+2](https://items.griefergames.net/#Perks_%7C_Schnelligkeit-Perk_Lvl_2)         | +20% Geschwindigkeit                                             | CaseOpening                         |
 | [Eile+](https://items.griefergames.net/#Perks_%7C_Eile%2B_Perk)                               | "Eile 2"-Effekt                                                  | CaseOpening                         |
-| Eile+2                                                                                        | "Eile 4"-Effekt                                                  | CaseOpening                         |
+| [Eile+2](https://items.griefergames.net/#Perks_%7C_Eile-Perk_Lvl_2)                           | "Eile 4"-Effekt                                                  | CaseOpening                         |
 | [Feuerresistenz+](https://items.griefergames.net/#Perks_%7C_Feuerresistenz%2B_Perk)           | Du erhältst keinen Feuerschaden.                                 | <p>500.000 $<br>20.000.000 Orbs</p> |
 | [Unterwasseratmung+](https://items.griefergames.net/#Perks_%7C_Unterwasseratmung%2B_Perk)     | Du hast unbegrenzt Luft.                                         | <p>400.000 $<br>10.000.000 Orbs</p> |
 | [Gärtner](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Perk)                        | Du kannst Pflanzen schneller wachsen lassen.                     | CaseOpening                         |
+| [Gärtner+](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                      | Du kannst mehr Pflanzen (3x3) schneller wachsen lassen.          | CaseOpening                         |
 | [Stärke+](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke%2B_Perk)                      | +260% Angriffsschaden                                            | 500.000 $                           |
 | [Stärke+2](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke-Perk_Lvl_2)                  | +260% Angriffsschaden                                            | CaseOpening                         |
 | [Resistenz+](https://items.griefergames.net/#Perks_%7C_Resistenz%2B_Perk)                     | "Resistenz 2"-Effekt                                             | CaseOpening                         |
-| Resistenz+2                                                                                   | "Resistenz 4"-Effekt                                             | CaseOpening                         |
+| [Resistenz+2](https://items.griefergames.net/#Perks_%7C_Resistenz-Perk_Lvl_2)                 | "Resistenz 4"-Effekt                                             | CaseOpening                         |
 | [Sprungkraft+](https://items.griefergames.net/#Perks_%7C_Sprungkraft%2B_Perk)                 | Sprungkraft-Effekt                                               | 500.000 $                           |
 | [Sprungkraft+2](https://items.griefergames.net/#Perks_%7C_Sprungkraft-Perk_Lvl_2)             | Verbesserter Sprungkraft-Effekt                                  | CaseOpening                         |
 | [Nachtsicht+](https://items.griefergames.net/#Perks_%7C_Nachtsicht%2B_Perk)                   | Nachtsicht-Effekt                                                | <p>400.000 $<br>10.000.000 Orbs</p> |
@@ -72,7 +73,7 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 | [KeepInventory](https://items.griefergames.net/#Perks_%7C_Keep_Inventory-Perk_Lvl_2)          | Items in deinem Inventar und deiner Hotbar sind beim Tod sicher. | CaseOpening                         |
 | [KeepXP](https://items.griefergames.net/#Perks_%7C_KeepXP_Perk)                               | Gesammelte XP sind beim Tod sicher.                              | 1.250.000 $                         |
 | [5 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_5_Extra-Herzen_Perk)               | Du erhältst 5 zusätzliche Herzen.                                | CaseOpening                         |
-| 10 Extra-Herzen                                                                               | Du erhältst 10 zusätzliche Herzen.                               | CaseOpening                         |
+| [10 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_Extra-Herzen-Perk_Lvl_2)          | Du erhältst 10 zusätzliche Herzen.                               | CaseOpening                         |
 | [Kein Creeper-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Creeper-Schaden_Perk)   | Creeper fügen dir keinen Schaden zu.                             | CaseOpening                         |
 | [Kein Lohen-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Lohen-Schaden_Perk)       | Lohen fügen dir keinen Schaden zu.                               | CaseOpening                         |
 | [Kein Enderman-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Enderman-Schaden_Perk) | Enderman fügen dir keinen Schaden zu.                            | CaseOpening                         |
