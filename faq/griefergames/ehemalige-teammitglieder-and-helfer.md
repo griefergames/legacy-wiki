@@ -10,6 +10,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
 <summary><strong>Administratoren/Teamleiter/Manager</strong></summary>
 
+* Bantor (ehem. Administrator)
 * Wengalf (ehem. Administrator & Teamleiter) (bekannt als WengalfDerGraue)
 * Lissi\_hin (ehem. Administratorin)
 * PredZone (ehem. Administrator)
