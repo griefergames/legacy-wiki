@@ -81,6 +81,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * Wurmi\_das\_Fratz
 * PhantomExitus
 * Lord\_Bard
+* ByPander
 
 </details>
 
