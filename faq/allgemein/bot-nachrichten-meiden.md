@@ -8,7 +8,7 @@ Mit dem Befehl `/ignore <Name>` kannst du Accounts ignorieren und somit ihre Nac
 
 ### **Chat-Filter (Client-Modifikation)**
 
-Installiere dir für deine Java-Edition die [Modifikation](../../hilfreiche-links/empfohlene-modifikationen.md) „LabyMod“ oder „MysteryMod“.
+Installiere dir für deine Java-Edition eine Client-[Modifikation](../../hilfreiche-links/empfohlene-modifikationen.md).
 
 1. Wähle die entsprechende Client-Version in deinem Minecraft-Launcher aus und starte das Spiel.
 2. Betrete unseren Server mit der IP „GrieferGames.net“ und verbinde dich auf einen unserer Citybuild-Server.

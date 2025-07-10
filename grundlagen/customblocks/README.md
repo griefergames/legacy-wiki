@@ -16,15 +16,9 @@ Anders als bei anderen Modded Servern ist es auf GrieferGames nicht verpflichten
 Die Nutzung der Blöcke ist freiwillig. Wir empfehlen natürlich die Erweiterung zu installieren.
 {% endhint %}
 
-### <img src="../../.gitbook/assets/1.png" alt="" data-size="line"> CustomBlocks mit MysteryMod <a href="#xnfftjxowydc" id="xnfftjxowydc"></a>
-
-Für die 1.8 Version stehen die Blöcke zusätzlich als Möbel-Addon im [MysteryMod Client](https://mysterymod.net/downloadmainpage1-8-9/) zur Verfügung.
-
-Starte den MysteryMod 1.8.9 Client, öffne die Minecraft-Einstellungen, öffne MysteryMod Settings, öffne Addons und installiere das "Furniture"-Addon. Starte danach den Client neu und du hast die CustomBlocks installiert!
-
 ### ​<img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
 
-Solltet ihr MysteryMod nicht verwenden wollen, stehen euch die CustomBlocks auch als Erweiterung auf Basis von Forge zur Verfügung. Diese könnt ihr in den Client eurer Wahl hinzufügen und seid nicht mehr auf den MysteryMod Client angewiesen.
+Die CustomBlocks stehen euch als Erweiterung auf Basis von Forge zur Verfügung. Forge agiert als eine Art Mod-Loader und bildet die Grundlage für die Einbindung unserer CustomBlocks-Erweiterung. Forge könnt ihr in einen Client eurer Wahl hinzufügen.
 
 <details>
 
@@ -60,5 +54,6 @@ Solltet ihr Probleme oder generelle Fragen zu der Installation von CustomBlocks 
 
 * [SyntaxOfficial](https://profile.griefergames.live/minecraft/5680a974-0d5f-460d-87a2-a33b076d4d08)
 * [CosmoHDx](https://profile.griefergames.live/minecraft/2416dddf-e794-4efe-a1b0-95679cb4c68e)
+* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
