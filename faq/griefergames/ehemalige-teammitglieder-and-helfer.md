@@ -33,6 +33,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 <summary><strong>Senior Developer</strong></summary>
 
 * p4skal
+* LocutusVonBorg
 
 </details>
 
