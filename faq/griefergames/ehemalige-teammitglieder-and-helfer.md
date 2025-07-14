@@ -58,6 +58,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * kyleonaut
 * Edlingem
 * IPat
+* LULULULUKA
 
 </details>
 
