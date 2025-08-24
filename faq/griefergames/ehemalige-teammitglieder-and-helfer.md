@@ -260,6 +260,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * Buddelerin
 * ValiToast
 * Via87
+* 180erPing
 
 </details>
 
