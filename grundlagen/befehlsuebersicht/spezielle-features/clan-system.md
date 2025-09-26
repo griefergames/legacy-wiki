@@ -3,17 +3,6 @@ description: >-
   Die Übersicht über die Clan-Befehle findest du jetzt auf der Seite des
   Clan-Systems.
 hidden: true
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: true
 ---
 
 # Clan-System

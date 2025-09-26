@@ -52,6 +52,7 @@
 * [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
 * [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
+* [🎫 Der GrieferPass](erweiterte-features/grieferpass.md)
 * [🏛️ Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
 * [👮 Das Helfer-System](erweiterte-features/das-helfer-system.md)
 * [🧑‍🏭 Das Job-System](erweiterte-features/das-job-system.md)
@@ -62,6 +63,7 @@
 * [📉 Server-Performance](erweiterte-features/server-performance.md)
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
 * [🧙 Der Zauberwald](erweiterte-features/der-zauberwald.md)
+* [🎰 Zufallsbasierte Mechaniken](erweiterte-features/zufallsbasierte-mechaniken.md)
 
 ## GrieferGames Allgemein
 
@@ -85,6 +87,7 @@
   * [Resets der Minecraft-Welten](faq/allgemein/resets-der-minecraft-welten.md)
   * [Nicknames und Realnames](faq/allgemein/nicknames-und-realnames.md)
   * [Minecraft-Name ändern (Mojang/Microsoft)](faq/allgemein/minecraft-name-andern-mojang-microsoft.md)
+  * [Fehler beim Verbindungsaufbau](faq/allgemein/fehler-beim-verbindungsaufbau.md)
 * [Minecraft: Bedrock Edition](faq/bedrock.md)
 * [Minecraft: Citybuild](faq/citybuild/README.md)
   * [Grundstücke verwalten](faq/citybuild/grundstuecke-verwalten/README.md)

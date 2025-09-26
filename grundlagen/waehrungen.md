@@ -16,12 +16,16 @@ Spieler können ihre $ entweder mit sich führen (Kontostand) oder auf der Bank 
 Beim Bezahlen von Serverfunktionen wird das Geld automatisch vom Kontostand abgezogen. \
 Zum Überweisen an Spieler oder zum Übertragen zwischen Bankguthaben und Kontostand werden [Befehle](befehlsuebersicht/allgemeine-befehle.md#allgemeine-befehle) verwendet.
 
+Viele Transaktionen kannst du über den Befehl `/moneylog` anzeigen lassen.
+
 ### Kristalle
 
 Kristalle sind eine Premium-Währung, welche zum Kauf von Kisten am [Case-Opening](../erweiterte-features/das-case-opening.md#caseopening) eingesetzt werden kann.
 
 Kristalle können im [GrieferGames WebShop](../hilfreiche-links/griefergames-dienste.md) erworben oder durch Spielaktivitäten erspielt werden.\
 Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
+
+Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristallog` prüfen.
 
 ### Orbs
 
@@ -42,7 +46,7 @@ Adventure-Coins sind nicht handelbar und können daher nicht als Zahlungsmittel 
 Swap-Tokens sind eine saisonale Währung, welche vor allem zu besonderen Anlässen temporär im Spiel nutzbar sind. Tokens kann man durch die Abgabe von Items bei einem Tausch-NPC erhalten. Hierbei bekommt man verschieden viele Tokens für verschiedene Items.
 
 {% hint style="info" %}
-In der Vergangenheit gab es zur Weihnachtszeit 2024 die Tausch-Elfe und zu Ostern 2025 den Tausch-Hase.&#x20;
+In der Vergangenheit gab es zur Weihnachtszeit 2024 die Tausch-Elfe, zu Ostern 2025 den Tausch-Hasen und Im Sommer 2025 (Juni-August) den Tausch-Taucher.
 {% endhint %}
 
 Für gängige Admin-Items wie [Grundgestein](https://items.griefergames.net/#Grundgestein), [Barrieren](https://items.griefergames.net/#Barriere) oder [Dracheneier ](https://items.griefergames.net/#Drachenei)kann man einen Swap-Token gutgeschrieben bekommen. Für spezielle saisonale Items, welche man aus dem CaserOpening ziehen kann erhält man bis zu 5 Swap-Tokens.

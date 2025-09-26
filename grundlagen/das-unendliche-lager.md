@@ -10,129 +10,24 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 
 <summary>Folgende Items sind lagerbar:</summary>
 
-* Karotten
-* Kartoffeln
-* Zuckerrohr
-* Pilze
-* Kakteen
-* Weizen
-* Samen
-* Melonenscheiben&#x20;
-* Kürbisse
-* Diamant
-* Smaragd
-* Lapis
-* Kohle
-* Redstone
-* Eisenbarren
-* Goldbarren
-* Goldklumpen
-* Bruchstein
-* Bemosster Bruchstein
-* Erde
-* Stein
-* Pfeil
-* Hasenpfote
-* Kaninchenfell
-* Leder
-* Federn
-* Prismarinscherben
-* Prismarinkristalle
-* Zucker
-* Spinnenauge
-* Glowstonestaub
-* Stock
-* Schwarzpulver
-* Glasflasche
-* Magmacreme
-* Lohenrute
-* Faden
-* Enderperle
-* Verrottetes Fleisch
-* Ghast-Träne
-* Schleimball
-* Knochen
-* Tintenbeutel
-* Rohes Rindfleisch
-* Rohes Hühnchen
-* Rohes Kaninchen
-* Rohes Hammelfleisch
-* Roher Fisch
-* Eier
-* Netherwarze
-* Sonnenblume
-* Melonenblock
-* Grasblock
-* Sand
-* Sandstein
-* XP-Flaschen
-* Schneeball
-* Schneeblock
-* Eis
-* Packeis
-* Spinnennetz
-* Seerosenblatt
-* Netherquarzerz
-* Rosenstrauch
-* Flieder
-* Pfingstrose
-* Lohenstaub
-* Feuerkugel
-* Enderauge
-* Ranken
-* Myzel
-* Kies
-* Feuerstein
-* Seelaterne
-* TNT
-* Amboss
-* Bücher
-* Schüssel
-* Leerer Eimer
-* Papier
-* Kompass
-* Leere Karte
-* Ofen
-* Plattenspieler
-* Braustand
-* Zaubertisch
-* Endertruhe
-* Rahmen
-* Kessel
-* SChild
-* Eisengitter
-* Gemälde
-* Leine
-* Uhr
-* Werkbank
-* Steinziegel
-* Ziegelsteine
-* Ziegel
-* Netherziegel
-* Schleimblock
-* Ofenkartoffel
-* Schwamm
-* Fermentiertes Spinnenauge
-* Goldene Karotte
-* Rüstungsständer
-* Glitzernde Melonenscheibe
-* Wolle (alle Farben)
-* Gras (alle Arten)
-* Blumen (alle Arten)
-* Erze (alle Arten)
-* Erzblöcke (alle Arten)
-* Holzstamm (alle Arten)
-* Holzbrett (alle Arten)
-* Ton (alle Arten)
-* Teppiche (alle Arten)
-* Nether-Blöcke (alle Arten)
-* Glas (alle Arten)
-* Laub (Alle Arten)
-* Pilzblock (Alle Arten)
-* Prismarinblock (Alle Arten)
-* Redstone-Items (Alle Arten)
+Alle Items, außer:&#x20;
 
-Alle Sub-ID's dieser Items (bspw. Granit bei Stein oder div. Farben bei Wolle) sind hierin mit einbegriffen.
+* jegliche Art von nicht-stackbaren Items
+* Spawn-Eier
+* Spawner
+* Beacons
+* Dracheneier
+* Endstein
+* Bedrock
+* Barrieren
+* Endportalrahmen
+* Nethersterne
+* Karten
+* Feuerwerksraketen&#x20;
+* Feuerwerkssterne&#x20;
+* (+ CustomBlocks)
+
+Alle Sub-ID's dieser Items sind hierin mit einbegriffen.
 
 </details>
 
@@ -154,7 +49,7 @@ Außerdem sind auch Verbindungen mit Trichtern möglich. Die Funktionen des [Tri
 
 Die Lager lassen sich nur abbauen, wenn sie komplett leer sind. Durch `/breakblock` ist das Abbauen auch in gefülltem Zustand möglich. Die Items gehen in diesem Fall verloren.
 
-Unendliche Lager lassen sich mit der Flag `/unlimited-storage-public` für andere Spieler auf einem Grundstück freigeben.
+Unendliche Lager lassen sich mit der Flag `unlimited-storage-public` für andere Spieler auf einem Grundstück freigeben.
 
 
 

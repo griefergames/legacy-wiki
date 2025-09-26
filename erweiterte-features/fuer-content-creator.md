@@ -6,7 +6,7 @@ Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum 
 
 ***
 
-Eine Bewerbung zum **Streamer** oder **YouTuber+** kannst du einreichen, indem du ein Ticket über unser Ticket-System [(Web-basiert](https://ticket.griefergames.de/) bzw. [Discord-Server](https://discord.griefergames.net/)) erstellst oder eine E-Mail an das [Admin-Postfach](mailto:admin@griefergames.net) schreibst, wenn du dich im Bereich gewisser Richtwerte bewegst.
+Eine Bewerbung zum **Streamer** oder **YouTuber+** kannst du einreichen, indem du ein Ticket über unser Ticket-System [(Web-basiert](https://ticket.griefergames.de/) bzw. [Discord-Server](https://discord.griefergames.net/)) erstellst, wenn du dich im Bereich gewisser Richtwerte bewegst.
 
 Seit dem Streamer-Update vom 08.06.2022 gibt es keine Follower-/Abo-Voraussetzungen für den Streamer-Rang mehr.\
 Wir haben jedoch gewisse Mindestanforderungen, damit nicht jeder, der beispielsweise einmal auf Twitch gestreamt hat, direkt den Rang erhalten kann.

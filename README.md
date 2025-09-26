@@ -1,16 +1,5 @@
 ---
 description: Herzlich Willkommen im GrieferGames 1.8 Wiki
-layout:
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
 ---
 
 # Startseite

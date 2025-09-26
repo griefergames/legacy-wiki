@@ -31,7 +31,7 @@ Durch den Befehl `/booster` gelangst du in das Booster-Menü. Hier erhältst du 
 
 Alternativ kannst du auch die Befehle für den jeweiligen Booster verwenden, um diese einzusetzen.
 
-### Perks
+### Perks & Rechte
 
 Perks sind spielerbezogene Vorteile. Sie verändern Charakterwerte oder schalten andere Funktionen frei, mit denen du in den Spielverlauf eingreifen kannst.\
 Eine Liste aller verfügbaren Perks erhältst du durch den Befehl `/perks`.
@@ -45,42 +45,45 @@ Einmal erworbene Perks sind dauerhaft für deinen Charakter verfügbar.
 {% tab title="Charakter-Perks" %}
 Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 
-| Perk                                                                                          | Funktion                                                         | Preis                               |
-| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------- |
-| [Kein Fallschaden](https://items.griefergames.net/#Perks_%7C_Kein_Fallschaden_Perk)           | Du erhältst keinen Fallschaden mehr.                             | 750.000 $                           |
-| [Kein Hunger](https://items.griefergames.net/#Perks_%7C_Kein_Hunger_Perk)                     | Deine Hunger-Anzeige sinkt nicht mehr.                           | 500.000 $                           |
-| [Regeneration+](https://items.griefergames.net/#Perks_%7C_Regeneration%2B_Perk)               | "Regeneration 2"-Effekt                                          | CaseOpening                         |
-| [Regeneration+2](https://items.griefergames.net/#Perks_%7C_Regeneration-Perk_Lvl_2)           | "Regeneration 4"-Effekt                                          | CaseOpening                         |
-| [Schnelligkeit+](https://items.griefergames.net/#Perks_%7C_Schnelligkeit%2B_Perk)             | +20% Geschwindigkeit                                             | 500.000$                            |
-| [Schnelligkeit+2](https://items.griefergames.net/#Perks_%7C_Schnelligkeit-Perk_Lvl_2)         | +20% Geschwindigkeit                                             | CaseOpening                         |
-| [Eile+](https://items.griefergames.net/#Perks_%7C_Eile%2B_Perk)                               | "Eile 2"-Effekt                                                  | CaseOpening                         |
-| [Eile+2](https://items.griefergames.net/#Perks_%7C_Eile-Perk_Lvl_2)                           | "Eile 4"-Effekt                                                  | CaseOpening                         |
-| [Feuerresistenz+](https://items.griefergames.net/#Perks_%7C_Feuerresistenz%2B_Perk)           | Du erhältst keinen Feuerschaden.                                 | <p>500.000 $<br>20.000.000 Orbs</p> |
-| [Unterwasseratmung+](https://items.griefergames.net/#Perks_%7C_Unterwasseratmung%2B_Perk)     | Du hast unbegrenzt Luft.                                         | <p>400.000 $<br>10.000.000 Orbs</p> |
-| [Gärtner](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Perk)                        | Du kannst Pflanzen schneller wachsen lassen.                     | CaseOpening                         |
-| [Gärtner+](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                      | Du kannst mehr Pflanzen (3x3) schneller wachsen lassen.          | CaseOpening                         |
-| [Stärke+](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke%2B_Perk)                      | +260% Angriffsschaden                                            | 500.000 $                           |
-| [Stärke+2](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke-Perk_Lvl_2)                  | +260% Angriffsschaden                                            | CaseOpening                         |
-| [Resistenz+](https://items.griefergames.net/#Perks_%7C_Resistenz%2B_Perk)                     | "Resistenz 2"-Effekt                                             | CaseOpening                         |
-| [Resistenz+2](https://items.griefergames.net/#Perks_%7C_Resistenz-Perk_Lvl_2)                 | "Resistenz 4"-Effekt                                             | CaseOpening                         |
-| [Sprungkraft+](https://items.griefergames.net/#Perks_%7C_Sprungkraft%2B_Perk)                 | Sprungkraft-Effekt                                               | 500.000 $                           |
-| [Sprungkraft+2](https://items.griefergames.net/#Perks_%7C_Sprungkraft-Perk_Lvl_2)             | Verbesserter Sprungkraft-Effekt                                  | CaseOpening                         |
-| [Nachtsicht+](https://items.griefergames.net/#Perks_%7C_Nachtsicht%2B_Perk)                   | Nachtsicht-Effekt                                                | <p>400.000 $<br>10.000.000 Orbs</p> |
-| [Unsichtbarkeit+](https://items.griefergames.net/#Perks_%7C_Unsichtbarkeit%2B_Perk)           | Unsichtbarkeit-Effekt                                            | CaseOpening                         |
-| [Doppelte XP](https://items.griefergames.net/#Perks_%7C_Doppelte_XP_Perk)                     | Doppelte Menge an XP                                             | 500.000 $                           |
-| [Vierfach XP](https://items.griefergames.net/#Perks_%7C_DoppelteXP-Perk_Lvl_2)                | Vierfache Menge an XP                                            | CaseOpening                         |
-| [KeepHotbar](https://items.griefergames.net/#Perks_%7C_KeepHotbar_Perk)                       | Items in deiner Hotbar sind beim Tod sicher.                     | 2.500.000 $                         |
-| [KeepInventory](https://items.griefergames.net/#Perks_%7C_Keep_Inventory-Perk_Lvl_2)          | Items in deinem Inventar und deiner Hotbar sind beim Tod sicher. | CaseOpening                         |
-| [KeepXP](https://items.griefergames.net/#Perks_%7C_KeepXP_Perk)                               | Gesammelte XP sind beim Tod sicher.                              | 1.250.000 $                         |
-| [5 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_5_Extra-Herzen_Perk)               | Du erhältst 5 zusätzliche Herzen.                                | CaseOpening                         |
-| [10 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_Extra-Herzen-Perk_Lvl_2)          | Du erhältst 10 zusätzliche Herzen.                               | CaseOpening                         |
-| [Kein Creeper-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Creeper-Schaden_Perk)   | Creeper fügen dir keinen Schaden zu.                             | CaseOpening                         |
-| [Kein Lohen-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Lohen-Schaden_Perk)       | Lohen fügen dir keinen Schaden zu.                               | CaseOpening                         |
-| [Kein Enderman-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Enderman-Schaden_Perk) | Enderman fügen dir keinen Schaden zu.                            | CaseOpening                         |
-| [Kein Spinnen-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Spinnen-Schaden_Perk)   | Spinnen fügen dir keinen Schaden zu.                             | CaseOpening                         |
-| [Kein Zombie-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Zombie-Schaden_Perk)     | Zombies fügen dir keinen Schaden zu.                             | CaseOpening                         |
-| [Kein Ghast-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Ghast-Schaden_Perk)       | Ghasts fügen dir keinen Schaden zu.                              | CaseOpening                         |
-| [Kein Skelett-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Skelett-Schaden_Perk)   | Skelette fügen dir keinen Schaden zu.                            | CaseOpening                         |
+| Perk                                                                                             | Funktion                                                             | Preis                               |
+| ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------- |
+| [Kein Fallschaden](https://items.griefergames.net/#Perks_%7C_Kein_Fallschaden_Perk)              | Du erhältst keinen Fallschaden mehr.                                 | 750.000 $                           |
+| [Kein Hunger](https://items.griefergames.net/#Perks_%7C_Kein_Hunger_Perk)                        | Deine Hunger-Anzeige sinkt nicht mehr.                               | 500.000 $                           |
+| [Regeneration+](https://items.griefergames.net/#Perks_%7C_Regeneration%2B_Perk)                  | "Regeneration 2"-Effekt                                              | CaseOpening                         |
+| [Regeneration+2](https://items.griefergames.net/#Perks_%7C_Regeneration-Perk_Lvl_2)              | "Regeneration 4"-Effekt                                              | CaseOpening                         |
+| [Schnelligkeit+](https://items.griefergames.net/#Perks_%7C_Schnelligkeit%2B_Perk)                | +20% Geschwindigkeit                                                 | 500.000$                            |
+| [Schnelligkeit+2](https://items.griefergames.net/#Perks_%7C_Schnelligkeit-Perk_Lvl_2)            | +20% Geschwindigkeit                                                 | CaseOpening                         |
+| [Eile+](https://items.griefergames.net/#Perks_%7C_Eile%2B_Perk)                                  | "Eile 2"-Effekt                                                      | CaseOpening                         |
+| [Eile+2](https://items.griefergames.net/#Perks_%7C_Eile-Perk_Lvl_2)                              | "Eile 4"-Effekt                                                      | CaseOpening                         |
+| [Feuerresistenz+](https://items.griefergames.net/#Perks_%7C_Feuerresistenz%2B_Perk)              | Du erhältst keinen Feuerschaden.                                     | <p>500.000 $<br>20.000.000 Orbs</p> |
+| [Unterwasseratmung+](https://items.griefergames.net/#Perks_%7C_Unterwasseratmung%2B_Perk)        | Du hast unbegrenzt Luft.                                             | <p>400.000 $<br>10.000.000 Orbs</p> |
+| [Gärtner](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Perk)                           | Du kannst Pflanzen schneller wachsen lassen. (Schleichen)            | CaseOpening                         |
+| [Gärtner+](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                         | Du kannst mehr Pflanzen (3x3) schneller wachsen lassen. (Schleichen) | CaseOpening                         |
+| [Stärke+](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke%2B_Perk)                         | +260% Angriffsschaden                                                | 500.000 $                           |
+| [Stärke+2](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke-Perk_Lvl_2)                     | +260% Angriffsschaden                                                | CaseOpening                         |
+| [Resistenz+](https://items.griefergames.net/#Perks_%7C_Resistenz%2B_Perk)                        | "Resistenz 2"-Effekt                                                 | CaseOpening                         |
+| [Resistenz+2](https://items.griefergames.net/#Perks_%7C_Resistenz-Perk_Lvl_2)                    | "Resistenz 4"-Effekt                                                 | CaseOpening                         |
+| [Sprungkraft+](https://items.griefergames.net/#Perks_%7C_Sprungkraft%2B_Perk)                    | Sprungkraft-Effekt                                                   | 500.000 $                           |
+| [Sprungkraft+2](https://items.griefergames.net/#Perks_%7C_Sprungkraft-Perk_Lvl_2)                | Verbesserter Sprungkraft-Effekt                                      | CaseOpening                         |
+| [Nachtsicht+](https://items.griefergames.net/#Perks_%7C_Nachtsicht%2B_Perk)                      | Nachtsicht-Effekt                                                    | <p>400.000 $<br>10.000.000 Orbs</p> |
+| [Unsichtbarkeit+](https://items.griefergames.net/#Perks_%7C_Unsichtbarkeit%2B_Perk)              | Unsichtbarkeit-Effekt                                                | CaseOpening                         |
+| [Doppelte XP](https://items.griefergames.net/#Perks_%7C_Doppelte_XP_Perk)                        | Doppelte Menge an XP                                                 | 500.000 $                           |
+| [Vierfach XP](https://items.griefergames.net/#Perks_%7C_DoppelteXP-Perk_Lvl_2)                   | Vierfache Menge an XP                                                | CaseOpening                         |
+| [KeepHotbar](https://items.griefergames.net/#Perks_%7C_KeepHotbar_Perk)                          | Items in deiner Hotbar sind beim Tod sicher.                         | 2.500.000 $                         |
+| [KeepInventory](https://items.griefergames.net/#Perks_%7C_Keep_Inventory-Perk_Lvl_2)             | Items in deinem Inventar und deiner Hotbar sind beim Tod sicher.     | CaseOpening                         |
+| [KeepXP](https://items.griefergames.net/#Perks_%7C_KeepXP_Perk)                                  | Gesammelte XP sind beim Tod sicher.                                  | 1.250.000 $                         |
+| [5 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_5_Extra-Herzen_Perk)                  | Du erhältst 5 zusätzliche Herzen.                                    | CaseOpening                         |
+| [10 Extra-Herzen](https://items.griefergames.net/#Perks_%7C_Extra-Herzen-Perk_Lvl_2)             | Du erhältst 10 zusätzliche Herzen.                                   | CaseOpening                         |
+| [Kein Creeper-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Creeper-Schaden_Perk)      | Creeper fügen dir keinen Schaden zu.                                 | CaseOpening                         |
+| [Kein Lohen-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Lohen-Schaden_Perk)          | Lohen fügen dir keinen Schaden zu.                                   | CaseOpening                         |
+| [Kein Enderman-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Enderman-Schaden_Perk)    | Enderman fügen dir keinen Schaden zu.                                | CaseOpening                         |
+| [Kein Spinnen-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Spinnen-Schaden_Perk)      | Spinnen fügen dir keinen Schaden zu.                                 | CaseOpening                         |
+| [Kein Zombie-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Zombie-Schaden_Perk)        | Zombies fügen dir keinen Schaden zu.                                 | CaseOpening                         |
+| [Kein Ghast-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Ghast-Schaden_Perk)          | Ghasts fügen dir keinen Schaden zu.                                  | CaseOpening                         |
+| [Kein Skelett-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Skelett-Schaden_Perk)      | Skelette fügen dir keinen Schaden zu.                                | CaseOpening                         |
+| [Kein Schleim-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Schleim-Schaden_Perk)      | Schleime fügen dir keinen Schaden zu.                                | CaseOpening                         |
+| [Kein Wächter-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_W%C3%A4chter-Schaden_Perk) | Wächter fügen dir keinen Schaden zu.                                 | CaseOpening                         |
+| [Kein Pigman-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Pigman-Schaden_Perk)        | Pigman fügen dir keinen Schaden zu.                                  | CaseOpening                         |
 
 Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie freigeschaltet hast.
 
@@ -90,14 +93,22 @@ Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-z
 {% tab title="Funktions-Perks" %}
 Funktions-Perks schalten besondere Spielfunktionen frei.
 
-| Perk                                                                  | 	Funktion                                                     | Preis        |
-| --------------------------------------------------------------------- | ------------------------------------------------------------- | ------------ |
-| [ClearChat](https://items.griefergames.net/#Perks_%7C_ClearChat_Perk) | Fügt 1000 Leerzeilen im Chat ein.                             | 1.500.000 $  |
-| [SlowChat](https://items.griefergames.net/#Perks_%7C_Slowchat_Perk)   | Cooldown beim Schreiben von Nachrichten                       | 1.500.000 $  |
-| [MuteP](https://items.griefergames.net/#Perks_%7C_Mutep_Perk)         | Schaltet einen Spieler für 15 Minuten stumm                   | 10.000.000 $ |
-| [Startkick](https://items.griefergames.net/#Perks_%7C_Startkick_Perk) | Starte eine Abstimmung, um einen Spieler vom Server zu werfen | 10.000.000 $ |
+<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">	Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Perks_%7C_ClearChat_Perk">ClearChat</a></td><td>Fügt 1000 Leerzeilen im Chat ein.</td><td>1.500.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Slowchat_Perk">SlowChat</a></td><td>Cooldown beim Schreiben von Nachrichten.</td><td>1.500.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Mutep_Perk">MuteP</a></td><td>Schaltet einen Spieler für 15 Minuten stumm.</td><td>10.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Startkick_Perk">Startkick</a></td><td>Starte eine Abstimmung, um einen Spieler vom Server zu werfen.</td><td>10.000.000 $</td></tr></tbody></table>
 
-Funktions-Perks lassen sich nicht deaktivieren. Um sie einzusetzen, verwendest du den entsprechenden Befehl des Perks.
+Funktions-Perks lassen sich nicht deaktivieren.&#x20;
+
+Funktionsperks kannst du einzusetzen, indem du den entsprechenden Befehl des Perks verwendest.
+{% endtab %}
+
+{% tab title="Rechte" %}
+Rechte schalten dir zusätzliche Features frei oder geben dir zusätzliche Fähigkeiten.\
+Rechte können dein Spielerlebnis beeinflussen.
+
+<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">	Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Famboss-Recht">Amboss-Recht</a></td><td>Du hast einen mobilen Amboss.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht">Kartenersteller</a></td><td>Du kannst <a href="../erweiterte-features/kartengenerierung.md">Karten generieren</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Machtversiegelte_Vorratskammer">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Ph%C3%B6nix-Auge">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Enderchest_sehen">Offline Endertruhe</a></td><td>Du kannst Endertruhen von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Taktisches_Analysemodul">Offline Inventare</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Inventare_sehen">Offline Inventare</a></td><td>Du kannst Inventare von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_Fly_Recht">Fly-Rechte</a></td><td>Du kannst dich in die Lüfte erheben.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Forcefield_Flag">Forcefield-Rechte</a></td><td>Du kannst die Forcefield-Flag auf deinem Grundstück aktivieren.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a></td><td>Erhalte eine Schutzaura, die andere Spieler wegstößt.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_2._Zeile_Signieren-Recht">2.Zeile signieren</a></td><td>Du kannst eine weitere Zeile zu deiner Signatur hinzufügen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fsigninv-Recht">SignInv<br>UnsignInv</a></td><td>(Un-)Signiert alle Items im Inventar.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Geb%C3%BChrensenkungs-Perk">Gebührensenkung</a></td><td>Senkt diverse Gebühren im Spiel.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fh%C3%A4ndler-Rechte">Händler-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-handler-handler">Orb-Händler</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fverk%C3%A4ufer-Rechte">Verkäufer-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-verkaufer-verkaufer">Orb-Verkäufer</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Ersteller_sehen_im_Auktionshaus">Auktionator</a></td><td>Du kannst die Ersteller laufender Auktionen sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Alle_Slots_in_%2Ftrade">Handelsslots-Recht</a></td><td>Alle Slots bei der Nutzung von <a href="das-handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Kein_Cooldown_in_%2Ftrade">Handelscooldown-Recht</a></td><td>Kein Cooldown bei der Nutzung von <a href="das-handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Keine_Geb%C3%BChren_in_%2Ftrade">Handelsgebühren-Recht</a></td><td>Keine Kosten bei der Nutzung von <a href="das-handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Pay-All_Rechte">Pay *</a></td><td>Zahlung an alle Spieler auf dem Citybuild-Server.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Plot-Pay-Add_Recht">PlotPay *</a></td><td>Zahlung an alle Spieler auf deinem Grundstück.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Ph%C3%B6nix-Flug">Globales Pay*</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Globale-Pay-All_Rechte_(Item)">Globales Pay*</a></td><td>Zahlung an alle Spieler auf dem Netzwerk.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Dauerhaftes_God_Recht_(diesmal_3-mailg)">God-Recht</a></td><td>Keinen Schaden erleiden.</td><td>CaseOpening</td></tr></tbody></table>
+
+Aktive Rechte kannst du nach Erhalt einzusetzen, indem du den entsprechenden Befehl des Rechtes verwendest.
+
+Passive Rechte sind nach Erhalt dauerhaft aktiv und müssen nicht aktiviert werden.
 {% endtab %}
 {% endtabs %}
 
@@ -116,6 +127,7 @@ Solltest du für eine Gruppe Spieler einen Flug- oder Abbau-Effekt nutzen wollen
 | [Abbautrank](https://items.griefergames.net/#Orb-Items_%7C_Abbautrank)           | Erhöht deine Abbaugeschwindigkeit für 15 Minuten                         | 350.000 Orbs |
 | [Flug-Wurftrank](https://items.griefergames.net/#Orb-Items_%7C_Flug-Wurftrank)   | Erlaubt es alle getroffenen Spielern für 15 Minuten zu fliegen           | 500.000 Orbs |
 | [Abbau-Wurftrank](https://items.griefergames.net/#Orb-Items_%7C_Abbau-Wurftrank) | Erhöht die Abbaugeschwindigkeit aller getroffenen Spieler für 15 Minuten | 500.000 Orbs |
+| Unsign-Token                                                                     | Entfernt die Signatur eines anderen Spielers auf einem Item.             | CaseOpening  |
 
 Zusätzlich gibt es noch ein Item, welches dir erlaubt auf deinem Grundstück das Fliegen zu ermöglichen. Hierzu werden dann weder Booster noch Tränke benötigt. Dieses Item erhältst du gelegentlich beim [Adventurer](../erweiterte-features/das-adventurer-system.md#der-admin-shop) oder als Gewinn aus dem [Case-Opening](../erweiterte-features/das-case-opening.md).
 

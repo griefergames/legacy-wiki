@@ -25,7 +25,7 @@ Der Ablauf bei der Überschreibung ist gleich dem normaler Grundstücke. Die Üb
 
 Ab einem 26er-Merge zählt ein Grundstück riesiges Grundstück. Der Ablauf bei der Überschreibung ist gleich dem normaler Grundstücke.
 
-Diese Grundstücke kannst du - im Gegensatz zu normalen und großen Grundstücken - nur alle 30 Tage überschreiben. Den Cooldown dafür kannst du über `/cooldowns` einsehen.
+Diese Grundstücke kannst du - im Gegensatz zu normalen und großen Grundstücken - nur alle 7 Tage überschreiben. Den Cooldown dafür kannst du über `/cooldowns` einsehen.
 
 
 

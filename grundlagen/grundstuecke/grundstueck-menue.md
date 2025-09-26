@@ -24,7 +24,7 @@ Das Menü rufst du auf deinem Grundstück mit `/plot`, `/p`, `/menü` oder `/m` 
 
 ### Grundstücks-Flags
 
-### ![](https://lh4.googleusercontent.com/yp7Kmb3RxoTzLMzVMA-gEMlWvGtBUO2FFlqUqooB1xpJ2TYHTHDSGBE4FptrWOIU15E5v17T8CpwStd3ct1b5fVn8L1G3CgMvJvphb3IcSpjr5bNqDHrO5SSpFnX6geeFxli-ve4GpDpt-MWVynbirM)
+![](https://lh4.googleusercontent.com/yp7Kmb3RxoTzLMzVMA-gEMlWvGtBUO2FFlqUqooB1xpJ2TYHTHDSGBE4FptrWOIU15E5v17T8CpwStd3ct1b5fVn8L1G3CgMvJvphb3IcSpjr5bNqDHrO5SSpFnX6geeFxli-ve4GpDpt-MWVynbirM)
 
 ![](https://lh4.googleusercontent.com/9XI6wgV7c5I36Emj8jLAbP3SfzpLf4Df4Uj36FVhGa5R59Srx7Mfh4-3dPG151oKEUBUQB4xf3an5t7TrbIno3LtTT6ij7HwtAYQugKK2uV9u4JWIdNCfCuceFctPYMy0pJH04zJsrp9ko_1QBjaxgA)
 

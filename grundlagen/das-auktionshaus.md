@@ -187,6 +187,8 @@ Folgende Filter sind aktuell im Auktionshaus vorhanden:
 * CustomBlocks
 * CaseOpening-Kisten
 * Zauberwald-Items
+* Spawn-Eier
+* Einlösbare Perk-Items
 
 </details>
 

@@ -30,6 +30,10 @@ Gekaufte Kisten werden an deinem Account gespeichert. Du kannst diese entweder d
 Die linke Truhe in der untersten Reihe zeigt dir bei einem Klick, welche und wie viele Kisten du aktuell besitzt und öffnen kannst.\
 In diesem Menü kannst du auch in diese Kisten sehen oder die Kisten öffnen, wenn sie aktuell nicht auf der Hauptseite des Case-Opening aufgeführt sind.
 
+{% hint style="info" %}
+Gewinne, welche nicht abgeholt werden können - weil während dem Öffnen die Verbindung verloren geht oder euer Inventar voll ist - werden in einem eigenen Untermenü gesammelt und können über das CaseOpening-Menü zu einem späteren Zeitpunkt abgeholt werden. Eure Gewinne sind also gegen Verlust gesichert.
+{% endhint %}
+
 
 
 ### Kisten-Arten
@@ -45,7 +49,7 @@ Die Auswahl der Köpfe, sowie die Themen der Sets werden in regelmäßigen Abst�
 
 #### Die Supreme-Kiste ![](<../.gitbook/assets/image (25) (1).png>)
 
-Die Supreme-Kiste ist die größte der 3 Standard-Kisten und enthält eine Vielzahl an wertvollen Items. Auch hier ist ein Köpfe-Set mit thematischem Zusammenhang hinterlegt, welches jedoch seltener wechselt.
+Die Supreme-Kiste ist die größte der 3 Standard-Kisten und enthält eine Vielzahl an wertvollen Items.&#x20;
 
 #### Die Community-Kiste ![](<../.gitbook/assets/image (26) (1).png>)
 
@@ -65,6 +69,31 @@ Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Ja
 #### Besondere Zufallskisten
 
 Die Besonderen Zufallskisten enthalten neben wertvollen Gewinnen auch andere Kisten, wodurch man mit etwas Glück hochwertige Kisten und Items gewinnen kann. Mit etwas Pech landet man aber auch bei einer einfachen Vote-Kiste. Besondere Zufallskisten enthalten zudem neben der aktuellen, auch weitere Saisonale Kisten, welche derzeit nicht käuflich zu erwerben sind.
+
+### Fragmente
+
+Fragmente können  als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du genügend Fragmente sammelst, kannst du diese einlösen und erhältst eine zusätzliche Chance auf einen Gewinn:
+
+* [100 Kristalle](https://items.griefergames.net/#Fragmente_%7C_100_Kristalle-Fragment)
+* [150 Kristalle](https://items.griefergames.net/#Fragmente_%7C_150_Kristalle-Fragment)
+* [Zufalls-Booster](https://items.griefergames.net/#Fragmente_%7C_150_Kristalle-Fragment)
+* [Spawn-Ei](https://items.griefergames.net/#Fragmente_%7C_Spawnei-Fragment)
+* [Spawner](https://items.griefergames.net/#Fragmente_%7C_Spawner-Fragment)
+* [3.000.000$](https://items.griefergames.net/#Fragmente_%7C_3.000.000%24-Fragment)
+* [7.500.000$](https://items.griefergames.net/#Fragmente_%7C_7.500.000%24-Fragment)
+* [1.000.000.000$](https://items.griefergames.net/#Fragmente_%7C_1.000.000.000%24-Fragment)
+
+### Angebotszug
+
+Der Angebotszug befindet sich im CaseOpening unten rechts.&#x20;
+
+Jede Woche erhältst du 10 exklusive Angebote, die für dich persönlich festgelegt werden. Diese enthalten Rabatte und andere Überraschungen für dich!
+
+{% hint style="info" %}
+Du kannst immer nur das nächste Angebot sehen. Manchmal kann es sich also auch lohnen ein weniger interessantes Angebot anzunehmen, um das nächste freizuschalten.
+{% endhint %}
+
+Der Angebotszug wird jeden Montag um 00:00 Uhr zurückgesetzt und 10 neue Angebote für die Woche generiert. Noch nicht eingelöste Angebote verfallen dadurch.
 
 
 
