@@ -16,9 +16,9 @@ In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den 
 
 ***
 
-## Jetzt NEU! Die GrieferGames Item-Liste!
+## Jetzt NEU! Der Grieferpass!
 
-{% embed url="https://items.griefergames.net/" %}
+{% embed url="https://wiki.griefergames.net/erweiterte-features/grieferpass" %}
 
 ***
 

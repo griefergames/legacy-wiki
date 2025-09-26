@@ -40,6 +40,7 @@ Diese Seiten sind bereits toll beschrieben, aber für das gewisse Extra fehlen e
 * [Server-Performance](../erweiterte-features/server-performance.md)
 * [Passive Spawner](../grundlagen/passive-spawner.md)
 * [Die Rezeptsammlung](../erweiterte-features/die-rezeptsammlung.md)
+* [Zufallsbasierte Mechaniken](../erweiterte-features/zufallsbasierte-mechaniken.md)
 
 {% hint style="info" %}
 Bitte nutze beim Erstellen von Screenshots keine Texturepacks oder Shader. Diese sehen sicher toll aus. Jedoch hat nicht jeder Spieler die Möglichkeit diese zu nutzen und könnte durch abweichende Ansichten verwirrt sein.

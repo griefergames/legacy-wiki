@@ -179,4 +179,12 @@ Alle erspielten Belohnungen müssen bis zum [Ende der Season](grieferpass.md#akt
 Startet die [nächste Season](grieferpass.md#die-season), ist ein nachträgliches Abholen **nicht** mehr möglich!
 {% endhint %}
 
-\
+
+
+<details>
+
+<summary>An diesem Artikel beteiligt</summary>
+
+* [phanTom84\_](https://profile.griefergames.live/minecraft/f856eab9-1212-4d79-9558-e3b3f829a4f3)
+
+</details>
