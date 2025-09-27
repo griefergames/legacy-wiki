@@ -24,7 +24,7 @@ Auf der Übersichtsseite findest du folgende Menüpunkte:
 
 Ganz oben findest du deine aktuellen XP.&#x20;
 
-Diese Leiste füllt sich von rot zu grün, bis das nächste Level erreicht wurde. Ganz rechts auf dem Erfahrungsfläschchen findest du Informationen über dein aktuelles Level, deine aktuellen XP und wieviel XP benötigst du noch benötigst, um das nächste Level zu erreichen.&#x20;
+Diese Leiste füllt sich von rot zu grün, bis das nächste Level erreicht wurde. Ganz rechts auf dem Erfahrungsfläschchen findest du Informationen über dein aktuelles Level, deine aktuellen XP und wieviel XP du noch benötigst, um das nächste Level zu erreichen.&#x20;
 
 <figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
