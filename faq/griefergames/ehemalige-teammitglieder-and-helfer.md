@@ -243,6 +243,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * BigBlueFox (CB 10)
 * KirschenXD (CB 11)
 * Rommel12345 (CB Evil)
+* Pummelbaerchen\_ (CB 19)
 
 </details>
 
