@@ -134,6 +134,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
 * FlexRace
 * Katakuri1
+* Nasima
 
 </details>
 
