@@ -25,7 +25,7 @@ Kristalle sind eine Premium-Währung, welche zum Kauf von Kisten am [Case-Openin
 Kristalle können im [GrieferGames WebShop](../hilfreiche-links/griefergames-dienste.md) erworben oder durch Spielaktivitäten erspielt werden.\
 Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 
-Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristallog` prüfen.
+Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristalllog` prüfen.
 
 ### Orbs
 
