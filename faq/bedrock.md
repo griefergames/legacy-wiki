@@ -1,5 +1,19 @@
 ---
 description: Hier findest du Antworten auf typische Anliegen zur Bedrock Edition
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Minecraft: Bedrock Edition
@@ -58,9 +72,7 @@ Ihr könnt euch dennoch über eure Konsole verbinden und auf unserem Netzwerk sp
 
 Fehler, welche ausschließlich auf Konsolen auftreten und nicht auf der Handy- / Windows-Version reproduziert werden können, werden wir nicht zur Behebung aufnehmen.
 
-Möchtest du einen Fehler melden, welcher ausschließlich in der Bedrock Edition auftritt, kannst du dies in unserem Forum im Bereich ["Fehlermeldungen - Bedrock Edition"](https://forum.griefergames.de/forum/board/286-fehlermeldungen-bedrock-edition/) vornehmen. Beachte dabei bitte die Hinweise zur Erstellung von Fehlermeldungen und den angepinnten Info-Thread zu bekannten Fehlern.
-
-
+Möchtest du einen Fehler melden, welcher ausschließlich in der Bedrock Edition auftritt, kannst du dies auf unserem Discord im Bereich "Fehlermeldungen" mit dem Label "Bedrock Edition" vornehmen.&#x20;
 
 ### Ersatzmenüs
 

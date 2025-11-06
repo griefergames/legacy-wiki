@@ -1,5 +1,19 @@
 ---
 description: Hier findest du Antworten auf typische Anliegen zu unserem WebShop
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Webshop
@@ -19,7 +33,7 @@ Die Menge sollte bei Rängen und Upgrades immer auf '1' stehen, da du einen Rang
 {% endhint %}
 
 {% hint style="danger" %}
-Kaufe niemals mehrere Upgrades in einer Bestellung, da dies Fehler im System verursachen kann.
+Kaufe niemals mehrere Upgrades in einer Bestellung, da dies Fehler im System verursachen kann!
 {% endhint %}
 
 
@@ -38,7 +52,7 @@ Mit der Schaltfläche „WEITER ZUR KASSE“ gelangst du nun zum Bezahlvorgang.
 
 Im Bezahlvorgang kannst du entweder ohne Anmeldung (als Gast) bezahlen oder dir ein Benutzerkonto im Shop einrichten (empfohlen).
 
-Fährst du ohne Anmeldung fort, musst du den Minecraft-Namen (auf  welchen die Produkte gebucht werden) und deine E-Mail-Adresse (für die Bestellbestätigung) angeben.
+Fährst du ohne Anmeldung fort, musst du den Minecraft-Namen (auf welchen die Produkte gebucht werden) und deine E-Mail-Adresse (für die Bestellbestätigung) angeben.
 
 Auf der Seite findest du auch eine Übersicht über die verfügbaren Zahlungsarten und Zahlungsanbieter.
 

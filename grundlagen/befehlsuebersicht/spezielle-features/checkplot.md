@@ -16,6 +16,8 @@ Folgende Befehle kannst du für [das Checkplot-System](../../grundstuecke/grunds
 | /checkplot claim confirm | Bestätige deine Übernahme des Grundstücks                                                                                                                     |
 | /checkplot help          | Zeigt dir eine Übersicht über alle Checkplot-Befehle                                                                                                          |
 
+Bei Fragen zum Checkplot-System bzw. deinem Antrag wende dich bitte an den Support.
+
 
 
 <details>

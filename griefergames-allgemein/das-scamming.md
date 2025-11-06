@@ -1,8 +1,25 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # 😠 Das Scamming
 
 Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf dem Server-Netzwerk **nicht** verboten.&#x20;
 
-> [GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/#74ca94a9-2-spezifische-regeln-zu-minecraft-servern)
+> [GrieferGames Regelwerk](regelwerk.md)
 >
 > (7) Das sogenannte „Scammen“ (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk nicht verboten, kann aber in Einzelfällen zu Sanktionen führen.
 >
@@ -20,7 +37,7 @@ Das heißt kurz gesagt, dass Spieler andere Spieler um ihre Items, Grundstücke,
 
 Seid euch also bewusst, dass der ein oder andere Spieler auf unserem Netzwerk sich als "Bösewicht" sieht und entsprechend verhält. Ihr könnt gegen solche unfairen Verhaltensweisen als Community eigenverantwortlich vorgehen.
 
-Wenn man beweisen kann, dass ein Spieler jemanden betrogen hat, kann man im Forum unter [Warnungen vor Spielern](https://forum.griefergames.de/forum/board/185-warnungen-vor-spielern/) oder #scamming auf unserem [Discord-Server](https://discord.griefergames.net/) ein neues Thema erstellen, um andere Spieler zu warnen.
+Wenn man beweisen kann, dass ein Spieler jemanden betrogen hat, kann man im Forum unter [Warnungen vor Spielern](https://forum.griefergames.de/forum/board/185-warnungen-vor-spielern/) oder auf unserem [Discord-Server](https://discord.griefergames.net/) im Bereich #scamming ein neues Thema erstellen, um andere Spieler zu warnen.
 
 Weitere Optionen sind Community-Moderationen, um den Spieler für ein unerwünschtes Spielverhalten zu sanktionieren:
 

@@ -1,6 +1,23 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Ehemalige Teammitglieder & Helfer
 
-Alle aktuellen Teammitglieder können in der [Teamliste](zustandigkeiten.md) eingesehen werden.
+Alle aktuellen Teammitglieder können in der [Teamliste](team.md) eingesehen werden.
 
 Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
@@ -269,6 +286,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * ValiToast
 * Via87
 * 180erPing
+* 4zig
 
 </details>
 

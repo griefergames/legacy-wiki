@@ -2,13 +2,27 @@
 description: >-
   Hier findest du Antworten auf typische Anliegen zu unserem TeamSpeak- und
   Discord-Server
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # TeamSpeak
 
 ### TeamSpeak: Support
 
-Manche Spieler brauchen Support, welchen man direkt durch Naschlagen im [Forum](https://forum.griefergames.de/forum/) oder [Wiki](https://wiki.griefergames.net/) beantworten kann.
+Manche Spieler brauchen Support, welchen man direkt durch Nachschlagen im [Wiki](https://wiki.griefergames.net/) oder Fragen im [Discord](../hilfreiche-links/griefergames-dienste.md) beantworten kann.
 
 Aufgrund unserer Prioritäten, technischen Möglichkeiten und internen Strukturen, haben wir daher entschieden den offiziellen Support über TeamSpeak einzustellen.
 
@@ -17,11 +31,9 @@ Aufgrund unserer Prioritäten, technischen Möglichkeiten und internen Strukture
 Einige Supporter und Moderatoren bieten einen temporären freiwilligen Support auf dem TeamSpeak-Server an. Ist das so, dann kannst du auch dort dein Anliegen anbringen. Sei dir dabei bitte bewusst, dass du nicht der Einzige bist, der ein Anliegen hat. Viele TeamSpeak-Nutzer werden im Channel sein, weshalb du also bitte immer etwas Geduld haben solltest.\
 
 
-Als Alternative kannst du jederzeit deine Anfragen in den Foren [Support: In-Game](https://forum.griefergames.de/forum/board/277-support-in-game/), [Support: Out-Game](https://forum.griefergames.de/forum/board/278-support-out-game/) oder auf unserem [Discord-Server](https://discord.griefergames.net/) stellen.
+Priorisiert solltest du deine Anfragen auf unserem [Discord-Server](https://discord.griefergames.net/) im Kanal "🗨️🆘 | chat-support" stellen.
 
 Dort wird dir nicht nur durch unsere Teammitglieder, sondern auch unsere Community-Mitglieder geholfen. Sollte zur Lösung deines Anliegens ein Teammitglied erforderlich sein, melden sich diese bei dir zurück.
-
-
 
 Falls du direkt Kontakt zum Team aufnehmen möchtest, kannst du dies auch über unser [Ticket-System (Web)](https://ticket.griefergames.de/) oder über das [Ticket-System (Discord)](https://discord.com/channels/325017098592059392/1022387246873198643) machen.
 
@@ -63,25 +75,20 @@ Die Erstellung eines neuen Foren-Accounts ist nur noch über GGAuth möglich. Hi
 
 **Ablauf der Verifikation**
 
-1. Anmeldung mit dem existierenden Account im Forum
-2. _Kontrollzentrum_ » _Benutzerkonto_ aufrufen und "TeamSpeak-Identitäten" auswählen
-3. Den Button „TeamSpeak-Identität hinzufügen“ anklicken
-4. Die eindeutige ID eintragen\*\* und optional eine Notiz für die Identität setzen
-5. Du erhältst nun eine Nachricht im Chat des TeamSpeak-Servers mit einem Bestätigungscode. Diesen musst du kopieren.
-6. Füge den kopierten Bestätigungscode im Forum bei deiner angelegten TeamSpeak-Identität ein.
-7. Das System verifiziert dich und du hast ab sofort die Gruppe "Verifiziert" auf unserem TeamSpeak-Server.
+1. Anmeldung mit einem existierenden GGAuth-Account
+2. _nach unten scrollen zu "Account-Verknüpfungen"_&#x20;
+3. In der Kachel Teamspeak den Button „Verknüpfung hinzufügen“ anklicken
+4. Die eindeutige ID eintragen\*\* und bestätigen
+5. Folge den Anweisungen auf der Accountverwaltung, bis der Vorgang erfolgreich abgeschlossen ist.
+6. Das System verifiziert dich und du hast ab sofort die entsprechende Gruppe und Rechte auf unserem TeamSpeak-Server.
 
 {% hint style="warning" %}
-Du kannst in deinem Foren-Account immer nur **eine e**indeutige Identität verknüpfen.
+Du kannst in deinem GGAuth-Account immer nur **eine e**indeutige Identität verknüpfen.
 {% endhint %}
 
 {% hint style="info" %}
 Die eindeutige ID findest du im TeamSpeak-Client unter _Extras_ » _Identitäten_ (Expertenmodus aktiviert)
 {% endhint %}
-
-
-
-Die „Verifiziert“-Gruppe ist gleichgestellt mit der normalen „Spieler“-Gruppe, welche man mit der [Rang-Synchronisation auf unserem Minecraft-Server](ts-discord.md#minecraft-rang-synchronisieren) bekommt. Man kann mit dieser Gruppe also temporäre Channel erstellen, bestehende Channel joinen, usw.
 
 
 

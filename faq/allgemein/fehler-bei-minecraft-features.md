@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Fehler bei Minecraft-Features
 
 ### Falsche Client-Version
@@ -24,10 +41,11 @@ Auch für die Bedrock-Version informieren wir dich immer auf unserem Discord-Ser
 
 ### Fehler melden
 
-Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du unserem Forum eine [Fehlermeldung erstellen](https://forum.griefergames.de/article/2-fehlermeldungen/). Schau am Besten vorher mit der Suchfunktion, ob der Fehler bereits gemeldet & bekannt ist.\
+Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du auf [unserem Discord](../../hilfreiche-links/griefergames-dienste.md) eine Fehlermeldung erstellen. Schau am Besten vorher mit der Suchfunktion, ob der Fehler bereits gemeldet & bekannt ist.\
 
 
-Bei Beeinträchtigungen der Server-Performance brauchst du keine Fehlermeldung erstellen. Schildere uns diese einfach im [Serverperformance-Thread](https://forum.griefergames.de/forum/thread/17508-statement-zur-serverperformance/).
+Bei Beeinträchtigungen der Server-Performance brauchst du keine Fehlermeldung erstellen. \
+Wir sind über entsprechende Analyse-Tools und den allgemeinen Chat auf dem Discord über aktuelle Performanceprobleme stets zeitnah informiert. Bekannte und geplante Einschränkungen der Verbindung findest du auch im Kanal "server-status" auf unserem Discord.
 
 
 

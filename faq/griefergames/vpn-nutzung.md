@@ -1,6 +1,23 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # VPN-Nutzung
 
-Die Verwendung eines „Virtual Private Network“ (VPN) oder ProxyRelais (Proxy-Server) ist grundsätzlich erlaubt, wenn du dadurch gegen keine Serverregeln verstößt.
+Die Verwendung eines „Virtual Private Network“ (VPN) oder ProxyRelais (Proxy-Server) ist grundsätzlich erlaubt, wenn du dadurch gegen keine [Serverregeln](../../griefergames-allgemein/regelwerk.md) verstößt.
 
 {% hint style="warning" %}
 Bist du beispielsweise gebannt worden und nutzt anschließend einen VPN, um diesen Bann zu umgehen, ist dies verboten!

@@ -1,5 +1,19 @@
 ---
 description: Wo brauchen wir Unterstützung?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 🏗️ under construction
@@ -8,13 +22,13 @@ Auf dieser Seite findest du Auflistungen an Seiten, welche wir gerne befüllt se
 
 Natürlich freuen wir uns auch über jede Einreichung zu neuen Themen. Falls du aber gerade nicht weißt, zu welchem Thema du einen Beitrag leisten möchtest, dann kannst du hier Seiten finden, die etwas Zuneigung suchen.
 
-Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfügung. Du kannst mich (50U7R34P3R) direkt per Discord anschreiben, eine Konversation im Forum öffnen oder mir deine Einsendung über das Ticket-System zukommen lassen.
+Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfügung. Du kannst mich (50U7R34P3R) direkt per Discord anschreiben oder mir deine Einsendung über das Ticket-System zukommen lassen.
 
 ### Fehlende Seiten (dead-link)
 
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
-* [Handels-System](../grundlagen/das-handels-system.md)
+* [Handels-System](../grundlagen/das-handels-system.md) (derzeit deaktiviert)
 
 ### Unvollständige Seiten (stub)
 

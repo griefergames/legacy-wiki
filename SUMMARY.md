@@ -67,13 +67,14 @@
 
 ## GrieferGames Allgemein
 
+* [📜 Regelwerk](griefergames-allgemein/regelwerk.md)
 * [😠 Das Scamming](griefergames-allgemein/das-scamming.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
 
 ## Häufig gestellte Fragen <a href="#faq" id="faq"></a>
 
 * [Informationen zu GrieferGames](faq/griefergames/README.md)
-  * [Zuständigkeiten](faq/griefergames/zustandigkeiten.md)
+  * [Team](faq/griefergames/team.md)
   * [Ehemalige Teammitglieder & Helfer](faq/griefergames/ehemalige-teammitglieder-and-helfer.md)
   * [Teammitglied werden](faq/griefergames/teammitglied-werden.md)
   * [Kontakt & Verlinkungen](faq/griefergames/kontakt-and-verlinkungen.md)
@@ -111,6 +112,5 @@
 
 * [🆕 GrieferGames Item-Liste](https://items.griefergames.net/)
 * [⚒️ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
-* [📋 GrieferGames Regelwerk](https://forum.griefergames.de/article/7-regelwerk/)
 * [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
 * [🏗️ under construction](hilfreiche-links/under-construction.md)

@@ -93,7 +93,7 @@ Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebe
 
 Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen. Team-Strafen (für Regelverstöße) lassen sich damit **nicht** aufheben.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 #### **Andere Spieler**
 

@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Kontakt & Verlinkungen
 
 ### Direkt-Links
@@ -7,10 +24,10 @@
 | Direktlink zur Forum-Übersicht                                      | <p>forum.griefergames.de<br></p>                           |
 | Direktlink zum Regelwerk                                            | <p>regeln.griefergames.de<br>regelwerk.griefergames.de</p> |
 | Direktlink zu den FAQ                                               | faq.griefergames.de                                        |
-| Direktlink zu der Seite „Spieler melden“                            | report.griefergames.de                                     |
-| Direktlink zu der Seite „Scammer melden“                            | scammer.griefergames.de                                    |
-| Direktlink zu der Seite „Strafaufhebungsanträge“                    | unban.griefergames.de                                      |
-| Direktlink zu der Seite „Fehler melden“                             | bugs.griefergames.de                                       |
+| Direktlink zur Info-Seite „Spieler melden“                          | report.griefergames.de                                     |
+| Direktlink zur Info-Seite „Scammer melden“                          | scammer.griefergames.de                                    |
+| Direktlink zur Info-Seite „Strafaufhebungsanträge“                  | unban.griefergames.de                                      |
+| Direktlink zur Info-Seite „Fehler melden“                           | bugs.griefergames.de                                       |
 | Direktlink zur Teamübersicht                                        | team.griefergames.de                                       |
 | Direktlink zum Support-Feedback                                     | <p>tf.griefergames.de<br>tf.griefergames.net</p>           |
 | Direktlink zur Befehlsübersicht                                     | befehle.griefergames.de                                    |

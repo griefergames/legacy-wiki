@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Punkte & Ränge
 
 ### Aktivitätspunkte
@@ -19,7 +36,7 @@ In welchen Foren du Aktivitätspunkte sammeln kannst und in welchen nicht, erfä
 Sollten deine Aktivitätspunkte nicht übereinstimmen oder fehlerhaft angezeigt werden, ist dies meist ein temporäres Problem. Die Aktivitätspunkte werden in unregelmäßigen Abständen aktualisiert und entsprechende Anzeigefehler dabei behoben. \
 Du brauchst in diesem Fall nur etwas abwarten. Eine Fehlermeldung ist **nicht** erforderlich.
 
-Sollten deine Aktivitätspunkte längere Zeit im Minusbereich sein (z. B. „Punkte: -21.200“) so teile uns dies bitte über eine [Fehlermeldung](https://forum.griefergames.de/forum/board/291-fehlermeldungen-forum/) mit.
+Sollten deine Aktivitätspunkte längere Zeit im Minusbereich sein (z. B. „Punkte: -21.200“) so teile uns dies bitte über eine Fehlermeldung im [Discord oder Ticket-System](../../hilfreiche-links/griefergames-dienste.md) mit.
 
 ### Belohnungen
 
@@ -70,10 +87,10 @@ Die Vergabe der Ränge erfolgt automatisch durch die Foren-Software, sobald du e
 
 #### Team-Ränge
 
-Die Team-Ränge erhalten Benutzer, welche Teil unseres Server-Teams sind. Auf diese Weise sind Teammitglieder und offizielle Accounts eindeutig für euch erkennbar. \
+Die Team-Ränge erhalten Benutzer, welche Teil unseres Server-Teams sind. Auf diese Weise sind Teammitglieder und offizielle Accounts eindeutig für dich erkennbar. \
 Team-Ränge sind zudem farbig, damit sie leichter erkennbar sind.
 
-Alle Teammitglieder im Forum findet ihr auch auf unserer [Team-Seite](https://forum.griefergames.de/team/).
+Alle Teammitglieder findest du auch auf unserer [Team-Seite](../griefergames/team.md).
 
 #### Spezial-Ränge
 

@@ -1,5 +1,19 @@
 ---
 description: Linksammlung zu verschiedenen GrieferGames-Diensten
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # ⚒️ GrieferGames - Dienste
@@ -7,7 +21,6 @@ description: Linksammlung zu verschiedenen GrieferGames-Diensten
 * [GG Auth](https://auth.griefergames.net/)
 * [GG Chatlog](https://chatlog.griefergames.de/my-chatlogs)
 * [GG Discord](https://discord.griefergames.net/)
-* [GG Forum](https://forum.griefergames.de/forum/)
 * [GG Item-Liste](https://items.griefergames.net/)
 * [GG Profil-System](https://profile.griefergames.net/)
 * [GG Event-System](https://events.griefergames.net)

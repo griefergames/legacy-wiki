@@ -2,13 +2,29 @@
 description: >-
   Forum, Kategorie, Unterforum, Thema, Beitrag, Kommentar - Was sind die
   Unterschiede?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Die Struktur
 
 Das Forum ist eines von mehreren Features der GrieferGames-Seite.
 
-Neben der [Webseite](https://griefergames.de/) und dem [News-System](https://forum.griefergames.de/news/) ist das [Forum](https://forum.griefergames.de/forum/) der größte und zentrale Bereich zum Austausch der Community, dem Melden von Spieler, Scammern und Fehlern, dem Einbringen von Feedback und Ideen, sowie dem netzwerkweiten Handel.
+Neben der [Webseite](https://griefergames.de/) und dem [News-System](https://forum.griefergames.de/news/) ist das [Forum](https://forum.griefergames.de/forum/) ein älterer Bereich zum Austausch der Community, sowie dem Warnen vor Scammern und dem netzwerkweiten Handel.
+
+Der Haupt-Kanal zum Austausch mit der Community & dem Team, dem Melden von Spieler, Warnen vor Scammern, Erstellen von Vorschlägen & Fehlermeldungen, netzwerkweiten Handel, Umfragem Aktionen, Events, News, Änderungen und aktuellen Server-Informationen ist unser [offizieller Discord-Server](../../hilfreiche-links/griefergames-dienste.md).
 
 ### Forum
 
@@ -18,17 +34,17 @@ Das Forum besteht aus mehreren Kategorien, welche in eigene Unterforen aufgeteil
 
 ### Kategorie
 
-Eine "Kategorie" ist ein thematischer Teil des Forums und umfasst mehrere Unterforen zu einem übergreifenden Themenfeld. Momentan besteht unser Forum aus 8 verschiedenen Kategorien.
+Eine "Kategorie" ist ein thematischer Teil des Forums und umfasst mehrere Unterforen zu einem übergreifenden Themenfeld. Momentan besteht unser Forum aus 4 verschiedenen Kategorien.
 
 ### Unterforum
 
-Ein Unterforum ist ein thematischer Bestandteil des Forums, welcher alle Themen zu einem bestimmten Themenfeld umfasst. Unser Forum besteht momentan aus 39 Unterforen.
+Ein Unterforum ist ein thematischer Bestandteil des Forums, welcher alle Themen zu einem bestimmten Themenfeld umfasst. Unser Forum besteht momentan aus 15 Unterforen.
 
 ### Thema
 
 Ein Thema - auch "Thread" genannt - ist ein eigener Bestandteil eines Unterforums. Das Thema wird durch die Erstellung mit einem Titel, ggf. Labels und einem Startbeitrag erzeugt.&#x20;
 
-In einigen Unterforen wird die Erstellung in Form von Formularfeldern aufgebaut, um eine einheitliche Bearbeitung zu ermöglichen. Die Formularfelder bieten nur eingeschränkte Möglichkeiten in der Formatierung und erlauben keinen Upload von Medien. \
+In einigen Unterforen wird die Erstellung in Form von Formularfeldern aufgebaut, um eine einheitliche Bearbeitung/Gestaltung zu ermöglichen. Die Formularfelder bieten nur eingeschränkte Möglichkeiten in der Formatierung und erlauben keinen Upload von Medien. \
 Falls du hier mit dem Editor weitere Formatierungen oder Ergänzungen (bspw. Medien) hinzufügen möchtest, erstelle das Thema über die Eingabefelder und bearbeite anschließend deinen Beitrag.
 
 Ein Thema besteht immer aus mindestens einem Beitrag (Startbeitrag) und kann dann durch Beiträge anderer Nutzer ergänzt & fortgeführt werden.

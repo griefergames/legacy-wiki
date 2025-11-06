@@ -2,6 +2,20 @@
 description: >-
   Manchmal braucht man einfach mehr Platz. Doch was tun, wenn der Nachbar im Weg
   oder das Grundstück bereits zu groß ist?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Grundstücke verschieben & erweitern
@@ -19,7 +33,7 @@ Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück
 
 
 
-Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../griefergames/zustandigkeiten.md#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
+Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../griefergames/team.md#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
 
 \
 Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung im Weg stehen, werden nur verschoben, wenn es **keine** andere Möglichkeit mehr gibt.
@@ -138,7 +152,7 @@ Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt a
 
 ## Antrag stellen
 
-Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich auf unterschiedliche Weisen erstellen:
+Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich folgendermaßen erstellen:
 
 ### **Ticket-System**
 
@@ -148,12 +162,6 @@ Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich a
 {% embed url="https://discord.griefergames.net/" %}
 
 {% embed url="https://ticket.griefergames.de/" %}
-
-### **Forum**
-
-* Erstelle deinen Antrag im passenden Unterforum:
-
-{% embed url="https://forum.griefergames.de/forum/board/304-grundst%C3%BCcksverschiebungen-erweiterungen/" %}
 
 
 

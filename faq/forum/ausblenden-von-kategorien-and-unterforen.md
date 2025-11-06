@@ -2,6 +2,20 @@
 description: >-
   Du kannst Kategorien und Unterforen ausblenden, welche dich nicht
   interessieren.
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Ausblenden von Kategorien & Unterforen
@@ -20,20 +34,15 @@ description: >-
 
 
     <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Funktion zum Ausblenden von Kategorien und Unterforen</p></figcaption></figure>
-3.  Haken in die Checkbox setzen, wenn du ein Forum nicht mehr sehen möchtest.\
-    Haken aus der Checkbox nehmen, wenn du ein Forum wieder sehen möchtest.\
-
-
-    <figure><img src="../../.gitbook/assets/image (81).png" alt=""><figcaption><p>Übersicht der Kategorien &#x26; Unterforen zum Ausblenden</p></figcaption></figure>
+3. Haken in die Checkbox setzen, wenn du ein Forum nicht mehr sehen möchtest.\
+   Haken aus der Checkbox nehmen, wenn du ein Forum wieder sehen möchtest.
 4.  Auf "Absenden" klicken, um die Änderungen anzuwenden.\
 
 
-    <figure><img src="../../.gitbook/assets/image (82).png" alt=""><figcaption><p>"Absenden"-Button am Ende der Liste zum Speichern der Auswahl</p></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption><p>Übersicht der Kategorien &#x26; Unterforen zum Ausblenden</p></figcaption></figure>
 
 {% hint style="warning" %}
 Eine Kategorie kann nur ausgeblendet werden, wenn alle Unterforen darin ausgeblendet sind.
-
-Einige Unterforen lassen sich nicht ausblenden, da diese obligatorisch sind (bspw "Umfragen an die Community").
 {% endhint %}
 
 

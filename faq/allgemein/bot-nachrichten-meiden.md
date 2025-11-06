@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # Bot-Nachrichten meiden
 
 Es gibt drei Möglichkeiten, Nachrichten von Bot-Accounts zu vermeiden bzw. auszuschließen.

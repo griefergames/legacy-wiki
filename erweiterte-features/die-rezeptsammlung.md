@@ -97,7 +97,7 @@ Die Dorfbewohner können weiterhin normal sterben oder durch [StopLag-Maßnahmen
 
 #### [Die Antike Rüstung](https://items.griefergames.net/#Antike_R%C3%BCstung_-_Komplett)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: insgesamt 24 Leuchtfeuer_
 

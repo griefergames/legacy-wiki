@@ -1,9 +1,26 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # ❗ Beschwerden über Spieler/ Beweismaterial
 
 Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
 
 {% hint style="info" %}
-Bitte erstellt dafür einen Beitrag im Forum “[Beschwerden über Spieler](https://report.griefergames.net/)” oder nutzt das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
+Bitte nutzt dafür das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
 {% endhint %}
 
 
@@ -37,7 +54,9 @@ Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs
 | Vulgäres Chatverhalten                 | Chat-Log/Videoaufnahme   |
 
 {% hint style="info" %}
-Wenn es um Regelverstöße auf [TeamSpeak](ts3server://ts.griefergames.net/) oder [Discord](https://discord.griefergames.net/) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.** Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
+Wenn es um Regelverstöße auf [TeamSpeak oder Discord](../hilfreiche-links/griefergames-dienste.md) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**&#x20;
+
+Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
 {% endhint %}
 
 

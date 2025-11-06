@@ -84,6 +84,10 @@ Es gibt diverse Gründe, warum ein Helfer von seinen Aufgaben entbunden wird:
 
 Besonders zum letzten Punkt ist gesagt, dass hier eine kurzfristige Stimmung natürlich nicht den Ausschluss zur Folge hat. Sollte jedoch die Community des eigenen Citybuild-Servers immer mehr zum Schluss kommen, dass die Wahlentscheidung ein Fehler war, so werden wir dort handeln.
 
+#### Wie melde ich Verstöße eines Helfers?
+
+Sollte dir auffallen, dass ein Helfer seine Rechte missbraucht oder gegen unser Regelwerk verstößt, erstelle bitte eine Beschwerde über das [Ticket-System](../faq/griefergames/kontakt-and-verlinkungen.md#direkt-links).
+
 
 
 <details>
