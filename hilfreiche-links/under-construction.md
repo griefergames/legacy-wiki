@@ -28,7 +28,7 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
-* [Handels-System](../grundlagen/das-handels-system.md) (derzeit deaktiviert)
+* [Handels-System](../grundlagen/handels-system.md) (derzeit deaktiviert)
 
 ### Unvollständige Seiten (stub)
 

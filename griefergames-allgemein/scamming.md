@@ -17,7 +17,7 @@ layout:
 
 # 😠 Das Scamming
 
-Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf dem Server-Netzwerk **nicht** verboten.&#x20;
+Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf unserem Server-Netzwerk **nicht** verboten.&#x20;
 
 > [GrieferGames Regelwerk](regelwerk.md)
 >

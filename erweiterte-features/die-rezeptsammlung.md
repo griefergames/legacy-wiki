@@ -58,7 +58,7 @@ Cola für den besonderen Kick! Dieses erfrischende Getränk gibt dir einen Schne
 
 #### [Die Yeezys](https://items.griefergames.net/#Yeezys)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 8 Smaragde, 1 Lederschuhe_
 
@@ -77,7 +77,7 @@ Wer muss schon Stein im Ofen brennen, wenn man ihn auch herstellen kann?
 
 #### [Der Dorfbewohner-Token](https://items.griefergames.net/#Dorfbewohner-Token)
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 4 Smaragdblöcke, 5 Leuchtfeuer_
 
@@ -97,7 +97,7 @@ Die Dorfbewohner können weiterhin normal sterben oder durch [StopLag-Maßnahmen
 
 #### [Die Antike Rüstung](https://items.griefergames.net/#Antike_R%C3%BCstung_-_Komplett)
 
-<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: insgesamt 24 Leuchtfeuer_
 
@@ -105,7 +105,7 @@ Jedes Rüstungsteil hat Schutz VI standardmäßig. Die perfekte Ausrüstung für
 
 #### [Erschaffe Bruchstein-Generator](https://items.griefergames.net/#Erschaffe_Bruchstein-Generator)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 _Benötigte Materialien: 1 Bruchstein, 1 Eisenbarren, 1 Goldbarren, 1 Kohle, 1 Redstonestaub, 1 Lapislazuli, 1 Smaragd, 1 Diamant, 1 Lore_
 

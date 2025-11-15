@@ -41,7 +41,7 @@
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 * [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
 * [📈 Das Auktionshaus](grundlagen/das-auktionshaus.md)
-* [💱 Das Handels-System](grundlagen/das-handels-system.md)
+* [💱 Das Handels-System](grundlagen/handels-system.md)
 
 ## Erweiterte Features
 
@@ -51,6 +51,7 @@
 * [💬 Das Chat-System](erweiterte-features/das-chat-system.md)
 * [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)
+* [✨ Der Event-Server](erweiterte-features/event-server.md)
 * [🫂 Das Freunde-System](erweiterte-features/das-freunde-system.md)
 * [🎫 Der GrieferPass](erweiterte-features/grieferpass.md)
 * [🏛️ Die Hauptstadt](erweiterte-features/die-hauptstadt.md)
@@ -68,8 +69,15 @@
 ## GrieferGames Allgemein
 
 * [📜 Regelwerk](griefergames-allgemein/regelwerk.md)
-* [😠 Das Scamming](griefergames-allgemein/das-scamming.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
+* [💡 Vorschlag zur Serververbesserung](griefergames-allgemein/vorschlaege.md)
+* [Fehler melden / Bug reporten](griefergames-allgemein/fehler-melden.md)
+* [😡 Vor Spielern warnen](griefergames-allgemein/spielerwarnung.md)
+* [😠 Das Scamming](griefergames-allgemein/scamming.md)
+* [🙏 Strafe aufheben / Entbannung](griefergames-allgemein/strafaufhebung.md)
+* [💁 Support erhalten](griefergames-allgemein/support.md)
+* [🚨 Account-Diebstahl / Phishing](griefergames-allgemein/account-verloren.md)
+* [🔐 GrieferGames Auth](griefergames-allgemein/gg-auth.md)
 
 ## Häufig gestellte Fragen <a href="#faq" id="faq"></a>
 

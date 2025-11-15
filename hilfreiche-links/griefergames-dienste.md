@@ -18,16 +18,22 @@ layout:
 
 # ⚒️ GrieferGames - Dienste
 
+#### Dienste
+
 * [GG Auth](https://auth.griefergames.net/)
 * [GG Chatlog](https://chatlog.griefergames.de/my-chatlogs)
-* [GG Discord](https://discord.griefergames.net/)
 * [GG Item-Liste](https://items.griefergames.net/)
 * [GG Profil-System](https://profile.griefergames.net/)
 * [GG Event-System](https://events.griefergames.net)
 * [GG Streamer-System](https://streamer.griefergames.net)
+* [GG Webshop](https://store.griefergames.net)
+
+#### Kommunikation
+
+* [GG Discord](https://discord.griefergames.net/) (primär)
 * [GG Teamspeak](ts3server://griefergames.net)
 * [GG Ticket-System](https://ticket.griefergames.de/)
-* [GG Webshop](https://store.griefergames.net)
+* [GG Forum](https://forum.griefergames.net/)
 
 
 

@@ -18,7 +18,7 @@ layout:
 
 # 📜 Regelwerk
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -92,7 +92,7 @@ layout:
 
 #### (6) Keine der exklusiv für diesen Server gebauten Bauwerke (Lobby, Portalraum, Spawns) dürfen ohne eine ausdrückliche, schriftliche Erlaubnis der Serverleitung, sowohl für private als auch gewerbliche Zwecke genutzt werden.
 
-#### (7) Das sogenannte [„Scammen“](das-scamming.md) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
+#### (7) Das sogenannte [„Scammen“](scamming.md) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
 
 1. Teammitglieder dürfen grundsätzlich nicht gescammt werden. Sie dürfen allerdings nachweisliche Scammer scammen, wenn sie das komplette Szenario aufnehmen und öffentlich auf ihrem YouTube-Kanal hochladen.
 2. Das Scammen ist allerdings nur im Spiel nicht verboten. Sobald es um Echtgeld geht, ist dies nicht mehr gestattet und kann zu einer polizeilichen Anzeige führen.
