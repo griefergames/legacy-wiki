@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # 🎫 Der GrieferPass
 
 Der Grieferpass ist ein aufgabenbasiertes Belohnungssystem. Innerhalb eines festen Zeitraums, der sogenannten [Season](grieferpass.md#die-season), gibt es verschiedene tägliche und wöchentliche [Aufgaben](grieferpass.md#pass-aufgaben-1), durch dessen Erfüllung man [Pass-XP](grieferpass.md#die-xp-bar) sammeln und somit im Level aufsteigen und weitere Belohnungen freischalten kann.
@@ -10,15 +27,14 @@ Den Pass öffnet man mit den Befehlen `/pass`, `/grieferpass` oder `/battlepass`
 
 Eine Season läuft in der Regel 4 Monate. In dieser Zeit hat man die Möglichkeit, durch diverse [Aufgaben](grieferpass.md#pass-aufgaben-1) das maximale Level 100 zu erreichen, um alle Belohnungen zu erspielen.
 
-Battlepass - Übersicht\
-
-
+Battlepass - Übersicht<br>
+--------------------------
 
 <figure><img src="../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
 
 Auf der Übersichtsseite findest du folgende Menüpunkte:
 
-### Die XP Bar 
+### Die XP Bar<br>
 
 <figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -166,8 +182,7 @@ Hat man ein Level erreicht, wird die Glasflasche zu einer XP Flasche, wodurch op
 
 <figure><img src="../.gitbook/assets/unknown (20).png" alt=""><figcaption></figcaption></figure>
 
-Da ein Stack in Minecraft nicht mehr als 64 haben kann, sind höhere Level ebenfalls mit "64" markiert, geht man mit der Maus jedoch über die XP Flasche, ist in der Itembeschreibung das entsprechende Level jedoch abzulesen.\
-
+Da ein Stack in Minecraft nicht mehr als 64 haben kann, sind höhere Level ebenfalls mit "64" markiert, geht man mit der Maus jedoch über die XP Flasche, ist in der Itembeschreibung das entsprechende Level jedoch abzulesen.<br>
 
 <figure><img src="../.gitbook/assets/unknown (21).png" alt=""><figcaption></figcaption></figure>
 

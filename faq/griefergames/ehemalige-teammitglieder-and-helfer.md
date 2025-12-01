@@ -262,6 +262,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * KirschenXD (CB 11)
 * Rommel12345 (CB Evil)
 * Pummelbaerchen\_ (CB 19)
+* Simeon626 (CB10)
 
 </details>
 

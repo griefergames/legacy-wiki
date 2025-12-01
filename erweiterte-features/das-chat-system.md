@@ -1,5 +1,19 @@
 ---
 description: Alle Chaträume und wie man sie verwendet
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 💬 Das Chat-System

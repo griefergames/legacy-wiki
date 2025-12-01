@@ -1,5 +1,18 @@
 ---
-hidden: true
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # ✨ Der Event-Server
@@ -33,7 +46,7 @@ In der Regel versuchen wir auf Homes zu verzichten, schalten diese aber teilweis
 
 ### Event-Scoreboard <a href="#deefc738-event-scoreboard" id="deefc738-event-scoreboard"></a>
 
-Das Event-System bietet für viele Events ein [Online-Scoreboard mit Rankings](https://events.griefergames.net/).
+Das Event-System bietet für viele Events ein [Online-Scoreboard mit Rankings](../hilfreiche-links/griefergames-dienste.md).
 
 Des Weiteren ist das Scoreboard In-Game immer entsprechend des Events angepasst. Ihr findet dort Informationen über euren aktuellen Stand des Events.
 
@@ -60,4 +73,4 @@ Der Event-Server des 1.8-Netzwerks ist zudem vorwiegend für die Durchführung v
 
 Falls ihr ein Event auf dem Event-Server veranstalten möchtet und Unterstützung benötigt (bspw. Ergänzung mit technischen Plugins oder Aktivieren/Deaktivieren bestimmter Features, meldet euch mit eurem Event-Konzept gerne beim Team für weitere Absprachen. Wir empfehlen dafür die Nutzung des [Ticket-Systems](../hilfreiche-links/griefergames-dienste.md). 😉
 
-\
+<br>

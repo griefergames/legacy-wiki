@@ -1,5 +1,19 @@
 ---
 description: Welche Währungen werden auf dem 1.8-Netzwerk verwendet?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 💰 Währungen

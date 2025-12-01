@@ -2,7 +2,6 @@
 description: >-
   Scammer, Griefer oder allgemein unangenehme Persönlichkeit? Du willst die
   Community vor dieser Person warnen?
-hidden: true
 layout:
   width: default
   title:

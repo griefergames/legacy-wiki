@@ -1,8 +1,25 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # 🎬 Für Content Creator
 
 Du bist Content Creator, baust eine Community auf und erstellst Videos zu Minecraft oder streamst dein Gameplay? Dann sichere dir die Chance auf eine Eintragung als Creator auf unserem Netzwerk!
 
-Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Bereich unseres Discords (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang (oder über besondere Trophäen) ausgezeichnet und in unserer [Creator-Liste](https://forum.griefergames.de/creator/) aufgeführt.
+Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Bereich unseres Discords (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang (oder über besondere Trophäen) ausgezeichnet und in unserem [Streamer-System](../hilfreiche-links/griefergames-dienste.md) aufgeführt.
 
 ***
 
@@ -22,26 +39,11 @@ Die Zeit kann dabei frei eingeteilt werden: Beispielsweise 2 zweistündige Strea
 Auf die Minute genau müssen die Streams nicht gehen; Hauptsache die Mindestgesamtdauer und die Mindestanzahl der Streams in der Woche werden erreicht.
 {% endhint %}
 
-Wenn man sich für einen der beiden Ränge bewirbt, entscheidet die Administration eigenständig und individuell, ob man diesen Rang bekommt oder nicht. Es besteht kein Anrecht auf Erteilung des Ranges.\
-
-
-Zum **YouTuber** und **Streamer+** bieten wir aktuell keine Bewerbungsmöglichkeiten an. Diese Ränge werden ausschließlich seitens der Administration proaktiv an Spieler vergeben.
-
-Mehr zu den letzten Änderungen zu unseren Creator-Rängen erfährst du durch diese zwei News:
-
-{% embed url="https://forum.griefergames.de/news/view/297" %}
-Streamer-Update vom 08.06.2022
-{% endembed %}
-
-{% embed url="https://forum.griefergames.de/news/view/310" %}
-Streamer-Update vom 08.07.2022
-{% endembed %}
+Wenn man sich für einen der beiden Ränge bewirbt, entscheidet die Administration eigenständig und individuell, ob man diesen Rang bekommt oder nicht. Es besteht kein Anrecht auf Erteilung des Ranges.<br>
 
 {% hint style="info" %}
-Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im Forum:
+Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im [Streamer-System](../hilfreiche-links/griefergames-dienste.md).
 {% endhint %}
-
-{% embed url="https://forum.griefergames.de/creator/" %}
 
 
 

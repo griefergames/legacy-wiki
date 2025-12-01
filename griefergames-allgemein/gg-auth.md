@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🔐 GrieferGames Auth
 
 ### Was ist GG Auth? – Ein Überblick über das System

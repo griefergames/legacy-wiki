@@ -2,6 +2,20 @@
 description: >-
   /createkarte wurde mit den Winterkisten 2024 (04.12.2024) eingeführt. Wie
   funktioniert das Feature?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # 🗺️ Kartengenerierung
@@ -10,7 +24,7 @@ Motivkarten zu bauen braucht Zeit, Material und eine Menge Erfahrung.&#x20;
 
 Wäre es da nicht schön sein Wunschmotiv schnell und einfach als Karte verfügbar zu haben und sein Heim damit zu dekorieren? Hier hilft der Kartengenerator!
 
-### /createkarte - Das Recht
+### `/createkarte` - Das Recht
 
 Um den Kartengenerator nutzen zu können, benötigt man das entsprechende [Recht](https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht).&#x20;
 
@@ -22,7 +36,7 @@ Hat man das Recht gewonnen und eingelöst, erhält man die Berechtigung den Befe
 
 
 
-### /createkarte - Was geht, was nicht?
+### `/createkarte` - Was geht, was nicht?
 
 Der Kartengenerator hat einige Einschränkungen.&#x20;
 
@@ -36,7 +50,7 @@ Der Kartengenerator hat einige Einschränkungen.&#x20;
 
 
 
-### /createkarte - Das Motiv vorbereiten
+### `/createkarte` - Das Motiv vorbereiten
 
 Der Kartengenerator nimmt eine vorgefertigte Grafik (Bilddatei) und wandelt diese in eine Minecraftkarte um.&#x20;
 
@@ -50,7 +64,7 @@ Jedoch führt dieser Vorgang zu einem Qualitätsverlust und kann ggf. zu "falsch
 
 
 
-### /createkarte - Das Motiv hochladen
+### `/createkarte` - Das Motiv hochladen
 
 Habt ihr eure Bilddatei vorbereitet und auf die korrekte Größe gebracht, müsst ihr diese im Internet hochladen, um sie für den Generator verfügbar zu machen. Hierfür wird der Dienst ImgBB vom Anbieter Imgur verwendet.
 
@@ -72,7 +86,7 @@ Der zuletzt abgerufene Link enthält den Direktlink zu dem von euch hochgeladene
 
 
 
-### /createkarte - Die Karte erstellen
+### `/createkarte` - Die Karte erstellen
 
 Im letzten Schritt könnt ihr die Karte auf unserem Netzwerk erstellen. Gebt hierfür den Befehl `/createkarte <Link>` ein.  Den Platzhalter \<Link> ersetzt ihr dann mit der kopierten Adresse der Bilddatei.
 

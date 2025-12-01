@@ -1,5 +1,19 @@
 ---
 description: Die Hauptstadt und ihre Funktionen
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 🏛️ Die Hauptstadt
@@ -89,7 +103,7 @@ Verlasst ihr den Server, landet ihr immer, wenn ihr einen [Citybuild-Server](../
 
 Besucher können mit sämtlichen Befehlen reisen, die eine Teleportation beinhalten. Beispielsweise durch den Einsatz von `/p h` , `/warp` oder `/home`.
 
-Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken im Gefängnishof abbaut. Alternativ besteht die Möglichkeit, dass das Team jemanden vorzeitig freilässt. Hierfür besteht jedoch kein Anspruch und wird auch nur in besonderen und seltenen Fällen durchgeführt. Erstellt hierfür einen Antrag im [Strafaufhebungsbereich](https://forum.griefergames.de/forum/board/200-strafaufhebungsbereich/) des Forums oder über das [Ticket-System](../hilfreiche-links/griefergames-dienste.md).
+Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken im Gefängnishof abbaut. Alternativ besteht die Möglichkeit, dass das Team jemanden vorzeitig freilässt. Hierfür besteht jedoch kein Anspruch und wird auch nur in besonderen und seltenen Fällen durchgeführt. Erstellt hierfür einen Antrag über das [Ticket-System](../hilfreiche-links/griefergames-dienste.md).
 
 Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen. Team-Strafen (für Regelverstöße) lassen sich damit **nicht** aufheben.
 
@@ -111,7 +125,7 @@ So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten,
 
 Nach einer StartJail-Abstimmung muss eine Abklingzeit von drei Stunden abgewartet werden, bevor man eine erneute Abstimmung starten kann.
 
-Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/). \
+Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](../griefergames-allgemein/regelwerk.md). \
 Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern.
 
 #### **Werkzeug**

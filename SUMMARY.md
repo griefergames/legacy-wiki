@@ -30,13 +30,12 @@
     * [Grundstücks-Flags](grundlagen/befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md)
   * [Rang-Rechte](grundlagen/befehlsuebersicht/rang-befehle.md)
   * [Spezielle Features](grundlagen/befehlsuebersicht/spezielle-features/README.md)
-    * [Clan-System](grundlagen/befehlsuebersicht/spezielle-features/clan-system.md)
     * [Checkplot](grundlagen/befehlsuebersicht/spezielle-features/checkplot.md)
     * [Hologramme](grundlagen/befehlsuebersicht/spezielle-features/hologramme.md)
 * [💰 Währungen](grundlagen/waehrungen.md)
 * [⬆️ Booster & Perks](grundlagen/booster-and-perks.md)
 * [🅱️ CustomBlocks](grundlagen/customblocks/README.md)
-  * [Aufzüge & Teleporter](grundlagen/customblocks/aufzuege-and-teleporter.md)
+  * [↕️ Aufzüge & Teleporter](grundlagen/customblocks/aufzuege-and-teleporter.md)
 * [♾️ Passive Spawner](grundlagen/passive-spawner.md)
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 * [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
@@ -69,13 +68,13 @@
 ## GrieferGames Allgemein
 
 * [📜 Regelwerk](griefergames-allgemein/regelwerk.md)
-* [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
+* [💁 Support erhalten](griefergames-allgemein/support.md)
 * [💡 Vorschlag zur Serververbesserung](griefergames-allgemein/vorschlaege.md)
 * [Fehler melden / Bug reporten](griefergames-allgemein/fehler-melden.md)
-* [😡 Vor Spielern warnen](griefergames-allgemein/spielerwarnung.md)
-* [😠 Das Scamming](griefergames-allgemein/scamming.md)
+* [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
 * [🙏 Strafe aufheben / Entbannung](griefergames-allgemein/strafaufhebung.md)
-* [💁 Support erhalten](griefergames-allgemein/support.md)
+* [😠 Das Scamming](griefergames-allgemein/scamming.md)
+* [😡 Vor Spielern warnen](griefergames-allgemein/spielerwarnung.md)
 * [🚨 Account-Diebstahl / Phishing](griefergames-allgemein/account-verloren.md)
 * [🔐 GrieferGames Auth](griefergames-allgemein/gg-auth.md)
 
@@ -118,7 +117,6 @@
 
 ## Hilfreiche Links
 
-* [🆕 GrieferGames Item-Liste](https://items.griefergames.net/)
 * [⚒️ GrieferGames - Dienste](hilfreiche-links/griefergames-dienste.md)
 * [🛠️ Empfohlene Modifikationen](hilfreiche-links/empfohlene-modifikationen.md)
 * [🏗️ under construction](hilfreiche-links/under-construction.md)

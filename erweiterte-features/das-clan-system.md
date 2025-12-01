@@ -1,5 +1,19 @@
 ---
 description: Warum alleine losziehen, wenn es viel mehr Spaß macht gemeinsam zu spielen?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 👥 Das Clan-System
@@ -51,7 +65,7 @@ Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercod
 | /clan delete                          | <p>Damit kann der Clan-Leiter seinen Clan löschen. Der Clan darf dafür keine Mitglieder mehr haben. <br>Eine Clan-Auflösung erstattet 200.000$ auf das Konto des Clan-Leiters zurück.</p>                                                                                                                                                                                                                                                                  | <p><img src="../.gitbook/assets/image (147).png" alt="" data-size="original"><br><img src="../.gitbook/assets/image (148).png" alt=""></p>                                                          |
 
 {% hint style="warning" %}
-Clan-Faking (Ausgeben und Fälschen von anderen Clans) verstößt gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/), kann bestraft werden und ggf. zur Clan-Löschung führen.
+Clan-Faking (Ausgeben und Fälschen von anderen Clans) verstößt gegen unser [Regelwerk](../griefergames-allgemein/regelwerk.md), kann bestraft werden und ggf. zur Clan-Löschung führen.
 {% endhint %}
 
 {% hint style="info" %}

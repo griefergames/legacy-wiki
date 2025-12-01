@@ -1,5 +1,4 @@
 ---
-hidden: true
 icon: bug
 layout:
   width: default

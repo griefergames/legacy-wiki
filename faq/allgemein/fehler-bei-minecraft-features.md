@@ -41,8 +41,7 @@ Auch für die Bedrock-Version informieren wir dich immer auf unserem Discord-Ser
 
 ### Fehler melden
 
-Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du auf [unserem Discord](../../hilfreiche-links/griefergames-dienste.md) eine Fehlermeldung erstellen. Beachte die Hinweise im Artikel [Fehler melden](../../griefergames-allgemein/fehler-melden.md).\
-
+Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du auf [unserem Discord](../../hilfreiche-links/griefergames-dienste.md) eine Fehlermeldung erstellen. Beachte die Hinweise im Artikel [Fehler melden](../../griefergames-allgemein/fehler-melden.md).<br>
 
 Bei Beeinträchtigungen der Server-Performance brauchst du **keine** Fehlermeldung erstellen. \
 Wir sind über entsprechende Analyse-Tools und den allgemeinen Chat auf dem Discord über aktuelle Performanceprobleme stets zeitnah informiert. Bekannte und geplante Einschränkungen der Verbindung findest du auch im Kanal "server-status" auf unserem Discord.

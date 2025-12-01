@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # ♾️ Passive Spawner
 
 ### Spawner allgemein
@@ -20,6 +37,8 @@ Spawner werden beim Setzen automatisch in den passiven Modus geschaltet. Auf den
 Automatisch erzeugte Spawner in den Farmwelten der anderen Citybuild-Server sind ebenfalls aktiv und können auch nicht umgeschaltet werden.
 
 ### Spawner-Menü
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Das Menü eines passiven Spawners</p></figcaption></figure>
 
 #### **Welche Möglichkeiten bietet ein passiver Spawner?**
 
@@ -87,6 +106,7 @@ Dieses Verhalten trifft **nur** auf die Grundstückswelt zu. In der Farmwelt und
 
 <summary>An diesem Artikel beteiligt</summary>
 
+* [EinGriefer](https://profile.griefergames.live/minecraft/98890464-badc-413e-90f2-06108def4003)
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

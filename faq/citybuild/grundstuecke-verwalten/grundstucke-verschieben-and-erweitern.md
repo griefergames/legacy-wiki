@@ -81,8 +81,7 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * Spawner (Spawn-Ei & Upgrades ebenfalls angeben)
   * CaseOpenings
   * 4-Gewinnt-Blöcke
-  * Unendliche Lager\
-
+  * Unendliche Lager<br>
 
 ***
 

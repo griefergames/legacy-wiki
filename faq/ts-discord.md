@@ -28,8 +28,7 @@ Aufgrund unserer Prioritäten, technischen Möglichkeiten und internen Strukture
 
 
 
-Einige Supporter und Moderatoren bieten einen temporären freiwilligen Support auf dem TeamSpeak-Server an. Ist das so, dann kannst du auch dort dein Anliegen anbringen. Sei dir dabei bitte bewusst, dass du nicht der Einzige bist, der ein Anliegen hat. Viele TeamSpeak-Nutzer werden im Channel sein, weshalb du also bitte immer etwas Geduld haben solltest.\
-
+Einige Supporter und Moderatoren bieten einen temporären freiwilligen Support auf dem TeamSpeak-Server an. Ist das so, dann kannst du auch dort dein Anliegen anbringen. Sei dir dabei bitte bewusst, dass du nicht der Einzige bist, der ein Anliegen hat. Viele TeamSpeak-Nutzer werden im Channel sein, weshalb du also bitte immer etwas Geduld haben solltest.<br>
 
 Priorisiert solltest du deine Anfragen auf unserem [Discord-Server](https://discord.griefergames.net/) im Kanal "🗨️🆘 | chat-support" stellen.
 
@@ -150,7 +149,7 @@ Jetzt nur noch auf „Anwenden“ klicken und fertig.
 
 Das Ganze sollte nun so aussehen:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Empfohlene Einstellungen für Push-to-Talk in TeamSpeak 3</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Empfohlene Einstellungen für Push-to-Talk in TeamSpeak 3</p></figcaption></figure>
 
 Es gibt natürlich noch weitere Möglichkeiten, die Qualität deiner Audioverbindung zu verbessern. Du kannst dir ein qualitativ hochwertiges Mikrofon (und Mischpult) zulegen oder einfach VoiceMeeter benutzen. Diese Software ist ein virtuelles Mischpult und bietet grandiose Einstellungen. \
 Wie du diese Software installierst und einstellst, erfährst du durch Tutorials auf YouTube.

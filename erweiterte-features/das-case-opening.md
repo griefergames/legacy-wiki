@@ -1,5 +1,19 @@
 ---
 description: Das CaseOpening und die einzelnen Kisten-Arten
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 🎁 Das Case-Opening

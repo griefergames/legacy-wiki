@@ -2,7 +2,6 @@
 description: >-
   Du hast Vorschläge und Ideen zum Servernetzwerk für neue oder bereits
   bestehende Features? Dann lies dir die nachfolgenden Informationen durch
-hidden: true
 layout:
   width: default
   title:
@@ -37,7 +36,7 @@ Das nachfolgende Thema ist Grundlage für das Erstellen eines Vorschlags. Bitte 
 
 * [Bearbeitungshinweise zu deinem Vorschlag](vorschlaege.md#bearbeitungshinweise-zu-deinem-vorschlag)
 * [Warum wurde mein Vorschlag abgelehnt?](vorschlaege.md#vorschlag-abgelehnt.-warum)
-* Trophäe für Vorschläge
+* [Trophäe für Vorschläge](vorschlaege.md#trophae-fur-vorschlage)
 
 ***
 
@@ -63,7 +62,7 @@ Wir sind zudem auch als Sprachrohr der Community mit euch im Austausch, sodass E
 
 Die von euch erstellten Themen werden von uns gesichtet und überprüft. Themen erhalten bei der Sichtung **kein** Label. Es geht jedoch **kein** Thema unter. Wir haben ein Auge auf euch. ![;)](https://forum.griefergames.de/images/smilies/emojione/1f609.png)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Status-Label im Discord</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Status-Label im Discord</p></figcaption></figure>
 
 Eure Vorschläge werden nach einer entsprechenden Diskussions- & Entscheidungsphase unsererseits entweder abgelehnt und archiviert oder werden für die weitere Bearbeitung und Diskussion auf unsere interne Liste aufgenommen. Ein Vorschlag erhält zu diesem Zeitpunkt das Label "Weitergeleitet" oder "Abgelehnt".
 
@@ -79,10 +78,10 @@ Die Entwickler bauen auf Grundlage des Konzeptes eine Feature-Erweiterung oder d
 
 Wird ein Vorschlag auf unserem Server-Netzwerk umgesetzt, erhält dieser das Label "Erledigt".
 
-| <div><figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Label "Weitergeleitet"</p></figcaption></figure></div> | Vorschlag intern aufgenommen    |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
-| <div><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Label "Abgelehnt"</p></figcaption></figure></div>      | Vorschlag (derzeit) abgelehnt   |
-| <div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Label "Erledigt"</p></figcaption></figure></div>       | Vorschlag erfolgreich umgesetzt |
+| <div><figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Label "Weitergeleitet"</p></figcaption></figure></div> | Vorschlag intern aufgenommen    |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------- |
+| <div><figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Label "Abgelehnt"</p></figcaption></figure></div>          | Vorschlag (derzeit) abgelehnt   |
+| <div><figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Label "Erledigt"</p></figcaption></figure></div>           | Vorschlag erfolgreich umgesetzt |
 
 ***
 

@@ -102,8 +102,7 @@ Dieser Rang wird an Benutzer vergeben, welche das Team verlassen haben.
 <figure><img src="../../.gitbook/assets/image (84).png" alt=""><figcaption><p>Rangzeichen für ehemalige Teammitglieder</p></figcaption></figure>
 
 **Rätselkönig / Rätselkönigin**\
-Dieser Rang wurde an die 2 Benutzer vergeben, welche 2017 bei dem Rätsel-Event von Chemtek im Forum den ersten Platz belegt haben.\
-
+Dieser Rang wurde an die 2 Benutzer vergeben, welche 2017 bei dem Rätsel-Event von Chemtek im Forum den ersten Platz belegt haben.<br>
 
 <figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 

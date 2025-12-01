@@ -30,14 +30,12 @@ layout:
 ### Vorgehen
 
 1. Zur Foren-Übersicht gehen.
-2.  Oben rechts auf das Auswahlmenü klicken und "Foren ignorieren" auswählen.\
-
+2.  Oben rechts auf das Auswahlmenü klicken und "Foren ignorieren" auswählen.<br>
 
     <figure><img src="../../.gitbook/assets/image (80).png" alt=""><figcaption><p>Funktion zum Ausblenden von Kategorien und Unterforen</p></figcaption></figure>
 3. Haken in die Checkbox setzen, wenn du ein Forum nicht mehr sehen möchtest.\
    Haken aus der Checkbox nehmen, wenn du ein Forum wieder sehen möchtest.
-4.  Auf "Absenden" klicken, um die Änderungen anzuwenden.\
-
+4.  Auf "Absenden" klicken, um die Änderungen anzuwenden.<br>
 
     <figure><img src="../../.gitbook/assets/image (152).png" alt=""><figcaption><p>Übersicht der Kategorien &#x26; Unterforen zum Ausblenden</p></figcaption></figure>
 

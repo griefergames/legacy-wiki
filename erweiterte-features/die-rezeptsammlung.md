@@ -1,3 +1,20 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+---
+
 # 🧾 Die Rezeptsammlung
 
 In der Spielversion 1.8 ist das Rezeptbuch aus den höheren Spiel-Versionen noch nicht vorhanden. Ersatzweise haben wir daher den Befehl `/rezepte` hinzugefügt, mit welchem ihr ein GrieferGames-eigenes Rezeptbuch (Rezeptsammlung) aufrufen könnt.

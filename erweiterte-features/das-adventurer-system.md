@@ -1,5 +1,19 @@
 ---
 description: Aufbau und Übersicht des Adventurer-Systems
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 🪙 Das Adventurer-System

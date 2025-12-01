@@ -1,5 +1,19 @@
 ---
 description: Der (fast) unbegrenzte Speicher auf GrieferGames
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # 📦 Das Unendliche Lager
@@ -10,7 +24,7 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 
 <summary>Folgende Items sind lagerbar:</summary>
 
-Alle Items, außer:&#x20;
+**Alle Items, außer:**&#x20;
 
 * jegliche Art von nicht-stackbaren Items
 * Spawn-Eier
@@ -74,8 +88,7 @@ Diese Funktion greift priorisiert vor dem "Einsaugen" durch Trichter.
 
 Um den Einsaug-Modus zurückzusetzen, kann man diesen am jeweiligen Unendlichen Lager wieder ausschalten. \
 Falls ein Unendliches Lager/Einsaug-Modus fehlerhaft hinterlegt ist, kann über den Befehl `/storage clear` der Fehler selbstständig behoben werden. Über den Befehl werden **alle** aktiven Einsaug-Modi auf dem jeweiligen Grundstück aufgehoben. \
-Die Einsaug-Modi können dann an den Unendlichen Lagern neu eingestellt werden.\
-
+Die Einsaug-Modi können dann an den Unendlichen Lagern neu eingestellt werden.<br>
 
 
 

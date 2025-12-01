@@ -75,11 +75,11 @@ Das Forum wird langfristig abgemanaged und alle wichtigen Informationen und Feat
 
 ## Hinweise
 
-Zudem bieten wir YouTubern und generell Streamern die Möglichkeit an Unterstützung an, bei uns ihre Livestreams und Videos zu produzieren. Falls du Interesse hast, bei uns als YouTuber oder Streamer Content zu produzieren, dann schau dir doch mal den Artikel [Für Content Creator](https://wiki.griefergames.net/erweiterte-features/fuer-content-creator) an.
+Zudem bieten wir YouTubern und generell Streamern die Möglichkeit an Unterstützung an, bei uns ihre Livestreams und Videos zu produzieren. Falls du Interesse hast, bei uns als YouTuber oder Streamer Content zu produzieren, dann schau dir doch mal den Artikel [Für Content Creator](erweiterte-features/fuer-content-creator.md) an.
 
-Falls du Probleme beim Betreten des Servers hast, lese dir bitte den Artikel [Server verbinden schlägt fehl](https://wiki.griefergames.net/server-verbinden.../...schlaegt-fehl.) durch.
+Falls du Probleme beim Betreten des Servers hast, lese dir bitte den Artikel [Server verbinden schlägt fehl](server-verbinden.../...schlaegt-fehl..md) durch.
 
-Falls du Hilfe bei den Befehlen brauchst, hilft dir sicher die [Befehlsübersicht](https://wiki.griefergames.net/grundlagen/befehlsuebersicht) weiter.
+Falls du Hilfe bei den Befehlen brauchst, hilft dir sicher die [Befehlsübersicht](grundlagen/befehlsuebersicht/) weiter.
 
 <details>
 
