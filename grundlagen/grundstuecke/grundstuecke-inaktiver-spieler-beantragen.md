@@ -1,5 +1,19 @@
 ---
 description: Funktion und Ablauf des Checkplot-System
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Grundstücke inaktiver Spieler beantragen
@@ -57,7 +71,7 @@ Ein Grundstück kannst du nur annehmen, wenn du noch ein weiteres Grundstück au
 {% hint style="success" %}
 Wenn du Fragen zu deinem Antrag hast, kannst du diese auch direkt dem Teamler stellen, der die Checkplot-Anträge auf deinem Citybuild-Server prüft.
 
-Die [Liste der zuständigen Teammitglieder](https://forum.griefergames.de/faq/#entry-114) findest du in den FAQ im Forum.
+Die [Liste der zuständigen Teammitgliede](../../faq/griefergames/team.md)r findest du in den FAQ.
 {% endhint %}
 
 #### Ablehnungsgründe
@@ -85,19 +99,13 @@ Wenn dein Antrag abgelehnt wird, so kann dies unterschiedliche Gründe haben.
 
 #### Ein Merge beantragen
 
-Mit dem Checkplot-System kannst du keine Merge-Grundstücke beantragen. Dafür gibt es aber eine andere Lösung. Du kannst Support-Bereich des Forums eine Grundstücks-Verschiebung beantragen.
-
-{% embed url="https://forum.griefergames.de/forum/board/304-grundst%C3%BCcksverschiebungen/" %}
-
-In diesem Forum kannst du einfach einen Beitrag erstellen, der dann von einem Content geprüft wird.
-
-{% hint style="warning" %}
-Bitte lies dir vorher den angepinnten Info- & Regel-Thread dafür durch.
-{% endhint %}
+Mit dem Checkplot-System kannst du keine Merge-Grundstücke beantragen. Dafür gibt es aber eine andere Lösung. Du kannst eine [Grundstücks-Verschiebung](../../faq/citybuild/grundstuecke-verwalten/grundstucke-verschieben-and-erweitern.md) beantragen.
 
 Wenn du diesen Weg der Grundstücksverschiebung wählst kann es vorkommen, dass dein Grundstück verschoben wird. In der Regel wird immer das Grundstück verschoben, bei welchem dies sinnvoller ist.
 
-Dies ist außerdem ein freiwilliger Service seitens des Teams, weshalb eine Verschiebung nicht immer erfolgen muss und manchmal auch mehrere Tage bis Wochen dauern kann.
+{% hint style="warning" %}
+Dies ist ein freiwilliger Service seitens des Teams, weshalb eine Verschiebung nicht immer erfolgen muss und manchmal auch mehrere Tage bis Wochen dauern kann.
+{% endhint %}
 
 
 

@@ -1,5 +1,19 @@
 ---
 description: Funktion und Hinweise zum Mergen
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Grundstücke verbinden
@@ -20,15 +34,9 @@ Außerdem wird empfohlen, dass du bis zum nächsten Serverneustart - regulär um
 
 Einige Spieler brauchen ein größeres Merge als die 196 Grundstücke, die du selber miteinander verbinden kannst.
 
-Dafür kannst du einen [Merge-Erweiterungsantrag im Forum](https://forum.griefergames.de/forum/board/304-grundst%C3%BCcksverschiebungen-erweiterungen/) stellen:
+Dafür kannst du einen [Merge-Erweiterungsantrag](../../faq/citybuild/grundstuecke-verwalten/grundstucke-verschieben-and-erweitern.md) stellen:
 
-{% hint style="warning" %}
-Bitte lies dir vor dem Erstellen deines Antrags den angepinnten Info- & Regel-Thread durch.
-{% endhint %}
-
-Dein Antrag wird durch einen Content geprüft und im Forum beantwortet. Bitte beachte, dass eine Erweiterung dem Zweck dient dein Projekt zu vergrößern, wenn zwei bereits bebaute Grundstücke miteinander verbunden werden sollen bzw. der Bauplatz auf deinem aktuellen Grundstück nicht länger ausreicht. Anträge für unbebaute oder unzureichend bebaute Merge-Grundstücke werden mit hoher Wahrscheinlichkeit abgelehnt.
-
-Wird der Antrag seitens des Content angenommen, wird das Projekt an die Administration weitergeleitet, welche die Erweiterung dann umsetzen.
+Dein Antrag wird durch einen Content geprüft und beantwortet. Bitte beachte, dass eine Erweiterung dem Zweck dient dein Projekt zu vergrößern, wenn zwei bereits bebaute Grundstücke miteinander verbunden werden sollen bzw. der Bauplatz auf deinem aktuellen Grundstück nicht länger ausreicht. Anträge für unbebaute oder unzureichend bebaute Merge-Grundstücke werden mit hoher Wahrscheinlichkeit abgelehnt.
 
 
 
