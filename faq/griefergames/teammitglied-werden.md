@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Teammitglied werden
 
 ### Offene Bewerbungsphasen
@@ -29,7 +12,6 @@ Auf die Positionen&#x20;
 * Administrator
 * Organisator
 * Shop-Manager
-* Moderator&#x20;
 
 kann man sich **nicht** direkt bewerben.
 {% endhint %}
