@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # 🎫 Der GrieferPass
 
 Der Grieferpass ist ein aufgabenbasiertes Belohnungssystem. Innerhalb eines festen Zeitraums, der sogenannten [Season](grieferpass.md#die-season), gibt es verschiedene tägliche und wöchentliche [Aufgaben](grieferpass.md#pass-aufgaben-1), durch dessen Erfüllung man [Pass-XP](grieferpass.md#die-xp-bar) sammeln und somit im Level aufsteigen und weitere Belohnungen freischalten kann.

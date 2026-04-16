@@ -1,19 +1,5 @@
 ---
 description: Aufbau und Übersicht des Adventurer-Systems
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 🪙 Das Adventurer-System
@@ -179,27 +165,27 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 * ![](<../.gitbook/assets/image (60).png>) Super-Unlucky Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (60).png>) Ultra-Unlucky Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (60).png>) Mega-Unlucky Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (60).png>) Super Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (60).png>) Ultra Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (60).png>) Mega Adventurer Luckyblock
   * Fordere dein Glück mit diesem Luckyblock heraus!
   * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks/#xnfftjxowydc).
+  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
 * ![](<../.gitbook/assets/image (62).png>) [Community-Kiste](das-case-opening.md#die-community-kiste)
   * Du erhältst eine Community-Kiste im Case-Opening gutgeschrieben.
 {% endtab %}

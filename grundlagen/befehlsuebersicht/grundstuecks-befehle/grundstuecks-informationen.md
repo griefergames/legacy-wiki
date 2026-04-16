@@ -2,20 +2,6 @@
 description: >-
   Auflistung aller Informationen aus dem /p info-Befehl mit jeweiliger
   Bedeutung.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Grundstücks-Informationen

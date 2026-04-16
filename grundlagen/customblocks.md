@@ -2,25 +2,11 @@
 description: >-
   Erweitere Minecraft um neue, individuelle Blöcke durch die GrieferGames
   CustomBlocks Mod.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 🅱️ CustomBlocks
 
-![Beispielbild CustomBlocks Kücheneinrichtung](../../.gitbook/assets/0.png)
+![Beispielbild CustomBlocks Kücheneinrichtung](../.gitbook/assets/0.png)
 
 Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse Blöcke zum Bauen und Dekorieren zur Verfügung.
 
@@ -30,7 +16,7 @@ Anders als bei anderen Modded Servern ist es auf GrieferGames nicht verpflichten
 Die Nutzung der Blöcke ist freiwillig. Wir empfehlen natürlich die Erweiterung zu installieren.
 {% endhint %}
 
-### ​<img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
+### ​<img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
 
 Die CustomBlocks stehen euch als Erweiterung auf Basis von Forge zur Verfügung. Forge agiert als eine Art Mod-Loader und bildet die Grundlage für die Einbindung unserer CustomBlocks-Erweiterung. Forge könnt ihr in einen Client eurer Wahl hinzufügen.
 
@@ -43,7 +29,7 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 1. Lade dir den [1.8.9 Forge Installer](https://files.minecraftforge.net/net/minecraftforge/forge/index_1.8.9.html) herunter
 2.  Führe den Installer aus und klicke auf “OK”
 
-    <figure><img src="../../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/2.png" alt=""><figcaption></figcaption></figure>
 3. Navigiere nun in deinen Minecraft Ordner `%appdata%/.minecraft` und navigiere dort in den Ordner "mods"
 4. Ziehe die [**CustomBlocks**](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1)-Datei in diesen Ordner.
 5. Starte dein Spiel neu und du hast die GrieferGames CustomBlocks installiert!
@@ -52,7 +38,7 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 
 Die Forge-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) zu finden.
 
-### ​<img src="../../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric (neuste Minecraft-Version)
+### ​<img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric (neuste Minecraft-Version)
 
 Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.griefergames.live/funktionen/customblocks#customblocks-als-fabric-mod). Fabric steht nur in höheren Spielversionen zur Verfügung. Diese Version ist nicht für Spieler geeignet, welche nur in der 1.8.9 spielen!
 

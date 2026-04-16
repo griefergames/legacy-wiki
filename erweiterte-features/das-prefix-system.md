@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # 🖌️ Das Prefix-System
 
 Mit Prefixen hast du die Möglichkeit deinen Namen in der Tabliste und im Chat anzupassen und ihm so ein neues Aussehen zu verpassen.

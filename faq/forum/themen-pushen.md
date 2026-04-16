@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Themen pushen
 
 In einigen Unterforen (vorrangig dem Handelsbereich) herrscht reges Treiben und Themen werden sehr schnell von neuen Themen/Beiträgen verdrängt.

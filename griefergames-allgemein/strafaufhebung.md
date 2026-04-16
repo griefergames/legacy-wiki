@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # 🙏 Strafe aufheben / Entbannung
 
 Wenn du eine **Strafe aufheben lassen** möchtest, kannst du dich über das Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) melden.

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # 😠 Das Scamming
 
 Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf unserem Server-Netzwerk **nicht** verboten.&#x20;

@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Ehemalige Teammitglieder & Helfer
 
 Alle aktuellen Teammitglieder können in der [Teamliste](team.md) eingesehen werden.

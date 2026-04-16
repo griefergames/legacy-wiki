@@ -1,19 +1,5 @@
 ---
 description: Wo brauchen wir Unterstützung?
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 🏗️ under construction
@@ -38,7 +24,7 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 * [Spielmodus Citybuild](../grundlagen/spielmodus-citybuild/)
 * [Farmserver Wasser & Lava](../grundlagen/spielmodus-citybuild/farmserver-wasser-and-lava.md)
 * [Grundstücke](../grundlagen/grundstuecke/)
-* [Aufzüge & Teleporter](../grundlagen/customblocks/aufzuege-and-teleporter.md)
+* [Aufzüge & Teleporter](../grundlagen/aufzuege-and-teleporter.md)
 * [Die Hauptstadt](../erweiterte-features/die-hauptstadt.md) (außer Gefängnis)
 * [Block des Tages](../erweiterte-features/der-block-des-tages.md)
 

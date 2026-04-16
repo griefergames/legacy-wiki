@@ -2,20 +2,6 @@
 description: >-
   Seit dem 16.05.2024 gibt es auf unserem Netzwerk eine neue Besonderheit: Den
   Block des Tages.
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 🔳 Der Block des Tages

@@ -1,19 +1,5 @@
 ---
 description: InGame-Systeme zur Änderung von Grundstücken
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Grundstücke verändern
@@ -121,10 +107,10 @@ Nun klickt ihr auf eure freien Slots.&#x20;
 Ihr erhaltet nun die gleiche Auswahl, wie wenn ihr `/rand` auf eurem Grundstück eingebt.\
 Das heißt, ihr könnt nur wieder nur Blöcke auswählen, welche ihr vorher bereits freigeschaltet habt.&#x20;
 
-Jedoch gibt es hier eine neue Kategorie auf der zweiten Seite, die [CustomBlocks-Möbel](../customblocks/), welche von jedem Spieler verwendet werden kann.
+Jedoch gibt es hier eine neue Kategorie auf der zweiten Seite, die [CustomBlocks-Möbel](../customblocks.md), welche von jedem Spieler verwendet werden kann.
 
 {% hint style="info" %}
-Die CustomBlocks-Möbel kannst du nur mit der für den Server optimierten [CustomBlocks-Mod](../customblocks/) sehen.
+Die CustomBlocks-Möbel kannst du nur mit der für den Server optimierten [CustomBlocks-Mod](../customblocks.md) sehen.
 {% endhint %}
 
 Habt ihr nun euren Rand gestaltet, könnt ihr euer Rand-Item erstellen.

@@ -2,20 +2,6 @@
 description: >-
   Scammer, Griefer oder allgemein unangenehme Persönlichkeit? Du willst die
   Community vor dieser Person warnen?
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 😡 Vor Spielern warnen

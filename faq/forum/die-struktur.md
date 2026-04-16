@@ -2,20 +2,6 @@
 description: >-
   Forum, Kategorie, Unterforum, Thema, Beitrag, Kommentar - Was sind die
   Unterschiede?
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # Die Struktur
@@ -38,7 +24,7 @@ Eine "Kategorie" ist ein thematischer Teil des Forums und umfasst mehrere Unterf
 
 ### Unterforum
 
-Ein Unterforum ist ein thematischer Bestandteil des Forums, welcher alle Themen zu einem bestimmten Themenfeld umfasst. Unser Forum besteht momentan aus 15 Unterforen.
+Ein Unterforum ist ein thematischer Bestandteil des Forums, welcher alle Themen zu einem bestimmten Themenfeld umfasst. Unser Forum besteht momentan aus 12 Unterforen.
 
 ### Thema
 

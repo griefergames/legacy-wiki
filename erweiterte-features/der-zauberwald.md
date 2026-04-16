@@ -1,19 +1,5 @@
 ---
 description: Die neue Dimension
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # 🧙 Der Zauberwald
@@ -29,7 +15,7 @@ Ihr könnt Home-Punkte setzen und eure Endertruhe befüllen. Jedoch sind Home-Pu
 Im Zauberwald funktionieren zudem weder eure Perks, noch Booster.  Auch die Monster sind stärker und haben teilweise sogar besondere Fähigkeiten entwickelt.
 
 {% hint style="info" %}
-Für das optimale Erlebnis im Zauberwald empfehlen wir die neueste Version der [CustomBlocks-Mod](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks), damit ihr auch alle neuen Blöcke sehen könnt. Mehr dazu findest du im Artikel [CustomBlocks](../grundlagen/customblocks/).
+Für das optimale Erlebnis im Zauberwald empfehlen wir die neueste Version der [CustomBlocks-Mod](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks), damit ihr auch alle neuen Blöcke sehen könnt. Mehr dazu findest du im Artikel [CustomBlocks](../grundlagen/customblocks.md).
 {% endhint %}
 
 ***

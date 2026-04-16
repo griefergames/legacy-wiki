@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Fehlverhalten und Strafen
 
 ### Unangemessene Inhalte melden
@@ -64,7 +47,7 @@ In deinem Benutzerprofil bleiben auch abgelaufene Verwarnungen weiterhin für di
 
 #### Sanktionen
 
-Wird eine gewisse Menge an **Verwarnungspunkten** erreicht, wird eine **Sanktion** ausgelöst:
+Wird eine gewisse Menge an **Verwarnungspunkten** erreicht, wird automatisch eine **Sanktion** ausgelöst:
 
 | Verwarnungspunkte | Sanktion            |
 | ----------------- | ------------------- |

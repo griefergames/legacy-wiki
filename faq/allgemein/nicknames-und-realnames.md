@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Nicknames und Realnames
 
 Spieler mit einem Lifetime-Rang und Spieler die in der Vergangenheit ein bestimmtes Rechte-Paket erworben haben, sind auf unserem Servernetzwerk in der Lage sich temporär umbenennen zu können.

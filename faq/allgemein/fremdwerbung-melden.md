@@ -1,20 +1,3 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # Fremdwerbung melden
 
 Als Europas größtes Citybuild-Netzwerk bieten wir täglich tausenden von Spielern eine Plattform für ein gemeinsames Spielerlebnis. Leider kommt mit solch einer Reichweite auch das Problem, dass andere Netzwerke versuchen unseren Chat als Werbeplattform für ihre Dienste zu missbrauchen.

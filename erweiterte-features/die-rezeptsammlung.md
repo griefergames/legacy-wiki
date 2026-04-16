@@ -1,23 +1,8 @@
----
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
----
-
 # 🧾 Die Rezeptsammlung
 
-In der Spielversion 1.8 ist das Rezeptbuch aus den höheren Spiel-Versionen noch nicht vorhanden. Ersatzweise haben wir daher den Befehl `/rezepte` hinzugefügt, mit welchem ihr ein GrieferGames-eigenes Rezeptbuch (Rezeptsammlung) aufrufen könnt.
+In der Spielversion 1.8 ist das Rezeptbuch aus den höheren Spiel-Versionen noch nicht vorhanden.&#x20;
+
+Ersatzweise haben wir daher den Befehl `/rezepte` hinzugefügt, mit welchem ihr ein GrieferGames-eigenes Rezeptbuch (Rezeptsammlung) aufrufen könnt.
 
 In der Rezeptsammlung habt ihr 4 verschiedene Auswahlmöglichkeiten:
 
@@ -129,9 +114,17 @@ _Benötigte Materialien: 1 Bruchstein, 1 Eisenbarren, 1 Goldbarren, 1 Kohle, 1 R
 Setze dieses Item in einen [passiven Spawner](../grundlagen/passive-spawner.md#passive-spawner), um ihn zu einem Bruchstein- & Erze-Generator umzufunktionieren. \
 Das Item funktioniert wie ein reguläres Spawn-Ei. Ein bestehendes Spawn-Ei wird durch dieses ersetzt. Das Spawn-Ei wird nicht zurückerstattet.
 
+#### Abschließbare Truhe
+
+<figure><img src="../.gitbook/assets/image (154).png" alt="" width="563"><figcaption></figcaption></figure>
+
+_Benötigte Materialien: 1 Truhe, 1 Haken, 3 Obsidian, 4 Eisenblöcke_
+
+Platziere diese [abschließbare Truhe](../grundlagen/abschliessbare-truhen.md) auf deinem Grundstück, um sie zu verwenden. Die Truhe ist verschlossen und kann nur von dir geöffnet werden. Weitere Einstellungen kannst du über den Befehl `/chest` treffen.
+
 ### CustomBlocks
 
-In dieser Kategorie hast du die Möglichkeit eine Vielzahl an [CustomBlocks](../grundlagen/customblocks/) herzustellen. Diese sind vor allem zu dekorativen Zwecken gedacht und lassen dich dein Zuhause, deinen Shop oder dein Projektgrundstück noch vielseitiger dekorieren.
+In dieser Kategorie hast du die Möglichkeit eine Vielzahl an [CustomBlocks](../grundlagen/customblocks.md) herzustellen. Diese sind vor allem zu dekorativen Zwecken gedacht und lassen dich dein Zuhause, deinen Shop oder dein Projektgrundstück noch vielseitiger dekorieren.
 
 Auch hier kannst du einfach ein vorhandenes Item aus deinem Inventar auswählen und wirst direkt zum passenden Rezept gebracht, um weitere herzustellen.
 
