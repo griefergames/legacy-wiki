@@ -22,10 +22,10 @@ layout:
 | Befehl              | Kurzerklärung                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
 | /chest              | Öffne das Einstellungsmenü der Abschließbaren Truhe                                                        |
-| /chest trust        | Gib die Truhe für Vertraute auf dem Grundstück frei.                                                       |
-| /chest add          | Gib die Truhe für Helfer auf dem Grundstück frei.                                                          |
-| /chest trust 1m     | Gib die Truhe für 1 Minuten für Vertraute frei. (Zeit kann frei variiert werden)                           |
-| /chest add 1m       | Gib die Truhe für 1 Minuten für Helfer frei. (Zeit kann frei variiert werden)                              |
+| /chest trust        | Gib die Truhe für Vertraute/Helfer auf dem Grundstück frei.                                                |
+| /chest add          | Gib die Truhe für Vertraute/Helfer auf dem Grundstück frei, wenn der Plotbesitzer anwesend ist.            |
+| /chest trust 1m     | Gib die Truhe für 1 Minuten frei. (Zeit kann frei variiert werden)                                         |
+| /chest add 1m       | Gib die Truhe begrenzt für 1 Minuten frei. (Zeit kann frei variiert werden)                                |
 | /chest notification | Erhalte eine Chatbenachrichtigung beim Öffnen der Kiste. (funktioniert nur lokal auf dem Citybuild-Server) |
 | /chest info         | Zeige eine Übersicht der aktuellen Zugriffsrechte an.                                                      |
 
