@@ -19,6 +19,8 @@ layout:
 
 # Abschließbare Truhen
 
+Mit diesen Befehlen kannst du die Einstellungen für die [Abschließbaren Truhen](../../abschliessbare-truhen.md) verwalten.
+
 | Befehl              | Kurzerklärung                                                                                              |
 | ------------------- | ---------------------------------------------------------------------------------------------------------- |
 | /chest              | Öffne das Einstellungsmenü der Abschließbaren Truhe                                                        |
