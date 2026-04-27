@@ -68,3 +68,7 @@ Clan-Faking (Ausgeben und Fälschen von anderen Clans) verstößt gegen unser [R
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
+
+{% hint style="danger" %}
+Durch [Updates](https://discord.com/channels/325017098592059392/953769435632660492/1498343364066676746) fehlen diesem Artikel ein paar Informationen. Sie könnten eine Ergänzung vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
+{% endhint %}

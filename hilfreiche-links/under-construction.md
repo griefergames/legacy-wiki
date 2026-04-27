@@ -26,6 +26,7 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 * [Grundstücke](../grundlagen/grundstuecke/)
 * [Aufzüge & Teleporter](../grundlagen/aufzuege-and-teleporter.md)
 * [Die Hauptstadt](../erweiterte-features/die-hauptstadt.md) (außer Gefängnis)
+* [Das-Clan-System](../erweiterte-features/das-clan-system.md) ([Neue Features](https://discord.com/channels/325017098592059392/953769435632660492/1498343364066676746),)
 * [Block des Tages](../erweiterte-features/der-block-des-tages.md)
 
 ### Visuelle Überarbeitung (missing picture)
