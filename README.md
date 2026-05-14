@@ -16,9 +16,11 @@ In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den 
 
 ***
 
-## Jetzt NEU! Der Grieferpass!
+## Jetzt NEU! Tutorials im Wiki!
 
-{% embed url="https://wiki.griefergames.net/erweiterte-features/grieferpass" %}
+{% content-ref url="faq/tutorials/" %}
+[tutorials](faq/tutorials/)
+{% endcontent-ref %}
 
 ***
 
@@ -38,6 +40,6 @@ Mehr Informationen findest du auf unserer Info-Seite "[under construction](hilfr
 
 <summary>An diesem Artikel beteiligt</summary>
 
-* 50U7R34P3R
+* [50U7R34P3R](https://profile.griefergames.net/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>

@@ -116,6 +116,18 @@
   * [Persönliche Notizen](faq/forum/gespeicherte-antworten.md)
 * [TeamSpeak](faq/ts-discord.md)
 * [Webshop](faq/webshop.md)
+* [Tutorials](faq/tutorials/README.md)
+  * [Vote per Batch-Datei](faq/tutorials/vote-per-batch-datei.md)
+  * [Litematica mit Labymod 4](faq/tutorials/litematica-mit-labymod-4.md)
+  * [Praktische Chat-Filter für LabyMod](faq/tutorials/praktische-chat-filter-fur-labymod.md)
+  * [Vollautomatische Villager-Farmen](faq/tutorials/vollautomatische-villager-farmen.md)
+  * [Kein Hallo!](faq/tutorials/kein-hallo.md)
+  * [Vom Bild zur Karte](faq/tutorials/vom-bild-zur-karte.md)
+  * [Scamm-Tricks](faq/tutorials/scamm-tricks.md)
+  * [Tutorial für Spawn-Bedingungen](faq/tutorials/tutorial-fur-spawn-bedingungen.md)
+  * [Jemanden beim Discord-Sicherheitsteam melden](faq/tutorials/jemanden-beim-discord-sicherheitsteam-melden.md)
+  * [Accountwechsel einfach gemacht](faq/tutorials/accountwechsel-einfach-gemacht.md)
+  * [Grundstück verschwunden? Mögliche Ursachen!](faq/tutorials/grundstuck-verschwunden-mogliche-ursachen.md)
 
 ## Hilfreiche Links
 

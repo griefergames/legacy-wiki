@@ -8,14 +8,16 @@ Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
-Wenn du die [Vote-Seite](https://vote.griefergames.net/) aufrufst, wirst du automatisch auf die Seite unseres Netzwerks bei dem Anbieter minecraft-server.eu verbunden.
+Wenn du unser Vote-System aufrufst, wirst du automatisch verbunden und dir werden alle Voting-Server angezeigt, bei welchen wir vertreten sind.
 
-Hier kannst du nun, in dem dafür vorgesehenen Feld deinen Spielernamen eingeben.
+<figure><img src="../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
+
+Von hier aus kannst du nun auf die jeweiligen Voting-Anbieter zugreifen und für unseren Server abstimmen. Hier ein Beispiel für den Anbieter `minecraft-server.eu`.
 
 <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
 
 {% hint style="success" %}
-Wenn du den Link aus dem Chat benutzt, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
+Wenn du den auf der Vote-Seite bereits eingeloggt bist, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
 
 Du musst nur noch auf den Button "Voten!" drücken.
 {% endhint %}
@@ -28,7 +30,8 @@ Wenn die grüne Erfolgsmeldung kommt, dass du erfolgreich für den Server abgest
 
 {% hint style="success" %}
 * Du kannst mit jedem Account einmal täglich abstimmen.
-* Wenn du für den Server abstimmst, kannst du dir In-Game eine Belohnung abholen.
+* Wenn du für den Server abstimmst, kannst du dir In-Game eine [Belohnung](das-vote-system.md#vote-belohnungen) abholen.
+* Einige Seiten haben ein Limit für das Abstimmen mit Accounts pro IP-Adresse. Solltest du mehrere Accounts haben, musst du dich möglicherweise entscheiden, bei welchem Anbieter du abstimmst oder eine VPN-/Proxy-Lösung einsetzen.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -41,11 +44,11 @@ Wenn die grüne Erfolgsmeldung kommt, dass du erfolgreich für den Server abgest
 
 <figure><img src="../.gitbook/assets/Vote_geschenk.png" alt=""><figcaption><p>Chat-Ausgabe nach <code>/geschenk</code></p></figcaption></figure>
 
-Wenn du erfolgreich für den Server abgestimmt hast, kannst du dir In-Game eine Belohnung auf dem ebntsprechenden Account abholen. Gib hierfür einfach den Befehl `/geschenk` ein.
+Wenn du erfolgreich für den Server abgestimmt hast, kannst du dir In-Game eine Belohnung auf dem entsprechenden Account abholen. Gib hierfür einfach den Befehl `/geschenk` ein.
 
-Du musst deine Belohnung nicht sofort einlösen. Wir sammeln diese auch für dich. Votest du an 5 Tagen und gibst dann `/geschenk` ein, erhältst du die Belohnung für alle 5 Tage auf einmal.
+Du musst deine Belohnung **nicht** sofort einlösen. Wir sammeln diese auch für dich. Votest du an 5 Tagen und gibst dann `/geschenk` ein, erhältst du die Belohnung für alle 5 Tage auf einmal.
 
-Pro täglicher Abstimmung erhält dein Account 16 Brote, [$100](../grundlagen/waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste).
+Pro täglicher Abstimmung erhält dein Account 16 Brote, [$100](../grundlagen/waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste). Solltest du auf mehreren Seiten abstimmern erhältst du für jedes Voting eine Belohung.
 
 Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen für deine erreichten Vote-Streak-Ziele. Diese kannst du bis zu insgesamt 3000 Tage lang aufbauen.
 
@@ -69,14 +72,14 @@ Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen f
 {% hint style="danger" %}
 Wenn du mehrere Tage in Folge nicht abstimmst wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne.
 
-Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast..
+Du musst nicht auf jeder Voting-Seite abstimmen. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
+
+Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast.
 {% endhint %}
 
 {% hint style="info" %}
 Wenn du am Tag der Streak die Belohnung nicht abholen kannst, versuche es am nächsten Tag erneut. Die Verarbeitung im System kann manchmal einen Tag nicht korrekt zuweisen.
 {% endhint %}
-
-
 
 Beim Vote-NPC in der Hauptstadt findest du eine Übersicht über deine aktuelle Vote-Streak, ob du heute bereits abgestimmt hast und ob du Vote-Belohnungen abholen kannst.
 

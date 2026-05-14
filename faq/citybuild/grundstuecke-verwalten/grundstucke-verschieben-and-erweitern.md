@@ -8,7 +8,7 @@ description: >-
 
 ## Grundstücke verschieben
 
-Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht.
+Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht, es ist in abgesprochenen Ausnahmefällen allerdings in der 1. (oder manchmal auch 2.) Spawn-Reihe möglich.
 
 Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](../../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md) könnt eurem Bauvorhaben im Weg steht.
 

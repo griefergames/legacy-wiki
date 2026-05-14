@@ -4,7 +4,7 @@
 
 | Nutzung                                                             | Gekürzte URL                                               |
 | ------------------------------------------------------------------- | ---------------------------------------------------------- |
-| Direktlink zur Forum-Übersicht                                      | <p>forum.griefergames.de<br></p>                           |
+| Direktlink zur Forum-Übersicht                                      | forum.griefergames.de                                      |
 | Direktlink zum Regelwerk                                            | <p>regeln.griefergames.de<br>regelwerk.griefergames.de</p> |
 | Direktlink zu den FAQ                                               | faq.griefergames.de                                        |
 | Direktlink zur Info-Seite „Spieler melden“                          | report.griefergames.de                                     |
