@@ -1,5 +1,6 @@
 ---
 description: Wie man sie erkennt und sich schützt.
+hidden: true
 layout:
   width: wide
   title:

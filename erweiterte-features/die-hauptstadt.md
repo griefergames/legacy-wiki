@@ -107,7 +107,7 @@ Springt/Fällt man als Besucher in das Gefängnis, wertet das System dies als Ve
 
 Wie man Gefangener wird, kann sehr vielfältig ausfallen.
 
-So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten, um einen Spieler in das Gefängnis zu senden. Welche Gründe hierbei erlaubt sind, kann man im Regelwerk unter [§ 2.13](https://forum.griefergames.de/article/7-regelwerk/#74ca94a9-2spezifische-regeln-zu-minecraft-servern) nachlesen. Um einen StartJail auszuführen, muss zuerst ein Token gekauft werden. Dies ist mit `/startjail buy` möglich. Alternativ kann dies auch bei dem Wärter-NPC im Gefängnis passieren.
+So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten, um einen Spieler in das Gefängnis zu senden. Welche Gründe hierbei erlaubt sind, kann man im Regelwerk unter [§ 2.13](../griefergames-allgemein/regelwerk.md#id-13-ein-startkick-startjail-und-mutep-darf-nicht-ohne-jeglichen-grund-ausgefuhrt-werden.-bei-starkem) nachlesen. Um einen StartJail auszuführen, muss zuerst ein Token gekauft werden. Dies ist mit `/startjail buy` möglich. Alternativ kann dies auch bei dem Wärter-NPC im Gefängnis passieren.
 
 Nach einer StartJail-Abstimmung muss eine Abklingzeit von drei Stunden abgewartet werden, bevor man eine erneute Abstimmung starten kann.
 
