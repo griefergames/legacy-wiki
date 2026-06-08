@@ -1,5 +1,23 @@
 ---
 description: Übersicht & Funktion der Grundlagen-Befehle
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Allgemeine Befehle
@@ -65,7 +83,7 @@ description: Übersicht & Funktion der Grundlagen-Befehle
 | /startkick {Name} {Grund}                                                                                      | Starte eine [Startkick](../booster-and-perks.md#funktions-perks)-Abstimmung. Die Spieler auf dem Citybuild können nun mit `/ja` und `/nein` abstimmen, ob der besagte User für 15 Minuten vom Server gekickt werden soll.                     |
 | -------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | /startjail {Name}                                                                                              | Starte eine Startjail-Abstimmung. Die Spieler auf dem Citybuild können nun mit `/ja` und `/nein` abstimmen, ob der besagte Spieler 12 Obsidian-Blöcke im [Gefängnis ](../../erweiterte-features/die-hauptstadt.md#das-gefangnis)abbauen muss. |
-| /startjail buy                                                                                                 | Hier kannst du Startjail-Token für 10.000$/Stück kaufen.                                                                                                                                                                                      |
+| /startjail buy                                                                                                 | Hier kannst du Startjail-Token für 100.000$/Stück kaufen.                                                                                                                                                                                     |
 | /mutep {Name}                                                                                                  | Damit kannst du einen Spieler für 15 Minuten im [Chat](../../erweiterte-features/das-chat-system.md#oeffentlicher-chat) stumm schalten. Er kann in dieser Zeit nichts mehr im öffentlichen Chat schreiben.                                    |
 | /booster                                                                                                       | Zeigt dir an, welche [Booster](../booster-and-perks.md#booster) und wie lange diese noch auf dem Server an sind.                                                                                                                              |
 | <p>/booster drop<br>/booster mob<br>/booster fly<br>/booster erfahrung<br>/booster break<br>/booster bonze</p> | Zündet diesen [Booster](../booster-and-perks.md#booster-aktivieren) und alle Spieler auf dem Server erhalten den Effekt.                                                                                                                      |

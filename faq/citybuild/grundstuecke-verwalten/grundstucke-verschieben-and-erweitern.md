@@ -2,6 +2,24 @@
 description: >-
   Manchmal braucht man einfach mehr Platz. Doch was tun, wenn der Nachbar im Weg
   oder das Grundstück bereits zu groß ist?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # Grundstücke verschieben & erweitern
@@ -59,6 +77,7 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * Hologramme
   * Kreaturen
   * Dorfbewohner
+  * Plot-NPCs (Koordinaten + Einstellungen angeben)
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
   * Teleporter&#x20;
 * **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
