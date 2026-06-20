@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # ✨ Der Event-Server
 
 ### Zugang zum Event-Netzwerk <a href="#deefc738-zugang-zum-event-netzwerk" id="deefc738-zugang-zum-event-netzwerk"></a>

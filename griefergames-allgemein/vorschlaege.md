@@ -2,6 +2,24 @@
 description: >-
   Du hast Vorschläge und Ideen zum Servernetzwerk für neue oder bereits
   bestehende Features? Dann lies dir die nachfolgenden Informationen durch
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 💡 Vorschlag zur Serververbesserung

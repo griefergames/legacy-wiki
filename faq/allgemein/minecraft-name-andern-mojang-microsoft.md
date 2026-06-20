@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Minecraft-Name ändern (Mojang/Microsoft)
 
 Wenn du deinen Minecraft-Namen bei Mojang/Microsoft ändern willst, kannst du dies gerne jederzeit tun!

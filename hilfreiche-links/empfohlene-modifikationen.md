@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 🛠️ Empfohlene Modifikationen
 
 Wir bieten keine vollständige Auflistung aller erlaubten Modifikationen an. Generell gelten die [Serverregeln § 2 Abs. 5](../griefergames-allgemein/regelwerk.md#id-5-alle-modifikationen-die-einen-erheblichen-spielvorteil-bieten-sind-verboten.-in-dieser-auflistung).

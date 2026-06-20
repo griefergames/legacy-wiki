@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # ❗ Beschwerden über Spieler/ Beweismaterial
 
 Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.

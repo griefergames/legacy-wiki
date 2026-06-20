@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # Wertvolle & Verbotene Items
 
 Jeder Spieler darf so viele Spawner, Endportalrahmen, Spawneggs, usw. besitzen, wie er kann.

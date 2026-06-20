@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 🧾 Die Rezeptsammlung
 
 In der Spielversion 1.8 ist das Rezeptbuch aus den höheren Spiel-Versionen noch nicht vorhanden.&#x20;

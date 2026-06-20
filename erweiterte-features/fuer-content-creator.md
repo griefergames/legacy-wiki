@@ -1,3 +1,24 @@
+---
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
+---
+
 # 🎬 Für Content Creator
 
 Du bist Content Creator, baust eine Community auf und erstellst Videos zu Minecraft oder streamst dein Gameplay? Dann sichere dir die Chance auf eine Eintragung als Creator auf unserem Netzwerk!

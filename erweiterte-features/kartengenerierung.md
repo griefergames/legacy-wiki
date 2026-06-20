@@ -2,6 +2,24 @@
 description: >-
   /createkarte wurde mit den Winterkisten 2024 (04.12.2024) eingeführt. Wie
   funktioniert das Feature?
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: false
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 🗺️ Kartengenerierung
