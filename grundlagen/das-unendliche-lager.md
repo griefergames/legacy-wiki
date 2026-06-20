@@ -1,5 +1,23 @@
 ---
 description: Der (fast) unbegrenzte Speicher auf GrieferGames
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
+  actions:
+    visible: true
 ---
 
 # 📦 Das Unendliche Lager
@@ -35,9 +53,17 @@ Alle Sub-ID's dieser Items sind hierin mit einbegriffen.
 
 Das unendliche Lager kann über folgendes Rezept in der Werkbank hergestellt werden:
 
+* 4 x Holzstamm
+* 1x Trichter
+* 2x Goldblock
+* 1x Eisenblock
+* 1x Truhe _oder_ 1x Redstonetruhe
+
 <figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd_tdVEkQ9mSuj0oYU_3nZoSfVi9slk0L9wIH30Htzts7UBNnF3ErlSzgPTRPx3W7USVVlUddkwzfQJyKIkRpq6WjgHg01iHR8Rs4Ce4vvORoAuvQ0-Vg0WzhcHwal3BBIaSuTmuFYvixkUDlD70npfU-Vw?key=Fbef1cizwBxjBjyjDaG3uQ" alt=""><figcaption><p>Herstellungsrezept des Unendlichen Lagers auf dem 1.8-Netzwerk</p></figcaption></figure>
 
-
+{% hint style="success" %}
+Das Unendliche Lager lässt sich seit dem 18.06.2026 auch mit Redstone-Truhen herstellen.
+{% endhint %}
 
 ### Allgemeine Funktionsweise
 
