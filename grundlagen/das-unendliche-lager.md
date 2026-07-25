@@ -30,7 +30,6 @@ Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbeg
 
 **Alle Items, außer:**&#x20;
 
-* jegliche Art von nicht-stackbaren Items
 * Spawn-Eier
 * Spawner
 * Beacons

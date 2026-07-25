@@ -68,25 +68,26 @@ Die aktuelle Testphase des Systems bedeutet auch, dass dieser Service jederzeit 
 Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Blöcken beachten:
 
 * **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
-  * Item-Rahmen, Rüstungsständer, Gemälde etc.
+  * Item-Rahmen
+  * Rüstungsständer
+  * Gemälde
   * Köpfe
-  * Jump-Pads
-  * Vitrinen
 * **Diese Blöcke/Entities können möglicherweise verschwinden:**
-  * Partikeleffekte
+  * Jumppads
+  * Vitrinen
   * Hologramme
-  * Kreaturen
-  * Dorfbewohner
-  * Plot-NPCs (Koordinaten + Einstellungen angeben)
+  * Partikeleffekte
+  * Kreaturen und Villager
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
-  * Teleporter&#x20;
+  * Teleporter
 * **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
-  * Trichter
+  * Unendliche Lager (Einsaugmodus wird deaktiviert)
+  * Trichter (Ausrichtung, Einstellungen und Verbindungen können verloren gehen)
 * **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
-  * Spawner (Spawn-Ei & Upgrades ebenfalls angeben)
   * CaseOpenings
   * 4-Gewinnt-Blöcke
-  * Unendliche Lager<br>
+  * Plot-NPC's (zusätzlich Einstellungen angeben)
+  * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)<br>
 
 ***
 

@@ -33,6 +33,7 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
 
 * [Handels-System](../grundlagen/handels-system.md) (derzeit deaktiviert)
+* Die Immobilienbörse
 
 ### Unvollständige Seiten (stub)
 
@@ -46,6 +47,7 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 * [Die Hauptstadt](../erweiterte-features/die-hauptstadt.md) (außer Gefängnis)
 * [Das-Clan-System](../erweiterte-features/das-clan-system.md) ([Neue Features](https://discord.com/channels/325017098592059392/953769435632660492/1498343364066676746),)
 * [Block des Tages](../erweiterte-features/der-block-des-tages.md)
+* [Das Unendliche Lager](../grundlagen/das-unendliche-lager.md) ([Lagerterminals](https://discord.com/channels/325017098592059392/953769435632660492/1524764380737048636))
 
 ### Visuelle Überarbeitung (missing picture)
 

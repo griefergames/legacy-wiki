@@ -122,7 +122,7 @@ layout:
 
 #### (12) Es sind, außer duplizierte Items, Items mit rassistischem oder nationalsozialistischem Hintergrund und nicht eingebaute Ghast-Spawner, alle Items erlaubt, solange sie nicht den Betrieb des Servers schädigen und/oder den Spielspaß anderer Spieler negativ beeinflussen.
 
-#### (13) Ein StartKick, StartJail und MuteP darf nicht ohne jeglichen Grund ausgeführt werden. Bei starkem Missbrauch dieser Rechte darf der Spieler im Forum gemeldet werden.
+#### (13) Ein StartKick, StartJail und MuteP darf nicht ohne jeglichen Grund ausgeführt werden. Bei starkem Missbrauch dieser Rechte darf der Spieler gemeldet werden.
 
 1. Gerechtfertigte Gründe für StartKick, StartJail und MuteP sind: Scamming, Griefing, Spam, Beleidigungen, Ausgeben als bekannte Person, Fremdwerbungen, Echtgeldhandel, Veröffentlichung privater Daten, rassistische, politische, ethisch inakzeptable und pornografische Ausdrücke sowie Rufschädigung und Bugusing.
 2. Das Team behält sich vor, das StartKick- & MuteP-Perk des Spielers bedingungslos zu entfernen und das Geld nicht wieder zurückzugeben, sollte ein Spieler nach Ermessen der Administration die Rechte extrem ausnutzen.
