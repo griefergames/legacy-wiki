@@ -78,9 +78,8 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * Hologramme
   * Partikeleffekte
   * Kreaturen und Villager
-* **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
-  * Teleporter
 * **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
+  * Teleporter (Einstellungen und Verbindungen können möglicherweise verschwinden)
   * Unendliche Lager (Einsaugmodus wird deaktiviert)
   * Trichter (Ausrichtung, Einstellungen und Verbindungen können verloren gehen)
 * **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
