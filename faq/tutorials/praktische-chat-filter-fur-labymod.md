@@ -15,6 +15,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Praktische Chat-Filter für LabyMod
@@ -51,14 +53,14 @@ Viel Erfolg!
 ### Private Nachrichten:
 
 **Eingehende Nachrichten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>-> mir]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », @</kbd>
 
 **Ausgehende Nachrichten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[mir -></kbd>\
 **Beinhaltet nicht:**\
@@ -69,28 +71,28 @@ Viel Erfolg!
 ### Geld:
 
 **Eingehende Zahlung:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>gegeben.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ->, :, Du hast</kbd>
 
 **Ausgehende Zahlung:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>gegeben.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ->, :, \[GrieferGames], hat dir</kbd>
 
 **Bank:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Bank]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃</kbd>
 
 **Geld von Kisten / Drops / Server:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>wurden zu deinem Konto hinzugefügt.</kbd>\
 **Beinhaltet nicht:**\
@@ -101,7 +103,7 @@ Viel Erfolg!
 ### Allgemein Chat:
 
 **Plot-Chat:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Plot-Chat]</kbd>\
 **Beinhaltet nicht:**\
@@ -116,14 +118,14 @@ Viel Erfolg!
 <kbd>GG-Global</kbd>
 
 **Home Punkte:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Home-Punkte:</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ┃</kbd>
 
 **Zauberer:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Ein Zauberer ist auf dem Grundstück</kbd>\
 **Beinhaltet nicht:**\
@@ -136,21 +138,21 @@ Viel Erfolg!
 <kbd>\[Greeting], », @</kbd>
 
 **Orbs:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Orbs]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], »</kbd>
 
 **Tageszeit wiederhergestellt:**\
-&#xNAN;_&#x45;mpfohlen: Ausblenden_\
+_&#x45;mpfohlen: Ausblenden_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Tageszeit wurde wiederhergestellt.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], »</kbd>
 
 **Tageszeit aktualisiert:**\
-&#xNAN;_&#x45;mpfohlen: Ausblenden_\
+_&#x45;mpfohlen: Ausblenden_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Tageszeit wurde vom Grundstück aktualisiert.</kbd>\
 **Beinhaltet nicht:**\
@@ -175,14 +177,14 @@ Viel Erfolg!
 <kbd>», ->, :</kbd>
 
 **AH Überboten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Du wurdest bei der Auktion für</kbd>\
 **Beinhaltet nicht:**\
 <kbd>», ┃</kbd>
 
 **AH Gewonnen:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Du hast die Auktion für</kbd>\
 **Beinhaltet nicht:**\
@@ -193,8 +195,8 @@ Viel Erfolg!
 ### Block des Tages:
 
 **Eingehende Nachrichten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
-&#xNAN;_&#x45;mpfohlen: Sound on: random.anvil\_break_\
+_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Sound on: random.anvil\_break_\
 **Beinhaltet:**\
 <kbd>\[Block des Tages]</kbd>\
 **Beinhaltet nicht:**\
@@ -204,7 +206,7 @@ Viel Erfolg!
 
 \
 **Eingehende Nachrichten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Advancements]</kbd>\
 **Beinhaltet nicht:**\
@@ -216,7 +218,7 @@ Viel Erfolg!
 
 \
 **Eingehende Nachrichten:**\
-&#xNAN;_&#x45;mpfohlen: Secondary Chat_\
+_&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferPass]</kbd>\
 **Beinhaltet nicht:**\

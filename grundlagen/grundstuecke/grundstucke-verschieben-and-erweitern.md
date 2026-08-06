@@ -28,7 +28,7 @@ layout:
 
 Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht, es ist in abgesprochenen Ausnahmefällen allerdings in der 1. (oder manchmal auch 2.) Spawn-Reihe möglich.
 
-Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](../../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md) könnt eurem Bauvorhaben im Weg steht.
+Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](grundstuecke-inaktiver-spieler-beantragen.md) könnt eurem Bauvorhaben im Weg steht.
 
 ### Was gibt es hierbei zu beachten?
 
@@ -37,7 +37,7 @@ Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück
 
 
 
-Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../griefergames/team.md#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
+Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../faq/griefergames/team.md#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
 
 \
 Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung im Weg stehen, werden nur verschoben, wenn es **keine** andere Möglichkeit mehr gibt.

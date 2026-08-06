@@ -103,7 +103,7 @@ Wenn dein Antrag abgelehnt wird, so kann dies unterschiedliche Gründe haben.
 
 #### Ein Merge beantragen
 
-Mit dem Checkplot-System kannst du keine Merge-Grundstücke beantragen. Dafür gibt es aber eine andere Lösung. Du kannst eine [Grundstücks-Verschiebung](../../faq/citybuild/grundstuecke-verwalten/grundstucke-verschieben-and-erweitern.md) beantragen.
+Mit dem Checkplot-System kannst du keine Merge-Grundstücke beantragen. Dafür gibt es aber eine andere Lösung. Du kannst eine [Grundstücks-Verschiebung](grundstucke-verschieben-and-erweitern.md) beantragen.
 
 Wenn du diesen Weg der Grundstücksverschiebung wählst kann es vorkommen, dass dein Grundstück verschoben wird. In der Regel wird immer das Grundstück verschoben, bei welchem dies sinnvoller ist.
 
