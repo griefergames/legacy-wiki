@@ -26,8 +26,8 @@ Du musst **kein** Registrierungs- oder Handshake-Paket an den Server senden. Der
 Alle Payloads teilen dieselbe äußere Struktur auf dem `griefergames:main`-Channel:
 
 ```
-┌─────────────────────────────────────┐
-│  id        UTF (Java DataOutput) │  ← Payload-Identifikator
+┌──────────────────────────────────┐
+│  id        UTF (Java DataOutput) │      ← Payload-Identifikator
 │  <body>    payload-spezifische   │      ← Felder je nach Payload (siehe unten)
 │            Daten                 │
 └──────────────────────────────────┘
