@@ -27,9 +27,9 @@ Alle Payloads teilen dieselbe äußere Struktur auf dem `griefergames:main`-Chan
 
 ```
 ┌──────────────────────────────────┐
-│  id        UTF (Java DataOutput)  │  ← Payload-Identifikator
-│  <body>    payload-spezifische    │      ← Felder je nach Payload (siehe unten)
-│            Daten                  │
+│  id        UTF (Java DataOutput) │  ← Payload-Identifikator
+│  <body>    payload-spezifische   │      ← Felder je nach Payload (siehe unten)
+│            Daten                 │
 └──────────────────────────────────┘
 ```
 
@@ -267,9 +267,9 @@ Neue Payloads können jederzeit hinzukommen.
 Kanal:  griefergames:main
 Payloads:
   ┌──────────────────┬─────────────┬──────────────────────────────────────────────┐
-  │ ID                │ Felder      │ Wann gesendet                                │
+  │ ID               │ Felder      │ Wann gesendet                                │
   ├──────────────────┼─────────────┼──────────────────────────────────────────────┤
-  │ accountbalance    │ double      │ Beim Betreten eines Servers & bei jeder      │
-  │                   │             │ Guthabenänderung                             │
+  │ accountbalance   │ double      │ Beim Betreten eines Servers & bei jeder      │
+  │                  │             │ Guthabenänderung                             │
   └──────────────────┴─────────────┴──────────────────────────────────────────────┘
 ```
