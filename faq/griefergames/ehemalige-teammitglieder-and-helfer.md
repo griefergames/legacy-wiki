@@ -81,6 +81,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * IPat
 * LULULULUKA
 * Mauriceneu
+* LucGamesYT
 
 </details>
 
@@ -92,6 +93,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * Wurmi\_das\_Fratz
 * 50U7R34P3R
 * Bear\_30
+* Rennci
 
 </details>
 
@@ -222,6 +224,7 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 * FelixatWork88
 * DerNanny
 * ftwS4iNT
+* SkaBone
 
 </details>
 
