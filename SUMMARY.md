@@ -128,6 +128,8 @@
   * [Jemanden beim Discord-Sicherheitsteam melden](faq/tutorials/jemanden-beim-discord-sicherheitsteam-melden.md)
   * [Accountwechsel einfach gemacht](faq/tutorials/accountwechsel-einfach-gemacht.md)
   * [Grundstück verschwunden? Mögliche Ursachen!](faq/tutorials/grundstuck-verschwunden-mogliche-ursachen.md)
+* [Für Entwickler](faq/fur-entwickler/README.md)
+  * [Client Payloads](faq/fur-entwickler/client-payloads.md)
 
 ## Hilfreiche Links
 
