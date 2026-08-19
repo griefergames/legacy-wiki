@@ -22,7 +22,7 @@ layout:
 
 # Grundstück-Menü
 
-Selbstverständlich hast du auch die Möglichkeit, deine Besucher zu grüßen oder bestimmte Blöcke auf deinem Grundstück freizugeben. Auch kannst du dich vor Angriffen schützen, eine Kampfarena errichten oder entscheiden, ob das Gras auf deinem Grundstück wachsen darf oder du doch lieber einen Erdboden besitzt?
+Selbstverständlich hast du auch die Möglichkeit, deine Besucher zu grüßen oder bestimmte Blöcke auf deinem Grundstück freizugeben. Auch kannst du dich vor Angriffen schützen, eine Kampfarena errichten oder entscheiden, ob das Gras auf deinem Grundstück wachsen darf oder du doch lieber einen Erdboden besitzt.
 
 Hierfür stellen wir dir das Grundstücks-Menü vor, in welchem du viele verschiedene Einstellungen findest.
 
@@ -104,13 +104,3 @@ Zusätzlich findest du in den Grundstücksbefehlen folgende Möglichkeiten:
 | <p><img src="https://lh4.googleusercontent.com/nN7SlBz1CX0xRcuFeDnAZKX0nKqtaC2HMspDuyt2aO33WtQ5yTt0lKkVKI6ecRvVMb_s2AxpwFNSUnrjznJHMpp_oGhEDIW2STxUHvM7DWmA7wu4sQZuQn22IEPKmU4TE7_SpRBiWqpc4fm-8xGz4Mg" alt=""><br>Grundstück kaufen</p>            | /p claim    | Hier kannst du per Mausklick ein freies Grundstück kaufen.                                                                                                                                      |
 | <p><img src="https://lh3.googleusercontent.com/B1ioKacz-fh-GQ98s5QO1Xy7_52BF6M67kUk0Gn7vJcPpxZT-L3chCpa73r8ae7PnJt9LctjlcmRSiuEEXS3FJQDeDD4-hefJv0RrHLPc_dtopOYhOyrDYTHqPUzyZv9DHpcqRVv6-Q_LPfh5kD-5Cc" alt=""><br>Übersicht freier Grundstücke</p> | <p><br></p> | Diese Übersicht zeigt dir an, wie viele kostenlose Grundstücke du auf dem Citybuild zur Verfügung hast.                                                                                         |
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

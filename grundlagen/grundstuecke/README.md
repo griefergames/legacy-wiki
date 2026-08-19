@@ -41,18 +41,3 @@ Wenn du nun ein Grundstück hast, ist es natürlich wichtig zu wissen, wie du di
 Aneinander grenzende Grundstücke lassen sich bei Bedarf miteinander [verbinden](grundstuecke-verbinden.md), um eine größere Fläche zum Bebauen zu erhalten.
 
 Wenn du die äußeren Bereiche deines Grundstücks anpassen möchtest, kannst du dies ebenfalls machen. Dabei kannst den [Rand](grundstuecke-veraendern.md#rand), die [Wand](grundstuecke-veraendern.md#wand) und den [Boden](grundstuecke-veraendern.md#boden) des Grundstücks seperat einstellen. Damit man diese auch gut sieht, kannst du das Grundstück auch [aushöhlen](grundstuecke-veraendern.md#aushoehlen).
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
-
-{% hint style="danger" %}
-Dieser Artikel ist recht kurz. Er könnte eine Ergänzung vertragen. [Interessiert](../../hilfreiche-links/under-construction.md)?
-{% endhint %}

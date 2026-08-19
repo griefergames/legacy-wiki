@@ -1,5 +1,5 @@
 ---
-description: InGame-Systeme zur Änderung von Grundstücken
+description: In-Game-Systeme zur Änderung von Grundstücken
 layout:
   width: default
   title:
@@ -141,7 +141,7 @@ Bestimmte Teamler haben die Rechte, euren Rand auch auf die Straße hinaus zu be
 
 Die beste Chance auf einen solchen besonderen Rand habt ihr über den Wunschbrunnen auf dem Cloud-Netzwerk oder über die monatliche Aktion "Wünsch dir was" von giftlippenstift, welche über einen Broadcast beworben wird.
 
-<figure><img src="https://lh4.googleusercontent.com/yQsmUxgDo3gYWF_BDrh0qQJg6L5PzjBMX4aiS8wzHtOEVALrG34GVp67wqoMnmomCXvACIfzSrlynfjqgX4zji8mDsMG6XN0ganAVQ6YW7TPOmQmXf3CCzFxA0ssDxvuTod66OkIsgpZq-oxlUV8Ugw" alt=""><figcaption><p>Ein Admin-Rand auf der Straße</p></figcaption></figure>
+<figure><img src="https://lh4.googleusercontent.com/yQsmUxgDo3gYWF_BDrh0qQJg6L5PzjBMX4aiS8wzHtOEVALrG34GVp67wqoMnmomCXvACIfzSrlynfjqgX4zji8mDsMG6XN0ganAVQ6YW7TPOmQmXf3CCzFxA0ssDxvuTod66OkIsgpZq-oxlUV8Ugw" alt=""><figcaption></figcaption></figure>
 
 #### Rand-Schilder
 
@@ -149,9 +149,7 @@ Sogenannte Rand-Schilder sind Schilder, welche nur von Spielern mit bestimmten R
 
 Diese Rechte besitzen Teammitglieder, aber auch Streamer und YouTuber, welche damit ihren Zuschauern einen Gruß auf ihrem Grundstück da lassen können.
 
-Falls ihr nun auch so ein Schild von eurem Lieblings-Streamer haben möchtet, empfiehlt es sich dass ihr aktiv in den Streams von dem Creator dabei seid, da diese ihren Zuschauern gerne eine solche Freude bereiten.
-
-<figure><img src="https://lh6.googleusercontent.com/FJ3o5bIh74lMuNo5egtJcdl8RikuIEH9CG8X0UlUyw34eNLKZfQP-AOHT00Kq_-f724bsx_KRZQqysFQeJZxjfN1B5O7h4FLmv2sWn9_AlAfV3ARzQpBHVBTr15DbyssBRn3xrY9iZgkFAbQqYqWgrs" alt=""><figcaption><p>Rand-Schilder auf einem Admin-Rand</p></figcaption></figure>
+<figure><img src="https://lh6.googleusercontent.com/FJ3o5bIh74lMuNo5egtJcdl8RikuIEH9CG8X0UlUyw34eNLKZfQP-AOHT00Kq_-f724bsx_KRZQqysFQeJZxjfN1B5O7h4FLmv2sWn9_AlAfV3ARzQpBHVBTr15DbyssBRn3xrY9iZgkFAbQqYqWgrs" alt=""><figcaption></figcaption></figure>
 
 ### Wand
 

@@ -24,7 +24,7 @@ layout:
 
 Den Citybuild-Server Evil erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Das Spawn-Grundstück auf Citybuild Evil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
 Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -32,9 +32,9 @@ Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichfö
 * Jedes Grundstück hat einen [Rand](../grundstuecke/grundstuecke-veraendern.md#rand) mit einem Block Breite.
 * Zwischen den Grundstücken ist eine 5 Blöcke breite Straße aus Netherziegeln.
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Netherrack [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
-* Die maximale Bauhöhe liegt bei 254.
+* Die maximale Bauhöhe liegt bei 256.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption><p>Straßen und Grundstücke in der Plotwelt von Citybuild Evil</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende Rechte oder Items, welche du freischalten kannst.\
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).
@@ -47,14 +47,12 @@ Im Zuge dessen wurde am 09.11.2018 der [Citybuild-Server Evil eröffnet](https:/
 
 Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer aktiv. Durch diese hohe Zuverlässigkeit, haben sich auf dem Citybuild-Server vor allem Spieler angesiedelt, welche mit entsprechender Technik arbeiten.
 
-In der letzten Zeit hat sich dadurch vor allem der Geschäftszweig der InGame-Casinos etabliert, welche [InGame-Währung](../waehrungen.md#griefergames-dollar) gegen Spieltoken tauschen, mit welchen man dann hohe Geldbeträge und/oder wertvolle Items gewinnen kann.
-
 ### Besonderheiten
 
 * Komplette Plotwelt im Nether-Stil
 * max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../../erweiterte-features/server-performance.md#join-cap-reservierte-slots-und-whitelists))
 * Hohe Spielerauslastung
-* Redstone-Farmen und Casino-Betriebe
+* Redstone-Anlagen und Casino-Betriebe
 
 
 

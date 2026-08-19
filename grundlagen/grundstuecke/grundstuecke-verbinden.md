@@ -42,14 +42,3 @@ Dafür kannst du einen [Merge-Erweiterungsantrag](grundstucke-verschieben-and-er
 
 Dein Antrag wird durch einen Content geprüft und beantwortet. Bitte beachte, dass eine Erweiterung dem Zweck dient dein Projekt zu vergrößern, wenn zwei bereits bebaute Grundstücke miteinander verbunden werden sollen bzw. der Bauplatz auf deinem aktuellen Grundstück nicht länger ausreicht. Anträge für unbebaute oder unzureichend bebaute Merge-Grundstücke werden mit hoher Wahrscheinlichkeit abgelehnt.
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
-* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
