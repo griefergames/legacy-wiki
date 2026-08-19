@@ -1,7 +1,7 @@
 ---
 description: >-
-  Manchmal braucht man einfach mehr Platz. Doch was tun, wenn der Nachbar im Weg
-  oder das Grundstück bereits zu groß ist?
+  Wenn du für dein Bauvorhaben mehr Platz brauchst oder den Citybuild wechseln
+  möchtest, kannst du dafür im Ticket-System einen Antrag stellen.
 layout:
   width: default
   title:
@@ -24,7 +24,7 @@ layout:
 
 # Grundstücke verschieben & erweitern
 
-## Grundstücke verschieben
+## Grundstücksverschiebungen
 
 Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht, es ist in abgesprochenen Ausnahmefällen allerdings in der 1. (oder manchmal auch 2.) Spawn-Reihe möglich.
 
@@ -51,11 +51,7 @@ Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergre
 * Grundstücke, die nicht viereckig oder zu groß sind, können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.&#x20;
   * In der Regel max. \~ 100er Merges - Ausnahmen sind jedoch möglich
 * Ränder und Straßen (inklusive Schilder & Köpfe) werden nicht mit verschoben.
-* Dieser Service ist aktuell **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
-
-
-
-Die aktuelle Testphase des Systems bedeutet auch, dass dieser Service jederzeit wieder (temporär) eingestellt werden kann. Das kommt auf die Fehlerlage und andere interne Faktoren an.
+* Dieser Service ist **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
 {% endhint %}
 
 ### Kritische Entities
@@ -81,11 +77,11 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
 * **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
   * Teleporter (Einstellungen und Verbindungen können möglicherweise verschwinden)
   * Unendliche Lager (Einsaugmodus wird deaktiviert)
-  * Trichter (Ausrichtung, Einstellungen und Verbindungen können verloren gehen)
+  * Trichter (Ausrichtung geht verloren und Einstellungen & Verbindungen können verschwinden)
 * **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
   * CaseOpenings
   * 4-Gewinnt-Blöcke
-  * Plot-NPC's (zusätzlich Einstellungen angeben)
+  * Plot-NPCs (zusätzlich Einstellungen angeben)
   * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)<br>
 
 ***
@@ -128,9 +124,9 @@ Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt a
 
 ***
 
-## Grundstücke erweitern
+## Grundstückserweiterungen
 
-Dein Merge-Grundstück ist bebaut. Du brauchst mehr Platz, doch du kannst dein Merge nicht selbst erweitern, weil das Grundstück zu groß ist? Dann wird es Zeit eine Grundstückserweiterung zu beantragen!
+Wenn du deine Grundstücke vollständig bebaut hast, sie aber zu groß sind, um zusammengefügt zu werden, kannst du dafür im Ticket-System einen Antrag stellen. &#x20;
 
 ### Was gibt es hierbei zu beachten?
 
@@ -139,7 +135,7 @@ Eine Weiterleitung dieser Anträge erfolgt auf dem 1.8-Netzwerk nur bei Grundst�
 {% endhint %}
 
 {% hint style="info" %}
-Alle Grundstücke, die zusammengefügt werden sollen, müssen (weitestgehend) vollständig bebaut sein und sich im Besitz des Antragstellers befinden.
+Alle Grundstücke, die zusammengefügt werden sollen, müssen vollständig bebaut sein und sich im Besitz des Antragstellers befinden.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -167,12 +163,3 @@ Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich f
 
 {% embed url="https://ticket.griefergames.de/" %}
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
