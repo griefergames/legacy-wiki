@@ -72,7 +72,7 @@
 
 * [📜 Regelwerk](griefergames-allgemein/regelwerk.md)
 * [💁 Support erhalten](griefergames-allgemein/support.md)
-* [💡 Vorschlag zur Serververbesserung](griefergames-allgemein/vorschlaege.md)
+* [💡 Vorschläge](griefergames-allgemein/vorschlaege.md)
 * [Fehlermeldungen](griefergames-allgemein/fehler-melden.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
 * [🙏 Strafe aufheben / Entbannung](griefergames-allgemein/strafaufhebung.md)
