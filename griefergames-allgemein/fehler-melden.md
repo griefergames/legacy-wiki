@@ -27,7 +27,8 @@ Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der 
 Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).\
 Die Bearbeitung der Fehlermeldung kann je nach Priorität des Fehlers variieren.
 
-Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.
+Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.\
+Meldungen zur Server-Performance können ebenfalls als Fehlermeldung auf dem Discord erstellt werden.
 
 ### Infos zu Fehlermeldungen im Discord:
 
