@@ -36,13 +36,13 @@
     * [Abschließbare Truhen](grundlagen/befehlsuebersicht/spezielle-features/abschliessbare-truhen.md)
 * [💰 Währungen](grundlagen/waehrungen.md)
 * [⬆️ Booster & Perks](grundlagen/booster-and-perks.md)
-* [🅱️ CustomBlocks](grundlagen/customblocks.md)
 * [↕️ Aufzüge & Teleporter](grundlagen/aufzuege-and-teleporter.md)
 * [♾️ Passive Spawner](grundlagen/passive-spawner.md)
 * [🗝️ Abschließbare Truhen](grundlagen/abschliessbare-truhen.md)
 * [📥 Das Trichter-System](grundlagen/das-trichter-system.md)
 * [📦 Das Unendliche Lager](grundlagen/das-unendliche-lager.md)
 * [📈 Das Auktionshaus](grundlagen/das-auktionshaus.md)
+* [🅱️ CustomBlocks](grundlagen/customblocks.md)
 * [💱 Das Handels-System](grundlagen/handels-system.md)
 
 ## Erweiterte Features

@@ -28,13 +28,13 @@ layout:
 
 Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung gestellt werden. Es stehen dort diverse Blöcke zum Bauen und Dekorieren zur Verfügung.
 
-Anders als bei anderen Modded Servern ist es auf GrieferGames nicht verpflichtend, die dazugehörige Client-Mod installiert zu haben. Ist die Client-Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames weiterhin zu spielen.
+Es ist auf GrieferGames nicht verpflichtend, die CustomBlocks-Mod installiert zu haben. Ist die Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames zu spielen.
 
 {% hint style="info" %}
-Die Nutzung der Blöcke ist freiwillig. Wir empfehlen natürlich die Erweiterung zu installieren.
+Die Nutzung der Blöcke und der Mod ist freiwillig. Für ein besseres Erlebnis im [Zauberwald](https://wiki.griefergames.net/erweiterte-features/der-zauberwald) wird sie allerdings stark empfohlen.
 {% endhint %}
 
-### ​<img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
+### ​<img src="../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9 & 1.12.2) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>
 
 Die CustomBlocks stehen euch als Erweiterung auf Basis von Forge zur Verfügung. Forge agiert als eine Art Mod-Loader und bildet die Grundlage für die Einbindung unserer CustomBlocks-Erweiterung. Forge könnt ihr in einen Client eurer Wahl hinzufügen.
 
@@ -54,24 +54,4 @@ Für die Installation wird Forge benötigt. Solltest du Forge schon installiert 
 
 </details>
 
-Die Forge-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) zu finden.
-
-### ​<img src="../.gitbook/assets/image (28) (1).png" alt="" data-size="line"> CustomBlocks Fabric (neuste Minecraft-Version)
-
-Mehr zu den CustomBlocks als Fabric-Mod findet ihr im [Cloud Wiki](https://wiki.griefergames.live/funktionen/customblocks#customblocks-als-fabric-mod). Fabric steht nur in höheren Spielversionen zur Verfügung. Diese Version ist nicht für Spieler geeignet, welche nur in der 1.8.9 spielen!
-
-### Ihr braucht Hilfe? <a href="#rm9rldqn4nks" id="rm9rldqn4nks"></a>
-
-Solltet ihr Probleme oder generelle Fragen zu der Installation von CustomBlocks haben, könnt ihr [unserem Discord](https://discord.griefergames.net/) beitreten und dort nach Hilfe fragen.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [SyntaxOfficial](https://profile.griefergames.live/minecraft/5680a974-0d5f-460d-87a2-a33b076d4d08)
-* [CosmoHDx](https://profile.griefergames.live/minecraft/2416dddf-e794-4efe-a1b0-95679cb4c68e)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
+Die Forge-Mod "CustomBlocks" ist auf [CurseForge](https://www.curseforge.com/minecraft/mc-mods/mysterymod-customblocks/files/all?page=1\&pageSize=20\&version=1.8.9\&gameVersionTypeId=1) und [Modrinth](https://modrinth.com/mod/griefergames-customblocks/versions) zu finden.
