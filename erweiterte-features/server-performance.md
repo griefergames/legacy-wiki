@@ -75,10 +75,6 @@ Der ItemRemover entfernt alle 20 Minuten frei schwebende Items in allen geladene
 
 Wird die [Join-Cap (Freie Serverslots)](server-performance.md#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine [Moneydrops](https://items.griefergames.net/#10.000%24_10x-Money-Drop) aus den [Case-Opening-Kisten](das-case-opening.md#case-opening) mehr generiert. Die Kiste wird dem Spieler zurück erstattet.
 
-#### Stoplag/ClearLag
-
-In extremen Fällen kann von bestimmten Teammitgliedern ein Befehl ausgeführt werden, welcher entweder alle erforderlichen Maßnahmen startet **oder** sämtliche geladenen Entities in der Welt entfernt. Darunter fallen mitunter Rahmen (und Karten), Rüstungsständer (und Hologramme), Items und fallende Blöcke, Kreaturen, Dorfbewohner (auch mit Token) und andere "Non-Player"-Entities.
-
 ### Join-Cap, Reservierte Slots und Whitelists
 
 Zur Sicherung des Serverbetriebs ist es erforderlich, die Menge an Spielern auf den Servern zu beschränken.
@@ -106,30 +102,6 @@ Einzelne Citybuild-Server können von diesen Regelungen abweichen.
 
 Die Slot-Beschränkungen von Servern können entsprechend der technischen Verfügbarkeit angepasst (verringert) werden. Eine Anhebung der Server-Slots bzw. individuelle Freischaltung vom Cap-/Whitelist-System ist aus Gründen der Performance nicht möglich.
 
-
-
-### AFK-System
-
-#### Warum brauchen wir ein AFK-System – es ging doch lange Zeit ohne?
-
-In der Vergangenheit kam es immer wieder zu Kritik, dass Stammspieler nicht auf ihre Citybuild-Server joinen können, obwohl sie bereits zusätzliche [Join-Rechte](server-performance.md#join-cap-reservierte-slots-und-whitelists) haben. Diese Kritiken haben wir ernst genommen und zwei passende Lösungen gefunden: Mehr Slots oder weniger Spieler.
-
-Mehr Slots sind leider nicht möglich, aufgrund der Art und Weise, wie Minecraft auf einen [einzigen Haupt-Thread](server-performance.md#cpu) ausgelegt ist. Das heißt wir können nicht beliebig in neue Hardware investieren und damit mehr Slots schaffen, irgendwann ist technisch einfach Schluss. Könnte man das Problem einfach mit Geld bewerfen, hätten wir es nicht – dem könnt ihr euch sicher sein.
-
-Die einzige Alternative ist weniger Spieler online zu haben. Einfach Spieler ohne Rang zu kicken, um Spielern mit Rang Platz zu schaffen ist _unfair_, daher sehen wir dies nicht ein. Demzufolge werden Accounts, welche als AFK erkannt werden, von unseren Citybuild-Servern geworfen, wenn diese [überfüllt sind](server-performance.md#join-cap-reservierte-slots-und-whitelists). Auf Servern, welche nicht voll sind, könnt ihr auch weiterhin AFK sein, ohne gekickt zu werden.
-
-Das System unterscheidet nicht nach Rang oder AFK-Dauer, sondern nur nach diversen Parametern, welche Spielaktivität anzeigen. Welche als AFK erkannten Spieler vom Server getrennt werden, wird dann zufällig ermittelt.
-
-#### Das Plugin ist unfair – es kickt nur mich und andere, die AFK sind, bleiben stehen!
-
-Nein, es wird **komplett zufällig** gekickt. Beschwerden kommen jedoch nur durch aktive Spieler. Bots, welche gekickt werden, können durch den Betreiber wieder online gebracht werden oder zeigen durch andere Maßnahmen Spielaktivität, um gar nicht erst als AFK erkannt zu werden.
-
-#### Warum werde ich gekickt, obwohl ich nicht AFK bin?
-
-Das System nutzt verschiedene Indikatoren, um zu ermitteln, ob ein Account aktiv spielt oder abwesend ist. Aus Sicherheitsgründen werden wir die _genauen_ Indikatoren **nicht** veröffentlichen. Zudem können die Indikatoren von Server zu Server unterschiedlich sein. Wir verfeinern die Indikatoren stetig, um sicherzustellen, dass die Erkennung von Aktivität optimiert wird.
-
-
-
 ### Redstone deaktiviert
 
 Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstruktionen zu beeinträchtigen, wurden Sicherheitsvorkehrungen an den Grundstücken vorgenommen. Durch diese Vorkehrung werden Grundstücke, die eine erhöhte Redstone-Aktivität vorweisen, automatisch von einem Plugin „eingeschränkt“, sodass die Redstone-Schaltung nciht mehr genutzt werden kann.
@@ -150,7 +122,3 @@ Aus Gründen der Sicherheit können wir natürlich nicht genau mitteilen, ab wel
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}
