@@ -36,7 +36,7 @@ Beim Adventurer könnt ihr neue Aufgaben annehmen, durch welche ihr [Adventurer-
 
 Hierbei gibt es tägliche, wöchentliche und monatliche Aufgaben.
 
-* Die täglichen Aufgaben könnt ihr jeden Tag machen und sie bringen euch einen Adventurer-Coin und mit einer geringen Wahrscheinlichkeit [Kristalle](../grundlagen/waehrungen.md#kristalle) und/oder MysteryMod-Cosmetics. \
+* Die täglichen Aufgaben könnt ihr jeden Tag machen und sie bringen euch einen Adventurer-Coin und mit einer geringen Wahrscheinlichkeit erhält man [Kristalle](../grundlagen/waehrungen.md#kristalle). \
   Das heißt aber auch, dass ihr nur einen Tag Zeit habt die Aufgabe zu erledigen. Am nächsten Tag gibt es eine neue Aufgabe und die alte ist nicht mehr gültig.
 * Die wöchentlichen Aufgaben bringen euch bei der Erfüllung 6 Adventurer-Coins und eine höhere Chance auf mehrere [Kristalle](../grundlagen/waehrungen.md#kristalle). Ihr erhaltet jede Woche eine neue Aufgabe. Diese Aufgaben sind natürlich schwerer als die täglichen Aufgaben, damit ihr die ganze Woche über etwas zu tun habt.
 * Die monatlichen Aufgaben bekommt ihr zum Monatsbeginn. Ihr erhaltet für diese schwierigsten Aufgaben beim erfolgreichen Absolvieren 14 Adventurer-Coins und sie haben eine hohe Chance auf [Kristalle](../grundlagen/waehrungen.md#kristalle) als Zusatzgewinn.
