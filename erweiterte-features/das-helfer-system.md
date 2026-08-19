@@ -23,14 +23,14 @@ layout:
 
 ### Was ist ein Helfer?
 
-Helfer sind erste Ansprechpartner auf den Citybuild-Servern bei Fragen zum Spiel oder allgemeinen Support-Anliegen. Helfer sind Teil der Community, werden durch ihren Citybuild-Server bestimmt und sind im gleichen Maße für ihren [Citybuild-Server](../grundlagen/spielmodus-citybuild/) zuständig. Helfer stehen in engem Kontakt zum Team, insbesondere dem Bereich "Support & Moderation" und können Anliegen schnell an der richtigen Stelle platzieren oder den passenden Kontaktweg für einen Spieler herausstellen.
+Helfer sind von der Community gewählte Spieler mit erweiterten Fähigkeiten auf den Citybuild-Servern bei Fragen zum Spiel oder allgemeinen Support-Anliegen. Helfer sind Teil der Community, werden durch ihren Citybuild-Server bestimmt und sind im gleichen Maße für ihren [Citybuild-Server](../grundlagen/spielmodus-citybuild/) zuständig. Helfer stehen in engem Kontakt zum Team, insbesondere dem Bereich "Support & Moderation" und können Anliegen schnell an der richtigen Stelle platzieren oder den passenden Kontaktweg für einen Spieler herausstellen.
 
 Eine Liste aller derzeitigen Helfer ist in der [Team-Übersicht](../faq/griefergames/team.md#mods-sups-and-helfer) zu finden.
 
 #### Was macht ein Helfer?
 
-* Erste Hilfe bei Anliegen und Fragen der User
-* Unterstützung bei der Findung von Anlaufstellen (Feedback, Entbannungsanträge, Meldungen)
+* Erste Hilfe bei Anliegen und Fragen
+* Unterstützung bei der Findung von Anlaufstellen (z.B. Fehlermeldungen, Strafaufhebungsanträge, Anfragen von Flags/ Kartenmotiven..)
 * Weiterleiten von Anliegen / Fehlern
 * Kurzzeitiges Eingreifen bei massiven Störungen auf dem Server (Helfer-Mute, StartKick, StartJail)
 

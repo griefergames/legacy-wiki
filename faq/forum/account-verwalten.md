@@ -98,13 +98,3 @@ Du bekommst nun die Auswahl, wie du den Kontakt des Benutzers einschränken möc
 * Der Benutzer kann dir keine Konversation schicken und keine Kommentare an deiner Pinnwand schreiben.&#x20;
 * Du wirst nicht benachrichtigt, wenn er dich in einem Beitrag zitiert oder erwähnt.
 * Themen und Beiträge des Benutzers werden ausgeblendet, sodass du diese nicht lesen musst. Durch einen einfachen Klick kannst du das Thema/den Beitrag dennoch anzeigen. Die Einblendung ist nur vorübergehend und hebt die Blockierung nicht auf.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

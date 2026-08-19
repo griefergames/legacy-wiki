@@ -1,7 +1,5 @@
 ---
-description: >-
-  Hier findest du Antworten auf typische Anliegen zu unserem TeamSpeak- und
-  Discord-Server
+description: Hier findest du Antworten auf typische Anliegen zu unserem TeamSpeak-Server
 layout:
   width: default
   title:
@@ -24,24 +22,6 @@ layout:
 
 # TeamSpeak
 
-### TeamSpeak: Support
-
-Manche Spieler brauchen Support, welchen man direkt durch Nachschlagen im [Wiki](https://wiki.griefergames.net/) oder Fragen im [Discord](../hilfreiche-links/griefergames-dienste.md) beantworten kann.
-
-Aufgrund unserer Prioritäten, technischen Möglichkeiten und internen Strukturen, haben wir daher entschieden den offiziellen Support über TeamSpeak einzustellen.
-
-
-
-Einige Supporter und Moderatoren bieten einen temporären freiwilligen Support auf dem TeamSpeak-Server an. Ist das so, dann kannst du auch dort dein Anliegen anbringen. Sei dir dabei bitte bewusst, dass du nicht der Einzige bist, der ein Anliegen hat. Viele TeamSpeak-Nutzer werden im Channel sein, weshalb du also bitte immer etwas Geduld haben solltest.<br>
-
-Priorisiert solltest du deine Anfragen auf unserem [Discord-Server](https://discord.griefergames.net/) im Kanal "🗨️🆘 | chat-support" stellen.
-
-Dort wird dir nicht nur durch unsere Teammitglieder, sondern auch unsere Community-Mitglieder geholfen. Sollte zur Lösung deines Anliegens ein Teammitglied erforderlich sein, melden sich diese bei dir zurück.
-
-Falls du direkt Kontakt zum Team aufnehmen möchtest, kannst du dies auch über unser [Ticket-System (Web)](https://ticket.griefergames.de/) oder über das [Ticket-System (Discord)](https://discord.com/channels/325017098592059392/1022387246873198643) machen.
-
-
-
 ### TeamSpeak: Minecraft-Rang synchronisieren
 
 Wenn du deinen Minecraft-Rang auch auf unserem TeamSpeak-Server haben willst, musst du dich auf dem TeamSpeak-Server genau so nennen wie in Minecraft, damit unser Bot dich erkennen kann.
@@ -60,13 +40,13 @@ eingeben. Jetzt musst du nur noch einige Sekunden bis wenige Minuten warten.
 
 Falls die Rang-Synchronisierung nicht funktionieren sollte, versuche es nach 24 Stunden erneut. Der Bot ist nicht zu 100% fehlerfrei und legt ab und zu eine kleine „Ruhezeit“ ein.
 
-Sollte auch nach 24 Stunden keine Synchronisation deines Ranges möglich sein, wende dich bitte an ein Teammitglied. Dieses kann den Zustand des Bots prüfen lassen.
+Sollte auch nach 24 Stunden keine Synchronisation deines Ranges möglich sein, wende dich bitte an ein Teammitglied.
 
 
 
 ### TeamSpeak: Forum-Verifikation
 
-Durch eine gehäufte Anzahl an Zwischenfällen mit Gästen auf unserem TeamSpeak-Server, haben wir beschlossen, dass sich Gäste nur noch in die Eingangshalle verbinden können. Für die volle Funktion des TeamSpeak-Servers wird immer eine Verifikation benötigt.
+Für die volle Funktion des TeamSpeak-Servers wird immer eine Verifikation benötigt.
 
 Hierzu können Gäste ihre TeamSpeak-Identität mit einem existierenden Foren-Account verknüpfen, auch wenn dieser keinen Minecraft-Account verknüpft hat.
 
@@ -79,7 +59,7 @@ Die Erstellung eines neuen Foren-Accounts ist nur noch über GGAuth möglich. Hi
 **Ablauf der Verifikation**
 
 1. Anmeldung mit einem existierenden GGAuth-Account
-2. _nach unten scrollen zu "Account-Verknüpfungen"_&#x20;
+2. nach unten scrollen zu "Account-Verknüpfungen"&#x20;
 3. In der Kachel Teamspeak den Button „Verknüpfung hinzufügen“ anklicken
 4. Die eindeutige ID eintragen\*\* und bestätigen
 5. Folge den Anweisungen auf der Accountverwaltung, bis der Vorgang erfolgreich abgeschlossen ist.
@@ -157,13 +137,3 @@ Das Ganze sollte nun so aussehen:
 
 Es gibt natürlich noch weitere Möglichkeiten, die Qualität deiner Audioverbindung zu verbessern. Du kannst dir ein qualitativ hochwertiges Mikrofon (und Mischpult) zulegen oder einfach VoiceMeeter benutzen. Diese Software ist ein virtuelles Mischpult und bietet grandiose Einstellungen. \
 Wie du diese Software installierst und einstellst, erfährst du durch Tutorials auf YouTube.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

@@ -35,14 +35,14 @@ Beschaffung persönlicher Daten anderer Personen (wie Passwort, Kreditkartennumm
 
 ### Externe LabyMod Addons über Discord & YouTube
 
-Die womöglich übelste Masche von Skript-Kiddies ist es, externe LabyMod-Addons zu entwickeln und diese dann zu verbreiten. Die Verbreitung der schädlichen Software gelingt mit dem Leichtsinn des Menschen – die meisten Menschen denken nicht erst an das Negative, sondern an das Positive. Somit wird geworben, dass man z. B. mithilfe einer Installation bisher unbekannter Modifikationen auf GrieferGames duplizieren kann. Solche Phishing-Methoden sind mittlerweile üblich und verleiten immer mehr Menschen gerade auf YouTube dazu, solche Dateien herunterzuladen und zu installieren.
+Die womöglich übelste Masche ist es, externe LabyMod-Addons zu entwickeln und diese dann zu verbreiten. Die Verbreitung der schädlichen Software gelingt mit dem Leichtsinn des Menschen – die meisten Menschen denken nicht erst an das Negative, sondern an das Positive. Somit wird geworben, dass man z. B. mithilfe einer Installation bisher unbekannter Modifikationen auf GrieferGames duplizieren kann oder bestimmte Inhalte (z.B. Addons für Bots) vorab testen darf. Solche Phishing-Methoden sind mittlerweile üblich und verleiten immer mehr Menschen gerade auf YouTube dazu, solche Dateien herunterzuladen und zu installieren.
 
 {% hint style="info" %}
-Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Das sind lediglich **Anzeige-Hacks** und zeigen nur Ghostblocks (nur für den Client sichtbare Blöcke) und nicht echte Blöcke. Wer dennoch auf diese Masche hineinfällt, ist leider selbst Schuld, da man mit solchen Mitteln versuchen würde, GrieferGames zu schaden.
+Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Das sind lediglich **Anzeige-Hacks** und zeigen nur Ghostblocks (nur für den Client sichtbare Blöcke) und nicht echte Blöcke.&#x20;
 {% endhint %}
 
 {% hint style="warning" %}
-&#x20;Ladet euch nur LabyMod Addons im **offiziellen In-Game-Addon-Store** herunter! Externe Addons, also Addons, die ihr über Dateien bekommt, die ihr selbst im Mod-Ordner ablegen sollt, sind meistens betrügerische Maschen!
+Ladet euch nur LabyMod Addons im **offiziellen In-Game-Addon-Store** herunter! Externe Addons, also Addons, die ihr über Dateien bekommt oder selbst im Mod-Ordner ablegen sollt, sind meistens betrügerische Maschen!
 {% endhint %}
 
 Auch wurde auf Discord ziemlich stark mit solchen Mitteln gespielt, um Daten abzufangen und diese zu benutzen. Beispielnachricht eines Phishing-Falls auf Discord:
@@ -67,7 +67,7 @@ Auch wurde auf Discord ziemlich stark mit solchen Mitteln gespielt, um Daten abz
 >
 > Dein BETA Token: "BETA-656"
 
-Diese Nachrichten bekamen viele Discord-Nutzer, die auf unserem [offiziellen Discord-Server](https://discord.gg/abge) waren. Es haben sich mehrere Personen wie Teammitglieder genannt und das Profilbild exakt so gestaltet, als wäre derjenige, mit dem man gerade schreibt, ich. Viele Nutzer dachten, dass sie mit einem echten Administrator/Developer/Content von GrieferGames, geschrieben haben und dachten sich nichts dabei, die Datei herunterzuladen und zu installieren.
+Diese Nachrichten bekamen viele Discord-Nutzer, die auf unserem [offiziellen Discord-Server](https://discord.gg/abge) waren. Es haben sich mehrere Personen wie Teammitglieder genannt und das Profilbild exakt so gestaltet. Viele Nutzer dachten, dass sie mit einem echten Teammitglied von GrieferGames, geschrieben haben und dachten sich nichts dabei, die Datei herunterzuladen und zu installieren.
 
 Problem hierbei ist: Weder würden wir...
 
@@ -76,7 +76,7 @@ Problem hierbei ist: Weder würden wir...
 3. spezielle Verschlüsselungsmöglichkeiten anwenden, um zukünftige Features zu schützen.
 4. .zip-Dateien oder anderweitige dekompilierte Dateien versenden.
 
-All diese Punkte zeigen, dass sich i. d. F. bei der Nachricht um einer Nachricht handelt, die nicht von einem [offiziellen Teammitglied](https://griefergames.de/team/) versandt wurde.
+All diese Punkte zeigen, dass sich bei der Nachricht um einer Nachricht handelt, die nicht von einem [offiziellen Teammitglied](https://wiki.griefergames.net/faq/griefergames/team) versandt wurde.
 
 Ob man auf Discord mit dem richtigen Teammitglied von GrieferGames schreibt, kann man prüfen, indem man unter dem Profil desjenigen auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.\
 Sollte dort „GrieferGames“ stehen, ist das schon einmal der richtige Weg. Wenn jetzt noch die Rollen, die der Discord-Nutzer auf dem GrieferGames Discord-Server hat stimmen – wenn dort z. B. als Rolle „Administrator“ steht, weiß man, dass man mit dem richtigen Teamler schreibt.
@@ -105,12 +105,10 @@ Was man allerdings fast überall selbstständig machen kann, ist ...
 
 Wir, GrieferGames, sind nicht Minceraft und haben auch keine Kooperation mit Minecraft. Daher können und werden wir auch keine Wege einleiten, gehackte Accounts wiederzubekommen.
 
-Der beste Weg ist hier, Microsoft direkt zu kontaktieren. Dies gelingt über [deren Kontaktformular](https://help.minecraft.net/hc/en-us/requests/new).
+Der beste Weg ist hier, Microsoft direkt zu kontaktieren. Dies gelingt über [deren Kontaktformular](https://support.xbox.com/de-DE/contact-us).
 
-Wir machen allerdings eine einzige Ausnahme: \
-Wir übertragen den Rang eines verlorenen Accounts auf einen neu gewählten Account. Der verlorene Account wird dann, nach Übertragung des Rangs, dauerhaft von unseren Minecraft-Servern gebannt. Allerdings benötigt man, um einen Rang zu übertragen, eine Transaktions-ID, die man nach dem Kauf des Rangs erhalten hat. Wendet euch in diesem Fall, solltet ihr gehackt worden sein, bitte an [shop@griefergames.net](mailto:shop@griefergames.net). Unsere Shop-Manager werden dann ihr Bestmöglichstes tun, um euren damals erworbenen Rang wieder nutzen zu können.
-
-Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem [Ticket-System](http://ticket.griefergames.de/) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Die Administration prüft dann, ob und welche Maßnahmen möglich sind?
+\
+Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem Ticket-System [im Web](http://ticket.griefergames.de/) oder auf dem [offiziellen GrieferGames Discord](https://discord.com/invite/abge) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Die Administration prüft dann, ob und welche Maßnahmen möglich sind.
 
 Wie in der Frage „Was kann ich gegen solchen Betrug unternehmen?“ bereits angesprochen, solltet ihr ...
 
@@ -124,15 +122,9 @@ Wie in der Frage „Was kann ich gegen solchen Betrug unternehmen?“ bereits an
 
 ### Was macht GrieferGames gegen Phishing?
 
-Wir unternehmen, sollte uns zu 100 % bewiesener Phishing-Fall gemeldet werden, alles Mögliche, um diese Person von unserem Netzwerk zu entfernen. Auf all unseren Diensten (Minecraft-, TeamSpeak-, Discord-Server, etc.) werden solche Personen dauerhaft gebannt und werden nie wieder die Möglichkeit haben, bei uns spielen zu können.
+Wir unternehmen, sollte uns ein bewiesener Phishing-Fall gemeldet werden, alles Mögliche, um diese Person von unserem Netzwerk zu entfernen. Auf all unseren Plattformen werden solche Personen dauerhaft gebannt und werden nie wieder die Möglichkeit haben, bei uns spielen zu können.
 
-Tatsächlich sind es aber meist keine Spieler, die mal bei uns aktiv gespielt haben, sondern eher externe Personen, die das Potenzial gerade bei uns, einem der größten deutschen Servern sehen, Menschen um ihr Hab und Gut „abzuziehen“, um ihren eigenen Vorteil daraus zu ziehen. Viele ziehen Kindern und älteren Spielern die Minecraft-Accounts ab, um die Inhalte auf ihren Accounts zu übertragen. Im Anschluss verkaufen sie diese Inhalte für Echtgeld und machen somit erheblichen Profit.
-
-Das Problem hierbei ist, dass die Polizei bei solchen Fällen leider nicht wirklich aktiv sein möchte und daher dies mehr oder weniger, meist durch nicht ausreichenden Beweisen, durchgehen lässt.
-
-Auch sind sogenannte Alt-Accounts, also bereits gestohlene Accounts, weit verbreitet und sehr einfach erhältlich. Meist erhält man mehrere hundert Accounts für wenige Euro. Seitens Mojang wird bei dieser Thematik leider auch nicht wirklich viel angegangen, aber intern arbeiten wir mit anderen größeren Minecraft-Netzwerken zusammen, um so viele Alt.-Accounts wie möglich von unseren Netzwerken fern zu halten. Dass das nur ein kleiner Schritt in die richtige Richtung ist, wissen wir alle.
-
-Wir nutzen, um die Discord-Phishing-Fälle einzuschränken, einen hauseigenen Bot. Dieser sorgt für mehr Sicherheit in Bezug auf das Fälschen von Teammitgliedern. Mehr sei dazu allerdings nicht gesagt. ![;)](https://forum.griefergames.de/images/smilies/emojione/1f609.png)&#x20;
+Tatsächlich sind es aber meist keine Spieler, die mal bei uns aktiv gespielt haben, sondern eher externe Personen, die das Potenzial gerade bei uns, einem der größten deutschen Servern sehen, Menschen um ihr Hab und Gut „abzuziehen“, um ihren eigenen Vorteil daraus zu ziehen. Viele ziehen die Minecraft-Accounts ab, um die Inhalte auf ihren Accounts zu übertragen. Im Anschluss verkaufen sie diese Inhalte für Echtgeld und machen somit erheblichen Profit.
 
 #### GG Auth
 

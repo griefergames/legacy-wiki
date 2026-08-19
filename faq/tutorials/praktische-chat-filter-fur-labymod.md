@@ -26,13 +26,13 @@ Hey, ich habe hier ein paar praktische Filter für GrieferGames (Version 1.8) er
 ***
 
 Falls du noch nicht weißt, wie du Filter einrichtest, klicke einfach auf deine Version für das passende Tutorial. Wenn du dich bereits auskennst, kannst du diesen Schritt überspringen: \
-[**LabyMod 3**](https://youtu.be/XtLyDoapibA?t=62) | [**LabyMod 4**](https://youtu.be/XtLyDoapibA?t=180) | [**MysteryMod**](https://youtu.be/XtLyDoapibA).
+[**LabyMod 3**](https://youtu.be/XtLyDoapibA?t=62) | [**LabyMod 4**](https://youtu.be/XtLyDoapibA?t=180)
 
 ***
 
 Kurzes Text Tutorial:
 
-#### Bei LabyMod 3 und MysteryMod:
+#### Bei LabyMod 3:
 
 Um einen Filter einzustellen, drücke "T", um den Chat zu öffnen. Klicke dann unten rechts auf "Chat-Filter", um die gewünschten Filter anzupassen.
 

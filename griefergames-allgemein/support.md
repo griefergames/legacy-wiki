@@ -39,25 +39,15 @@ Deine Fragen kannst du auf [unserem Discord](https://discord.griefergames.net/) 
 
 Alternativ kannst du in unserem eigenen Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) (Kanal `#ticket-support` ) ein neues Ticket erstellen und somit direkt das Team fragen. Beachte jedoch, dass der Support nicht rund um die Uhr besetzt ist. Es kann also durchaus sein, dass du nicht innerhalb kurzer Zeit eine Rückmeldung erhältst.\
 \
-Eine offizielle Teamübersicht kannst du übrigens hier einsehen: [Teamübersicht](https://forum.griefergames.de/team/).
+Eine offizielle Teamübersicht kannst du übrigens hier einsehen: [Teamübersicht](https://wiki.griefergames.net/faq/griefergames/team).
 
 </details>
 
 <details>
 
-<summary>Gibt es einen TeamSpeak-Support?</summary>
+<summary>Bei wem soll ich mich melden, wenn ich Fragen zu meiner Bestellung im Shop oder In-Game Store habe?</summary>
 
-Unser TeamSpeak-Support wurde eingestellt, da die Nachfrage zu gering war und wir keine Kapazitäten für dauerhafte Betreuung haben.
-
-Support erhältst du auf unserem Discord durch die Community und das Team.
-
-</details>
-
-<details>
-
-<summary>Bei wem soll ich mich melden, wenn ich Fragen zu meiner Bestellung im WebShop habe?</summary>
-
-Für Anliegen rund um den Shop wende dich bitte per E-Mail an: 📧 [shop@griefergames.net](mailto:shop@griefergames.net)\
+Für Anliegen rund um deinen Einkauf, wende dich bitte per E-Mail an: 📧 [shop@griefergames.net](mailto:shop@griefergames.net)\
 Bitte habe bezüglich einer Rückmeldung ein wenig Geduld.
 
 Mehr Informationen findest du in der [WebShop-FAQ](../faq/webshop.md).
@@ -68,7 +58,7 @@ Mehr Informationen findest du in der [WebShop-FAQ](../faq/webshop.md).
 
 <summary>Bei wem soll ich mich melden, wenn ich einen Fehler gefunden habe?</summary>
 
-Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn du einen Fehler melden möchtest, dann folge bitte dem Artikel [Fehlermeldungen](https://forum.griefergames.de/article/2). Wenn du Feedback einsenden möchtest, folge bitte dem Artikel [Vorschlag zur Serververbesserung](https://forum.griefergames.de/article/5).
+Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn du einen Fehler melden möchtest, dann melde diesen auf unserem [offiziellen Discord](https://discord.com/channels/325017098592059392/1283079587080966297).&#x20;
 
 </details>
 
@@ -85,10 +75,3 @@ Mehr Informationen zur Vermeidung von Account-Diebstahl findest du in unserem Ar
 
 </details>
 
-<details>
-
-<summary>Wie kann ich am schnellsten die Administration erreichen?</summary>
-
-
-
-</details>

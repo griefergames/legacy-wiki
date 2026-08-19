@@ -21,7 +21,7 @@ layout:
 
 # ❗ Beschwerden über Spieler/ Beweismaterial
 
-Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://forum.griefergames.de/article/7-regelwerk/) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
+Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://griefergames.cloud/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
 
 {% hint style="info" %}
 Bitte nutzt dafür das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
@@ -58,12 +58,12 @@ Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs
 | Vulgäres Chatverhalten                 | Chat-Log/Videoaufnahme   |
 
 {% hint style="info" %}
+Mit dem Befehl `/fremdwerbung` könnt ihr als Community helfen, Fremdwerbung zu reduzieren.\
+\
 Wenn es um Regelverstöße auf [TeamSpeak oder Discord](../hilfreiche-links/griefergames-dienste.md) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**&#x20;
 
 Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
 {% endhint %}
-
-
 
 ### Was sind Chat-Logs?
 
@@ -75,10 +75,10 @@ Folgende Befehle stehen euch hier zur Verfügung:
 
 Habt ihr keinen [GGAuth-Account](gg-auth.md) könnt ihr Chatlogs erstellen, jedoch nicht in eurem Account sichern. Ihr müsst dann nach Erstellen des Chatlogs den Link aus dem Chat seperat speichern, damit ihr ihn für eine Meldung verwenden könnt.
 
-Habt ihr euren Minecraft-Account mit GGAuth verknüpft, könnt ihr Chatlogs auch auf der [Chatlog-Seite](../hilfreiche-links/griefergames-dienste.md) einsehen. Dies funktioniert für Chatlogs aus dem Citybuild-Chat, dem Grundstück-Chat und dem Global-Chat (nur Citybuild 1.8).
+Habt ihr euren Minecraft-Account mit GGAuth verknüpft, könnt ihr Chatlogs auch auf der [Chatlog-Seite](https://chatlog.griefergames.de/my-chatlogs) einsehen. Dies funktioniert für Chatlogs aus dem Citybuild-Chat, dem Grundstück-Chat und dem Global-Chat (nur Citybuild 1.8).
 
 {% hint style="danger" %}
-Chatlogs, welche ihr von Direktnachrichten erstellt, lassen sich **nicht** auf der Chatlog-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chatlog seperat abspeichern.
+Chatlogs, welche ihr von Direktnachrichten erstellt, lassen sich **nicht** auf der Chatlog-Seite aufrufen. In diesen Fällen müsst ihr euch den Link zum jeweiligen Chatlog separat abspeichern.
 {% endhint %}
 
 
