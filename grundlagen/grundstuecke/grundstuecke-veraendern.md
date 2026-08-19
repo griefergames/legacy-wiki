@@ -139,7 +139,7 @@ Hierbei kostet jeder belegte Slot 1.000$. Ein "2-Blöcke"-Rand kostet euch also 
 
 Bestimmte Teamler haben die Rechte, euren Rand auch auf die Straße hinaus zu bearbeiten. Diese Ränder nennt man Admin-Ränder, da ihr sie nur durch einen Teamler erhaltet.
 
-Die beste Chance auf einen solchen besonderen Rand habt ihr bei den Livestreams von “hochrangigen” Teamlern, welche oft Wünsche der Community erfüllen.
+Die beste Chance auf einen solchen besonderen Rand habt ihr über den Wunschbrunnen auf dem Cloud-Netzwerk oder über die monatliche Aktion "Wünsch dir was" von giftlippenstift, welche über einen Broadcast beworben wird.
 
 <figure><img src="https://lh4.googleusercontent.com/yQsmUxgDo3gYWF_BDrh0qQJg6L5PzjBMX4aiS8wzHtOEVALrG34GVp67wqoMnmomCXvACIfzSrlynfjqgX4zji8mDsMG6XN0ganAVQ6YW7TPOmQmXf3CCzFxA0ssDxvuTod66OkIsgpZq-oxlUV8Ugw" alt=""><figcaption><p>Ein Admin-Rand auf der Straße</p></figcaption></figure>
 
@@ -147,7 +147,7 @@ Die beste Chance auf einen solchen besonderen Rand habt ihr bei den Livestreams 
 
 Sogenannte Rand-Schilder sind Schilder, welche nur von Spielern mit bestimmten Rechten auf den Rand eures Grundstücks gesetzt werden können.
 
-Diese Rechte besitzen einige Teamler, aber auch Streamer und YouTuber, welche damit ihren Zuschauern einen Gruß auf ihrem Grundstück da lassen können.
+Diese Rechte besitzen Teammitglieder, aber auch Streamer und YouTuber, welche damit ihren Zuschauern einen Gruß auf ihrem Grundstück da lassen können.
 
 Falls ihr nun auch so ein Schild von eurem Lieblings-Streamer haben möchtet, empfiehlt es sich dass ihr aktiv in den Streams von dem Creator dabei seid, da diese ihren Zuschauern gerne eine solche Freude bereiten.
 
