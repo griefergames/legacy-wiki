@@ -42,15 +42,10 @@ Als alternative Übertragungsmöglichkeit kannst du eine [Grundstücksverschiebu
 Du versuchst dein Grundstück zu besuchen und es ist nicht mehr da? \
 Das kann verschiedene Gründe haben:
 
-1. Befindest du dich auf dem richtigen Citybuild? Überprüfen kannst du dies mit dem Befehl `/zuhause`.
+1. Befindest du dich auf dem richtigen Citybuild? Überprüfen kannst du dies mit dem Befehl `/zuhause`. Dort findest du eine Übersicht darüber, auf welchem Citybuild du Grundstücke besitzt.
 2. Warst du eine [längere Zeit inaktiv](../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)? Falls dies der Fall ist, kann es sein, dass ein Teammitglied das Grundstück, solange es nicht bzw. nur sehr knapp bebaut war, gelöscht hat.
-3. Du hattest ein unangemessenes Bauwerk auf diesem Grundstück (Penis, Swastika). \
+3. Du hattest ein unangemessenes Bauwerk auf diesem Grundstück. \
    Das Grundstück wurde von einem Admin/Moderator gelöscht.
-4. Du hattest duplizierte Items auf deinem Grundstück. \
-   Das Grundstück wurde von einem Admin beschlagnahmt.
-5. Du wurdest für mindestens ein Jahr von einem Admin gebannt und die Administration hat entschieden, deine Grundstücke vollständig zu löschen.
-
-Falls das alles nicht zutrifft, kann es sein, dass das Grundstück durch einen Serverfehler weggebuggt ist. Ist das der Fall, können wir dir leider nicht weiterhelfen, da das Regelwerk eine Erstattung ausschließt.
 
 
 
