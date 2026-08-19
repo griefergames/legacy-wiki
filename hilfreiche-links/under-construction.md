@@ -1,5 +1,6 @@
 ---
 description: Wo brauchen wir Unterstützung?
+hidden: true
 layout:
   width: default
   title:
