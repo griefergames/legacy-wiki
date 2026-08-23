@@ -81,13 +81,7 @@ All diese Punkte zeigen, dass sich bei der Nachricht um einer Nachricht handelt,
 Ob man auf Discord mit dem richtigen Teammitglied von GrieferGames schreibt, kann man prüfen, indem man unter dem Profil desjenigen auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.\
 Sollte dort „GrieferGames“ stehen, ist das schon einmal der richtige Weg. Wenn jetzt noch die Rollen, die der Discord-Nutzer auf dem GrieferGames Discord-Server hat stimmen – wenn dort z. B. als Rolle „Administrator“ steht, weiß man, dass man mit dem richtigen Teamler schreibt.
 
-### Weitere Phishing-Methoden
 
-Wir leben heutzutage in einer sehr digitalen Welt, die es vielen Menschen bei vielen Sachen einfacher und angenehmer macht. Allerdings wird es immer wieder weitere neue Möglichkeiten geben, die eben nicht das Positive am Internet hervorrufen, sondern das Negative. Das heißt, dass solche Betrügereien immer wieder auftreten und auch immer weiterentwickelt werden.
-
-Es gibt die verschiedensten Phishing-Methoden: Über E-Mail, Telefonate, Software, usw. Man kann sich dahingehend selbst gern ein Bild mit einer Recherche auf Google machen.
-
-Wir selbst können nur gegen bereits vorhandene Methoden etwas unternehmen.
 
 ### Was kann ich gegen solchen Betrug unternehmen?
 
@@ -108,37 +102,19 @@ Wir, GrieferGames, sind nicht Minceraft und haben auch keine Kooperation mit Min
 Der beste Weg ist hier, Microsoft direkt zu kontaktieren. Dies gelingt über [deren Kontaktformular](https://support.xbox.com/de-DE/contact-us).
 
 \
-Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem Ticket-System [im Web](http://ticket.griefergames.de/) oder auf dem [offiziellen GrieferGames Discord](https://discord.com/invite/abge) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Die Administration prüft dann, ob und welche Maßnahmen möglich sind.
+Bekommst du gar keinen Zugriff mehr auf deinen Account, kannst du dich in unserem Ticket-System [im Web](http://ticket.griefergames.de/) oder auf dem [offiziellen GrieferGames Discord](https://discord.com/invite/abge) melden. Wähle bei der Erstellung des Tickets unbedingt das Thema "Minecraft-Account verloren" aus. Dann prüft die Administration, ob die Inhalte deines verlorenen Accounts auf einen neuen Account übertragen werden können.<br>
 
-Wie in der Frage „Was kann ich gegen solchen Betrug unternehmen?“ bereits angesprochen, solltet ihr ...
+{% hint style="info" %}
+Damit die Administration das Anliegen schnellstmöglich bearbeiten kann, sollten im Ticket folgende Informationen hinterlegt werden:
 
-1. niemals auf nicht seriös wirkende Links klicken. Ein einziger Klick kann schon verheerende Folgen für deine auf dem Computer gespeicherte Daten und somit auch auf den Minecraft-Account haben.
-2. nicht Software herunterladen und installieren, die als unseriös erscheinen oder einen erheblichen Vorteil zu anderen Spielern versprechen (z. B. Duplizierungsmöglichkeiten).
-3. ein vernünftiges Antivirus-Programm aktiviert haben und auch regelmäßig euren Computer durchscannen lassen (kostenlos: Windows Defender, Avira Antivirus, etc. | kostenpflichtig: Kaspersky, Bitdefender, etc.).
-4. niemals ein Passwort für alle oder viele Dienste gleichzeitig verwenden.
-5. in regelmäßigen Abständen das Passwort eurer genutzten Dienste ändern.
-6. wenn möglich bei jedem Dienst eine 2-Faktor-Authentifizierung aktivieren.
-7. Sicherheitsfragen und -antworten bei Diensten (wie z. B. auch bei euren Minecraft-Accounts) hinterlegen, die nur ihr wissen könnt.
+1. Name von deinem alten Minecraft-Account, auf den du keinen Zugriff mehr hast
+2. Beleg, dass dir der ursprüngliche Minecraft-Account gehört (z. B. Rechnung aus dem GrieferGames Online-Shop, E-Mail mit der du im Shop eingekauft hast)
+3. Name von deinem neuen Minecraft-Account, auf den alles übertragen werden soll
+{% endhint %}
 
-### Was macht GrieferGames gegen Phishing?
+#### GGAuth
 
-Wir unternehmen, sollte uns ein bewiesener Phishing-Fall gemeldet werden, alles Mögliche, um diese Person von unserem Netzwerk zu entfernen. Auf all unseren Plattformen werden solche Personen dauerhaft gebannt und werden nie wieder die Möglichkeit haben, bei uns spielen zu können.
+Mithilfe unseres eigenen Account-Dienstes [GGAuth](../hilfreiche-links/griefergames-dienste.md) bieten wir die Möglichkeit euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GGAuth bietet euch zudem zusätzliche Möglichkeiten alle GrieferGames- Dienste umfangreich zu nutzen. Darunter eure Chatlogs zu sichern, euer GG-Profil zu personalisieren, das Ticket-System zu verwenden, euren Java-Account auf der Bedrock Edition zu spielen oder Einschränkungen auf unserem Discord-Server aufzuheben und Zugriff auf alle Thermenbereiche zu erhalten.
 
-Tatsächlich sind es aber meist keine Spieler, die mal bei uns aktiv gespielt haben, sondern eher externe Personen, die das Potenzial gerade bei uns, einem der größten deutschen Servern sehen, Menschen um ihr Hab und Gut „abzuziehen“, um ihren eigenen Vorteil daraus zu ziehen. Viele ziehen die Minecraft-Accounts ab, um die Inhalte auf ihren Accounts zu übertragen. Im Anschluss verkaufen sie diese Inhalte für Echtgeld und machen somit erheblichen Profit.
+Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und deinen Minecraft-Account.
 
-#### GG Auth
-
-Zudem bieten wir mithilfe unseres eigenen Account-Dienstes [GG Auth](../hilfreiche-links/griefergames-dienste.md) die Möglichkeit euren Minecraft-Account auf unserem Netzwerk zusätzlich zu sichern, indem ihr darüber eine Mehr-Faktor-Authentifizierung einrichtet. GG Auth bietet euch zudem zusätzliche Möglichkeiten alle GrieferGames- Dienste umfangreich zu nutzen. Darunter eure Chatlogs zu sichern, euer GG-Profil zu personalisieren, das Ticket-System zu verwenden, euren Java-Account auf der Bedrock Edition zu spielen oder Einschränkungen auf unserem Discord-Server aufzuheben und Zugriff auf alle Thermenbereiche zu erhalten.
-
-Die Einrichtung von GG Auth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und deinen Minecraft-Account.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Bantor](https://profile.griefergames.live/minecraft/e7d2c9ff-9fe2-4813-a519-c3c71fb832e6)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

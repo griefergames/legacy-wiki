@@ -16,6 +16,8 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Vom Bild zur Karte
@@ -265,7 +267,7 @@ Gleichstand
 
 Anschließend die Schematic-Dateien noch in den entsprechenden Schematics-Ordner verschieben und du kannst theoretisch ingame loslegen.
 
-### **3. Karte ingame bauen**
+### **3. Karte Ingame bauen**
 
 #### **3.1 Das Kartenplot:**
 
@@ -317,7 +319,9 @@ Bei den Spülanlagen ist es ratsam, nicht über einen Knopf die komplette Fläch
 
 ***
 
-Sollte ich Punkte vergessen, ausgelassen oder nicht genau genug beschrieben haben sagt mir gerne bescheid, das liefere ich gern nach. Auch wenn ihr Fragen zu dem Thema habt könnt ihr mich gern anschreiben.
+{% hint style="info" %}
+Hast du deine Karte fertig und möchtest sie vor Kopien schützen, kannst du das mit dem Befehl /anticopy erledigen, wenn du die Karte in der Hand hältst. Du kannst diesen Schutz jeder Zeit mit der erneuten Eingabe des Befehls entfernen.
+{% endhint %}
 
 
 
@@ -329,6 +333,5 @@ Sollte ich Punkte vergessen, ausgelassen oder nicht genau genug beschrieben habe
 * [FreakyFreeke](https://profile.griefergames.net/minecraft/02525716-d607-462a-bd86-c2894cb589e4)
 * [Gleichstand](https://profile.griefergames.net/minecraft/a3122920-03df-428c-8886-f1e142c1767b)
 * [Drunken1990](https://profile.griefergames.net/minecraft/002147e7-a675-4732-afd3-86c6495df6ee)
-* [50U7R34P3R](https://profile.griefergames.net/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
