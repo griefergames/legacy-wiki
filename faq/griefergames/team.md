@@ -1,4 +1,5 @@
 ---
+description: Hier findest du eine aktuelle Übersicht aller aktiven Teammitglieder.
 layout:
   width: default
   title:
