@@ -76,34 +76,22 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 
 ### Weitere Grundstücks-Befehle
 
-| Befehl                                       | Funktion                                                                                                                                                                                       |
-| -------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| /setowner {Spielername}                      | Starte eine Überschreibung deines Grundstücks an einen anderen Spieler                                                                                                                         |
-| /setowner confirm                            | Bestätige die Überschreibung eines Grundstück                                                                                                                                                  |
-| /setowner deny                               | Lehne die Überschreibung eines Grundstückes ab                                                                                                                                                 |
-| /p description {Text}                        | Füge deinem Grundstücke eine Beschreibung hinzu                                                                                                                                                |
-| /p description                               | Entferne die Beschreibung des Grundstück                                                                                                                                                       |
-| /p alias set {Text}                          | <p>Gib dem Grundstück einen Namen (Alias)<br><br><strong>Achtung!</strong> Es können keine Namen von Spielern genutzt werden, welche bereits auf dem Server angemeldet sind/waren.</p>         |
-| <p>/p chat on<br>/p chat off</p>             | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p>                                                                                                                                  |
-| /p flag set {Flag} {true/false/ID}           | [Grundstücks-Flag](grundstuecks-flags.md) setzen                                                                                                                                               |
-| /p setorder {Zahl}                           | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                                       |
-| /bewertung                                   | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                           |
-| /bewerten                                    | Menü zur Grundstücks-Bewertung aufrufen                                                                                                                                                        |
-| <p>/ptime {Zahl}<br>/ptime {Tageszeit}</p>   | Setze die aktuelle Zeit auf deinem Grundstück                                                                                                                                                  |
-| <p>/ptime @{Zahl}<br>/ptime @{Tageszeit}</p> | Setze die Zeit auf deinem Grundstück dauerhaft fest                                                                                                                                            |
-| /leuchten                                    | <p>Leuchtfeuer an den Grundstücksecken platzieren<br><em>(Recht kann im</em> <a href="../../../erweiterte-features/das-case-opening.md"><em>CaseOpening</em></a> <em>gewonnen werden)</em></p> |
-| /rand                                        | Ändere den [Grundstücksrand](../../grundstuecke/grundstuecke-veraendern.md#rand)                                                                                                               |
-| /wand                                        | Ändere die [Grundstückswände](../../grundstuecke/grundstuecke-veraendern.md#wand)                                                                                                              |
-| /boden                                       | Ändere den [Grundstücksboden](../../grundstuecke/grundstuecke-veraendern.md#boden)                                                                                                             |
-| /aushöhlen                                   | Öffne das Menü zum [Aushöhlen des Grundstück](../../grundstuecke/grundstuecke-veraendern.md#aushohlen)                                                                                         |
+| Befehl                             | Funktion                                                                                                                                                                                       |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| /setowner {Spielername}            | Starte eine Überschreibung deines Grundstücks an einen anderen Spieler                                                                                                                         |
+| /setowner confirm                  | Bestätige die Überschreibung eines Grundstück                                                                                                                                                  |
+| /setowner deny                     | Lehne die Überschreibung eines Grundstückes ab                                                                                                                                                 |
+| /p description {Text}              | Füge deinem Grundstücke eine Beschreibung hinzu                                                                                                                                                |
+| /p description                     | Entferne die Beschreibung des Grundstück                                                                                                                                                       |
+| /p alias set {Text}                | <p>Gib dem Grundstück einen Namen (Alias)<br><br><strong>Achtung!</strong> Es können keine Namen von Spielern genutzt werden, welche bereits auf dem Server angemeldet sind/waren.</p>         |
+| <p>/p chat on<br>/p chat off</p>   | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p>                                                                                                                                  |
+| /p flag set {Flag} {true/false/ID} | [Grundstücks-Flag](grundstuecks-flags.md) setzen                                                                                                                                               |
+| /p setorder {Zahl}                 | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste                                                                                                                       |
+| /bewertung                         | Aktiviere die Bewertungsfunktion für dein Grundstück                                                                                                                                           |
+| /bewerten                          | Menü zur Grundstücks-Bewertung aufrufen                                                                                                                                                        |
+| /leuchten                          | <p>Leuchtfeuer an den Grundstücksecken platzieren<br><em>(Recht kann im</em> <a href="../../../erweiterte-features/das-case-opening.md"><em>CaseOpening</em></a> <em>gewonnen werden)</em></p> |
+| /rand                              | Ändere den [Grundstücksrand](../../grundstuecke/grundstuecke-veraendern.md#rand)                                                                                                               |
+| /wand                              | Ändere die [Grundstückswände](../../grundstuecke/grundstuecke-veraendern.md#wand)                                                                                                              |
+| /boden                             | Ändere den [Grundstücksboden](../../grundstuecke/grundstuecke-veraendern.md#boden)                                                                                                             |
+| /aushöhlen                         | Öffne das Menü zum [Aushöhlen des Grundstück](../../grundstuecke/grundstuecke-veraendern.md#aushohlen)                                                                                         |
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
