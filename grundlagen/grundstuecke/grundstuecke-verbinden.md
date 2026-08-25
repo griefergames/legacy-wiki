@@ -43,7 +43,7 @@ Außerdem wird empfohlen, dass du bis zum nächsten Serverneustart - regulär um
 
 Einige Spieler brauchen ein größeres Merge als die 196 Grundstücke, die du selber miteinander verbinden kannst.
 
-Dafür kannst du einen [Merge-Erweiterungsantrag](grundstucke-verschieben-and-erweitern-1.md) stellen:
+Dafür kannst du einen [Merge-Erweiterungsantrag](grundstucke-verschieben-and-erweitern.md) stellen:
 
 Dein Antrag wird durch einen Content geprüft und beantwortet. Bitte beachte, dass eine Erweiterung dem Zweck dient dein Projekt zu vergrößern, wenn zwei bereits bebaute Grundstücke miteinander verbunden werden sollen bzw. der Bauplatz auf deinem aktuellen Grundstück nicht länger ausreicht. Anträge für unbebaute oder unzureichend bebaute Merge-Grundstücke werden mit hoher Wahrscheinlichkeit abgelehnt.
 

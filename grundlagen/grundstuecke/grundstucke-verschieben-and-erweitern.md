@@ -1,7 +1,7 @@
 ---
 description: >-
-  Es gibt verschiedene Flags, die durch das Team gesetzt werden müssen, um
-  bestimmte Limits aufzuheben oder zu erweitern.
+  Wenn du für dein Bauvorhaben mehr Platz brauchst oder den Citybuild wechseln
+  möchtest, kannst du dafür im Ticket-System einen Antrag stellen.
 layout:
   width: default
   title:
@@ -22,46 +22,141 @@ layout:
     visible: true
 ---
 
-# Limit-Flags
+# Grundstücke verschieben & erweitern
 
-Diese können im Ticket-System mit dem Label "Anfrage einer Limit-Flag" beantragt werden.
+## Grundstücksverschiebungen
 
-## Hopper-Fast-Tick
+Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht, es ist in abgesprochenen Ausnahmefällen allerdings in der 1. (oder manchmal auch 2.) Spawn-Reihe möglich.
 
-Die Hopper-Fast-Tick Flag sorgt dafür, dass die Trichter schneller ticken. Das ist vor allem für kompliziertere Redstone-Anlagen wichtig. Im Regelfall wird diese Flag nur für Tauscher-Geräte freigegeben.&#x20;
+Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](grundstuecke-inaktiver-spieler-beantragen.md) könnt eurem Bauvorhaben im Weg steht.
 
-
+### Was gibt es hierbei zu beachten?
 
 {% hint style="info" %}
-**Flag nicht ausnutzen**
+**Checkplot hat Vorrang!**
+
+
+
+Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../faq/griefergames/team.md#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
 
 \
-Die Flag darf nicht für Lager oder Farmen genutzt werden. Sie ist nur für die Anlagen, die sie wirklich brauchen und für die diese Flag beantragt und anschließend von einem Teammitglied gesetzt wurde.&#x20;
+Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung im Weg stehen, werden nur verschoben, wenn es **keine** andere Möglichkeit mehr gibt.
 {% endhint %}
+
+{% hint style="warning" %}
+**Serverübergreifende Verschiebungen sind eingeschränkt.**
+
+Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergreifend möglich, allerdings nur mit Einschränkungen.&#x20;
+
+* Grundstücke, die nicht viereckig oder zu groß sind, können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.&#x20;
+  * In der Regel max. \~ 100er Merges - Ausnahmen sind jedoch möglich
+* Ränder und Straßen (inklusive Schilder & Köpfe) werden nicht mit verschoben.
+* Dieser Service ist **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
+{% endhint %}
+
+### Kritische Entities
+
+{% hint style="danger" %}
+**Kritische Entities**
+
+\
+**Kritische Entities/Blöcke auf dem 1.8-Netzwerk:**\
+Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Blöcken beachten:
+
+* **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
+  * Item-Rahmen
+  * Rüstungsständer
+  * Gemälde
+  * Köpfe
+* **Diese Blöcke/Entities können möglicherweise verschwinden:**
+  * Jumppads
+  * Vitrinen
+  * Hologramme
+  * Partikeleffekte
+  * Kreaturen und Villager
+* **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
+  * Teleporter (Einstellungen und Verbindungen können möglicherweise verschwinden)
+  * Unendliche Lager (Einsaugmodus wird deaktiviert)
+  * Trichter (Ausrichtung geht verloren und Einstellungen & Verbindungen können verschwinden)
+* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
+  * CaseOpenings
+  * 4-Gewinnt-Blöcke
+  * Plot-NPCs (zusätzlich Einstellungen angeben)
+  * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)<br>
 
 ***
 
-## plotFrames
+\
+**Kritische Entities/Blöcke der Cloud:**\
+Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Blöcken beachtet werden:
 
-Wenn du zu viele Rahmen pro Chunk auf deinem Grundstück gesetzt hast (Limit sind 35 Rahmen pro Chunk), stößt du an das Limit. Diese Flag erlaubt es dann, das Limit zu erweitern und mehr Rahmen zu setzen.
+* **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
+  * Item-Rahmen, Rüstungsständer, Gemälde, etc.
+  * Köpfe
+  * Shulker-Kisten
+  * Jump-Pads
+  * Vitrinen
+* **Diese Blöcke/Entities können verschwinden:**
+  * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
+  * Mobs (vorher mit "Magischer Leine" einfangen)
+  * Dorfbewohner
+  * Plot-NPCs (Koordinaten + Einstellungen angeben)
+* **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
+  * Teleporter
+* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
+  * CaseOpenings
+  * GamingStations
 
 
+
+***
+
+
+
+Wenn sich Umstände bis zum Bearbeitungszeitpunkt ändern sollten (z. B. neue Spawner gesetzt), dann informiere uns darüber bitte umgehend in deiner Anfrage!
+
+
+
+Bitte gib uns erst Bescheid, sobald du alle Hinweise zu den Entities & Blöcken umgesetzt hast, die in dieser Nachricht stehen und du alles zur Kenntnis genommen hast. Solltest du etwas vergessen haben, können wir dir möglicherweise nicht mehr weiterhelfen.
+{% endhint %}
+
+Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
+
+***
+
+## Grundstückserweiterungen
+
+Wenn du deine Grundstücke vollständig bebaut hast, sie aber zu groß sind, um zusammengefügt zu werden, kannst du dafür im Ticket-System einen Antrag stellen. &#x20;
+
+### Was gibt es hierbei zu beachten?
 
 {% hint style="info" %}
-**Nur für Karten-Museen**\
-\
-Die Flag darf nicht für Lager oder Farmen genutzt werden. Sie wird in der Regel nur für Karten-Museen vergeben.
+Eine Weiterleitung dieser Anträge erfolgt auf dem 1.8-Netzwerk nur bei Grundstückserweiterungen ab einer Größe von über 196 Grundstücken und auf dem Cloud-Netzwerk bei einer Größe von über 50 Grundstücken.
 {% endhint %}
+
+{% hint style="info" %}
+Alle Grundstücke, die zusammengefügt werden sollen, müssen vollständig bebaut sein und sich im Besitz des Antragstellers befinden.
+{% endhint %}
+
+{% hint style="warning" %}
+Sollten Grundstücke anderer Spieler im Weg sein, kannst du einen Antrag auf [Verschiebung des Grundstücks](grundstucke-verschieben-and-erweitern.md#grundstucke-verschieben) stellen. Beachte dabei die Hinweise!
+{% endhint %}
+
+{% hint style="danger" %}
+Anträge, die nicht allen Anforderungen entsprechen, werden höchstwahrscheinlich direkt abgelehnt.
+{% endhint %}
+
+Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
 
 ***
 
 ## Antrag stellen
 
-Anträge für die Limit-Flags lassen sich folgendermaßen erstellen:
+Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich folgendermaßen erstellen:
 
 ### **Ticket-System**
 
-* Nutze hier das passende Label "Anfrage einer Limit-Flag"
+* Nutze hier das passende Label "Grundstücksverschiebung/-erweiterung"
 * Erstelle das Ticket über unseren Discord-Server oder im Web:
 
 {% embed url="https://discord.griefergames.net/" %}
