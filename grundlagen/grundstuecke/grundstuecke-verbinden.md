@@ -26,6 +26,11 @@ Es besteht die Möglichkeit, sein Grundstück beliebig zu vergrößern, damit du
 
 Um ein Grundstück komplett im Quadrat zu Mergen sind 3 Mergevorgänge notwendig. Einfachere oder komplexere Grundstücksformen können auch weniger oder mehr Mergevorgänge erfordern.
 
+{% hint style="info" %}
+Hast du während oder vor dem Mergevorgang die Mitteilung erhalten:\
+_"Derzeit befindet sich noch die plot-lock-flag auf deinem Grundstück, daher kannst du es nicht mergen"_, dann warte bitte einen Moment. Die Flag entfernt sich eigenständig.
+{% endhint %}
+
 ### Merge-Fehler
 
 Beim Mergen treten manchmal Fehler auf. Diese Merge-Fehler äußern sich in der Regel als Straßen auf dem Grundstück, welche teilweise noch vorhanden sind oder Bereiche der ehemaligen Straßen in denen Blöcke nicht abbaubar sind. Um [diese Fehler zu melden](../../faq/citybuild/merge-grundstuecke.md#merge-fehler-melden-merge-bug), stelle dich an die Position des Fehlers und gib den Befehl `/mergebug` und danach `/mergebug confirm` ein. Ein Teammitglied wird deine Meldung prüfen. Bei einem nicht behebbaren Fehler wird dieser dann von der Administration behoben. \
