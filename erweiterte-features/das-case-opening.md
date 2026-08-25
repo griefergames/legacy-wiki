@@ -54,6 +54,47 @@ Gewinne, welche nicht abgeholt werden können - weil während dem Öffnen die Ve
 
 
 
+### In-Game Store
+
+Über den **In-Game Store** könnt ihr **Kristalle und Kisten direkt im Spiel kaufen**, ohne dafür den Webshop öffnen zu müssen. Dabei könnt ihr genau die Menge kaufen, die ihr benötigt.
+
+1. Verknüpft einmalig ein **Zahlungsmittel über Stripe**.
+2. Wählt im In-Game Store die gewünschten Kristalle oder Kisten aus.
+3. Bestätigt den Kauf.
+4. Der im Shop angezeigte Betrag wird anschließend über das hinterlegte Zahlungsmittel abgebucht.
+
+{% hint style="info" %}
+Ein Tutorial, welches zur Einführung des In-Game Stores erstellt wurde, findet ihr hier: [https://www.youtube.com/watch?v=GbdzHlwIcuY](https://www.youtube.com/watch?v=GbdzHlwIcuY).  Bitte beachtet, dass die genannte Aktion zur Verknüpfung ist beendet ist.
+{% endhint %}
+
+**Wichtig:** Eine Abbuchung erfolgt **nur nach eurer Bestätigung** des jeweiligen Kaufs.&#x20;
+
+Die Verknüpfung eures Zahlungsmittels könnt ihr jederzeit wieder entfernen. Nutzt dafür **`/stripe`** oder die **Einstellungen des CaseOpenings**.
+
+
+
+### Prestige-Tokens
+
+Durch Käufe von **Kristallen oder Kisten mit Echtgeld im In-Game Store** erhaltet ihr **Prestige-Tokens**. Diese könnt ihr im Prestige-Shop für besondere Vorteile und Angebote einlösen.\
+Den Prestige-Shop findet ihr am Spawn.
+
+<figure><img src="../.gitbook/assets/9azNxrf.png" alt=""><figcaption></figcaption></figure>
+
+Im Prestige-Shop findet ihr unter anderem:
+
+* Kristallpakete
+* Rabatte
+* besondere Angebote
+* den **Creeper-Prefix**
+
+{% hint style="info" %}
+**Wichtig:** Prestige-Tokens erhaltet ihr nur durch **Echtgeldkäufe von Kristallen oder Kisten über den In-Game Store**. Sie sind nicht einfach eine allgemeine Ingame-Währung.
+{% endhint %}
+
+Die Anzahl der erhaltenen Prestige-Tokens richtet sich nach euren Käufen im In-Game Store.
+
+
+
 ### Kisten-Arten
 
 #### Die Vote-Kiste <img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original">
@@ -88,6 +129,8 @@ Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Ja
 
 Die Besonderen Zufallskisten enthalten neben wertvollen Gewinnen auch andere Kisten, wodurch man mit etwas Glück hochwertige Kisten und Items gewinnen kann. Mit etwas Pech landet man aber auch bei einer einfachen Vote-Kiste. Besondere Zufallskisten enthalten zudem neben der aktuellen, auch weitere Saisonale Kisten, welche derzeit nicht käuflich zu erwerben sind.
 
+
+
 ### Fragmente
 
 Fragmente können  als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du genügend Fragmente sammelst, kannst du diese einlösen und erhältst eine zusätzliche Chance auf einen Gewinn:
@@ -101,6 +144,8 @@ Fragmente können  als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du 
 * [7.500.000$](https://items.griefergames.net/#Fragmente_%7C_7.500.000%24-Fragment)
 * [1.000.000.000$](https://items.griefergames.net/#Fragmente_%7C_1.000.000.000%24-Fragment)
 
+
+
 ### Angebotszug
 
 Der Angebotszug befindet sich im CaseOpening unten rechts.&#x20;
@@ -112,17 +157,3 @@ Du kannst immer nur das nächste Angebot sehen. Manchmal kann es sich also auch 
 {% endhint %}
 
 Der Angebotszug wird jeden Montag um 00:00 Uhr zurückgesetzt und 10 neue Angebote für die Woche generiert. Noch nicht eingelöste Angebote verfallen dadurch.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}
