@@ -59,7 +59,7 @@ Natürlich könnt ihr auch gemeinschaftlich an Projekten arbeiten. Dazu könnt i
 | /p trust \<Spielername>  | Der Spieler erhält volle Rechte auf deinem Grundstück und allem, was zum Grundstück gehört |
 | /p add \<Spielername>    | Der Spieler verfügt nur über die Rechte, sofern du auf dem Citybuild online bist           |
 | /p remove \<Spielername> | Du entziehst dem Spieler alle Rechte von deinem Grundstück                                 |
-| /p deny \<Spielername>   | Der Spiele kann dein Grundstück nicht mehr betreten                                        |
+| /p deny \<Spielername>   | Der Spieler wird von deinem Grundstück gebannt und kann dieses nicht mehr betreten         |
 | /p undeny \<Spielername> | Der Spieler darf dein Grundstück wieder betreten                                           |
 | /p kick \<Spielername>   | Der Spieler wird von deinem Grundstück geworfen und kann direkt wieder drauf               |
 
