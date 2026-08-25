@@ -24,7 +24,7 @@
   * [Grundstücke überschreiben](grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)
   * [Grundstücke inaktiver Spieler beantragen](grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)
   * [Grundstücke verschieben & erweitern](grundlagen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
-  * [Limit-Flags](grundlagen/grundstuecke/grundstucke-verschieben-and-erweitern-1.md)
+  * [Limit-Flags](grundlagen/grundstuecke/limit-flags.md)
 * [⚙️ Befehlsübersicht](grundlagen/befehlsuebersicht/README.md)
   * [Allgemeine Befehle](grundlagen/befehlsuebersicht/allgemeine-befehle.md)
   * [Grundstücks-Befehle](grundlagen/befehlsuebersicht/grundstuecks-befehle/README.md)
