@@ -33,7 +33,7 @@ Diesen Vorgang bieten wir **nicht** als offiziellen Service an. Du kannst dich m
 
 Wenn du ein Grundstück verschoben haben möchtest, hast du die Möglichkeit dieses abzubauen und an einer anderen Stelle neu aufzubauen. Hierfür empfehlen sich die [Modifikationen](../../hilfreiche-links/empfohlene-modifikationen.md) Schematica bzw. LiteMatica.
 
-Als alternative Übertragungsmöglichkeit kannst du eine [Grundstücksverschiebung](../../grundlagen/grundstuecke/grundstucke-verschieben-and-erweitern.md#grundstucke-verschieben) über das Team erfragen.
+Als alternative Übertragungsmöglichkeit kannst du eine [Grundstücksverschiebung](../../grundlagen/grundstuecke/grundstucke-verschieben-and-erweitern-1.md#grundstucke-verschieben) über das Team erfragen.
 
 
 
