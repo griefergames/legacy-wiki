@@ -1,5 +1,4 @@
 ---
-description: Alle Chaträume und wie man sie verwendet
 layout:
   width: default
   title:
@@ -24,11 +23,19 @@ layout:
 
 Auf dem Server kannst du auf verschiedene Arten mit deinen Mitspielern schreiben.
 
-* Welche Art verwendest du nun aber in welcher Situation?&#x20;
-* Wie schreibe ich jemandem Privat?&#x20;
-* Wie erreiche ich eine große Menge an Spielern?
+Eine Übersicht aller Möglichkeiten findest du hier in diesem Artikel.
 
-Diese Fragen werden in diesem Artikel geklärt.
+### Chat-Codes
+
+Im Chat können verschiedene Codes verwendet werden, um Nachrichten farbig darzustellen oder zu formatieren. Dazu wird der jeweilige Code vor den gewünschten Text gesetzt.
+
+Bei der Nachricht "Ich verkaufe mein Grundstück" in grüner Farbe würde das dann bevor du es in den Chat abschickst so aussehen:
+
+<figure><img src="../.gitbook/assets/AdXK2Os.png" alt=""><figcaption></figcaption></figure>
+
+Eine Übersicht aller Chat-Codes (Farben, Formatierungen) findest du hier:
+
+<table><thead><tr><th>Code</th><th>Farbe / Effekt</th><th data-hidden></th></tr></thead><tbody><tr><td>&#x26;0</td><td>Schwarz</td><td></td></tr><tr><td>&#x26;1</td><td>Dunkelblau</td><td></td></tr><tr><td>&#x26;2</td><td>Dunkelgrün</td><td></td></tr><tr><td>&#x26;3</td><td>Dunkelcyan</td><td></td></tr><tr><td>&#x26;4</td><td>Dunkelrot</td><td></td></tr><tr><td>&#x26;5</td><td>Dunkellila</td><td></td></tr><tr><td>&#x26;6</td><td>Gold</td><td></td></tr><tr><td>&#x26;7</td><td>Grau</td><td></td></tr><tr><td>&#x26;8</td><td>Dunkelgrau</td><td></td></tr><tr><td>&#x26;9</td><td>Blau</td><td></td></tr><tr><td>&#x26;a</td><td>Grün</td><td></td></tr><tr><td>&#x26;b</td><td>Cyan</td><td></td></tr><tr><td>&#x26;c</td><td>Rot</td><td></td></tr><tr><td>&#x26;d</td><td>Pink</td><td></td></tr><tr><td>&#x26;e</td><td>Gelb</td><td></td></tr><tr><td>&#x26;f</td><td>Weiß</td><td></td></tr><tr><td>&#x26;k</td><td>Zufallstext / Wechselnde Zeichen</td><td></td></tr><tr><td>&#x26;l</td><td>Fett</td><td></td></tr><tr><td>&#x26;m</td><td>Durchgestrichen</td><td></td></tr><tr><td>&#x26;n</td><td>Unterstrichen</td><td></td></tr><tr><td>&#x26;o</td><td>Kursiv</td><td></td></tr></tbody></table>
 
 ### Öffentlicher Chat
 
@@ -42,10 +49,9 @@ Auf volleren Citybuilds können mehr Spieler deine Nachricht lesen. Hier gibt es
 
 ### Globaler Chat
 
-Der globale Chat ist eine neue Art des Chats, mit dem du mit Spielern auf anderen Citybuilds schreiben kannst.\
-Hierbei kannst du aber nur mit Spielern schreiben, die in den Chat eingeloggt sind.
+Der globale Chat ist eine neue Art des Chats, mit dem du mit Spielern auf anderen Citybuilds schreiben kannst. Hierbei kannst du aber nur mit Spielern schreiben, die in den Chat eingeloggt sind.
 
-Um dich in am Globalchat anzumelden, musst du den Befehl `/globalchat login` eingeben. Nun siehst du neben den Nachrichten aus dem öffentlichen Chat auch die Nachrichten von Spielern von anderen Citybuilds.&#x20;
+Um dich im Globalchat anzumelden, musst du den Befehl `/globalchat login` eingeben. Nun siehst du neben den Nachrichten aus dem öffentlichen Chat auch die Nachrichten von Spielern von anderen Citybuilds.&#x20;
 
 Diese Nachrichten erkennst du daran, dass vor dem Spielernamen ein @ steht und dahinter der Citybuild in Klammern.
 
@@ -125,14 +131,3 @@ Dafür kann es mehrere Gründe geben:
 * Dein Account wurde durch ein Teammitglied/einen Spieler mit dem Mute-Perk gestummt.
 * Man befindet sich in der Lobby oder im Portalraum, wo der Chat komplett deaktiviert ist.
 * In deiner Nachricht befinden sich ein oder mehrere Wörter, die vom Team verboten wurden und somit auf die Blacklist gesetzt worden sind.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
