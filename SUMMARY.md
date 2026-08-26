@@ -62,7 +62,7 @@
 * [🧑‍🏭 Das Job-System](erweiterte-features/das-job-system.md)
 * [🗺️ Kartengenerierung](erweiterte-features/kartengenerierung.md)
 * [🔘 Das Orb-System](erweiterte-features/das-orb-system.md)
-* [🖌️ Das Prefix-System](erweiterte-features/das-prefix-system.md)
+* [🖌️ Prefix, Suffix und Schriften](erweiterte-features/das-prefix-system.md)
 * [🧾 Die Rezeptsammlung](erweiterte-features/die-rezeptsammlung.md)
 * [📉 Server-Performance](erweiterte-features/server-performance.md)
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)

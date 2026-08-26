@@ -112,6 +112,12 @@ Wenn du Direktnachrichten deaktiviert hast, kannst du zwar nicht angeschrieben w
 Die Funktion kann auch mit dem Befehl `/msgtoggle` umgeschaltet werden.
 {% endhint %}
 
+### Clan-Chat
+
+Der **Clan-Chat** ermöglicht es euch, euch innerhalb eures Clans auszutauschen, ohne dass eure Nachrichten im öffentlichen oder auch privaten Chat untergehen oder ihr umständlich über mehrere Ecken kommunizieren müsst.
+
+Den Clan-Chat könnt ihr mit **`/cc`** oder **`/clanchat`** öffnen. Eure Nachrichten werden dabei nur für die Mitglieder eures Clans angezeigt.
+
 ### Spieler ausblenden
 
 Wenn dich die Nachrichten eines Spielers stören, kannst du diese auch ausblenden. Dafür gibst du einfach `/ignore <Spieler>` im Chat ein. Nun siehst du keine Chatnachrichten dieses Spielers mehr.&#x20;
