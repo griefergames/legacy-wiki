@@ -68,6 +68,7 @@
 * [📊 Das Vote-System](erweiterte-features/das-vote-system.md)
 * [🧙 Der Zauberwald](erweiterte-features/der-zauberwald.md)
 * [🎰 Zufallsbasierte Mechaniken](erweiterte-features/zufallsbasierte-mechaniken.md)
+* [🏘️ Die Immobilienbörse](erweiterte-features/die-immobilienborse.md)
 
 ## GrieferGames Allgemein
 
