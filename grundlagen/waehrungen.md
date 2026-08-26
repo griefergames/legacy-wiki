@@ -43,8 +43,8 @@ Viele Transaktionen kannst du über den Befehl `/moneylog` anzeigen lassen.
 
 Kristalle sind eine Premium-Währung, welche zum Kauf von Kisten am [Case-Opening](../erweiterte-features/das-case-opening.md#caseopening) eingesetzt werden kann.
 
-Kristalle können im [GrieferGames WebShop](../hilfreiche-links/griefergames-dienste.md) erworben oder durch Spielaktivitäten erspielt werden.\
-Sie sind nicht handelbar und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
+Kristalle können im über den [In-Game Store](https://wiki.griefergames.net/erweiterte-features/das-case-opening#in-game-store) oder den [GrieferGames WebShop](../hilfreiche-links/griefergames-dienste.md) erworben oder durch Spielaktivitäten erspielt werden. Klickst du z.B. ein Teammitglied oder einen Spieler mit Hero-Rang an, bekommst du **einmalig** einen zufälligen Betrag an Kristallen.\
+Sie sind **nicht handelbar** und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 
 Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristalllog` prüfen.
 
