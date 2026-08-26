@@ -46,7 +46,7 @@ Mit einem **Custom-Prefix** könnt ihr euren Namen im Chat verändern. Der Prefi
 <figure><img src="../.gitbook/assets/1ZIOR30.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ein Custom-Prefix hat keinen Einfluss auf Ränge und die dazugehörigen Rechte. Der Custom-Prefix ist rein kosmetisch. Aktuell gibt es unter anderem folgende Custom-Prefixe: Bonze, Rentner, Evil und Goat.
+Der Custom-Prefix ist ein rein kosmetischer "Rang", welcher keinen Einfluss auf die gekauften Ränge und die dazugehörigen Rechte hat. Aktuell gibt es unter anderem folgende Custom-Prefixe: Bonze, Rentner, Evil und Goat.
 
 Prefixe können in verschiedenen Kisten des [Case-Openings](das-case-opening.md) erhalten werden.
 {% endhint %}
