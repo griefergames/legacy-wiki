@@ -15,6 +15,8 @@ layout:
     visible: true
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Abschließbare Truhen
@@ -30,11 +32,3 @@ Mit diesen Befehlen kannst du die Einstellungen für die [Abschließbaren Truhen
 | <p>/chest add &#x3C;Spielername> &#x3C;Zeit m/h/d><br>Bsp: <code>/chest add AbgegrieftHD 2d</code></p>      | Gib die Truhe eingeschränkt für eine bestimmte Zeit frei. (Zeit kann frei variiert werden)                 |
 | /chest notification                                                                                         | Erhalte eine Chatbenachrichtigung beim Öffnen der Kiste. (funktioniert nur lokal auf dem Citybuild-Server) |
 | /chest info                                                                                                 | Zeige eine Übersicht der aktuellen Zugriffsrechte an.                                                      |
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.net/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

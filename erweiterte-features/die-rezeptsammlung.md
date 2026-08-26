@@ -147,18 +147,6 @@ Platziere diese [abschließbare Truhe](../grundlagen/abschliessbare-truhen.md) a
 
 In dieser Kategorie hast du die Möglichkeit eine Vielzahl an [CustomBlocks](../grundlagen/customblocks.md) herzustellen. Diese sind vor allem zu dekorativen Zwecken gedacht und lassen dich dein Zuhause, deinen Shop oder dein Projektgrundstück noch vielseitiger dekorieren.
 
+<figure><img src="../.gitbook/assets/LVHNsEc.png" alt=""><figcaption></figcaption></figure>
+
 Auch hier kannst du einfach ein vorhandenes Item aus deinem Inventar auswählen und wirst direkt zum passenden Rezept gebracht, um weitere herzustellen.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}

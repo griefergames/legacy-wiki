@@ -20,20 +20,20 @@ layout:
     visible: true
 ---
 
-# 🎁 Das Case-Opening
+# 🎁 Das Caseopening
 
-### Case-Opening
+### Caseopening
 
-Im Case-Opening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
+Im Caseopening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Case-Opening an einem Citybuild-Spawn</p></figcaption></figure>
 
-Das Case-Opening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
+Das Caseopening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
 Aus einigen Kisten können zusätzlich [eigene Case-Opening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
 
-Im Hauptmenü des Case-Opening findest du die 3 Standard-Kisten, sowie spezielle Kisten, welche temporär zur Verfügung stehen und die Community-Kiste.
+Im Hauptmenü des Caseopening findest du die 3 Standard-Kisten, sowie spezielle Kisten, welche temporär zur Verfügung stehen und die Community-Kiste.
 
 Neben der Epischen und Supreme-Kiste können hier auch weitere Kisten zur Verfügung stehen. Die Verfügbarkeit und Inhalte bei diesen sind zeitlich begrenzt und können sich jederzeit ändern.
 
