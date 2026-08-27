@@ -94,5 +94,5 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 | /wand                              | Ändere die [Grundstückswände](../../grundstuecke/grundstuecke-veraendern.md#wand)                                                                                                              |
 | /boden                             | Ändere den [Grundstücksboden](../../grundstuecke/grundstuecke-veraendern.md#boden)                                                                                                             |
 | /aushöhlen                         | Öffne das Menü zum [Aushöhlen des Grundstück](../../grundstuecke/grundstuecke-veraendern.md#aushohlen)                                                                                         |
-| /breakblock                        | Baut einen geschützten Block (z.B. Spawner, Endportalrahmen Grundgestein) auf deinem Grundstück ab. Der Block wird nach anklicken abgebaut und geht verloren.                                  |
+| /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein und Spawner) auf deinem Grundstück ab. Der Block wird nach anklicken abgebaut und geht verloren.                   |
 

@@ -26,8 +26,6 @@ layout:
 
 <figure><img src="../.gitbook/assets/yHCPEr4.png" alt=""><figcaption><p>"Block des Tages"-NPC am Spawngrundstück eines Citybuild-Servers</p></figcaption></figure>
 
-Das Ziel dieses zufallsbasierten Systems ist es, eine dauerhafte Beschäftigung für die Community zu bieten, in dem man täglich neue Biome suchen und dort natürlich generierte Blöcke abbauen muss.
-
 
 
 ### **Welchen Block muss man abbauen?**
@@ -45,11 +43,13 @@ Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf
 * Globales Ranking
   * Zeigt die Ergebnisse aller Spieler im Block des Tages an
 
-
+{% hint style="info" %}
+Mit welchem Werkzeug der Block des Tages abgebaut wird, ist nicht relevant.
+{% endhint %}
 
 ### Welche Belohnungen gibt es?
 
-Beim Abbau **natürlich generierter Blöcke** in der Farmwelt wird, sofern man das tägliche Belohnungslimit noch nicht ausgereizt hat, mit einer festgelegten Wahrscheinlichkeit die Belohnung ausgegeben.&#x20;
+Beim Abbau **natürlich generierter Blöcke** in der Farmwelt (Overworld oder Nether) wird, sofern man das tägliche Belohnungslimit noch nicht ausgereizt hat, mit einer festgelegten Wahrscheinlichkeit die Belohnung ausgegeben.&#x20;
 
 * Die Wahrscheinlichkeit ist abhängig vom Block und der Art der Belohnung.&#x20;
 * Die Wahrscheinlichkeit wird nicht von anderen Faktoren wie Rang oder Anzahl der bereits abgeholten Belohnungen bzw. abgebauten Blöcke beeinflusst.
