@@ -44,7 +44,7 @@ Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf
   * Zeigt die Ergebnisse aller Spieler im Block des Tages an
 
 {% hint style="info" %}
-Mit welchem Werkzeug der Block des Tages abgebaut wird, ist nicht relevant.
+Mit welchem Werkzeug der Block des Tages abgebaut wird, ist nicht relevant. Die Chance lässt sich nicht verändern.
 {% endhint %}
 
 ### Welche Belohnungen gibt es?
