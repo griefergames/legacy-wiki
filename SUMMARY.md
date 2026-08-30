@@ -50,7 +50,7 @@
 
 * [🪙 Das Adventurer-System](erweiterte-features/das-adventurer-system.md)
 * [🔳 Der Block des Tages](erweiterte-features/der-block-des-tages.md)
-* [🎁 Das Caseopening](erweiterte-features/das-case-opening.md)
+* [🎁 Das CaseOpening](erweiterte-features/das-case-opening.md)
 * [💬 Das Chat-System](erweiterte-features/das-chat-system.md)
 * [👥 Das Clan-System](erweiterte-features/das-clan-system.md)
 * [🎬 Für Content Creator](erweiterte-features/fuer-content-creator.md)

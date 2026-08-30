@@ -55,6 +55,15 @@ Die Flag darf nicht für Lager oder Farmen genutzt werden. Sie wird in der Regel
 
 ***
 
+{% hint style="danger" %}
+**Redstone-Deaktivierung**\
+\
+Solltest du feststellen, dass die Flag `allowredstone` auf deinem Grundstück gesetzt ist, hat ein Teammitglied bei dir Redstone deaktiviert. Diese Flag kannst du nicht selbst entfernen und musst im Ticket-System beantragen, dass sie dir entfernt wird. \
+Man hat selbst keine Möglichkeit, Redstone auf seinem eigenen Grundstück zu aktivieren oder zu deaktivieren.
+{% endhint %}
+
+***
+
 ## Antrag stellen
 
 Anträge für die Limit-Flags lassen sich folgendermaßen erstellen:

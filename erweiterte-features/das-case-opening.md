@@ -20,20 +20,20 @@ layout:
     visible: true
 ---
 
-# 🎁 Das Caseopening
+# 🎁 Das CaseOpening
 
-### Caseopening
+### CaseOpening
 
-Im Caseopening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
+Im CaseOpening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Case-Opening an einem Citybuild-Spawn</p></figcaption></figure>
 
-Das Caseopening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
+Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
 Aus einigen Kisten können zusätzlich [eigene Case-Opening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
 
-Im Hauptmenü des Caseopening findest du die 3 Standard-Kisten, sowie spezielle Kisten, welche temporär zur Verfügung stehen und die Community-Kiste.
+Im Hauptmenü des CaseOpening findest du die 3 Standard-Kisten, sowie spezielle Kisten, welche temporär zur Verfügung stehen und die Community-Kiste.
 
 Neben der Epischen und Supreme-Kiste können hier auch weitere Kisten zur Verfügung stehen. Die Verfügbarkeit und Inhalte bei diesen sind zeitlich begrenzt und können sich jederzeit ändern.
 
@@ -123,11 +123,30 @@ Community-Kisten waren auch beim [Admin-Shop](das-adventurer-system.md#der-admin
 
 #### Saisonale Kiste
 
-Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden.
+Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.
 
 #### Besondere Zufallskisten
 
 Die Besonderen Zufallskisten enthalten neben wertvollen Gewinnen auch andere Kisten, wodurch man mit etwas Glück hochwertige Kisten und Items gewinnen kann. Mit etwas Pech landet man aber auch bei einer einfachen Vote-Kiste. Besondere Zufallskisten enthalten zudem neben der aktuellen, auch weitere Saisonale Kisten, welche derzeit nicht käuflich zu erwerben sind.
+
+{% hint style="info" %}
+**Sonstige Kisten**\
+\
+Es gibt auch noch weitere Kisten, die zu einer bestimmten Zeit mal erhältlich waren. Darunter zählen:
+
+\- SuperSupreme-Kiste\
+\- Money-Kiste\
+\- Halloween-Kiste\
+\- Kleine Winter-Kiste\
+\- Drachen-Kiste\
+\- Geburtstags-Kiste\
+\- Prefix-Kiste (sind meistens thematisch, z. B. Taschenmonster & Space)\
+\- Möbel-Kiste\
+\- Lucky-Kiste\
+\- OP-Kiste
+
+Einige davon sind zu bestimmten Events und Aktionen erhältlich. Wenn es eine aktuelle Aktion gibt, findet man alle Infos dazu im Discord.
+{% endhint %}
 
 
 
