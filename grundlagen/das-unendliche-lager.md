@@ -52,17 +52,11 @@ Alle Sub-ID's dieser Items sind hierin mit einbegriffen.
 
 Das unendliche Lager kann über folgendes Rezept in der Werkbank hergestellt werden:
 
-* 4 x Holzstamm
-* 1x Trichter
-* 2x Goldblock
-* 1x Eisenblock
-* 1x Truhe _oder_ 1x Redstonetruhe
+<figure><img src="../.gitbook/assets/d0V7kUe.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXd_tdVEkQ9mSuj0oYU_3nZoSfVi9slk0L9wIH30Htzts7UBNnF3ErlSzgPTRPx3W7USVVlUddkwzfQJyKIkRpq6WjgHg01iHR8Rs4Ce4vvORoAuvQ0-Vg0WzhcHwal3BBIaSuTmuFYvixkUDlD70npfU-Vw?key=Fbef1cizwBxjBjyjDaG3uQ" alt=""><figcaption><p>Herstellungsrezept des Unendlichen Lagers auf dem 1.8-Netzwerk</p></figcaption></figure>
 
-{% hint style="success" %}
-Das Unendliche Lager lässt sich seit dem 18.06.2026 auch mit Redstone-Truhen herstellen.
-{% endhint %}
+
+Es werden 4x Holzstamm, 1x Trichter, 2x Goldblock, 1x Eisenblock und 1x Truhe _oder_ 1x Redstonetruhe benötigt um das unendliche Lager herzustellen.
 
 ### Allgemeine Funktionsweise
 
@@ -74,7 +68,7 @@ Außerdem sind auch Verbindungen mit Trichtern möglich. Die Funktionen des [Tri
 
 Die Lager lassen sich nur abbauen, wenn sie komplett leer sind. Durch `/breakblock` ist das Abbauen auch in gefülltem Zustand möglich. Die Items gehen in diesem Fall verloren.
 
-Unendliche Lager lassen sich mit der Flag `unlimited-storage-public` für andere Spieler auf einem Grundstück freigeben.
+Unendliche Lager lassen sich mit der `/p flag set unlimited-storage-public true` für andere Spieler auf einem Grundstück freigeben.
 
 
 
@@ -86,28 +80,32 @@ Das unendliche Lager verfügt außerdem über einen automatischen Komprimierer. 
 
 
 
-### Passive Farmen
+### Der Einsaugmodus
 
-Über Shift + Rechtsklick hat man außerdem auch die Möglichkeit, die "passive Farm" (Einsaug-Modus) des Unendlichen Lagers zu aktivieren.&#x20;
+Über Shift + Rechtsklick hat man außerdem auch die Möglichkeit den Einsaugmodus) des Unendlichen Lagers zu aktivieren.&#x20;
 
 Nach Auswahl werden alle Items dieses Typs, die auf dem Grundstück natürlich entstehen oder gedroppt werden würden, automatisch direkt in das Lager geleitet. \
 Diese Funktion greift priorisiert vor dem "Einsaugen" durch Trichter.
-
-
-
-### Einsaug-Modus zurücksetzen
 
 Um den Einsaug-Modus zurückzusetzen, kann man diesen am jeweiligen Unendlichen Lager wieder ausschalten. \
 Falls ein Unendliches Lager/Einsaug-Modus fehlerhaft hinterlegt ist, kann über den Befehl `/storage clear` der Fehler selbstständig behoben werden. Über den Befehl werden **alle** aktiven Einsaug-Modi auf dem jeweiligen Grundstück aufgehoben. \
 Die Einsaug-Modi können dann an den Unendlichen Lagern neu eingestellt werden.<br>
 
+### Das Lagerterminal
 
+Mit einem Lagerterminal können mehrere unendliche Lager zentral an einem Ort verbunden werden. Mit dem Lagerterminal besteht die Möglichkeit auf alle verbundenen Lager von einem Ort aus zuzugreifen ohne durch das ganze Lager laufen zu müssen.
 
-<details>
+<figure><img src="../.gitbook/assets/JBaKI6j (1).png" alt=""><figcaption></figcaption></figure>
 
-<summary>An diesem Artikel beteiligt</summary>
+{% hint style="info" %}
+Ein unendliches Lager kann immer nur mit **einem** Terminal verbunden sein. Die Lager müssen sich in der Nähe des Terminals befinden. Ist ein Lager zu weit entfernt, kann es nicht verbunden werden.
+{% endhint %}
 
-* [SyntaxOfficial](https://profile.griefergames.live/minecraft/5680a974-0d5f-460d-87a2-a33b076d4d08)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
+Lagerterminals lassen sich mit der Flag `/p flag set unlimited-storageterminal-public true` für andere Spieler auf einem Grundstück freigeben. Im Menü unten links (Buch) können außerdem Zugriffsrechte verwaltet werden. Dort gibt es die Möglichkeit, dass ihr einzelnen Spielern Zugriff auf das Lagerterminal gebt.
 
-</details>
+### Lager Einsortieren Recht
+
+<figure><img src="../.gitbook/assets/eyoqsA4.png" alt=""><figcaption></figcaption></figure>
+
+Dieses Item vergibt die Möglichkeit, über das Lagerterminal-Menü alle Items aus dem Inventar automatisch in die mit dem Terminal verknüpften unendlichen Lager einzusortieren. \
+Dazu öffnet man das Lagerterminal-Menü und wählt das Trichter-Symbol unten links aus. Die Items werden dann automatisch in das passende Lager einsortiert.

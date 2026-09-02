@@ -32,7 +32,7 @@ Seit dem 16.02.2023 vergibt der Adventurer Aufgaben an Spieler. Das Ziel ist es,
 
 Beim Adventurer könnt ihr neue Aufgaben annehmen, durch welche ihr [Adventurer-Coins](../grundlagen/waehrungen.md#adventurer-coins) verdienen könnt.
 
-<figure><img src="../.gitbook/assets/image (72).png" alt=""><figcaption><p>Aufgaben-Menü des Adventurer</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/x8do74i.png" alt=""><figcaption><p>Aufgaben-Menü des Adventurer</p></figcaption></figure>
 
 Hierbei gibt es tägliche, wöchentliche und monatliche Aufgaben.
 
@@ -77,7 +77,7 @@ Ihr habt einige Aufgaben erledigt und euch eure ersten [Adventurer-Coins](../gru
 
 Im Admin-Shop gibt es mehrere Items, welche täglich wechseln können.
 
-<figure><img src="../.gitbook/assets/image (71).png" alt=""><figcaption><p>Tages-Angebot des Admin-Shop am 04.02.2024</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/kpnB3QD.png" alt=""><figcaption><p>Tages-Angebot des Admin-Shop am 02.09.2026</p></figcaption></figure>
 
 In der Mitte seht ihr exklusive Prefixe, welche natürlich teurer sind als andere Items. \
 Ihr könnt hier aber auch Deko-Köpfe, Rand-Effekte, Luckyblöcke, kleine Rüstungsständer, spezielle Werkzeuge, Rüstung und andere Items kaufen.
@@ -178,34 +178,13 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 {% endtab %}
 
 {% tab title="Lucky-Blöcke" %}
-<figure><img src="../.gitbook/assets/image (59).png" alt=""><figcaption><p>Die Kategorie "Lucky-Blöcke"</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/OTTw9mN.png" alt=""><figcaption><p>Die Kategorie "Lucky-Blöcke"</p></figcaption></figure>
 
-* ![](<../.gitbook/assets/image (60).png>) Super-Unlucky Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (60).png>) Ultra-Unlucky Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (60).png>) Mega-Unlucky Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (60).png>) Super Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (60).png>) Ultra Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (60).png>) Mega Adventurer Luckyblock
-  * Fordere dein Glück mit diesem Luckyblock heraus!
-  * Kann nur auf deinem Grundstück aktiviert werden.
-  * Erfordert [CustomBlocks](../grundlagen/customblocks.md#xnfftjxowydc).
-* ![](<../.gitbook/assets/image (62).png>) [Community-Kiste](das-case-opening.md#die-community-kiste)
-  * Du erhältst eine Community-Kiste im Case-Opening gutgeschrieben.
+
+
+Fordere dein Glück mit diesem Luckyblock heraus!\
+LuckyBlöcke können nur auf deinem eigenen Grundstück aktiviert werden und können sowohl positive als auch negative Effekte mit sich bringen. \
+**Achtung!** Zwischen den tollen Gewinen befinden sich auf Jail-Strafen. Lediglich die Sperren aus dem Luckyblock oder einem StartJail der Community kannst du mit einer "Du kommst aus dem Gefängnis frei-Karte" aufheben.
 {% endtab %}
 
 {% tab title="Prefixe" %}
@@ -242,14 +221,3 @@ Es werden keine neuen Community-Kisten mehr ausgegeben.\
 Vorhandene Community-Kisten können weiterhin geöffnet werden. Die Inhalte wurden bereits mehrfach nachgefüllt.
 {% endhint %}
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [BentosMentos](https://profile.griefergames.live/minecraft/813d7454-3f9f-449d-9010-b3ee225e56aa)
-* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
