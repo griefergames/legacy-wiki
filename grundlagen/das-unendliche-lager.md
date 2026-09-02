@@ -22,31 +22,7 @@ layout:
 
 # 📦 Das Unendliche Lager
 
-Die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbegrenzter-speicher) stehen euch nun ebenfalls auch auf dem 1.8 Netzwerk zur Verfügung. Hier allerdings in etwas abgewandelter Form mit mehreren Besonderheiten.
-
-<details>
-
-<summary>Folgende Items sind lagerbar:</summary>
-
-**Alle Items, außer:**&#x20;
-
-* Spawn-Eier
-* Spawner
-* Beacons
-* Dracheneier
-* Endstein
-* Bedrock
-* Barrieren
-* Endportalrahmen
-* Nethersterne
-* Karten
-* Feuerwerksraketen&#x20;
-* Feuerwerkssterne&#x20;
-* (+ CustomBlocks)
-
-Alle Sub-ID's dieser Items sind hierin mit einbegriffen.
-
-</details>
+In die [unendlichen Lager](https://wiki.griefergames.live/funktionen/features/unbegrenzter-speicher) könnt ihr bis zu 9.223.372.036.854.775.807 Items einlagern.
 
 ### Crafting-Rezept
 
@@ -76,8 +52,6 @@ Unendliche Lager lassen sich mit der `/p flag set unlimited-storage-public true`
 
 Das unendliche Lager verfügt außerdem über einen automatischen Komprimierer. Das bedeutet, dass man mit Shift + Rechtsklick auf die Kiste in ein Menü kommt, aus welchem man sich das gelagerte Item direkt [in komprimierter Form](../erweiterte-features/die-rezeptsammlung.md#item-komprimierung) rausziehen kann.
 
-<figure><img src="https://lh7-us.googleusercontent.com/docsz/AD_4nXceDepXC_XNRdYYalRHWNtwTzsVQ5ko1AwrZv1g3ebCPUrN-5xBV7HszMGzJXisuczfKh1Hyi-1rTSVZhG05KdFJx1zLViiUqndY3bEM7-v5C9J-V8duIT5fa-RHNt0DKFc7sBcbURg4iEz7q7o82DSV_ZD?key=Fbef1cizwBxjBjyjDaG3uQ" alt=""><figcaption><p>Abruf eingelagerter Items mit vorher eingestellter Komprimierungsstufe</p></figcaption></figure>
-
 
 
 ### Der Einsaugmodus
@@ -98,7 +72,9 @@ Mit einem Lagerterminal können mehrere unendliche Lager zentral an einem Ort ve
 <figure><img src="../.gitbook/assets/JBaKI6j (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ein unendliches Lager kann immer nur mit **einem** Terminal verbunden sein. Die Lager müssen sich in der Nähe des Terminals befinden. Ist ein Lager zu weit entfernt, kann es nicht verbunden werden.
+Ein unendliches Lager kann immer nur mit **einem** Terminal verbunden sein. Die Lager müssen sich in der Nähe des Terminals befinden. Ist ein Lager zu weit entfernt, kann es nicht verbunden werden.\
+\
+Die Lagerterminals kann man entweder im CaseOpening ziehen oder sie sich mit Adventure-Coins im Admin-Shop kaufen.
 {% endhint %}
 
 Lagerterminals lassen sich mit der Flag `/p flag set unlimited-storageterminal-public true` für andere Spieler auf einem Grundstück freigeben. Im Menü unten links (Buch) können außerdem Zugriffsrechte verwaltet werden. Dort gibt es die Möglichkeit, dass ihr einzelnen Spielern Zugriff auf das Lagerterminal gebt.
