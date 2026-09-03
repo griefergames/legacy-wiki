@@ -1,4 +1,5 @@
 ---
+description: Mit Jobs könnt ihr Geld verdienen, indem ihr Spielern gesuchte Items liefert.
 layout:
   width: default
   title:
@@ -21,7 +22,7 @@ layout:
 
 # 🧑‍🏭 Das Job-System
 
-Ein neuer NPC ist aufgetaucht und hat ein neues Feature im Gepäck. Ihr könnt nun Aufträge vergeben, damit euch andere Spieler Items erfarmen. Hierbei stellt ihr einen Auftrag ein, welches Item für euch gefarmt werden soll und in welcher Menge.
+Ihr könnt Aufträge vergeben, damit euch andere Spieler Items erfarmen. Hierbei stellt ihr einen Auftrag ein, welches Item für euch gefarmt werden soll und in welcher Menge.
 
 Das Ganze funktioniert mindestens stackweise (oder in größeren Mengen) und es können nur ausgewählte Materialien gesucht werden. Andere Items lassen sich nicht beauftragen.
 
