@@ -27,7 +27,7 @@ layout:
 
 ### GrieferGames-Dollar
 
-GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander handelt bzw. Items verkauft oder [Jobs](https://wiki.griefergames.net/erweiterte-features/das-job-system) erfüllt.\
+GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander Items handelt oder [Jobs](https://wiki.griefergames.net/erweiterte-features/das-job-system) (`/jobs`) erfüllt.\
 Es wird auch zum Bezahlen von verschiedenen Serverfunktionen eingesetzt.
 
 $ werden auf verschiedenen Wegen in das Spielgeschehen eingebracht.&#x20;
