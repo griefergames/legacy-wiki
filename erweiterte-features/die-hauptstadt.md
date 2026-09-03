@@ -98,17 +98,16 @@ Spieler, die mit einer Strafe dort gefangen sind, müssen eine vorgegebene Anzah
 
 #### **Wie kommt man in das Gefängnis?**
 
-Als Besucher kommt man mit `/warp Gefängnis` zum Gefängnis. Vom Spawn-Punkt aus kann man sich frei bewegen. Will man jedoch Besucher bleiben, darf man **nicht** in den Gefängnishof herunterfallen.
+Als Besucher kommt man mit `/warp Gefängnis` zum Gefängnis. Vom Spawn-Punkt aus kann man sich frei bewegen. Wenn man jedoch ins Gefängnis hineinfällt, ist man selbst drin und muss Blöcke abbauen.
 
-Seid ihr inhaftiert, werdet ihr sofort zum Gefängnis teleportiert, um eure Strafe anzutreten. \
-Verlasst ihr den Server, landet ihr immer, wenn ihr einen [Citybuild-Server](../grundlagen/spielmodus-citybuild/) betretet, im Gefängnis. Dies passiert so lange, bis ihr eure Strafe abgearbeitet habt.
+Ihr werdet ihr sofort ins Gefängnis teleportiert, wenn ihr eine Strafe bekommen habt oder reinfallt. \
+Verlasst ihr den Server, landet ihr immer, wenn ihr einen [Citybuild-Server](../grundlagen/spielmodus-citybuild/) betretet, im Gefängnis. Dies passiert so lange, bis ihr die erforderliche Anzahl an Blöcken abgebaut habt.
 
 #### **Wie kommt man aus dem Gefängnis heraus?**
 
 Besucher können mit sämtlichen Befehlen reisen, die eine Teleportation beinhalten. Beispielsweise durch den Einsatz von `/p h` , `/warp` oder `/home`.
 
-Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken im Gefängnishof abbaut. Alternativ besteht die Möglichkeit, dass das Team jemanden vorzeitig freilässt. Hierfür besteht jedoch kein Anspruch und wird auch nur in besonderen und seltenen Fällen durchgeführt. Erstellt hierfür einen Antrag über das [Ticket-System](../hilfreiche-links/griefergames-dienste.md).
-
+Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken abbaut. \
 Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen. Team-Strafen (für Regelverstöße) lassen sich damit **nicht** aufheben.
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
@@ -130,7 +129,9 @@ So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten,
 Nach einer StartJail-Abstimmung muss eine Abklingzeit von drei Stunden abgewartet werden, bevor man eine erneute Abstimmung starten kann.
 
 Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](../griefergames-allgemein/regelwerk.md). \
-Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern.
+Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern. Sollte man aufgrund eines Verstoßes gegen das Regelwerk eine Team-Strafe erhalten haben, kann man im [Ticket-System](../hilfreiche-links/griefergames-dienste.md) einen Strafaufhebungsantrag stellen. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
+
+
 
 #### **Werkzeug**
 
@@ -156,7 +157,3 @@ Erhält man aus anderen Gründen mal keine Spitzhacke, muss man lediglich den Se
 * [Zheng\_Aokiji](https://profile.griefergames.live/minecraft/e76216f9-a714-4351-b9d1-fcb54a7d7a23)
 
 </details>
-
-{% hint style="danger" %}
-Einige Abschnitte sind recht kurz. Sie könnten eine Ergänzung vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}
