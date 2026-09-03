@@ -33,10 +33,10 @@ Wäre es da nicht schön sein Wunschmotiv schnell und einfach als Karte verfügb
 Um den Kartengenerator nutzen zu können, benötigt man das entsprechende [Recht](https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht).&#x20;
 
 {% hint style="danger" %}
-Derzeit ist dieses Recht nur begrenzt verfügbar und aus den Winter-Kisten erhältlich.
+Derzeit ist dieses Recht nur begrenzt verfügbar.
 {% endhint %}
 
-Hat man das Recht gewonnen und eingelöst, erhält man die Berechtigung den Befehl `/createkarte` zu verwenden.&#x20;
+Hat man das Recht eingelöst, erhält man die Berechtigung den Befehl `/createkarte` zu verwenden.&#x20;
 
 
 
@@ -95,13 +95,3 @@ Der zuletzt abgerufene Link enthält den Direktlink zu dem von euch hochgeladene
 Im letzten Schritt könnt ihr die Karte auf unserem Netzwerk erstellen. Gebt hierfür den Befehl `/createkarte <Link>` ein.  Den Platzhalter \<Link> ersetzt ihr dann mit der kopierten Adresse der Bilddatei.
 
 Ihr erhaltet die entsprechenden Karten (je nach Größe des hochgeladenen Motivs) in euer Inventar. Beachtet, dass ihr genügend Platz in Hotbar und Inventar habt, um alle Kartenteile entgegen zu nehmen.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

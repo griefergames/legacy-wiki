@@ -67,15 +67,3 @@ Daneben kannst du einstellen, was welche Gruppe sehen kann. Die Scheiben unter d
 Dazu klickst du im Freunde-Menü auf den Kopf von dem Freund, dessen Gruppe du bearbeiten willst. Standardmäßig sind alle Spieler in der Rolle “Freund”. Wenn die Scheibe neben dem Emerald grün ist, ist die Person ein “Best Buddy”. Dies kannst du durch einen Klick auf die Scheibe ändern.
 
 Der rote Ton-Block ist dafür da, um eine Freundschaft aufzulösen.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-* [giftlippenstift](https://profile.griefergames.live/minecraft/5eb7f506-c982-4104-8e1f-b4f38001ccaf)
-
-</details>

@@ -27,7 +27,7 @@ Du kannst unseren Server kostenlos unterstützen, indem du online für ihn absti
 
 Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du jederzeit über den Befehl `/vote` auf unseren Citybuild-Servern abrufen.
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/5l8naWB.png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
 Wenn du unser Vote-System aufrufst, wirst du automatisch verbunden und dir werden alle Voting-Server angezeigt, bei welchen wir vertreten sind.
 
@@ -91,9 +91,7 @@ Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen f
 | 3000'er Vote-Streak | 2.500.000 Dollar + 5.000 Kristalle |
 
 {% hint style="danger" %}
-Wenn du mehrere Tage in Folge nicht abstimmst wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne.
-
-Du musst nicht auf jeder Voting-Seite abstimmen. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
+Wenn du mehrere Tage in Folge nicht abstimmst wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
 
 Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast.
 {% endhint %}
@@ -107,14 +105,3 @@ Beim Vote-NPC in der Hauptstadt findest du eine Übersicht über deine aktuelle 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Vote-System bei einer Streak von 1 Vote</p></figcaption></figure>
 
 Durch einen Klick auf den goldenen "Vote-Streak"-Kopf erhältst du eine Übersicht über deine Streak und die Belohnungen. Hier kannst du ggf. ausstehende Zusatz-Belohnungen für deine aktive Streak auch direkt abholen.
-
-&#x20;
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Zheng\_Aokiji](https://profile.griefergames.live/minecraft/e76216f9-a714-4351-b9d1-fcb54a7d7a23)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

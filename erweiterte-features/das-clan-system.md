@@ -76,5 +76,5 @@ Sonderrechte (bspw. Zusätzliche Clan-Mitglieder, Clan-Farbcodes, Clan-Sondercod
 | /clan delete                          | <p>Damit kann der Clan-Leiter seinen Clan löschen. Der Clan darf dafür keine Mitglieder mehr haben. <br>Eine Clan-Auflösung erstattet 200.000$ auf das Konto des Clan-Leiters zurück.</p>                                                                                                                                                                                                                                                                  | <p><img src="../.gitbook/assets/image (147).png" alt="" data-size="original"><br><img src="../.gitbook/assets/image (148).png" alt=""></p>                                                          |
 
 {% hint style="info" %}
-&#x20;Ein Clan wird nicht von der Administration übertragen.
+&#x20;Ein Clan wird nicht von der Administration übertragen. Bereits vergebene Clan-Namen werden nicht neu vergeben.
 {% endhint %}

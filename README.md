@@ -36,8 +36,6 @@ In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den 
 
 ### Inhalte zum Wiki beitragen
 
-Wenn du uns helfen möchtest das [Wiki weiter zu füllen](hilfreiche-links/under-construction.md), kannst du uns Fehler oder fehlende Informationen senden, sowie auch ganze Seiten des Wikis für uns erstellen.
+Wenn du uns helfen möchtest das Wiki weiter zu füllen, kannst du uns Fehler oder fehlende Informationen senden, sowie auch ganze Seiten des Wikis für uns erstellen.
 
-#### Vollständige Seite im Wiki erstellen
-
-Um eine komplette Seite für das Wiki zu erstellen, erstelle die Seite mit Informationen, Bildern etc. in einem Google-Dokument (Doc) und sende uns eine Link-Freigabe zu. Wir können die Wiki-Seite dann aus deinem Dokument importieren und schon ist die Seite verfügbar.
+Um eine komplette Seite für das Wiki zu erstellen, empfiehlt es sich, die Seite mit Informationen und Bildern in einem Google-Dokument (Doc) anzufertigen. Erhalten wir die Freigabe des Dokuments, können wir den Inhalt importieren.

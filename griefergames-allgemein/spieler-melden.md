@@ -114,14 +114,3 @@ Nutzt ihr eine AMD-Grafikkarte, könnt ihr über die AMD Adrenaline-Software ebe
 
 Alternativ könnt ihr auch jedes andere Aufnahmeprogramm verwenden, welches den kompletten Spielinhalt unverändert aufzeichnet. \
 Unsere Empfehlung hierfür ist das einsteigerfreundliche und kostenfreie [OBS Studio](https://obsproject.com/de).
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [giftlippenstift](https://profile.griefergames.live/minecraft/5eb7f506-c982-4104-8e1f-b4f38001ccaf)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

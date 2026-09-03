@@ -21,14 +21,6 @@ layout:
 
 # 💁 Support erhalten
 
-„_Wie erreiche ich einen Supporter?_“
-
-„_Ist gerade ein Teammitglied da da?_“
-
-„_Ich brauche dringend Hilfe!_“
-
-Diese und viele weitere Fragen beantworten wir hier gesammelt - damit du schnell weißt, wohin du dich wenden kannst, wenn du Unterstützung brauchst.
-
 Wahrscheinlich bist du auf dieser Seite, weil du gerade Schwierigkeiten hast oder einfach wissen möchtest, wie du am besten Hilfe bekommst. Bevor du direkt loslegst, schau dir am besten unsere [FAQ](https://wiki.griefergames.net/faq/) an. Viele Fragen werden auch hier in unserem Wiki für das [1.8 Netzwerk](https://wiki.griefergames.net/) oder im Wiki für das [Cloud Netzwerk](https://wiki.griefergames.live/) beantwortet und ersparen dir vielleicht sogar eine Anfrage.
 
 <details>
@@ -69,9 +61,9 @@ Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn
 Wir können keine gestohlenen Accounts wiederherstellen.
 
 Wende dich in diesem Fall direkt an Microsoft über die [offiziellen Kontaktwege](https://support.xbox.com/de-de/contact-us/emerald).\
-Wenn du deinen Minecraft-Account verloren hast und der Microsoft-Support dir nicht weiterhelfen kann, kannst du im Ticket-System im [Web](https://ticket.griefergames.de/) (mit [GGAuth](../hilfreiche-links/griefergames-dienste.md)-Account) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) (mit und ohne GGAuth Account) unter dem Label **„Minecraft-Account verloren“** erstellen.
+Wenn du deinen Minecraft-Account verloren hast und der Microsoft-Support dir nicht weiterhelfen kann, kannst du im Ticket-System im [Web](https://ticket.griefergames.de/) (mit [GGAuth](../hilfreiche-links/griefergames-dienste.md)-Account) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) (mit und ohne GGAuth-Account) unter dem Label **„Minecraft-Account verloren“** erstellen.
 
-Mehr Informationen zur Vermeidung von Account-Diebstahl findest du in unserem Artikel Account-Diebstahl / Phishing.
+Mehr Informationen zur Vermeidung von Account-Diebstahl findest du in unserem Artikel [Account-Diebstahl / Phishing](https://wiki.griefergames.net/griefergames-allgemein/account-verloren).
 
 </details>
 

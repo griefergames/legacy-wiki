@@ -90,11 +90,11 @@ Das Menü des NPC ist auch über den Befehl `/jobs` aufrufbar.
 
 ### Das Gefängnis
 
-Das Ziel des Gefängnis war es, eine weitere Möglichkeit für Bestrafungen einzuführen, die sowohl von der Community, als auch vom Team genutzt werden kann. Der Unterschied zu einem Mute und einem Bann ist, dass die bestrafte Person weiterhin auf dem Netzwerk aktiv sein kann, die Strafe jedoch **aktiv abarbeiten** muss, ohne eine Möglichkeit, diese einfach durch Warten zu überbrücken.
+Das Gefängnis oder auch Jail genannt ist eine weitere Möglichkeit zur Bestrafung auf GrieferGames. Der Unterschied zu einem Mute oder einem Bann ist, dass die bestrafte Person weiterhin auf dem Netzwerk aktiv sein kann, die Strafe jedoch **aktiv abarbeiten** muss, ohne eine Möglichkeit, diese einfach durch Warten zu überbrücken.
 
 Das Gefängnis selbst ist ein eigenes Gebäude auf jedem Citybuild-Server. Dort kann man freiwillig, aber auch aufgrund einer Strafe hingelangen.
 
-Spieler, die mit einer Strafe dort gefangen sind, müssen eine vorgegebene Anzahl an Obsidianblöcken abbauen, um frei zu kommen. Andere Spieler oder Schaulustige haben gleichzeitig die Möglichkeit, die inhaftierte Person von oben zu beobachten und ggf. mit [kreativen Mitteln](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) das Abbauen zu erschweren.
+Spieler, die in das Gefängnis gekommen sind, müssen eine vorgegebene Anzahl an Obsidianblöcken abbauen, um frei zu kommen. Andere Spieler oder Schaulustige haben gleichzeitig die Möglichkeit, die inhaftierte Person von oben zu beobachten und ggf. mit [kreativen Mitteln](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) das Abbauen zu erschweren.
 
 #### **Wie kommt man in das Gefängnis?**
 
@@ -103,58 +103,38 @@ Als Besucher kommt man mit `/warp Gefängnis` zum Gefängnis. Vom Spawn-Punkt au
 Ihr werdet ihr sofort ins Gefängnis teleportiert, wenn ihr eine Strafe bekommen habt oder reinfallt. \
 Verlasst ihr den Server, landet ihr immer, wenn ihr einen [Citybuild-Server](../grundlagen/spielmodus-citybuild/) betretet, im Gefängnis. Dies passiert so lange, bis ihr die erforderliche Anzahl an Blöcken abgebaut habt.
 
+Spieler können mit `/startjail` eine Abstimmung starten, um einen anderen Spieler ins Gefängnis zu schicken. Welche Gründe für eine solche Abstimmung zulässig sind, ist im [Regelwerk](https://griefergames.cloud/regelwerk) festgelegt. Für eine StartJail-Abstimmung wird zunächst ein Token benötigt. Dieser kann mit `/startjail buy`  erworben werden.
+
+{% hint style="info" %}
+Nach einer StartJail-Abstimmung hat der Ersteller einen Cooldown von **drei Stunden**, bevor er erneut eine Abstimmung starten kann. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
+{% endhint %}
+
+Auch das Team kann Spieler aufgrund von Regelverstößen mit einer Gefängnisstrafe bestrafen. Art und Dauer der Strafe hängen vom jeweiligen Vergehen ab. Mit jeder gleichen Strafe verdoppelt sich die Anzahl der abzubauenden Blöcke. Hat man mit der ersten Strafe z.B. 20 Blöcke abzubauen, bekommt man bei der zweiten Strafe automatisch 40 Blöcke welche man abbauen muss.
+
 #### **Wie kommt man aus dem Gefängnis heraus?**
 
-Besucher können mit sämtlichen Befehlen reisen, die eine Teleportation beinhalten. Beispielsweise durch den Einsatz von `/p h` , `/warp` oder `/home`.
+Besucher können das Gefängnis mit allen Befehlen verlassen, die eine Teleportation beinhalten. Beispielsweise durch den Einsatz von z.B. `/p h` , `/warp` oder `/home`.
 
 Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken abbaut. \
-Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen. Team-Strafen (für Regelverstöße) lassen sich damit **nicht** aufheben.
+Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen.&#x20;
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
-#### **Andere Spieler**
+Strafen, welche durch Teammitglieder ausgestellt wurden, können nicht mit dieser Karte aufgehoben werden. Einen Antrag auf Strafaufhebung, kann man über das Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) stellen.
 
-Besucher haben die Möglichkeit, den Inhaftierten den Abbau der Obsidianblöcke zu erschweren – beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer erworben werden. Für den Beschuss gibt es eigene Zuschauerplätze um das Gefängnis herum.\
-Das Behindern von Inhaftierten ist allerdings **auch** ein zulässiger Grund, um durch eine [Community-Abstimmung inhaftiert](die-hauptstadt.md#strafen) zu werden.
+#### Besucher
 
-**Doch Vorsicht!** \
-Springt/Fällt man als Besucher in das Gefängnis, wertet das System dies als Versuch zur Ausbruchshilfe und man muss selber eine kleine Strafe bewältigen.
+Besucher haben die Möglichkeit, den Spielern im Gefängnis den Abbau der Obsidianblöcke zu erschweren. Das geht beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer in der Stadt (`/warp stadt`) erworben werden. \
+Das Behindern von Inhaftierten ist allerdings **auch** ein zulässiger Grund, um durch eine [Community-Abstimmung](die-hauptstadt.md#strafen) in das Gefängnis gesperrt zu werden.
 
-#### **Strafen**
+{% hint style="info" %}
+**Vorsicht!** Springt oder fällt man als Besucher in das Gefängnis, wertet das System dies als Versuch zur Ausbruchshilfe und man muss selber ein paar Obsidianblöcke abbauen.
+{% endhint %}
 
-Wie man Gefangener wird, kann sehr vielfältig ausfallen.
+#### **Wie baue ich die Obsidianblöcke im Gefängnis ab?**
 
-So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten, um einen Spieler in das Gefängnis zu senden. Welche Gründe hierbei erlaubt sind, kann man im Regelwerk unter [§ 2.13](../griefergames-allgemein/regelwerk.md#id-13-ein-startkick-startjail-und-mutep-darf-nicht-ohne-jeglichen-grund-ausgefuhrt-werden.-bei-starkem) nachlesen. Um einen StartJail auszuführen, muss zuerst ein Token gekauft werden. Dies ist mit `/startjail buy` möglich. Alternativ kann dies auch bei dem Wärter-NPC im Gefängnis passieren.
+Um die Obsidianblöcke abzubauen, bekommt man beim Betreten vom Gefängnis automatisch eine Gold-Spitzhacke in das Inventar. Jedes ander Werkzeug hat in dem Gefängnisbereich **keine** Wirkung. In welchem Zustand die Gold-Spitzhacke ist, ist egal. Verzauberungen funktionieren jedoch nicht. Die Gold-Spitzhacke verliert keine Haltbarkeit und ist dementsprechend unendlich nutzbar.
 
-Nach einer StartJail-Abstimmung muss eine Abklingzeit von drei Stunden abgewartet werden, bevor man eine erneute Abstimmung starten kann.
+<figure><img src="../.gitbook/assets/Wvn4VGR.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](../griefergames-allgemein/regelwerk.md). Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern.&#x20;
-
-Aus dem Gefängnis kommt man heraus, indem man die erforderliche Anzahl an Obsidianblöcken abbaut. Sollte man aufgrund eines Verstoßes gegen das Regelwerk eine Team-Strafe erhalten haben, kann man auch alternativ im [Ticket-System](../hilfreiche-links/griefergames-dienste.md) einen Strafaufhebungsantrag stellen. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
-
-
-
-#### **Werkzeug**
-
-Um die Obsidianblöcke abzubauen, bekommt jeder Gefangene beim Betreten vom Gefängnis automatisch eine Gold-Spitzhacke in das Inventar.
-
-Jedes anderer Werkzeug hat in dem Gefängnisbereich **keine** Wirkung. In welchem Zustand die Gold-Spitzhacke ist, ist egal. Verzauberungen funktionieren jedoch nicht.
-
-Die Gold-Spitzhacke verliert keine Haltbarkeit und ist dementsprechend unendlich nutzbar.
-
-Ist mal das Inventar voll oder geht die Spitzhacke anderweitig verloren, kann jederzeit eine neue an den Schildern am Hofeingang geholt werden.
-
-Kommt man frei, behält man die Spitzhacke im Inventar.
-
-Erhält man aus anderen Gründen mal keine Spitzhacke, muss man lediglich den Server neu betreten, um eine neue Spitzhacke zu erhalten.
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-* [Zheng\_Aokiji](https://profile.griefergames.live/minecraft/e76216f9-a714-4351-b9d1-fcb54a7d7a23)
-
-</details>
+Ist das Inventar voll oder geht die Spitzhacke anderweitig verloren, kann jederzeit eine neue an den Schildern am Eingang geholt werden. Kommt man frei, behält man die Spitzhacke im Inventar.

@@ -23,7 +23,7 @@ layout:
 
 ### Spawner allgemein
 
-[Spawner ](https://items.griefergames.net/#Spawner)sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Ei vom Spieler verändert werden.
+[Spawner](https://items.griefergames.net/#Spawner) sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Ei vom Spieler verändert werden.
 
 Spawner erzeugen, während sie geladen sind (ein Spieler befindet sich im Umkreis von 16 Blöcken), alle 10 bis 40 Sekunden bis zu vier Kreaturen. Die Kreaturen erscheinen in einem 9×3×9 Blöcke großen, auf den Spawner zentrierten freien Bereich, also innerhalb eines drei Blöcke hohen Quaders von neun Blöcken Seitenlänge.
 

@@ -34,6 +34,7 @@
   * [Spezielle Features](grundlagen/befehlsuebersicht/spezielle-features/README.md)
     * [Checkplot](grundlagen/befehlsuebersicht/spezielle-features/checkplot.md)
     * [Hologramme](grundlagen/befehlsuebersicht/spezielle-features/hologramme.md)
+    * [Individuelles Scoreboard](grundlagen/befehlsuebersicht/spezielle-features/individuelles-scoreboard.md)
     * [Abschließbare Truhen](grundlagen/befehlsuebersicht/spezielle-features/abschliessbare-truhen.md)
 * [💰 Währungen](grundlagen/waehrungen.md)
 * [⬆️ Booster & Perks](grundlagen/booster-and-perks.md)
