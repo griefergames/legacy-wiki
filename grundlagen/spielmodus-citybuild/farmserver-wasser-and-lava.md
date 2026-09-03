@@ -22,7 +22,7 @@ layout:
 
 # 🌼 Farmserver Wasser & Lava
 
-Die Famserver Wasser & Lava erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch`.&#x20;
+Die Farmserver erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl `/switch wasser` für den Farmserver Wasser oder `/switch lava` für den Farmserver Lava.
 
 Die Farmserver haben **keine** [Plotwelt](./) und werden somit auch nicht als Citybuild-Server gewertet. Sie bestehen aus einer normalen Minecraft-Welt (Farmwelt) und einem Nether. Das Ende ist auch hier **nicht** freigeschaltet.
 

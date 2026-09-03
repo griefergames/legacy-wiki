@@ -22,7 +22,7 @@ layout:
 
 # 🌇 Citybuild Evil
 
-Den Citybuild-Server Evil erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
+Den Citybuild-Server Evil erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl `/switch cbevil`.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
 
@@ -51,15 +51,4 @@ Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer akti
 
 * Komplette Plotwelt im Nether-Stil
 * max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../../erweiterte-features/server-performance.md#join-cap-reservierte-slots-und-whitelists))
-* Hohe Spielerauslastung
-* Redstone-Anlagen und Casino-Betriebe
 
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

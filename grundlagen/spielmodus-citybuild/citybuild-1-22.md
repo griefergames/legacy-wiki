@@ -22,7 +22,7 @@ layout:
 
 # 🏘️ Citybuild 1-22
 
-Die Citybuild-Server 1 bis 22 erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch` .&#x20;
+Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl. Für Citybuild 22 wäre dies z.B. `/switch cb22`.
 
 <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 

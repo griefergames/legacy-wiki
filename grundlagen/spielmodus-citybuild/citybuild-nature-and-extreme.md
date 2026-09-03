@@ -22,7 +22,7 @@ layout:
 
 # 🏔️ Citybuild Nature & Extreme
 
-Die Citybuild-Server Nature und Extreme erreichst du aus dem Portalraum oder über den Auswahl-Befehl `/switch`.&#x20;
+Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl `/switch nature` für Citybuild Nature oder `/switch extreme` für Citybuild Extreme.
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
