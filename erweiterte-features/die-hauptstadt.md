@@ -114,7 +114,7 @@ Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngn
 
 #### **Andere Spieler**
 
-Besucher haben die Möglichkeit, den Inhaftierten den Abbau der Obsidianblöcke zu erschweren – beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer erworben werden. Für den Beschuss gibt es eigene Zuschauerplätze um den Gefängnishof herum.\
+Besucher haben die Möglichkeit, den Inhaftierten den Abbau der Obsidianblöcke zu erschweren – beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer erworben werden. Für den Beschuss gibt es eigene Zuschauerplätze um das Gefängnis herum.\
 Das Behindern von Inhaftierten ist allerdings **auch** ein zulässiger Grund, um durch eine [Community-Abstimmung inhaftiert](die-hauptstadt.md#strafen) zu werden.
 
 **Doch Vorsicht!** \
@@ -128,8 +128,9 @@ So können Spieler jemanden mit dem Befehl `/startjail` eine Abstimmung starten,
 
 Nach einer StartJail-Abstimmung muss eine Abklingzeit von drei Stunden abgewartet werden, bevor man eine erneute Abstimmung starten kann.
 
-Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](../griefergames-allgemein/regelwerk.md). \
-Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern. Sollte man aufgrund eines Verstoßes gegen das Regelwerk eine Team-Strafe erhalten haben, kann man im [Ticket-System](../hilfreiche-links/griefergames-dienste.md) einen Strafaufhebungsantrag stellen. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
+Ansonsten hat auch das Team die Möglichkeit, Spieler mit einer Gefängnisstrafe zu belegen. Wann und wie dies geschieht, ist abhängig vom Vergehen des Spielers. Haltet euch deshalb zu jedem Zeitpunkt an unser [Regelwerk](../griefergames-allgemein/regelwerk.md). Strafen vom Team können sich in wiederholten Fällen mit der Zeit steigern.&#x20;
+
+Aus dem Gefängnis kommt man heraus, indem man die erforderliche Anzahl an Obsidianblöcken abbaut. Sollte man aufgrund eines Verstoßes gegen das Regelwerk eine Team-Strafe erhalten haben, kann man auch alternativ im [Ticket-System](../hilfreiche-links/griefergames-dienste.md) einen Strafaufhebungsantrag stellen. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
 
 
 
