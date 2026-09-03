@@ -42,7 +42,7 @@ Als alternative Übertragungsmöglichkeit kannst du eine [Grundstücksverschiebu
 Du versuchst dein Grundstück zu besuchen und es ist nicht mehr da? \
 Das kann verschiedene Gründe haben:
 
-1. Befindest du dich auf dem richtigen Citybuild? Eine Übersicht, auf welchen Citybuilds du ein Grundstück besitzt, findest du unter dem Befehl `/zuhause`.&#x20;
+1. Befindest du dich auf dem richtigen Citybuild? Eine Übersicht, auf welchen Citybuilds du ein Grundstück besitzt, findest du unter dem Befehl `/zuhause`. Deine Grundstücke kannst du dann über den Befehl `/p h` erreichen.&#x20;
 2. Warst du eine [längere Zeit inaktiv](../../grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)? Falls dies der Fall ist, kann es sein, dass es von einem aktiven Spieler über das [Checkplot-System](https://wiki.griefergames.net/grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen) beantragt und bei Annahme des Antrages gelöscht wurde.
 3. Du hattest ein unangemessenes Bauwerk auf diesem Grundstück, weshalb eine Löschung notwendig war.
 
