@@ -79,7 +79,8 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 | [Feuerresistenz+](https://items.griefergames.net/#Perks_%7C_Feuerresistenz%2B_Perk)              | Du erhältst keinen Feuerschaden.                                     | <p>5.000.000 $<br>20.000.000 Orbs</p> |
 | [Unterwasseratmung+](https://items.griefergames.net/#Perks_%7C_Unterwasseratmung%2B_Perk)        | Du hast unbegrenzt Luft.                                             | <p>4.000.000 $<br>10.000.000 Orbs</p> |
 | [Gärtner](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Perk)                           | Du kannst Pflanzen schneller wachsen lassen. (Schleichen)            | CaseOpening                           |
-| [Gärtner+](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                         | Du kannst mehr Pflanzen (3x3) schneller wachsen lassen. (Schleichen) | CaseOpening                           |
+| [Gärtner 2](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                        | Du kannst mehr Pflanzen (3x3) schneller wachsen lassen. (Schleichen) | CaseOpening                           |
+| [Gärtner 3](https://items.griefergames.net/#Perks_%7C_G%C3%A4rtner_Lvl_2)                        | Du kannst mehr Pflanzen (5x5) schneller wachsen lassen. (Schleichen) | CaseOpening                           |
 | [Stärke+](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke%2B_Perk)                         | +260% Angriffsschaden                                                | 5.000.000 $                           |
 | [Stärke+2](https://items.griefergames.net/#Perks_%7C_St%C3%A4rke-Perk_Lvl_2)                     | +260% Angriffsschaden                                                | CaseOpening                           |
 | [Resistenz+](https://items.griefergames.net/#Perks_%7C_Resistenz%2B_Perk)                        | "Resistenz 2"-Effekt                                                 | CaseOpening                           |
@@ -105,6 +106,13 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 | [Kein Schleim-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Schleim-Schaden_Perk)      | Schleime fügen dir keinen Schaden zu.                                | CaseOpening                           |
 | [Kein Wächter-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_W%C3%A4chter-Schaden_Perk) | Wächter fügen dir keinen Schaden zu.                                 | CaseOpening                           |
 | [Kein Pigman-Schaden](https://items.griefergames.net/#Perks_%7C_Kein_Pigman-Schaden_Perk)        | Pigman fügen dir keinen Schaden zu.                                  | CaseOpening                           |
+| [Gebührensenkungs-Perk](https://items.griefergames.net/#Perks_%7C_Geb%C3%BChrensenkungs-Perk)    | Du zahlst weniger Gebühren bei Jobs und dem Auktionshaus.            | CaseOpening                           |
+| [Gift Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Gift-Perk)                       | Du bekommst keinen Gift-Effekt mehr.                                 | CaseOpening                           |
+| [Langsamkeit Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Langsamkeits-Perk)        | Du bekommst keinen Verlangsamungs-Effekt mehr.                       | CaseOpening                           |
+| [Schwäche Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Schw%C3%A4che-Perk)          | Du bekommst keinen Schwäche-Effekt mehr.                             | CaseOpening                           |
+| [Blindheits Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Blindheit-Perk)            | Du bekommst keinen Blindheits-Effekt mehr.                           | CaseOpening                           |
+| [Wither Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Wither-Perk)                   | Du bekommst keinen Wither-Effekt mehr.                               | CaseOpening                           |
+| [Abbaulähmung Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Abbaul%C3%A4hmung-Perk)  | Du bekommst keinen Abbaulähmungs-Effekt mehr.                        | CaseOpening                           |
 
 Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie freigeschaltet hast.
 
