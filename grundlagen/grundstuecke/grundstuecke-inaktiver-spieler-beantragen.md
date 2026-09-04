@@ -101,6 +101,12 @@ Wenn dein Antrag abgelehnt wird, so kann dies unterschiedliche Gründe haben.
 {% endtab %}
 {% endtabs %}
 
+{% hint style="info" %}
+**Besonderheiten bei Spawn-Grundstücken**
+
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+{% endhint %}
+
 #### Ein Merge beantragen
 
 Mit dem Checkplot-System kannst du keine Merge-Grundstücke beantragen. Dafür gibt es aber eine andere Lösung. Du kannst eine [Grundstücks-Verschiebung](grundstucke-verschieben-and-erweitern.md) beantragen.
