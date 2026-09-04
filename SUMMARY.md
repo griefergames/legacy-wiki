@@ -108,8 +108,6 @@
 * [Forum](faq/forum/README.md)
   * [Erste Schritte](faq/forum/erste-schritte.md)
   * [Account verwalten](faq/forum/account-verwalten.md)
-  * [Punkte & Ränge](faq/forum/punkte-and-range.md)
-  * [Fehlverhalten und Strafen](faq/forum/fehlverhalten-und-strafen.md)
 * [TeamSpeak](faq/ts-discord.md)
 * [Webshop](faq/webshop.md)
 * [Tutorials](faq/tutorials/README.md)
