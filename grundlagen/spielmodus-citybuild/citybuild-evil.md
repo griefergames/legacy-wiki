@@ -52,3 +52,8 @@ Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer akti
 * Komplette Plotwelt im Nether-Stil
 * max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../../erweiterte-features/server-performance.md#join-cap-reservierte-slots-und-whitelists))
 
+{% hint style="info" %}
+**Spawn-Grundstücke**
+
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+{% endhint %}

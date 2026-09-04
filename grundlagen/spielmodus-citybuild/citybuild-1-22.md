@@ -38,3 +38,9 @@ Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichf�
 
 Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende [Rechte](../befehlsuebersicht/rang-befehle.md) oder [Items](https://items.griefergames.net/), welche du freischalten kannst.\
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).
+
+{% hint style="info" %}
+**Spawn-Grundstücke**
+
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+{% endhint %}

@@ -55,3 +55,9 @@ Der Fehler behebt sich zum nächsten Server-Neustart selbstständig. Verlorene I
 * kein Rand, keine Straßen
 * erhöhter Cooldown beim Zurücksetzen/Löschen von Grundstücken
 * Angepasster [MobRemover](../../erweiterte-features/server-performance.md) (chunkbasiert)
+
+{% hint style="info" %}
+**Spawn-Grundstücke**
+
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+{% endhint %}
