@@ -32,7 +32,7 @@ Ein Grundstück ohne Besitzer kannst du jederzeit für dich [beanspruchen](../be
 Um das Grundstück eines anderen Spielers zu erhalten, gibt es zwei Wege:
 
 * Du einigst dich mit dem aktuellen Besitzer und er [überschreibt](grundstuecke-ueberschreiben.md) dir das Grundstück.
-* Der Besitzer ist inaktiv und du [beantragst](grundstuecke-inaktiver-spieler-beantragen.md) das Grundstück.
+* Der Besitzer ist inaktiv und du [beantragst](grundstuecke-inaktiver-spieler-beantragen.md) das Grundstück. Wichtig: Bei Spawn-Grundstücken geht das nicht, sondern muss über `/spawnplotreport` gemeldet werden.
 
 ***
 

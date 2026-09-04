@@ -32,7 +32,9 @@ Mit dem Checkplot-System kannst du diese beantragen.
 Um ein Grundstück neben deinem zu Checkploten, musst du auf das Grundstück gehen und den Befehl `/checkplot` eingeben. Nun erhältst du eine Nachricht in den Chat.
 
 {% hint style="info" %}
-&#x20;Du kannst nur inaktive Grundstück in der Nähe eines deiner Grundstücke beantragen.
+&#x20;Du kannst nur inaktive Grundstück in der Nähe eines deiner Grundstücke beantragen.\
+\
+**Spawn-GS Besonderheiten:** Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können **nicht** über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
 {% endhint %}
 
 Lässt sich das Grundstück nicht betreten, weil das durch den Besitzer verboten wurde, kannst du den Antrag durchführen, indem du vor dem Grundstück stehst und den [Befehl](../befehlsuebersicht/spezielle-features/checkplot.md) eingibst, während du auf das Grundstück schaust.
@@ -100,12 +102,6 @@ Wenn dein Antrag abgelehnt wird, so kann dies unterschiedliche Gründe haben.
 * Das beantragte Grundstück trägt einen wertvollen Alias.
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-**Besonderheiten bei Spawn-Grundstücken**
-
-Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
-{% endhint %}
 
 #### Ein Merge beantragen
 
