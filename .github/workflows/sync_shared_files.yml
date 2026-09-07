@@ -70,7 +70,7 @@ jobs:
           changed = [line.strip() for line in os.environ.get("CHANGED_FILES", "").splitlines() if line.strip()]
           eligible = []
 
-          details_block_at_end = re.compile(r"<details>[\\s\\S]*?</details>\\s*$", re.IGNORECASE)
+          details_block_at_end = re.compile(r"<details>[\s\S]*?</details>\s*$", re.IGNORECASE)
           cloud_link = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
 
           for rel_path in changed:
