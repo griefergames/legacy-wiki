@@ -24,6 +24,10 @@ jobs:
       TARGET_REPO: "griefergames/cloud-wiki"
       TARGET_BRANCH: "master"
       TARGET_PATH_PREFIX: ""
+      MATCH_LINK_LABEL: "Cloud Wiki Seite"
+      MATCH_LINK_DOMAIN: "wiki.griefergames.live"
+      REWRITE_LINK_LABEL: "1.8 Wiki Seite"
+      REWRITE_LINK_DOMAIN: "wiki.griefergames.net"
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run || 'false' }}
     steps:
       - name: Checkout source repository
@@ -59,6 +63,7 @@ jobs:
         shell: bash
         env:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
         run: |
           set -euo pipefail
 
@@ -69,9 +74,13 @@ jobs:
 
           changed = [line.strip() for line in os.environ.get("CHANGED_FILES", "").splitlines() if line.strip()]
           eligible = []
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
+
+          if not match_domain:
+            raise SystemExit("MATCH_LINK_DOMAIN is empty")
 
           details_block_at_end = re.compile(r"<details>[\s\S]*?</details>\s*$", re.IGNORECASE)
-          cloud_link = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+          source_link = re.compile(r"\[[^\]]*\]\(https://" + re.escape(match_domain) + r"/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
 
           for rel_path in changed:
             path = Path(rel_path)
@@ -84,17 +93,17 @@ jobs:
               continue
 
             block = m.group(0)
-            link_match = cloud_link.search(block)
+            link_match = source_link.search(block)
             if not link_match:
               continue
 
-            cloud_path = link_match.group(1).strip("/")
-            last_segment = cloud_path.split("/")[-1]
+            link_path = link_match.group(1).strip("/")
+            last_segment = link_path.split("/")[-1]
             file_stem = path.stem
 
             if last_segment == file_stem:
-              # Store source->destination mapping; destination path comes from the Cloud URL path.
-              eligible.append(f"{rel_path}|{cloud_path}")
+              # Store source->destination mapping; destination path comes from the matched link path.
+              eligible.append(f"{rel_path}|{link_path}")
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
             out.write("files<<EOF\n")
@@ -113,6 +122,10 @@ jobs:
           TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
           TARGET_REPO: ${{ env.TARGET_REPO }}
           TARGET_BRANCH: ${{ env.TARGET_BRANCH }}
+          MATCH_LINK_LABEL: ${{ env.MATCH_LINK_LABEL }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
+          REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
         run: |
           set -euo pipefail
 
@@ -124,11 +137,17 @@ jobs:
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
           target_repo = os.environ.get("TARGET_REPO", "")
           target_branch = os.environ.get("TARGET_BRANCH", "")
+          match_label = os.environ.get("MATCH_LINK_LABEL", "")
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "")
+          rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
+          rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "")
 
           print("Sync debug output")
           print(f"Target repo: {target_repo}")
           print(f"Target branch: {target_branch}")
           print(f"Target path prefix: '{target_prefix}'")
+          print(f"Match link: label='{match_label}', domain='{match_domain}'")
+          print(f"Rewrite link: label='{rewrite_label}', domain='{rewrite_domain}'")
 
           if not mappings:
             print("No files selected for synchronization.")
@@ -137,7 +156,9 @@ jobs:
             for entry in mappings:
               src, dst_from_link = entry.split("|", 1)
               dst = str(Path(target_prefix) / dst_from_link) if target_prefix else dst_from_link
+              rewritten_link = f"[{rewrite_label}](https://{rewrite_domain}/{dst_from_link})"
               print(f"- {src} -> {dst}")
+              print(f"  target link: {rewritten_link}")
           PY
 
       - name: Checkout target repository
@@ -155,6 +176,9 @@ jobs:
         env:
           FILES_TO_SYNC: ${{ steps.filter.outputs.files }}
           TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
+          MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
+          REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
         run: |
           set -euo pipefail
 
@@ -165,8 +189,16 @@ jobs:
 
           mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
+          match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
+          rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
+          rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "").strip().lower()
 
-          cloud_url = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+          if not match_domain:
+            raise SystemExit("MATCH_LINK_DOMAIN is empty")
+          if not rewrite_domain:
+            raise SystemExit("REWRITE_LINK_DOMAIN is empty")
+
+          source_url = re.compile(r"\[[^\]]*\]\(https://" + re.escape(match_domain) + r"/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
 
           for entry in mappings:
             rel_path, dst_from_link = entry.split("|", 1)
@@ -175,9 +207,9 @@ jobs:
 
             def repl(match):
               web_path = match.group(1).strip("/")
-              return f"[1.8 Wiki Seite](https://wiki.griefergames.net/{web_path})"
+              return f"[{rewrite_label}](https://{rewrite_domain}/{web_path})"
 
-            transformed = cloud_url.sub(repl, content)
+            transformed = source_url.sub(repl, content)
 
             target_rel = Path(target_prefix) / dst_from_link if target_prefix else Path(dst_from_link)
             target_path = Path("target-repo") / target_rel
