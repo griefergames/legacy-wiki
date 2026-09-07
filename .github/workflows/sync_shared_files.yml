@@ -17,6 +17,7 @@ on:
 
 jobs:
   sync-shared-files:
+    if: github.event_name != 'push' || !contains(github.event.head_commit.message || '', '[skip-cross-wiki-sync]')
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -260,7 +261,7 @@ jobs:
             exit 0
           fi
 
-          git commit -m "sync: shared wiki files from ${{ github.repository }}@${{ github.sha }}"
+          git commit -m "sync: shared wiki files from ${{ github.repository }}@${{ github.sha }} [skip-cross-wiki-sync]"
           git push origin "${{ env.TARGET_BRANCH }}"
 
       - name: Dry-run mode enabled
