@@ -1,0 +1,209 @@
+name: Sync Shared Wiki Files
+
+on:
+  push:
+    paths:
+      - "**/*.md"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Only print sync plan (no commit/push)"
+        required: false
+        default: "true"
+        type: choice
+        options:
+          - "true"
+          - "false"
+
+jobs:
+  sync-shared-files:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    env:
+      TARGET_REPO: "griefergames/cloud-wiki"
+      TARGET_BRANCH: "master"
+      TARGET_PATH_PREFIX: ""
+      DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run || 'false' }}
+    steps:
+      - name: Checkout source repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Collect changed markdown files
+        id: changed
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          BEFORE_SHA="${{ github.event.before }}"
+          AFTER_SHA="${{ github.sha }}"
+
+          if [[ "${{ github.event_name }}" == "workflow_dispatch" ]]; then
+            git ls-files "*.md" > changed_files.txt
+          elif [[ "$BEFORE_SHA" == "0000000000000000000000000000000000000000" || -z "$BEFORE_SHA" ]]; then
+            git ls-files "*.md" > changed_files.txt
+          else
+            git diff --name-only --diff-filter=AMR "$BEFORE_SHA" "$AFTER_SHA" -- "*.md" > changed_files.txt
+          fi
+
+          {
+            echo "files<<EOF"
+            cat changed_files.txt
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Filter synchronizable files
+        id: filter
+        shell: bash
+        env:
+          CHANGED_FILES: ${{ steps.changed.outputs.files }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          changed = [line.strip() for line in os.environ.get("CHANGED_FILES", "").splitlines() if line.strip()]
+          eligible = []
+
+          details_block_at_end = re.compile(r"<details>[\\s\\S]*?</details>\\s*$", re.IGNORECASE)
+          cloud_link = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+
+          for rel_path in changed:
+            path = Path(rel_path)
+            if path.suffix.lower() != ".md" or not path.exists():
+              continue
+
+            content = path.read_text(encoding="utf-8")
+            m = details_block_at_end.search(content)
+            if not m:
+              continue
+
+            block = m.group(0)
+            link_match = cloud_link.search(block)
+            if not link_match:
+              continue
+
+            cloud_path = link_match.group(1).strip("/")
+            last_segment = cloud_path.split("/")[-1]
+            file_stem = path.stem
+
+            if last_segment == file_stem:
+              eligible.append(rel_path)
+
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+            out.write("files<<EOF\\n")
+            out.write("\\n".join(eligible))
+            out.write("\\nEOF\\n")
+          PY
+
+      - name: Stop if nothing to sync
+        if: steps.filter.outputs.files == ''
+        run: echo "No shared files to synchronize."
+
+      - name: Debug sync plan
+        shell: bash
+        env:
+          FILES_TO_SYNC: ${{ steps.filter.outputs.files }}
+          TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
+          TARGET_REPO: ${{ env.TARGET_REPO }}
+          TARGET_BRANCH: ${{ env.TARGET_BRANCH }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          from pathlib import Path
+
+          files = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
+          target_repo = os.environ.get("TARGET_REPO", "")
+          target_branch = os.environ.get("TARGET_BRANCH", "")
+
+          print("Sync debug output")
+          print(f"Target repo: {target_repo}")
+          print(f"Target branch: {target_branch}")
+          print(f"Target path prefix: '{target_prefix}'")
+
+          if not files:
+            print("No files selected for synchronization.")
+          else:
+            print("Planned file mappings:")
+            for src in files:
+              dst = str(Path(target_prefix) / src) if target_prefix else src
+              print(f"- {src} -> {dst}")
+          PY
+
+      - name: Checkout target repository
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ env.TARGET_REPO }}
+          ref: ${{ env.TARGET_BRANCH }}
+          token: ${{ secrets.CROSS_REPO_SYNC_TOKEN }}
+          path: target-repo
+
+      - name: Copy files and rewrite cross-wiki links
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        shell: bash
+        env:
+          FILES_TO_SYNC: ${{ steps.filter.outputs.files }}
+          TARGET_PATH_PREFIX: ${{ env.TARGET_PATH_PREFIX }}
+        run: |
+          set -euo pipefail
+
+          python3 - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          files = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
+
+          cloud_url = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+
+          for rel_path in files:
+            src_path = Path(rel_path)
+            content = src_path.read_text(encoding="utf-8")
+
+            def repl(match):
+              web_path = match.group(1).strip("/")
+              return f"[1.8 Wiki Seite](https://wiki.griefergames.net/{web_path})"
+
+            transformed = cloud_url.sub(repl, content)
+
+            target_rel = Path(target_prefix) / rel_path if target_prefix else Path(rel_path)
+            target_path = Path("target-repo") / target_rel
+            target_path.parent.mkdir(parents=True, exist_ok=True)
+            target_path.write_text(transformed, encoding="utf-8")
+          PY
+
+      - name: Commit and push synchronized files
+        if: steps.filter.outputs.files != '' && env.DRY_RUN != 'true'
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          cd target-repo
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes detected in target repository."
+            exit 0
+          fi
+
+          git commit -m "sync: shared wiki files from ${{ github.repository }}@${{ github.sha }}"
+          git push origin "${{ env.TARGET_BRANCH }}"
+
+      - name: Dry-run mode enabled
+        if: steps.filter.outputs.files != '' && env.DRY_RUN == 'true'
+        run: |
+          echo "Dry run active: skipping checkout/copy/commit/push."
+
