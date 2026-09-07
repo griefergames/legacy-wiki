@@ -155,6 +155,9 @@ jobs:
           rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
           rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "")
 
+          def to_target_file_path(path_no_ext: str) -> str:
+            return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
+
           print("Sync debug output")
           print(f"Target repo: {target_repo}")
           print(f"Target branch: {target_branch}")
@@ -168,7 +171,8 @@ jobs:
             print("Planned file mappings:")
             for entry in mappings:
               src, dst_from_link, current_wiki_path = entry.split("|", 2)
-              dst = str(Path(target_prefix) / dst_from_link) if target_prefix else dst_from_link
+              dst_file = to_target_file_path(dst_from_link)
+              dst = str(Path(target_prefix) / dst_file) if target_prefix else dst_file
               match_url = f"https://{match_domain}/{dst_from_link}" if dst_from_link else f"https://{match_domain}"
               match_link = f"[{match_label}]({match_url})"
               rewritten_url = f"https://{rewrite_domain}/{current_wiki_path}" if current_wiki_path else f"https://{rewrite_domain}"
@@ -210,6 +214,9 @@ jobs:
           rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
           rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "").strip().lower()
 
+          def to_target_file_path(path_no_ext: str) -> str:
+            return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
+
           if not match_domain:
             raise SystemExit("MATCH_LINK_DOMAIN is empty")
           if not rewrite_domain:
@@ -229,7 +236,8 @@ jobs:
 
             transformed = source_url.sub(repl, content)
 
-            target_rel = Path(target_prefix) / dst_from_link if target_prefix else Path(dst_from_link)
+            dst_file = to_target_file_path(dst_from_link)
+            target_rel = Path(target_prefix) / dst_file if target_prefix else Path(dst_file)
             target_path = Path("target-repo") / target_rel
             target_path.parent.mkdir(parents=True, exist_ok=True)
             target_path.write_text(transformed, encoding="utf-8")
