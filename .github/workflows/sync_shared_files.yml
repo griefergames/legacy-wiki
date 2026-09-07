@@ -29,6 +29,9 @@ jobs:
       MATCH_LINK_DOMAIN: "wiki.griefergames.live"
       REWRITE_LINK_LABEL: "1.8 Wiki Seite"
       REWRITE_LINK_DOMAIN: "wiki.griefergames.net"
+      ASSET_FILENAME_PREFIX: "legacy_"
+      ASSET_SOURCE_DIR: ".gitbook/assets"
+      ASSET_TARGET_DIR: ".gitbook/assets"
       DRY_RUN: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.dry_run || 'false' }}
     steps:
       - name: Checkout source repository
@@ -140,12 +143,17 @@ jobs:
           MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
           REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
           REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
+          ASSET_FILENAME_PREFIX: ${{ env.ASSET_FILENAME_PREFIX }}
+          ASSET_SOURCE_DIR: ${{ env.ASSET_SOURCE_DIR }}
+          ASSET_TARGET_DIR: ${{ env.ASSET_TARGET_DIR }}
         run: |
           set -euo pipefail
 
           python3 - <<'PY'
           import os
+          import re
           from pathlib import Path
+          from urllib.parse import unquote
 
           mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
@@ -155,6 +163,28 @@ jobs:
           match_domain = os.environ.get("MATCH_LINK_DOMAIN", "")
           rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
           rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "")
+          asset_prefix = os.environ.get("ASSET_FILENAME_PREFIX", "")
+          source_asset_dir = os.environ.get("ASSET_SOURCE_DIR", "")
+          target_asset_dir = os.environ.get("ASSET_TARGET_DIR", "")
+
+          def normalize_asset_dir(value: str) -> str:
+            v = value.strip().replace("\\", "/")
+            while v.startswith("./"):
+              v = v[2:]
+            return v.strip("/")
+
+          source_asset_dir_norm = normalize_asset_dir(source_asset_dir)
+          target_asset_dir_norm = normalize_asset_dir(target_asset_dir)
+
+          if not source_asset_dir_norm:
+            raise SystemExit("ASSET_SOURCE_DIR is empty")
+          if not target_asset_dir_norm:
+            raise SystemExit("ASSET_TARGET_DIR is empty")
+
+          asset_ref = re.compile(
+            r"(?P<lead>/?)" + re.escape(source_asset_dir_norm) + r"/(?P<asset_path>[^\"'<>\n?#]*?\.(?:png|jpe?g|gif|webp|svg|bmp|avif))(?P<suffix>[?#][^\"'<>\n)]*)?",
+            re.IGNORECASE,
+          )
 
           def to_target_file_path(path_no_ext: str) -> str:
             return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
@@ -165,11 +195,15 @@ jobs:
           print(f"Target path prefix: '{target_prefix}'")
           print(f"Match link: label='{match_label}', domain='{match_domain}'")
           print(f"Rewrite link: label='{rewrite_label}', domain='{rewrite_domain}'")
+          print(f"Asset filename prefix: '{asset_prefix}'")
+          print(f"Asset source dir: '{source_asset_dir_norm}'")
+          print(f"Asset target dir: '{target_asset_dir_norm}'")
 
           if not mappings:
             print("No files selected for synchronization.")
           else:
             print("Planned file mappings:")
+            total_unique_assets = set()
             for entry in mappings:
               src, dst_from_link, current_wiki_path = entry.split("|", 2)
               dst_file = to_target_file_path(dst_from_link)
@@ -181,6 +215,33 @@ jobs:
               print(f"- {src} -> {dst}")
               print(f"  match link: {match_link}")
               print(f"  target link: {rewritten_link}")
+
+              content = Path(src).read_text(encoding="utf-8")
+              assets = []
+              for m in asset_ref.finditer(content):
+                raw_asset_path = m.group("asset_path")
+                decoded_path = Path(unquote(raw_asset_path))
+                original_name = decoded_path.name
+                prefixed_name = original_name if original_name.startswith(asset_prefix) else f"{asset_prefix}{original_name}"
+                target_asset_rel = Path(target_asset_dir_norm) / decoded_path.parent / prefixed_name
+                assets.append((Path(source_asset_dir_norm) / decoded_path, target_asset_rel))
+
+              if assets:
+                print("  assets:")
+                seen = set()
+                for src_asset, dst_asset in assets:
+                  key = (str(src_asset), str(dst_asset))
+                  if key in seen:
+                    continue
+                  seen.add(key)
+                  total_unique_assets.add(key)
+                  print(f"    - {src_asset.as_posix()} -> {dst_asset.as_posix()}")
+                print(f"  asset_count: {len(seen)}")
+              else:
+                print("  assets: none")
+                print("  asset_count: 0")
+
+            print(f"Total unique assets: {len(total_unique_assets)}")
           PY
 
       - name: Checkout target repository
@@ -201,19 +262,36 @@ jobs:
           MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
           REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
           REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
+          ASSET_FILENAME_PREFIX: ${{ env.ASSET_FILENAME_PREFIX }}
+          ASSET_SOURCE_DIR: ${{ env.ASSET_SOURCE_DIR }}
+          ASSET_TARGET_DIR: ${{ env.ASSET_TARGET_DIR }}
         run: |
           set -euo pipefail
 
           python3 - <<'PY'
           import os
           import re
+          import shutil
           from pathlib import Path
+          from urllib.parse import unquote
 
           mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
           match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
           rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
           rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "").strip().lower()
+          asset_prefix = os.environ.get("ASSET_FILENAME_PREFIX", "")
+          source_asset_dir = os.environ.get("ASSET_SOURCE_DIR", "")
+          target_asset_dir = os.environ.get("ASSET_TARGET_DIR", "")
+
+          def normalize_asset_dir(value: str) -> str:
+            v = value.strip().replace("\\", "/")
+            while v.startswith("./"):
+              v = v[2:]
+            return v.strip("/")
+
+          source_asset_dir_norm = normalize_asset_dir(source_asset_dir)
+          target_asset_dir_norm = normalize_asset_dir(target_asset_dir)
 
           def to_target_file_path(path_no_ext: str) -> str:
             return path_no_ext if path_no_ext.lower().endswith(".md") else f"{path_no_ext}.md"
@@ -222,8 +300,17 @@ jobs:
             raise SystemExit("MATCH_LINK_DOMAIN is empty")
           if not rewrite_domain:
             raise SystemExit("REWRITE_LINK_DOMAIN is empty")
+          if not source_asset_dir_norm:
+            raise SystemExit("ASSET_SOURCE_DIR is empty")
+          if not target_asset_dir_norm:
+            raise SystemExit("ASSET_TARGET_DIR is empty")
 
           source_url = re.compile(r"\[[^\]]*\]\(https://" + re.escape(match_domain) + r"/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
+          asset_ref = re.compile(
+            r"(?P<lead>/?)" + re.escape(source_asset_dir_norm) + r"/(?P<asset_path>[^\"'<>\n?#]*?\.(?:png|jpe?g|gif|webp|svg|bmp|avif))(?P<suffix>[?#][^\"'<>\n)]*)?",
+            re.IGNORECASE,
+          )
+          assets_to_copy = {}
 
           for entry in mappings:
             rel_path, dst_from_link, current_wiki_path = entry.split("|", 2)
@@ -237,11 +324,42 @@ jobs:
 
             transformed = source_url.sub(repl, content)
 
+            def rewrite_asset_ref(match):
+              lead = match.group("lead") or ""
+              raw_asset_path = match.group("asset_path")
+              suffix = match.group("suffix") or ""
+              decoded_path = Path(unquote(raw_asset_path))
+              source_asset = Path(source_asset_dir_norm) / decoded_path
+
+              original_name = decoded_path.name
+              prefixed_name = original_name if original_name.startswith(asset_prefix) else f"{asset_prefix}{original_name}"
+              target_asset_rel = Path(target_asset_dir_norm) / decoded_path.parent / prefixed_name
+              target_asset_path = Path("target-repo") / target_asset_rel
+
+              assets_to_copy[str(source_asset)] = target_asset_path
+
+              raw_parts = raw_asset_path.rsplit("/", 1)
+              raw_name = raw_parts[-1]
+              raw_parent = raw_parts[0] if len(raw_parts) == 2 else ""
+              raw_prefixed_name = raw_name if raw_name.startswith(asset_prefix) else f"{asset_prefix}{raw_name}"
+              rewritten_raw_path = f"{raw_parent}/{raw_prefixed_name}" if raw_parent else raw_prefixed_name
+              return f"{lead}{target_asset_dir_norm}/{rewritten_raw_path}{suffix}"
+
+            transformed = asset_ref.sub(rewrite_asset_ref, transformed)
+
             dst_file = to_target_file_path(dst_from_link)
             target_rel = Path(target_prefix) / dst_file if target_prefix else Path(dst_file)
             target_path = Path("target-repo") / target_rel
             target_path.parent.mkdir(parents=True, exist_ok=True)
             target_path.write_text(transformed, encoding="utf-8")
+
+          for src_asset_str, target_asset_path in assets_to_copy.items():
+            src_asset = Path(src_asset_str)
+            if not src_asset.exists():
+              print(f"Warning: referenced asset not found: {src_asset.as_posix()}")
+              continue
+            target_asset_path.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copy2(src_asset, target_asset_path)
           PY
 
       - name: Commit and push synchronized files
