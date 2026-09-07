@@ -95,3 +95,15 @@ Im Bestellvorgang hast du auf die gesetzliche Widerrufsfrist von 14 Tagen verzic
 Die vollständige Widerrufsbelehrung für digitale Inhalte kannst du auf der [offiziellen Shop-Seite](https://store.griefergames.net/) über [Widerruf für digitale Inhalte](https://store.griefergames.net/widerruf_fuer_digitale_inhalte/) einsehen.
 
 Falls du weiterführende Fragen zu deiner Bestellung hast, kannst du gerne jederzeit eine E-Mail an den [Webshop-Support](mailto:shop@griefergames.net) senden.
+
+
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/webshop)_._
+{% endhint %}
+
+</details>
