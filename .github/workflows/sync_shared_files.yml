@@ -1,9 +1,9 @@
 name: Sync Shared Wiki Files
 
 on:
-  push:
-    paths:
-      - "**/*.md"
+#  push:
+#    paths:
+#      - "**/*.md"
   workflow_dispatch:
     inputs:
       dry_run:
