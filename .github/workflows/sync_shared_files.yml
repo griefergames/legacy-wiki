@@ -96,9 +96,9 @@ jobs:
               eligible.append(rel_path)
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
-            out.write("files<<EOF\\n")
-            out.write("\\n".join(eligible))
-            out.write("\\nEOF\\n")
+            out.write("files<<EOF\n")
+            out.write("\n".join(eligible))
+            out.write("\nEOF\n")
           PY
 
       - name: Stop if nothing to sync
