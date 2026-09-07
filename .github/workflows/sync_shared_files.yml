@@ -169,9 +169,12 @@ jobs:
             for entry in mappings:
               src, dst_from_link, current_wiki_path = entry.split("|", 2)
               dst = str(Path(target_prefix) / dst_from_link) if target_prefix else dst_from_link
+              match_url = f"https://{match_domain}/{dst_from_link}" if dst_from_link else f"https://{match_domain}"
+              match_link = f"[{match_label}]({match_url})"
               rewritten_url = f"https://{rewrite_domain}/{current_wiki_path}" if current_wiki_path else f"https://{rewrite_domain}"
               rewritten_link = f"[{rewrite_label}]({rewritten_url})"
               print(f"- {src} -> {dst}")
+              print(f"  match link: {match_link}")
               print(f"  target link: {rewritten_link}")
           PY
 
