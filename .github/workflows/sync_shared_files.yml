@@ -93,7 +93,8 @@ jobs:
             file_stem = path.stem
 
             if last_segment == file_stem:
-              eligible.append(rel_path)
+              # Store source->destination mapping; destination path comes from the Cloud URL path.
+              eligible.append(f"{rel_path}|{cloud_path}")
 
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
             out.write("files<<EOF\n")
@@ -119,7 +120,7 @@ jobs:
           import os
           from pathlib import Path
 
-          files = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
           target_repo = os.environ.get("TARGET_REPO", "")
           target_branch = os.environ.get("TARGET_BRANCH", "")
@@ -129,12 +130,13 @@ jobs:
           print(f"Target branch: {target_branch}")
           print(f"Target path prefix: '{target_prefix}'")
 
-          if not files:
+          if not mappings:
             print("No files selected for synchronization.")
           else:
             print("Planned file mappings:")
-            for src in files:
-              dst = str(Path(target_prefix) / src) if target_prefix else src
+            for entry in mappings:
+              src, dst_from_link = entry.split("|", 1)
+              dst = str(Path(target_prefix) / dst_from_link) if target_prefix else dst_from_link
               print(f"- {src} -> {dst}")
           PY
 
@@ -161,12 +163,13 @@ jobs:
           import re
           from pathlib import Path
 
-          files = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
+          mappings = [line.strip() for line in os.environ.get("FILES_TO_SYNC", "").splitlines() if line.strip()]
           target_prefix = os.environ.get("TARGET_PATH_PREFIX", "").strip("/")
 
           cloud_url = re.compile(r"\[[^\]]*\]\(https://wiki\.griefergames\.live/([^\)\s#?]+)[^\)]*\)", re.IGNORECASE)
 
-          for rel_path in files:
+          for entry in mappings:
+            rel_path, dst_from_link = entry.split("|", 1)
             src_path = Path(rel_path)
             content = src_path.read_text(encoding="utf-8")
 
@@ -176,7 +179,7 @@ jobs:
 
             transformed = cloud_url.sub(repl, content)
 
-            target_rel = Path(target_prefix) / rel_path if target_prefix else Path(rel_path)
+            target_rel = Path(target_prefix) / dst_from_link if target_prefix else Path(dst_from_link)
             target_path = Path("target-repo") / target_rel
             target_path.parent.mkdir(parents=True, exist_ok=True)
             target_path.write_text(transformed, encoding="utf-8")
