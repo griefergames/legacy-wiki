@@ -28,7 +28,7 @@ Im CaseOpening können zufällige Gewinne gezogen werden. Es gibt verschiedene K
 
 <figure><img src="../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Case-Opening an einem Citybuild-Spawn</p></figcaption></figure>
 
-Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. \
+Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen.\
 Aus einigen Kisten können zusätzlich [eigene Case-Opening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
 
 <figure><img src="../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
@@ -52,8 +52,6 @@ In diesem Menü kannst du auch in diese Kisten sehen oder die Kisten öffnen, we
 Gewinne, welche nicht abgeholt werden können - weil während dem Öffnen die Verbindung verloren geht oder euer Inventar voll ist - werden in einem eigenen Untermenü gesammelt und können über das CaseOpening-Menü zu einem späteren Zeitpunkt abgeholt werden. Eure Gewinne sind also gegen Verlust gesichert.
 {% endhint %}
 
-
-
 ### In-Game Store
 
 Über den **In-Game Store** könnt ihr **Kristalle und Kisten direkt im Spiel kaufen**, ohne dafür den Webshop öffnen zu müssen. Dabei könnt ihr genau die Menge kaufen, die ihr benötigt.
@@ -64,14 +62,12 @@ Gewinne, welche nicht abgeholt werden können - weil während dem Öffnen die Ve
 4. Der im Shop angezeigte Betrag wird anschließend über das hinterlegte Zahlungsmittel abgebucht.
 
 {% hint style="info" %}
-Ein Tutorial, welches zur Einführung des In-Game Stores erstellt wurde, findet ihr hier: [https://www.youtube.com/watch?v=GbdzHlwIcuY](https://www.youtube.com/watch?v=GbdzHlwIcuY).  Bitte beachtet, dass die genannte Aktion zur Verknüpfung ist beendet ist.
+Ein Tutorial, welches zur Einführung des In-Game Stores erstellt wurde, findet ihr hier: [https://www.youtube.com/watch?v=GbdzHlwIcuY](https://www.youtube.com/watch?v=GbdzHlwIcuY). Bitte beachtet, dass die genannte Aktion zur Verknüpfung ist beendet ist.
 {% endhint %}
 
-**Wichtig:** Eine Abbuchung erfolgt **nur nach eurer Bestätigung** des jeweiligen Kaufs.&#x20;
+**Wichtig:** Eine Abbuchung erfolgt **nur nach eurer Bestätigung** des jeweiligen Kaufs.
 
 Die Verknüpfung eures Zahlungsmittels könnt ihr jederzeit wieder entfernen. Nutzt dafür **`/stripe`** oder die **Einstellungen des CaseOpenings**.
-
-
 
 ### Prestige-Tokens
 
@@ -93,8 +89,6 @@ Im Prestige-Shop findet ihr unter anderem:
 
 Die Anzahl der erhaltenen Prestige-Tokens richtet sich nach euren Käufen im In-Game Store.
 
-
-
 ### Kisten-Arten
 
 #### Die Vote-Kiste <img src="../.gitbook/assets/image (23) (1).png" alt="" data-size="original">
@@ -103,16 +97,16 @@ Die Vote-Kiste ist die kleinste Standard-Kiste und enthält neben einigen wertvo
 
 #### Die Epische Kiste ![](<../.gitbook/assets/image (24) (1).png>)
 
-Die Epische Kiste ist die mittlere Standard-Kiste und wird regelmäßig vom Team angepasst. Neben einer permanenten Auswahl an wertvollen Items, sind auch eine Vielzahl von thematisch zusammengehörenden Köpfen in der Kiste hinterlegt. \
-Die Auswahl der Köpfe, sowie die Themen der Sets werden in regelmäßigen Abständen durch die Administration geändert.
+Die Epische Kiste ist die mittlere Standard-Kiste und wird regelmäßig vom Team angepasst. Dort gibt es eine Vielzahl von thematisch zusammengehörenden Köpfen.\
+Die Auswahl der Köpfe, sowie die Themen der Sets werden in regelmäßigen Abständen geändert.
 
 #### Die Supreme-Kiste ![](<../.gitbook/assets/image (25) (1).png>)
 
-Die Supreme-Kiste ist die größte der 3 Standard-Kisten und enthält eine Vielzahl an wertvollen Items.&#x20;
+Die Supreme-Kiste ist die größte der 3 Standard-Kisten und enthält eine Vielzahl an wertvollen Items.
 
 #### Die Community-Kiste ![](<../.gitbook/assets/image (26) (1).png>)
 
-Bei der Community-Kiste handelt es sich um eine besondere Kiste des Case-Opening. Die Inhalte der Kiste stammen aus Beschlagnahmungen von gebannten Spielern, Scammern und Spenden der Community. Die Kiste wird durch die Administration befüllt und die enthaltenen Gewinne lassen sich immer nur einmal gewinnen. \
+Bei der Community-Kiste handelt es sich um eine besondere Kiste des Case-Opening. Die Inhalte der Kiste stammen aus Beschlagnahmungen von gebannten Spielern, Scammern und Spenden der Community. Die Kiste wird durch die Administration befüllt und die enthaltenen Gewinne lassen sich immer nur einmal gewinnen.\
 Wird also ein Gewinn aus der Kiste gezogen, so ist er für andere Spieler und das Öffnen weiterer Kisten nicht mehr verfügbar.
 
 {% hint style="info" %}
@@ -148,11 +142,9 @@ Es gibt auch noch weitere Kisten, die zu einer bestimmten Zeit mal erhältlich w
 Einige davon sind zu bestimmten Events und Aktionen erhältlich. Wenn es eine aktuelle Aktion gibt, findet man alle Infos dazu im Discord.
 {% endhint %}
 
-
-
 ### Fragmente
 
-Fragmente können  als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du genügend Fragmente sammelst, kannst du diese einlösen und erhältst eine zusätzliche Chance auf einen Gewinn:
+Fragmente können als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du genügend Fragmente sammelst, kannst du diese einlösen und erhältst eine zusätzliche Chance auf einen Gewinn:
 
 * [100 Kristalle](https://items.griefergames.net/#Fragmente_%7C_100_Kristalle-Fragment)
 * [150 Kristalle](https://items.griefergames.net/#Fragmente_%7C_150_Kristalle-Fragment)
@@ -163,11 +155,9 @@ Fragmente können  als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du 
 * [7.500.000$](https://items.griefergames.net/#Fragmente_%7C_7.500.000%24-Fragment)
 * [1.000.000.000$](https://items.griefergames.net/#Fragmente_%7C_1.000.000.000%24-Fragment)
 
-
-
 ### Angebotszug
 
-Der Angebotszug befindet sich im CaseOpening unten rechts.&#x20;
+Der Angebotszug befindet sich im CaseOpening unten rechts.
 
 Jede Woche erhältst du 10 exklusive Angebote, die für dich persönlich festgelegt werden. Diese enthalten Rabatte und andere Überraschungen für dich!
 
