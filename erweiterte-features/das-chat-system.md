@@ -39,11 +39,9 @@ Eine Übersicht aller Chat-Codes (Farben, Formatierungen) findest du hier:
 
 ### Öffentlicher Chat
 
-Der öffentliche Chat ist der Chat, in dem du schreibst, wenn du auf einem [Citybuild-Server](../grundlagen/spielmodus-citybuild/) bist. Dieser Chat kann von jedem Spieler auf diesem Citybuild gelesen werden, welcher gerade online ist.&#x20;
+Der öffentliche Chat ist der Chat, in dem du schreibst, wenn du auf einem [Citybuild-Server](../grundlagen/spielmodus-citybuild/) bist. Dieser Chat kann von jedem Spieler auf diesem Citybuild gelesen werden, welcher gerade online ist.
 
-Die Chatteilnehmer hängen hier von der Anzahl an Spielern an, die gerade auf dem Citybuild-Server anwesend sind.&#x20;
-
-Solltest du also auf einem Citybuild-Server sein, auf welchem nur um die 10 Spieler online sind, so können nur wenige Spieler auf deine Nachrichten antworten, da die Nachrichten nur von wenigen Spielern gelesen werden.&#x20;
+Solltest du also auf einem Citybuild-Server sein, auf welchem nur um die 10 Spieler online sind, so können nur wenige Spieler auf deine Nachrichten antworten, da die Nachrichten nur von wenigen Spielern gelesen werden.
 
 Auf volleren Citybuilds können mehr Spieler deine Nachricht lesen. Hier gibt es dann aber den Nachteil, dass auch mehr Nachrichten in den Chat geschrieben werden und deine Nachricht schneller überlesen werden kann.
 
@@ -51,13 +49,13 @@ Auf volleren Citybuilds können mehr Spieler deine Nachricht lesen. Hier gibt es
 
 Der globale Chat ist eine neue Art des Chats, mit dem du mit Spielern auf anderen Citybuilds schreiben kannst. Hierbei kannst du aber nur mit Spielern schreiben, die in den Chat eingeloggt sind.
 
-Um dich im Globalchat anzumelden, musst du den Befehl `/globalchat login` eingeben. Nun siehst du neben den Nachrichten aus dem öffentlichen Chat auch die Nachrichten von Spielern von anderen Citybuilds.&#x20;
+Um dich im Globalchat anzumelden, musst du den Befehl `/globalchat login` eingeben. Nun siehst du neben den Nachrichten aus dem öffentlichen Chat auch die Nachrichten von Spielern von anderen Citybuilds.
 
 Diese Nachrichten erkennst du daran, dass vor dem Spielernamen ein @ steht und dahinter der Citybuild in Klammern.
 
 <figure><img src="https://lh6.googleusercontent.com/W5z7F1MgVd_aEZtw6LR4hRzAP8QihRpYRc3OCnWTKxbGYqaVHoZRcyEkmBY__95jWeb6P7393PnpOPP_eEBkXd8LmFVxj9-c3txV2y4VpyAdSRKXJTkqCT1gJIz92eC9ygDeQv7tTaSNWoxLA5MKNHM" alt=""><figcaption><p>Nachricht eines Spielers im Globalen Chat zwischen Nachrichten iom Öffentlichen Chat</p></figcaption></figure>
 
-Um eine Nachricht in den globalen Chat zu schreiben, kannst du dies zum einen mit `/globalchat <Nachricht>` machen. Wir empfehlen die Verwendung des Kurzbefehls `@<Nachricht>`.&#x20;
+Um eine Nachricht in den globalen Chat zu schreiben, kannst du dies zum einen mit `/globalchat <Nachricht>` machen. Wir empfehlen die Verwendung des Kurzbefehls `@<Nachricht>`.
 
 {% hint style="warning" %}
 Vergiss nicht, dass du dafür in den Globalen Chat angemeldet sein musst.
@@ -120,7 +118,7 @@ Den Clan-Chat könnt ihr mit **`/cc`** oder **`/clanchat`** öffnen. Eure Nachri
 
 ### Spieler ausblenden
 
-Wenn dich die Nachrichten eines Spielers stören, kannst du diese auch ausblenden. Dafür gibst du einfach `/ignore <Spieler>` im Chat ein. Nun siehst du keine Chatnachrichten dieses Spielers mehr.&#x20;
+Wenn dich die Nachrichten eines Spielers stören, kannst du diese auch ausblenden. Dafür gibst du einfach `/ignore <Spieler>` im Chat ein. Nun siehst du keine Chatnachrichten dieses Spielers mehr.
 
 Du siehst jedoch weitere Aktionen des Spielers (bspw. Statusnachricht, Abstimmungen, etc.)
 
@@ -130,7 +128,7 @@ Mit `/ignore` siehst du eine Liste von allen Spielern, welche du ignoriert hast.
 
 ### Chat-Sperren
 
-Du kannst nicht im Chat schreiben und erhältst eine Fehlermeldung? \
+Du kannst nicht im Chat schreiben und erhältst eine Fehlermeldung?\
 Dafür kann es mehrere Gründe geben:
 
 * Der Chat in den Chateinstellungen ist auf „Nur Befehle“ gestellt.
