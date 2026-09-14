@@ -26,11 +26,11 @@ Auf GrieferGames wurden die Funktionen der Trichter erweitert. Damit entstehen v
 
 ## Allgemeine Trichter-Informationen
 
-Auf GrieferGames wurden die Trichter-Ticks angepasst, um den Performance-Verbrauch von Trichtern zu reduzieren.&#x20;
+Auf GrieferGames wurden die Trichter-Ticks angepasst, um den Performance-Verbrauch von Trichtern zu reduzieren.
 
 ### Trichter-Tick
 
-Die Häufigkeit mit der die Trichter auf GrieferGames ticken ist reduziert.&#x20;
+Die Häufigkeit mit der die Trichter auf GrieferGames ticken ist reduziert.
 
 Ein Trichter tickt im Standard alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames Tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item Verschoben, wartet der Trichter ebenfalls 80 Ticks bevor er erneut prüft, ob ein neues Item vorhanden ist.
 
@@ -97,7 +97,7 @@ Mit einem Klick auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/g
 
 ### Endpunkte hinzufügen / Verbindungs-Modus
 
-Sobald der Verbindungs-Modus aktiv ist, können neue Verbindungen hinzugefügt werden, indem man mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe Verbundener Trichter) klickt.&#x20;
+Sobald der Verbindungs-Modus aktiv ist, können neue Verbindungen hinzugefügt werden, indem man mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe Verbundener Trichter) klickt.
 
 Die Verbindung wird hinzugefügt, was ebenfalls im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
 
@@ -105,7 +105,7 @@ Der Verbindungs-Modus wird durch Schleichen beendet.
 
 ### Optische Anzeige
 
-Mit einem Klick auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FpeYcGhMJHH8ouWF2EWS9%2Fimage.png?alt=media&#x26;token=9dfb5f83-0709-4098-9d6d-d67210ffe7c8" alt="" data-size="line"> <mark style="color:orange;">**Optische Anzeige**</mark> werden die Verbindungen und der Sammelradius des Trichters mit farbigen Partikeln angezeigt.&#x20;
+Mit einem Klick auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FpeYcGhMJHH8ouWF2EWS9%2Fimage.png?alt=media&#x26;token=9dfb5f83-0709-4098-9d6d-d67210ffe7c8" alt="" data-size="line"> <mark style="color:orange;">**Optische Anzeige**</mark> werden die Verbindungen und der Sammelradius des Trichters mit farbigen Partikeln angezeigt.
 
 * Der Radius wird durch aufsteigende lila Partikel markiert.
 * Verbindungen durch statische rote Partikel zwischen Trichter und Endpunkt.
@@ -170,7 +170,7 @@ Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0
 
 <figure><img src="../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü</p></figcaption></figure>
 
-Mit dem Button <img src="../.gitbook/assets/image (17) (1).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen.\
+Mit dem Button <img src="../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen.\
 Im nachfolgenden Amboss-Menü kannst du den Text, welcher gefiltert werden soll, eintragen und per Klick auf das fertige Produkt bestätigen. Dein ausgewählter Filter wird im Menü angezeigt. Es können auch mehrere Filter hinterlegt werden.
 
 <figure><img src="../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü mit 2 Einträgen</p></figcaption></figure>
@@ -184,8 +184,6 @@ Mit einem Klick auf den <img src="../.gitbook/assets/image (19) (1).png" alt="" 
 
 * Durch das Entfernen des Eintrags im Amboss-Menü vor dem Bestätigen wird wieder der Standard-Filter für alle umbenannten Items aktiviert.
 * Durch Umschalt-Klick auf den Namens-Filter deaktiviert sich der Namens-Filter vollständig.
-
-
 
 <details>
 

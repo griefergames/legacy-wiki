@@ -96,7 +96,7 @@ layout:
 
 #### (6) Keine der exklusiv für diesen Server gebauten Bauwerke (Lobby, Portalraum, Spawns) dürfen ohne eine ausdrückliche, schriftliche Erlaubnis der Serverleitung, sowohl für private als auch gewerbliche Zwecke genutzt werden.
 
-#### (7) Das sogenannte [„Scammen“](scamming.md) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
+#### (7) Das sogenannte [„Scammen“](scamming/) (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk **nicht** verboten, **kann** aber in Einzelfällen zu Sanktionen führen.
 
 1. Teammitglieder dürfen grundsätzlich nicht gescammt werden. Sie dürfen allerdings nachweisliche Scammer scammen, wenn sie das komplette Szenario aufnehmen und öffentlich auf ihrem YouTube-Kanal hochladen.
 2. Das Scammen ist allerdings nur im Spiel nicht verboten. Sobald es um Echtgeld geht, ist dies nicht mehr gestattet und kann zu einer polizeilichen Anzeige führen.
@@ -294,3 +294,13 @@ Die Administration behält sich das Recht vor, die Regeln jederzeit zu ändern.
 _<mark style="color:red;">**Unwissenheit schützt vor Strafe nicht.**</mark>_
 
 _Letzte Änderung: 30.06.2025, 15:00 Uhr_
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/informationen-zu-griefergames/team)_._
+{% endhint %}
+
+</details>

@@ -22,7 +22,7 @@ layout:
 
 # Fehlermeldungen
 
-Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?&#x20;
+Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
 Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).\
 Die Bearbeitung der Fehlermeldung kann je nach Priorität des Fehlers variieren.
@@ -41,8 +41,6 @@ Meldungen zur Server-Performance können ebenfalls als Fehlermeldung auf dem Dis
 
 Gebt uns bitte so viele Informationen wie möglich an, die für den Fehler relevant sein könnten.
 
-
-
 **Was bedeuten die Status-Labels?**
 
 * :white\_check\_mark: **Behoben**: Der Fehler wurde erfolgreich behoben
@@ -51,6 +49,16 @@ Gebt uns bitte so viele Informationen wie möglich an, die für den Fehler relev
 * :hourglass:**Warten auf Antwort**: Wir haben die Fehlermeldung beantwortet, eine Rückmeldung ist aber noch ausstehend
 * :x: **Kein Fehler**: Es handelt sich um keinen Fehler unseres Server-Netzwerks, den wir beheben können
 
-
-
 Uns ist das Melden von Fehlern sehr wichtig. Grundsätzlich gilt, dass lieber eine Fehlermeldung zu viel als eine zu wenig verfasst wird.
+
+
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/fehlermeldungen)_._
+{% endhint %}
+
+</details>

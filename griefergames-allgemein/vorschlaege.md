@@ -21,7 +21,7 @@ layout:
 
 # 💡 Vorschläge
 
-Du möchtest einen Vorschlag machen oder eine Idee äußern, die mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?&#x20;
+Du möchtest einen Vorschlag machen oder eine Idee äußern, die mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
 Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).
 
@@ -36,14 +36,20 @@ Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://di
 
 Beschreibt eure Vorschläge gerne so präzise wie möglich, damit wir sie besser nachvollziehen können.
 
-
-
 **Was bedeuten die Status-Labels?**
 
 * **✅ Erledigt**: Der Vorschlag wurde erfolgreich umgesetzt oder anderweitig erledigt
 * **➡️ Weitergeleitet**: Der Vorschlag wurde zur weiteren Besprechung intern weitergeleitet
 * **❌ Abgelehnt**: Der Vorschlag wurde abgelehnt
 
-
-
 Uns ist das Vorschlagen neuer Ideen sehr wichtig, damit wir den Server für euch immer weiter verbessern können.
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/vorschlage)_._
+{% endhint %}
+
+</details>

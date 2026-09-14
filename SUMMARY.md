@@ -79,8 +79,8 @@
 * [Fehlermeldungen](griefergames-allgemein/fehler-melden.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)
 * [🙏 Strafe aufheben / Entbannung](griefergames-allgemein/strafaufhebung.md)
-* [😠 Das Scamming](griefergames-allgemein/scamming.md)
-* [😡 Vor Spielern warnen](griefergames-allgemein/spielerwarnung.md)
+* [😠 Das Scamming](griefergames-allgemein/scamming/README.md)
+  * [😡 Vor Spielern warnen](griefergames-allgemein/scamming/spielerwarnung.md)
 * [🚨 Account-Diebstahl / Phishing](griefergames-allgemein/account-verloren.md)
 * [🔐 GrieferGames Auth](griefergames-allgemein/gg-auth.md)
 

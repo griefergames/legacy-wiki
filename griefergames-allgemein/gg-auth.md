@@ -19,7 +19,7 @@ Welche Accounts ihr verknüpfen möchtet, ist euch überlassen. Je nach Funktion
 
 ### GrieferGames Account-Sicherheit
 
-Mit GGAuth bieten wir die Möglichkeit, dass alle Spieler auf GrieferGames eine zusätzliche Sicherheitsebene für ihre Accounts erhalten (z. B. wenn ihr Account gehackt wurde).&#x20;
+Mit GGAuth bieten wir die Möglichkeit, dass alle Spieler auf GrieferGames eine zusätzliche Sicherheitsebene für ihre Accounts erhalten (z. B. wenn ihr Account gehackt wurde).
 
 In eurer [Account-Verwaltung](https://auth.griefergames.de/account) könnt ihr für jeden eurer Accounts eine zusätzliche Account-Sicherheit auf GrieferGames aktivieren.
 
@@ -37,13 +37,11 @@ Ein erfolgreicher Login-Versuch wird euch (bei verknüpftem Discord-Account) auc
 
 Euer GGAuth-Account selbst kann ebenfalls durch einen [2-Faktor-Login](gg-auth.md#webinterface-von-gg-auth) gesichert werden.
 
-
-
-### Account-Wechsel einfach gemacht!&#x20;
+### Account-Wechsel einfach gemacht!
 
 Über GGAuth können wir euch einen Wechsel eurer verbundenen Accounts in der Bedrock Edition ermöglichen. So könnt ihr bequem von unterwegs auch auf euren Java-Account zugreifen.
 
-Habt ihr sowohl euren Java-Account, als auch euren Bedrock-Account verknüpft, könnt ihr über den Befehl <kbd>/ggauth</kbd>  im Hub in der Bedrock-Edition zwischen diesen Accounts wechseln.
+Habt ihr sowohl euren Java-Account, als auch euren Bedrock-Account verknüpft, könnt ihr über den Befehl <kbd>/ggauth</kbd> im Hub in der Bedrock-Edition zwischen diesen Accounts wechseln.
 
 ### Nutzung von GGAuth – Die Registrierung
 
@@ -53,7 +51,7 @@ Die Registrierung von GGAuth ist ausschließlich In-Game in Minecraft möglich. 
 
 Um einen Account zu erstellen, nutzt auf dem Citybuild-Server eurer Wahl oder im Hub den Befehl <kbd>/ggauth</kbd>. Für Java-Accounts erhaltet ihr einen Link im Chat zur Registrierung, für Bedrock-Versionen erhaltet ihr ein In-Game-Formular.
 
-Ihr vergebt bei der Registrierung ein eigenes Passwort, mit welchem ihr euch dann auf der Webseite [https://auth.griefergames.de](https://auth.griefergames.de/) jederzeit anmelden könnt. Über die E-Mail-Adresse werdet ihr Informiert, wenn sich etwas an eurem Account ändert (z. B. wenn ein weiterer Account hinzugefügt wird). \
+Ihr vergebt bei der Registrierung ein eigenes Passwort, mit welchem ihr euch dann auf der Webseite [https://auth.griefergames.de](https://auth.griefergames.de/) jederzeit anmelden könnt. Über die E-Mail-Adresse werdet ihr Informiert, wenn sich etwas an eurem Account ändert (z. B. wenn ein weiterer Account hinzugefügt wird).\
 Des Weiteren könnt ihr über diese E-Mail-Adresse euer Passwort zurücksetzen, wenn ihr dieses vergessen habt.
 
 ### Nutzung von GGAuth – Accounts hinzufügen
@@ -76,6 +74,15 @@ Unter „Einstellungen“ (über der Liste) könnt ihr eure GGAuth-Einstellungen
 
 GGAuth ist unsere zentrale Anlaufstelle, um euch weitere Möglichkeiten auf z. B. Webseiten anzubieten oder auch andere Dienste mit anzubinden.
 
-GGAuth kann auf unserem Discord-Server verbunden und genutzt werden, um euren InGame-Rang zu synchronisieren, zusätzliche Rollen & Rechte freizuschalten und Einschränkungen aufzuheben. \
-Es ist zudem eure "Zugangskarte" für das [Ticket-System im Web](https://ticket.griefergames.de/) und zur Personalisierung eures [GrieferGames-Profils](https://profile.griefergames.net/).&#x20;
+GGAuth kann auf unserem Discord-Server verbunden und genutzt werden, um euren InGame-Rang zu synchronisieren, zusätzliche Rollen & Rechte freizuschalten und Einschränkungen aufzuheben.\
+Es ist zudem eure "Zugangskarte" für das [Ticket-System im Web](https://ticket.griefergames.de/) und zur Personalisierung eures [GrieferGames-Profils](https://profile.griefergames.net/).
 
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/griefergames-auth)_._
+{% endhint %}
+
+</details>

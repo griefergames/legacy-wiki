@@ -21,9 +21,9 @@ layout:
 
 # 😠 Das Scamming
 
-Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf unserem Server-Netzwerk **nicht** verboten.&#x20;
+Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist solch ein Verhalten in gewissen Maßen auf unserem Server-Netzwerk **nicht** verboten.
 
-> [GrieferGames Regelwerk](regelwerk.md)
+> [GrieferGames Regelwerk](../regelwerk.md)
 >
 > (7) Das sogenannte „Scammen“ (zum Beispiel Betrug beim Handeln und Teleport-Fallen) ist auf dem Servernetzwerk nicht verboten, kann aber in Einzelfällen zu Sanktionen führen.
 >
@@ -32,12 +32,10 @@ Niemand mag unfaire Spielweisen und unangemessenes Spielverhalten. Dennoch ist s
 >
 > \[...]
 >
-> (4) Spieler mit einem YouTuber- oder Streamer-Rang dürfen grundsätzlich weder scammen noch griefen. Sollten sie allerdings Content für YouTube oder vergleichbare Video-/Streaming-Plattformen produzieren wollen, gilt eine Ausnahmeregelung, wenn die erscammten oder ergrieften Inhalte zumindest wieder dem betroffenem Spieler zurückgegeben werden. \
+> (4) Spieler mit einem YouTuber- oder Streamer-Rang dürfen grundsätzlich weder scammen noch griefen. Sollten sie allerdings Content für YouTube oder vergleichbare Video-/Streaming-Plattformen produzieren wollen, gilt eine Ausnahmeregelung, wenn die erscammten oder ergrieften Inhalte zumindest wieder dem betroffenem Spieler zurückgegeben werden.\
 > Spieler mit einem „YouTuber+“- oder „Streamer+“-Rang dürfen hingegen nachweisliche Scammer scammen und deren Verlust in Form von Items, Grundstücken, etc. behalten, wenn sie den kompletten Verlauf aufzeichnen und auf Nachfrage seitens der Administration die Aufzeichnung dauerhaft zur Verfügung stellen können.
 
 Das heißt kurz gesagt, dass Spieler andere Spieler um ihre Items, Grundstücke, Gelder, etc. betrügen („scammen“) dürfen, allerdings auch mit Bestrafungen seitens des Teams und Ausschluss aus der Spielergemeinschaft rechnen müssen.
-
-
 
 Seid euch also bewusst, dass der ein oder andere Spieler auf unserem Netzwerk sich als "Bösewicht" sieht und entsprechend verhält. Ihr könnt gegen solche unfairen Verhaltensweisen als Community eigenverantwortlich vorgehen.
 
@@ -54,12 +52,12 @@ Weitere Optionen sind Community-Moderationen, um den Spieler für ein unerwünsc
 > 3. \[...]
 > 4. Pro Vergehen darf nur eine StartKick-, StartJail- oder MuteP-Strafe ausgehändigt werden.
 
-
-
 <details>
 
-<summary>An diesem Artikel beteiligt</summary>
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/das-scamming)_._
+{% endhint %}
 
 </details>

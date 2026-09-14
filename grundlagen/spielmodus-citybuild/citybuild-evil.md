@@ -22,9 +22,9 @@ layout:
 
 # 🌇 Citybuild Evil
 
-Den Citybuild-Server Evil erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl `/switch cbevil`.&#x20;
+Den Citybuild-Server Evil erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch` oder direkt mit dem Befehl `/switch cbevil`.
 
-<figure><img src="../../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
 
 Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -55,5 +55,5 @@ Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer akti
 {% hint style="info" %}
 **Spawn-Grundstücke**
 
-Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.
 {% endhint %}

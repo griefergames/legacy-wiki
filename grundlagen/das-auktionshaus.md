@@ -96,8 +96,6 @@ Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein g
 Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden sich also zeitweise ausgelaufene Auktionen in der Übersicht.
 {% endhint %}
 
-
-
 ### Auktion erstellen <a href="#auktion-erstellen" id="auktion-erstellen"></a>
 
 Jeder Spieler kann eine neue Auktion erstellen. Dazu wählt ihr in der Auktionsübersicht "Meine Auktionen". Von dort könnt ihr über die Schleimkugel eine neue Auktion erstellen.
@@ -138,8 +136,6 @@ Wenn ihr alle gewünschten Einstellungen getroffen habt, könnt ihr die Auktion 
 
 Je nach Einstellung fällt dabei eine **Gebühr** für das Erstellen der Auktion von **10 %** an. Dafür ausschlaggebend ist der höchste eingestellte Preis (Mindestpreis, Sofortkaufpreis). Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
 
-
-
 ### Auktion zurückziehen <a href="#auktion-zuruckziehen" id="auktion-zuruckziehen"></a>
 
 Verklickt? Falsch eingestellt? Oder das Item doch anderweitig verkauft? Dann könnt ihr die Auktion zurückziehen.
@@ -156,17 +152,13 @@ Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an! Je höhe
 Wurde noch kein Gebot abgegeben wird eine **Strafgebühr** von **5% des Startgebots/Sofortkaupreises** (sofern vorhanden) erhoben.
 {% endhint %}
 
-
-
 ### Auktionshistorie <a href="#auktionshistorie" id="auktionshistorie"></a>
 
-<figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption></figcaption></figure>
 
 Die Auktionshistorie zeigt die Auktionen der letzten 30 Tage an. Hier können auch Auktionen angesehen werden, in welchen ihr nicht involviert (bieten, verkaufen) wart.
 
 Zusätzlich zu den letzten 30 Tagen befinden sich hier auch ältere Auktionen, bei denen noch Werte (Items, Geld) zum Abholen ausstehend sind.
-
-
 
 ### Auktionen filtern <a href="#auktionen-filtern" id="auktionen-filtern"></a>
 
@@ -174,13 +166,13 @@ In einigen Menüs stehen Filter zur Verfügung.
 
 #### Item-Filter
 
-Hier kann per Klick auf ein Item im Inventar auf einen Item-Typ gefiltert werden. (Z. B. Feder -> Zeigt auch Fly-Perks an).&#x20;
+Hier kann per Klick auf ein Item im Inventar auf einen Item-Typ gefiltert werden. (Z. B. Feder -> Zeigt auch Fly-Perks an).
 
-<figure><img src="../.gitbook/assets/image (131).png" alt=""><figcaption><p>Filter zur Auswahl eines Items aus dem eigenen Inventar.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (117).png" alt=""><figcaption><p>Filter zur Auswahl eines Items aus dem eigenen Inventar.</p></figcaption></figure>
 
 #### Filter-Kategorie
 
-Zusätzlich kann per Klick auf den Filter-Button eine vorgegebene Kategorie gewählt werden.&#x20;
+Zusätzlich kann per Klick auf den Filter-Button eine vorgegebene Kategorie gewählt werden.
 
 <figure><img src="../.gitbook/assets/image (132).png" alt=""><figcaption><p>Die verfügbaren Filter im Auktionshaus.</p></figcaption></figure>
 
@@ -213,7 +205,7 @@ Folgende Filter sind aktuell im Auktionshaus vorhanden:
 Im Filtermenü kann mit Klick auf den "Kein-Filter"-Button, ein gesetzter Filter (auch Item-Typ-Filter) aufgehoben werden.
 
 {% hint style="info" %}
-Items können (je nach Art) auch in mehreren Kategorien liegen.&#x20;
+Items können (je nach Art) auch in mehreren Kategorien liegen.
 {% endhint %}
 
 #### Übersicht-Filter
@@ -224,8 +216,6 @@ Diese sorgen dafür, dass beendete Auktionen in euren Auktionen ausgeblendet wer
 <figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption><p>Filter in "Meine Auktionen" um nur Auktionen anzuzeigen, welche noch laufen.</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (133).png" alt=""><figcaption><p>Filter in "Meine beobachteten Auktionen", um nur Auktionen anzuzeigen, welche zur Abholung bereit stehen.</p></figcaption></figure>
-
-
 
 <details>
 

@@ -42,9 +42,9 @@ Auf der Übersichtsseite findest du folgende Menüpunkte:
 
 <figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
 
-Ganz oben findest du deine aktuellen XP.&#x20;
+Ganz oben findest du deine aktuellen XP.
 
-Diese Leiste füllt sich von rot zu grün, bis das nächste Level erreicht wurde. Ganz rechts auf dem Erfahrungsfläschchen findest du Informationen über dein aktuelles Level, deine aktuellen XP und wieviel XP du noch benötigst, um das nächste Level zu erreichen.&#x20;
+Diese Leiste füllt sich von rot zu grün, bis das nächste Level erreicht wurde. Ganz rechts auf dem Erfahrungsfläschchen findest du Informationen über dein aktuelles Level, deine aktuellen XP und wieviel XP du noch benötigst, um das nächste Level zu erreichen.
 
 <figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -58,7 +58,7 @@ Hier kommst du zu den [Aufgaben](grieferpass.md#pass-aufgaben-1), die der Pass f
 
 <figure><img src="../.gitbook/assets/unknown (4).png" alt=""><figcaption></figcaption></figure>
 
-&#x20;Hier kannst du deine erspielten [Belohnungen](grieferpass.md#pass-belohnungen-1) abholen.
+Hier kannst du deine erspielten [Belohnungen](grieferpass.md#pass-belohnungen-1) abholen.
 
 ### Grieferpass kaufen
 
@@ -66,7 +66,7 @@ Hier kommst du zu den [Aufgaben](grieferpass.md#pass-aufgaben-1), die der Pass f
 
 Hier hast du die Möglichkeit dir den Grieferpass und dessen zusätzliche Belohnungen freizuschalten.
 
-Dies kostet aktuell [1000 Kristalle](../grundlagen/waehrungen.md#kristalle), es wird jedoch garantiert, dass man bei Erreichen der maximalen [100 Level](grieferpass.md#die-xp-bar) im Pass auch immer mindestens diese 1000 Kristalle aus den Free- und Grieferpass-Belohnungen zurückbekommt.&#x20;
+Dies kostet aktuell [1000 Kristalle](../grundlagen/waehrungen.md#kristalle), es wird jedoch garantiert, dass man bei Erreichen der maximalen [100 Level](grieferpass.md#die-xp-bar) im Pass auch immer mindestens diese 1000 Kristalle aus den Free- und Grieferpass-Belohnungen zurückbekommt.
 
 {% hint style="warning" %}
 Ein gekaufter Grieferpass gilt immer nur für die aktuelle Season. In der nächsten Season ist wieder nur der Free-Pass zugänglich.
@@ -93,7 +93,7 @@ Diese bringen die meisten XP. Hinter jedem Buch finden sich eine Reihe unterschi
 Hier ein paar Beispiele wie diese für Aufgaben aussehen könnten:
 
 * Laufe X Blöcke
-* Töte X Lohen&#x20;
+* Töte X Lohen
 * Erhalte X Effekte
 * Esse X goldene Äpfel
 * ... uvm.
@@ -131,7 +131,7 @@ Auf dem Item findet man neben der Aufgabe selbst, dem Fortschritt und der XP, au
 
 #### Täglich rotierende:
 
-<figure><img src="../.gitbook/assets/unknown (15).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/unknown (14).png" alt=""><figcaption></figcaption></figure>
 
 Hier werden Aufgaben ebenso wie bei den [Weekly Aufgaben](grieferpass.md#weekly-aufgaben) täglich zufallsbasiert generiert. Dies können 2 - 4 verschiedene Aufgaben sein. Da es sich um tägliche Aufgaben handelt, die nicht über einen längeren Zeitraum absolvierbar sind, natürlich dementsprechend kleiner gehalten als bei den Weekly Aufgaben.
 
@@ -140,7 +140,7 @@ Gibt es bei der Weekly Aufgabe bspw. "Töte 170 Lohen" wären dies bei den Daily
 Hat man eine Aufgabe nicht erfüllt, ist diese am nächsten Tag nicht mehr absolvierbar und es kommen neue Aufgaben.
 
 {% hint style="warning" %}
-Auch hier ist es nicht nötig, alle[ täglichen Aufgaben](https://docs.google.com/document/d/1kSbhywU9oGFeylHKv4nf1uaSU0KHoAamtb-Ru57nX2w/edit?tab=t.0#heading=h.ebk7cimqzi6f) zu absolvieren, um Level 100 zu erreichen.&#x20;
+Auch hier ist es nicht nötig, alle[ täglichen Aufgaben](https://docs.google.com/document/d/1kSbhywU9oGFeylHKv4nf1uaSU0KHoAamtb-Ru57nX2w/edit?tab=t.0#heading=h.ebk7cimqzi6f) zu absolvieren, um Level 100 zu erreichen.
 
 Aber es ist ebenso nicht möglich komplett ohne diese das maximale Level zu erreichen!
 {% endhint %}
@@ -155,7 +155,7 @@ Du hast von der Aufgabe "Töte X Lohen" folgende Aufgaben offen:
 
 * Woche 1 - Töte 170 Lohen
 * Woche 7 - Töte 154 Lohen
-* Daily - Töte 13 Lohen&#x20;
+* Daily - Töte 13 Lohen
 
 Tötest du nun Lohen, werden diese zuerst bei der Daily Aufgabe angerechnet, anschließend bei Woche 1, erst zum Schluss bei Woche 7.
 
@@ -178,7 +178,7 @@ Fährt man mit der Maus über ein Item, findet man folgende Informationen:
 
 <figure><img src="../.gitbook/assets/unknown (17).png" alt=""><figcaption></figcaption></figure>
 
-<p align="center"><img src="../.gitbook/assets/unknown (18).png" alt=""><img src="../.gitbook/assets/unknown (19).png" alt=""></p>
+<div align="center"><img src="../.gitbook/assets/unknown (18).png" alt=""> <img src="../.gitbook/assets/unknown (19).png" alt=""></div>
 
 In der Mitte zwischen den Free- und Grieferpass-Belohnungen befinden sich Glasflaschen, welche die Level darstellen, die benötigt werden, um die Belohnung darüber bzw. darunter freizuschalten.
 
@@ -193,12 +193,10 @@ Da ein Stack in Minecraft nicht mehr als 64 haben kann, sind höhere Level ebenf
 Weiter unten befinden sich noch die Papiere![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAABoklEQVR4AeyTsU4CQRRFXwiJvWhnRwL8AYXaWVPxeeo/8BHQWi/JdnaKvckmumfDTdjJzu7MZGEbjCcThpk3517jaLlc/g3NyMqf9XptQ1JJlB6D/l4lVH+vTUynUztFj3StvUp0Peb7vhcJpX98ejZYLBYG2vc9rv1eJDQsdU2SUEKtpIbJ7Y3BbPZgQCugcz7JJAnfsNT9KAklIh2sVi8GpAZXglaAlqAoCgP3XJSEe7mvz60SSq6VNEA6CJWgJZjP5wa0AbrfKqFD514bJdzk/P2BNJAqRYtAG0Ab0CiR+kjqvZqE28Dk7t4qjv//qY/oXjWrnJllmcF4PDaoSejwpdeaRJ7nBpvNxuDw/WUVP792KImV4w7s958G72+vBqQHzatJaPPSa6MElkAbULVBK2UbJOuS5AyQGpgBzAT3fqOEe+jcn1slsAZSgK8RUsN2+2FAeuDuKb4wrRK+S33vB0koDW2AGiE1kBp2u52BzofKBkmEDks9FyWhhLQBpAbta42ViZKIHR56PklCibWGPuY7lyThG9a63/LlVULl/AMAAP//mA71NgAAAAZJREFUAwAFrAn21MLTOAAAAABJRU5ErkJggg==), durch welche auf die nächste/vorherige Seite der Belohnungen geblättert werden kann.
 
 {% hint style="warning" %}
-Alle erspielten Belohnungen müssen bis zum [Ende der Season](grieferpass.md#aktuelle-saison) abgeholt worden sein.&#x20;
+Alle erspielten Belohnungen müssen bis zum [Ende der Season](grieferpass.md#aktuelle-saison) abgeholt worden sein.
 
 Startet die [nächste Season](grieferpass.md#die-season), ist ein nachträgliches Abholen **nicht** mehr möglich!
 {% endhint %}
-
-
 
 <details>
 

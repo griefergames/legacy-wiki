@@ -16,13 +16,15 @@ layout:
     visible: false
   tags:
     visible: true
+  actions:
+    visible: true
 ---
 
 # Vollautomatische Villager-Farmen
 
-Moin 🙂&#x20;
+Moin 🙂
 
-in der Vergangenheit wurde ich häufiger mit Fragen konfrontiert, wenn es um den Bau einer effizienten und vor allem fehlerfreien Villagerfarm für Weizen, Karotten oder Kartoffeln ging. Da ich mit /p h UltraFarm auf CB21 vermutlich der Erste im Besitz einer vollkommen korrekt funktionierenden Anlage bin und sich die Anfragen in letzter Zeit gehäuft haben, möchte ich die Gelegenheit gerne nutzen, um euch alles Relevante hier zu schildern&#x20;
+in der Vergangenheit wurde ich häufiger mit Fragen konfrontiert, wenn es um den Bau einer effizienten und vor allem fehlerfreien Villagerfarm für Weizen, Karotten oder Kartoffeln ging. Da ich mit /p h UltraFarm auf CB21 vermutlich der Erste im Besitz einer vollkommen korrekt funktionierenden Anlage bin und sich die Anfragen in letzter Zeit gehäuft haben, möchte ich die Gelegenheit gerne nutzen, um euch alles Relevante hier zu schildern
 
 ### Tutorial
 
@@ -38,13 +40,13 @@ Die Gesamtfarm setzt sich aus der Aufeinanderstapelung beliebig vieler Teilacker
 
 Eine Farmebene umfasst dabei eine Fläche von 16x16 Ackerblöcken und muss sich zwangsläufig innerhalb eines einzigen Chunks gelegen befinden. Um diesen Chunk herum wird eine Umrandung solider Blöcke errichtet (unten dunkel-cyan) mit eingearbeiteter Eisentür, die Höhe jeder Ebene beträgt 1 Ackerschicht + 3 Luftblöcke
 
-Für die ideale Bewässerung (blau) des Ackerbodens (braun) gilt nun folgendes Schema:&#x20;
+Für die ideale Bewässerung (blau) des Ackerbodens (braun) gilt nun folgendes Schema:
 
-<figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
 In der Praxis umgesetzt könnte eine Farmebene dann bisher etwa so aussehen (Optik natürlich variabel):
 
-<figure><img src="../../.gitbook/assets/image (161).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (157).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -60,7 +62,7 @@ Für Weizenebenen platziert Seelaternen (weiß) nach folgendem Schema an die Dec
 
 Kartoffel- und Karottenebenen liegen beide folgendem Lichtschema zugrunde:
 
-<figure><img src="../../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 
 </details>
 
@@ -76,11 +78,11 @@ Den Weizenebenen genügt das Setzen eines unendlichen Lagers mit aktiviertem Ein
 \
 Für Kartoffel-/Karottenebenen platziert zunächst Trichter (grau) nach folgender Anordnung unter eure jeweilige Farmebene:
 
-<figure><img src="../../.gitbook/assets/image (164).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (163).png" alt=""><figcaption></figcaption></figure>
 
 Nun stellt die Filter ein und setzt den Sammelradius der äußeren Trichter auf 6 und den der Inneren auf 3 Blöcke. Analog zu den Samen bei Weizen können bei Kartoffeln noch giftige Kartoffeln abgegriffen werden, geht hier wie bei den Seeds vor, nur dass ihr den Sammelradius gleich auf das Maximum einstellt. (Ein Trichter pro Ebene reicht hier wieder.)
 
-Eine für Villager bezugsfertige Kartoffelebene könnte dann z.B. so aussehen:&#x20;
+Eine für Villager bezugsfertige Kartoffelebene könnte dann z.B. so aussehen:
 
 <figure><img src="../../.gitbook/assets/image (165).png" alt=""><figcaption></figcaption></figure>
 
@@ -90,7 +92,7 @@ Eine für Villager bezugsfertige Kartoffelebene könnte dann z.B. so aussehen:&#
 
 <details>
 
-<summary>2.1  Auswahl der Villager</summary>
+<summary>2.1 Auswahl der Villager</summary>
 
 Für den Bau der Farm solltet ihr Farmer (keine Metzger, Fischer, etc.!) verwenden, und bestenfalls nicht auf LuckyBlock-Villager zurückgreifen oder solche, die ihr irgendwo noch herumzustehen habt, da diese womöglich bereits andere Items aufgesammelt haben könnten. Idealerweise verwendet man hierfür einen isolierten Villagerspawner und sucht sich die Farmer damit selbst zusammen. Haltet hierfür gleich ein Schwert zur Aussortierung sowie Mobtokens, ein paar Stacks eures priorisierten Anbauprodukts und einen Sammelball bereit. Ist ein Farmer gespawnt, droppt ihr ihm ein paar Stacks der Pflanze zu (zB Kartoffeln), markiert ihn mit eurem Mobtoken und verschiebt ihn über den Sammelball auf ein Feld, das am besten schon ein wenig vorbepflanzt wurde.\
 \
@@ -167,11 +169,9 @@ Nach der Prioritätsverteilung aus 3.1 handeln Farmer hier nämlich wie folgt: S
 
 <summary>3.3 "Quellen"</summary>
 
-Dieser Punkt ist zurecht in Anführungszeichen gesetzt zu verstehen, weil die Reichweite für solche Farmen durch die Servergebundenheit natürlich zu klein ist, um irgendwo gescheite Quellen dazu zu finden. Alle hier angegebenen Informationen wurden demnach von mir persönlich über die letzten 2-3 Jahre hinweg empirisch gesammelt und sind nicht unfehlbar, wenn auch zu sehr zufriedenstellenden Quoten reproduzierbar. Trotzdem bin ich immer offen für alternative Lösungsansätze und Ideen&#x20;
+Dieser Punkt ist zurecht in Anführungszeichen gesetzt zu verstehen, weil die Reichweite für solche Farmen durch die Servergebundenheit natürlich zu klein ist, um irgendwo gescheite Quellen dazu zu finden. Alle hier angegebenen Informationen wurden demnach von mir persönlich über die letzten 2-3 Jahre hinweg empirisch gesammelt und sind nicht unfehlbar, wenn auch zu sehr zufriedenstellenden Quoten reproduzierbar. Trotzdem bin ich immer offen für alternative Lösungsansätze und Ideen
 
 </details>
-
-
 
 <details>
 

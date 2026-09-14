@@ -38,7 +38,7 @@ Beschaffung persönlicher Daten anderer Personen (wie Passwort, Kreditkartennumm
 Die womöglich übelste Masche ist es, externe LabyMod-Addons zu entwickeln und diese dann zu verbreiten. Die Verbreitung der schädlichen Software gelingt mit dem Leichtsinn des Menschen – die meisten Menschen denken nicht erst an das Negative, sondern an das Positive. Somit wird geworben, dass man z. B. mithilfe einer Installation bisher unbekannter Modifikationen auf GrieferGames duplizieren kann oder bestimmte Inhalte (z.B. Addons für Bots) vorab testen darf. Solche Phishing-Methoden sind mittlerweile üblich und verleiten immer mehr Menschen gerade auf YouTube dazu, solche Dateien herunterzuladen und zu installieren.
 
 {% hint style="info" %}
-Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Das sind lediglich **Anzeige-Hacks** und zeigen nur Ghostblocks (nur für den Client sichtbare Blöcke) und nicht echte Blöcke.&#x20;
+Alle in Videos oder auf Bildern gezeigten angeblichen Hacks sind auf GrieferGames **nicht** möglich. Das sind lediglich **Anzeige-Hacks** und zeigen nur Ghostblocks (nur für den Client sichtbare Blöcke) und nicht echte Blöcke.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -81,8 +81,6 @@ All diese Punkte zeigen, dass sich bei der Nachricht um einer Nachricht handelt,
 Ob man auf Discord mit dem richtigen Teammitglied von GrieferGames schreibt, kann man prüfen, indem man unter dem Profil desjenigen auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.\
 Sollte dort „GrieferGames“ stehen, ist das schon einmal der richtige Weg. Wenn jetzt noch die Rollen, die der Discord-Nutzer auf dem GrieferGames Discord-Server hat stimmen – wenn dort z. B. als Rolle „Administrator“ steht, weiß man, dass man mit dem richtigen Teamler schreibt.
 
-
-
 ### Was kann ich gegen solchen Betrug unternehmen?
 
 Es kommt immer auf die Plattform an. Wir, GrieferGames, sind nicht die ganze Welt und haben auch keinen Social-Media-Weg unter unserer Kontrolle. Das heißt, dass wenn jemand z. B. auf Discord euch schädliche Software zukommen lässt, die ihr installieren sollt, wir dagegen nichts unternehmen können. Natürlich könnten wir diesen Nutzer auf unserem Server sperren, aber mehr auch nicht.
@@ -118,3 +116,12 @@ Mithilfe unseres eigenen Account-Dienstes [GGAuth](../hilfreiche-links/grieferga
 
 Die Einrichtung von GGAuth ist kostenfrei und erfordert lediglich eine E-Mail-Adresse und deinen Minecraft-Account.
 
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/account-diebstahl-phishing)_._
+{% endhint %}
+
+</details>

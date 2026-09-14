@@ -26,7 +26,7 @@ Seit Ende 2022 gibt es zwei ominöse Gestalten an jedem der 25 Citybuild-Spawns 
 
 <figure><img src="https://lh3.googleusercontent.com/V_2Rn0Z7lUJ7fbbs5XHScJJDPEox0qTiBQedD9MBlyg2-Z7j3bRTXz5QXPCykQkMDKZ7CEIADO1SiGbH0w3pnsRIxQXsxkGtsJ38bV6wGANA22NVwq9j5j4ZX20Mcb39N-vLDuync97gQcJDpNCxWZY" alt=""><figcaption><p>Der Adventurer und der Admin-Shop am Citybuild-Spawn</p></figcaption></figure>
 
-Seit dem 16.02.2023 vergibt der Adventurer Aufgaben an Spieler. Das Ziel ist es, eine dauerhafte Beschäftigung für die Community zu bieten, in dem ihr Items farmen oder craften müsst.&#x20;
+Seit dem 16.02.2023 vergibt der Adventurer Aufgaben an Spieler. Das Ziel ist es, eine dauerhafte Beschäftigung für die Community zu bieten, in dem ihr Items farmen oder craften müsst.
 
 ### Adventurer
 
@@ -36,7 +36,7 @@ Beim Adventurer könnt ihr neue Aufgaben annehmen, durch welche ihr [Adventurer-
 
 Hierbei gibt es tägliche, wöchentliche und monatliche Aufgaben.
 
-* Die täglichen Aufgaben könnt ihr jeden Tag machen und sie bringen euch einen Adventurer-Coin und mit einer geringen Wahrscheinlichkeit erhält man [Kristalle](../grundlagen/waehrungen.md#kristalle). \
+* Die täglichen Aufgaben könnt ihr jeden Tag machen und sie bringen euch einen Adventurer-Coin und mit einer geringen Wahrscheinlichkeit erhält man [Kristalle](../grundlagen/waehrungen.md#kristalle).\
   Das heißt aber auch, dass ihr nur einen Tag Zeit habt die Aufgabe zu erledigen. Am nächsten Tag gibt es eine neue Aufgabe und die alte ist nicht mehr gültig.
 * Die wöchentlichen Aufgaben bringen euch bei der Erfüllung 6 Adventurer-Coins und eine höhere Chance auf mehrere [Kristalle](../grundlagen/waehrungen.md#kristalle). Ihr erhaltet jede Woche eine neue Aufgabe. Diese Aufgaben sind natürlich schwerer als die täglichen Aufgaben, damit ihr die ganze Woche über etwas zu tun habt.
 * Die monatlichen Aufgaben bekommt ihr zum Monatsbeginn. Ihr erhaltet für diese schwierigsten Aufgaben beim erfolgreichen Absolvieren 14 Adventurer-Coins und sie haben eine hohe Chance auf [Kristalle](../grundlagen/waehrungen.md#kristalle) als Zusatzgewinn.
@@ -47,7 +47,7 @@ Es gibt zwei Aufgabentypen:
 
 {% tabs %}
 {% tab title="Abgabe-Aufgaben" %}
-Die Abgabenaufgaben, erkennbar dadurch dass ein Item angezeigt wird, sind Aufgaben, bei welchen ihr eine zufällige Anzahl eines Items zum Adventurer bringen müsst.&#x20;
+Die Abgabenaufgaben, erkennbar dadurch dass ein Item angezeigt wird, sind Aufgaben, bei welchen ihr eine zufällige Anzahl eines Items zum Adventurer bringen müsst.
 
 Dafür klickt ihr im Menü auf die Aufgabe, um sie anzunehmen. Nun besorgt ihr euch die Items und diese könnt ihr beim erneuten Klicken auf das Item im Menü des Adventurer wieder abgeben.
 
@@ -57,9 +57,9 @@ Seit dem 01.06.2023 kann man auch komprimierte Items beim Adventurer abgeben. So
 {% endtab %}
 
 {% tab title="Abbau-Aufgaben" %}
-Die Abbauaufgaben, erkennbar durch ein Werkzeug, sind Aufgaben, bei welchen ihr einen bestimmten Block unterschiedlich oft abbauen müsst.&#x20;
+Die Abbauaufgaben, erkennbar durch ein Werkzeug, sind Aufgaben, bei welchen ihr einen bestimmten Block unterschiedlich oft abbauen müsst.
 
-Hierfür bekommt ihr beim Klick auf das Werkzeug ein Adventurer-Werkzeug, welches das Werkzeug ist, mit welchem ihr die Blöcke abbauen müsst. An einem Zähler in der SIgnatur des Werkzeugs erkennt ihr die verbleibende Anzahl an Items, die noch abgebaut werden müssen.&#x20;
+Hierfür bekommt ihr beim Klick auf das Werkzeug ein Adventurer-Werkzeug, welches das Werkzeug ist, mit welchem ihr die Blöcke abbauen müsst. An einem Zähler in der SIgnatur des Werkzeugs erkennt ihr die verbleibende Anzahl an Items, die noch abgebaut werden müssen.
 
 Habt ihr alle Blöcke abgebaut, gebt ihr das Werkzeug wieder beim Adventurer im Menü ab. Hierfür müsst ihr das Werkzeug in eurem Inventar haben.
 
@@ -73,27 +73,27 @@ Habt ihr euer Adventurer-Werkzeug verloren, könnt ihr euch ein neues Werkzeug b
 
 ### Der Admin-Shop
 
-Ihr habt einige Aufgaben erledigt und euch eure ersten [Adventurer-Coins](../grundlagen/waehrungen.md#adventurer-coins) zusammengespart? Dann könnt ihr diese nun beim Admin-Shop ausgeben. Über die Feuerkugel, im Menü beider NPCs, seht ihr wie viele Adventurer-Coins ihr derzeit habt.&#x20;
+Ihr habt einige Aufgaben erledigt und euch eure ersten [Adventurer-Coins](../grundlagen/waehrungen.md#adventurer-coins) zusammengespart? Dann könnt ihr diese nun beim Admin-Shop ausgeben. Über die Feuerkugel, im Menü beider NPCs, seht ihr wie viele Adventurer-Coins ihr derzeit habt.
 
 Im Admin-Shop gibt es mehrere Items, welche täglich wechseln können.
 
 <figure><img src="../.gitbook/assets/kpnB3QD.png" alt=""><figcaption><p>Tages-Angebot des Admin-Shop am 02.09.2026</p></figcaption></figure>
 
-In der Mitte seht ihr exklusive Prefixe, welche natürlich teurer sind als andere Items. \
+In der Mitte seht ihr exklusive Prefixe, welche natürlich teurer sind als andere Items.\
 Ihr könnt hier aber auch Deko-Köpfe, Rand-Effekte, Luckyblöcke, kleine Rüstungsständer, spezielle Werkzeuge, Rüstung und andere Items kaufen.
 
 Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vielleicht am nächsten Tag, an dieser Stelle erhältlich sind.
 
 {% tabs %}
 {% tab title="Klassische Items" %}
-<div data-full-width="true"><figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure></div>
+<div data-full-width="true"><figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Die Kategorie "Klassische Items"</p></figcaption></figure></div>
 
 * ![](<../.gitbook/assets/image (22).png>) [Klassische Rüstung (Brustplatte)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Brust\))
   * Diamant-Brustplatte mit Verzauberung Schutz 7 & Haltbarkeit 5
 * ![](<../.gitbook/assets/image (23).png>) [Klassische Rüstung (Helm)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Helm\))
   * Diamant-Helm mit Verzauberung Schutz 7 & Haltbarkeit 5
 * ![](<../.gitbook/assets/image (24).png>) [Klassische Rüstung (Beinschienen)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Hose\))
-  * Diamant-Beinschützer  mit Verzauberung Schutz 7 & Haltbarkeit 5
+  * Diamant-Beinschützer mit Verzauberung Schutz 7 & Haltbarkeit 5
 * ![](<../.gitbook/assets/image (25).png>) [Klassische Rüstung (Stiefel)](https://items.griefergames.net/#Adventurer-Items_%7C_Klassische_R%C3%BCstung_\(Schuhe\))
   * Diamant-Stiefel mit Verzauberung Schutz 7, Haltbarkeit 5 & Federfall 4
 * ![](<../.gitbook/assets/image (26).png>) [Klassisches Schwert](https://items.griefergames.net/#Adventurer-Items_%7C_Klassisches_Schwert)
@@ -141,7 +141,7 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 {% tab title="Kleine Rüstungsständer" %}
 <figure><img src="../.gitbook/assets/image (43).png" alt=""><figcaption><p>Die Kategorie "Kleine Rüstungsständer"</p></figcaption></figure>
 
-* ![](<../.gitbook/assets/image (45).png>) 6x Kleiner Rüstungsständer:
+* ![](<../.gitbook/assets/image (44).png>) 6x Kleiner Rüstungsständer:
   * Setze einen [kleinen Rüstungsständer](https://items.griefergames.net/#Adventurer-Items_%7C_Kleiner_R%C3%BCstungsst%C3%A4nder). Für die Minis!
 {% endtab %}
 
@@ -180,10 +180,8 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 {% tab title="Lucky-Blöcke" %}
 <figure><img src="../.gitbook/assets/OTTw9mN.png" alt=""><figcaption><p>Die Kategorie "Lucky-Blöcke"</p></figcaption></figure>
 
-
-
 Fordere dein Glück mit diesem Luckyblock heraus!\
-LuckyBlöcke können nur auf deinem eigenen Grundstück aktiviert werden und können sowohl positive als auch negative Effekte mit sich bringen. \
+LuckyBlöcke können nur auf deinem eigenen Grundstück aktiviert werden und können sowohl positive als auch negative Effekte mit sich bringen.\
 **Achtung!** Zwischen den tollen Gewinen befinden sich auf Jail-Strafen. Lediglich die Sperren aus dem Luckyblock oder einem StartJail der Community kannst du mit einer "Du kommst aus dem Gefängnis frei-Karte" aufheben.
 {% endtab %}
 
@@ -201,13 +199,11 @@ LuckyBlöcke können nur auf deinem eigenen Grundstück aktiviert werden und kö
 {% tab title="Deko-Köpfe" %}
 <figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>Die Kategorie "Deko-Köpfe"</p></figcaption></figure>
 
-In dieser Kategorie findet sich eine Vielzahl von [Deko-Köpfen](https://items.griefergames.net/#K%C3%B6pfe_%7C_Deko-Kopf), welche thematisch zugeordnet sind.&#x20;
+In dieser Kategorie findet sich eine Vielzahl von [Deko-Köpfen](https://items.griefergames.net/#K%C3%B6pfe_%7C_Deko-Kopf), welche thematisch zugeordnet sind.
 
 Die aktuelle Kollektion behandelt das Thema "Spawn-Eier" und beinhaltet 21 Köpfe als Set zum Sammeln.
 {% endtab %}
 {% endtabs %}
-
-
 
 ### ![](<../.gitbook/assets/image (62).png>) Community-Kisten
 
@@ -220,4 +216,3 @@ Es gab also manche Momente wo sehr seltene Admin-Items in der Kiste sind, manchm
 Es werden keine neuen Community-Kisten mehr ausgegeben.\
 Vorhandene Community-Kisten können weiterhin geöffnet werden. Die Inhalte wurden bereits mehrfach nachgefüllt.
 {% endhint %}
-
