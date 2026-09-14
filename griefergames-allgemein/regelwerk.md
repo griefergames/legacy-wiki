@@ -300,7 +300,7 @@ _Letzte Änderung: 30.06.2025, 15:00 Uhr_
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/informationen-zu-griefergames/team)_._
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/regelwerk)_._
 {% endhint %}
 
 </details>
