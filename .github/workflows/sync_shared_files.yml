@@ -29,6 +29,7 @@ jobs:
       MATCH_LINK_DOMAIN: "wiki.griefergames.live"
       REWRITE_LINK_LABEL: "1.8 Wiki Seite"
       REWRITE_LINK_DOMAIN: "wiki.griefergames.net"
+      STRICT_SLUG_MATCH: "false"
       ASSET_FILENAME_PREFIX: "legacy_"
       ASSET_SOURCE_DIR: ".gitbook/assets"
       ASSET_TARGET_DIR: ".gitbook/assets"
@@ -68,6 +69,7 @@ jobs:
         env:
           CHANGED_FILES: ${{ steps.changed.outputs.files }}
           MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          STRICT_SLUG_MATCH: ${{ env.STRICT_SLUG_MATCH }}
         run: |
           set -euo pipefail
 
@@ -79,6 +81,7 @@ jobs:
           changed = [line.strip() for line in os.environ.get("CHANGED_FILES", "").splitlines() if line.strip()]
           eligible = []
           match_domain = os.environ.get("MATCH_LINK_DOMAIN", "").strip().lower()
+          strict_slug_match = os.environ.get("STRICT_SLUG_MATCH", "false").strip().lower() == "true"
 
           def to_current_wiki_path(rel_path: str) -> str:
             rel = Path(rel_path).as_posix()
@@ -117,7 +120,7 @@ jobs:
             last_segment = link_path.split("/")[-1]
             file_stem = path.stem
 
-            if last_segment == file_stem:
+            if (not strict_slug_match) or (last_segment == file_stem):
               # Mapping format: source file | destination repo path | backlink path to current wiki.
               current_wiki_path = to_current_wiki_path(rel_path)
               eligible.append(f"{rel_path}|{link_path}|{current_wiki_path}")
@@ -141,6 +144,7 @@ jobs:
           TARGET_BRANCH: ${{ env.TARGET_BRANCH }}
           MATCH_LINK_LABEL: ${{ env.MATCH_LINK_LABEL }}
           MATCH_LINK_DOMAIN: ${{ env.MATCH_LINK_DOMAIN }}
+          STRICT_SLUG_MATCH: ${{ env.STRICT_SLUG_MATCH }}
           REWRITE_LINK_LABEL: ${{ env.REWRITE_LINK_LABEL }}
           REWRITE_LINK_DOMAIN: ${{ env.REWRITE_LINK_DOMAIN }}
           ASSET_FILENAME_PREFIX: ${{ env.ASSET_FILENAME_PREFIX }}
@@ -161,6 +165,7 @@ jobs:
           target_branch = os.environ.get("TARGET_BRANCH", "")
           match_label = os.environ.get("MATCH_LINK_LABEL", "")
           match_domain = os.environ.get("MATCH_LINK_DOMAIN", "")
+          strict_slug_match = os.environ.get("STRICT_SLUG_MATCH", "false")
           rewrite_label = os.environ.get("REWRITE_LINK_LABEL", "")
           rewrite_domain = os.environ.get("REWRITE_LINK_DOMAIN", "")
           asset_prefix = os.environ.get("ASSET_FILENAME_PREFIX", "")
@@ -194,6 +199,7 @@ jobs:
           print(f"Target branch: {target_branch}")
           print(f"Target path prefix: '{target_prefix}'")
           print(f"Match link: label='{match_label}', domain='{match_domain}'")
+          print(f"Strict slug match: '{strict_slug_match}'")
           print(f"Rewrite link: label='{rewrite_label}', domain='{rewrite_domain}'")
           print(f"Asset filename prefix: '{asset_prefix}'")
           print(f"Asset source dir: '{source_asset_dir_norm}'")
