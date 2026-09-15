@@ -17,13 +17,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Ehemalige Teammitglieder & Helfer
 
+Auf dieser Seite findet ihr eine Übersicht über **alle ehemaligen Teammitglieder von GrieferGames**. Die Liste enthält Teammitglieder, die in der Vergangenheit Teil des Teams waren, mittlerweile aber nicht mehr sind.\
+\
 Alle aktuellen Teammitglieder können in der [Teamliste](team.md) eingesehen werden.
-
-Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 
 ### Management
 
@@ -327,12 +329,3 @@ Folgende Spieler waren bereits Teammitglied auf GrieferGames:
 {% hint style="warning" %}
 Bei den aufgelisteten Spielern garantieren wir **keine** eindeutige Übereinstimmung für deren aktuellen Minecraft-Namen.
 {% endhint %}
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Bantor](https://profile.griefergames.live/minecraft/e7d2c9ff-9fe2-4813-a519-c3c71fb832e6)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
