@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ❗ Beschwerden über Spieler/ Beweismaterial
@@ -111,14 +113,3 @@ Nutzt ihr eine AMD-Grafikkarte, könnt ihr über die AMD Adrenaline-Software ebe
 Alternativ könnt ihr auch jedes andere Aufnahmeprogramm verwenden, welches den kompletten Spielinhalt unverändert aufzeichnet.\
 Unsere Empfehlung hierfür ist das einsteigerfreundliche und kostenfreie [OBS Studio](https://obsproject.com/de).
 
-
-
-<details>
-
-<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
-
-{% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/beschwerden-ueber-spieler-beweismaterial)_._
-{% endhint %}
-
-</details>

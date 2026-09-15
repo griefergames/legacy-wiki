@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 💁 Support erhalten
 
-Wahrscheinlich bist du auf dieser Seite, weil du gerade Schwierigkeiten hast oder einfach wissen möchtest, wie du am besten Hilfe bekommst. Bevor du direkt loslegst, schau dir am besten unsere [FAQ](https://wiki.griefergames.net/faq/) an. Viele Fragen werden auch hier in unserem Wiki für das [1.8 Netzwerk](https://wiki.griefergames.net/) oder im Wiki für das [Cloud Netzwerk](https://wiki.griefergames.live/) beantwortet und ersparen dir vielleicht sogar eine Anfrage.
+Wahrscheinlich bist du auf dieser Seite, weil du gerade Schwierigkeiten hast oder einfach wissen möchtest, wie du am besten Hilfe bekommst. Bevor du direkt loslegst, schau dir am besten unsere [FAQ](https://wiki.griefergames.net/faq/) an. Viele Fragen werden auch in unserem Wiki für das [1.8 Netzwerk](https://wiki.griefergames.net/) oder im Wiki für das [Cloud Netzwerk](https://wiki.griefergames.live/) beantwortet und ersparen dir vielleicht sogar eine Anfrage.
 
 <details>
 
@@ -50,7 +52,7 @@ Mehr Informationen findest du in der [WebShop-FAQ](../faq/webshop.md).
 
 <summary>Bei wem soll ich mich melden, wenn ich einen Fehler gefunden habe?</summary>
 
-Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn du einen Fehler melden möchtest, dann melde diesen auf unserem [offiziellen Discord](https://discord.com/channels/325017098592059392/1283079587080966297).&#x20;
+Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn du einen Fehler melden möchtest, dann melde diesen auf unserem [offiziellen Discord](https://discord.com/channels/325017098592059392/1283079587080966297).
 
 </details>
 
