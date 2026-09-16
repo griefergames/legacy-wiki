@@ -74,7 +74,8 @@
 ## GrieferGames Allgemein
 
 * [📜 Regelwerk](griefergames-allgemein/regelwerk.md)
-* [💁 Support erhalten](griefergames-allgemein/support.md)
+* [💁 Support erhalten](griefergames-allgemein/support/README.md)
+  * [👨‍🏫 Alfred (KI-Support)](griefergames-allgemein/support/alfred-ki-support.md)
 * [💡 Vorschläge](griefergames-allgemein/vorschlaege.md)
 * [Fehlermeldungen](griefergames-allgemein/fehler-melden.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](griefergames-allgemein/spieler-melden.md)

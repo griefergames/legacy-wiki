@@ -44,7 +44,7 @@ Eine offizielle Teamübersicht kannst du übrigens hier einsehen: [Teamübersich
 Für Anliegen rund um deinen Einkauf, wende dich bitte per E-Mail an: 📧 [shop@griefergames.net](mailto:shop@griefergames.net)\
 Bitte habe bezüglich einer Rückmeldung ein wenig Geduld.
 
-Mehr Informationen findest du in der [WebShop-FAQ](../faq/webshop.md).
+Mehr Informationen findest du in der [WebShop-FAQ](../../faq/webshop.md).
 
 </details>
 
@@ -63,7 +63,7 @@ Unser Content-Team, kümmert sich um alle Fehler und um jegliches Feedback. Wenn
 Wir können keine gestohlenen Accounts wiederherstellen.
 
 Wende dich in diesem Fall direkt an Microsoft über die [offiziellen Kontaktwege](https://support.xbox.com/de-de/contact-us/emerald).\
-Wenn du deinen Minecraft-Account verloren hast und der Microsoft-Support dir nicht weiterhelfen kann, kannst du im Ticket-System im [Web](https://ticket.griefergames.de/) (mit [GGAuth](../hilfreiche-links/griefergames-dienste.md)-Account) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) (mit und ohne GGAuth-Account) unter dem Label **„Minecraft-Account verloren“** erstellen.
+Wenn du deinen Minecraft-Account verloren hast und der Microsoft-Support dir nicht weiterhelfen kann, kannst du im Ticket-System im [Web](https://ticket.griefergames.de/) (mit [GGAuth](../../hilfreiche-links/griefergames-dienste.md)-Account) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643) (mit und ohne GGAuth-Account) unter dem Label **„Minecraft-Account verloren“** erstellen.
 
 Mehr Informationen zur Vermeidung von Account-Diebstahl findest du in unserem Artikel [Account-Diebstahl / Phishing](https://wiki.griefergames.net/griefergames-allgemein/account-verloren).
 
