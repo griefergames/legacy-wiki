@@ -51,5 +51,5 @@ Die Daten sind also nicht Top-Secret, aber eben so formuliert, dass sie nicht ne
 Alfred lernt immer dann etwas neues, wenn wir Wiki-Einträge hinzufügen oder aktualisieren und wenn wir die interne Wissensdatenbank erweitern.
 
 {% hint style="info" %}
-Alfred lernt nicht über den Chat & Alfred lernt euch auch nicht kennen. Mit jeder Nachricht seid ihr für Alfred ein neuer Mensch hinter einem Pseudonym.
+Alfred lernt nicht über den Chat & Alfred lernt euch auch nicht kennen. Mit jeder Nachricht seid ihr für Alfred ein neuer Mensch hinter einem Pseudonym mit einem Rang.
 {% endhint %}
