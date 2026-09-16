@@ -58,6 +58,81 @@ Wird an den Client gesendet, sobald sich das Bargeld des Spielers ändert, sowie
 40 93 4A 3D 70 A3 D7 0A                           ← double: 1234.56
 ```
 
+### `bankbalance`
+
+Wird an den Client gesendet, sobald sich das Bankguthaben des Spielers ändert, sowie einmalig beim Betreten eines Servers.
+
+| Feld      | Typ                                     | Beschreibung                                                       |
+| --------- | --------------------------------------- | ------------------------------------------------------------------ |
+| `id`      | UTF                                     | `"bankbalance"`                                                    |
+| `balance` | `double` (8 Bytes, Big-Endian IEEE 754) | Aktuelles Bankguthaben des Spielers, auf 2 Dezimalstellen gerundet |
+
+### `blockoftheday`
+
+Wird an den Client gesendet, um Informationen über den Block oder die Entity des Tages zu übermitteln.
+
+| Feld            | Typ             | Beschreibung                                                                 |
+| --------------- | --------------- | ---------------------------------------------------------------------------- |
+| `id`            | UTF             | `"blockoftheday"`                                                            |
+| `type`          | UTF             | `"BLOCK"`, `"MATERIAL"` oder `"ENTITY"`                                      |
+| `blockMaterial` | UTF             | Materialname (z.B. `"DIAMOND_ORE"`); leer wenn `type = "ENTITY"`             |
+| `blockData`     | `int` (4 Bytes) | Block-Daten / Varianten; immer `0`                                           |
+| `entityType`    | UTF             | Entity-Typ (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
+
+{% hint style="info" %}
+**Feldlogik je nach Type:**
+
+* `type = "BLOCK"` oder `"MATERIAL"`: `blockMaterial` gefüllt, `entityType` leer
+* `type = "ENTITY"`: `entityType` gefüllt, `blockMaterial` leer
+{% endhint %}
+
+### `blockoftheday_progress`
+
+Wird an den Client gesendet, um den aktuellen Fortschritt beim Block des Tages zu synchronisieren. Dieses Payload hat keine zusätzlichen Felder.
+
+| Feld | Typ | Beschreibung               |
+| ---- | --- | -------------------------- |
+| `id` | UTF | `"blockoftheday_progress"` |
+
+### `booster`
+
+Wird an den Client gesendet, um aktive Booster und deren Multiplikatoren zu übermitteln.
+
+| Feld                 | Typ             | Beschreibung                                               |
+| -------------------- | --------------- | ---------------------------------------------------------- |
+| `id`                 | UTF             | `"booster"`                                                |
+| `count`              | `int` (4 Bytes) | Anzahl der Booster in dieser Liste                         |
+| _Für jeden Booster:_ |                 |                                                            |
+| `type`               | UTF             | Booster-Typ: `"BREAK"`, `"DROP"`, `"FLY"`, `"MOB"`, `"XP"` |
+| `multiplier`         | `int` (4 Bytes) | Multiplikator des Boosters (z.B. `2` für 2x)               |
+
+### `clearlag`
+
+Wird an den Client gesendet, um die verbleibenden Sekunden bis zum nächsten ClearLag-Event zu übermitteln.
+
+| Feld               | Typ              | Beschreibung                                    |
+| ------------------ | ---------------- | ----------------------------------------------- |
+| `id`               | UTF              | `"clearlag"`                                    |
+| `remainingSeconds` | `long` (8 Bytes) | Verbleibende Sekunden bis zum nächsten ClearLag |
+
+### `entityremover`
+
+Wird an den Client gesendet, um die verbleibenden Sekunden bis zum nächsten Entity Remover-Event zu übermitteln.
+
+| Feld               | Typ              | Beschreibung                                          |
+| ------------------ | ---------------- | ----------------------------------------------------- |
+| `id`               | UTF              | `"entityremover"`                                     |
+| `remainingSeconds` | `long` (8 Bytes) | Verbleibende Sekunden bis zum nächsten Entity Remover |
+
+### `plotchat_configuration`
+
+Wird an den Client gesendet, um die PlotChat-Konfiguration zu aktualisieren (ob PlotChat aktiviert ist oder nicht).
+
+| Feld     | Typ                | Beschreibung                                       |
+| -------- | ------------------ | -------------------------------------------------- |
+| `id`     | UTF                | `"plotchat_configuration"`                         |
+| `status` | `boolean` (1 Byte) | `true` = PlotChat aktiviert, `false` = deaktiviert |
+
 ## Payloads empfangen — Code-Beispiele
 
 {% tabs %}
@@ -107,9 +182,58 @@ public class MeinModClient implements ClientModInitializer {
                 switch (id) {
                     case "accountbalance": {
                         double balance = in.readDouble();
-
-                        // Guthaben verarbeiten
                         context.client().execute(() -> MeinMod.onMoneyUpdate(balance));
+                        break;
+                    }
+
+                    case "bankbalance": {
+                        double balance = in.readDouble();
+                        context.client().execute(() -> MeinMod.onBankUpdate(balance));
+                        break;
+                    }
+
+                    case "blockoftheday": {
+                        String type = in.readUTF();
+                        String blockMaterial = in.readUTF();
+                        int blockData = in.readInt();
+                        String entityType = in.readUTF();
+                        
+                        // type ist "BLOCK"/"MATERIAL" → blockMaterial gefüllt, entityType leer
+                        // type ist "ENTITY" → entityType gefüllt, blockMaterial leer
+                        context.client().execute(() -> MeinMod.onBlockOfTheDay(type, blockMaterial, blockData, entityType));
+                        break;
+                    }
+
+                    case "blockoftheday_progress": {
+                        context.client().execute(() -> MeinMod.onBlockProgressUpdate());
+                        break;
+                    }
+
+                    case "booster": {
+                        int count = in.readInt();
+                        for (int i = 0; i < count; i++) {
+                            String type = in.readUTF();
+                            int multiplier = in.readInt();
+                            context.client().execute(() -> MeinMod.onBooster(type, multiplier));
+                        }
+                        break;
+                    }
+
+                    case "clearlag": {
+                        long remainingSeconds = in.readLong();
+                        context.client().execute(() -> MeinMod.onClearLag(remainingSeconds));
+                        break;
+                    }
+
+                    case "entityremover": {
+                        long remainingSeconds = in.readLong();
+                        context.client().execute(() -> MeinMod.onEntityRemover(remainingSeconds));
+                        break;
+                    }
+
+                    case "plotchat_configuration": {
+                        boolean status = in.readBoolean();
+                        context.client().execute(() -> MeinMod.onPlotChatConfig(status));
                         break;
                     }
 
@@ -166,9 +290,58 @@ public class MeinMod {
          switch (id) {
             case "accountbalance": {
                double balance = in.readDouble();
-
-               // Handler läuft im Netty-Thread -> auf den Client-Thread wechseln
                Minecraft.getMinecraft().addScheduledTask(() -> onMoneyUpdate(balance));
+               break;
+            }
+
+            case "bankbalance": {
+               double balance = in.readDouble();
+               Minecraft.getMinecraft().addScheduledTask(() -> onBankUpdate(balance));
+               break;
+            }
+
+            case "blockoftheday": {
+               String type = in.readUTF();
+               String blockMaterial = in.readUTF();
+               int blockData = in.readInt();
+               String entityType = in.readUTF();
+               
+               // type ist "BLOCK"/"MATERIAL" → blockMaterial gefüllt, entityType leer
+               // type ist "ENTITY" → entityType gefüllt, blockMaterial leer
+               Minecraft.getMinecraft().addScheduledTask(() -> onBlockOfTheDay(type, blockMaterial, blockData, entityType));
+               break;
+            }
+
+            case "blockoftheday_progress": {
+               Minecraft.getMinecraft().addScheduledTask(() -> onBlockProgressUpdate());
+               break;
+            }
+
+            case "booster": {
+               int count = in.readInt();
+               for (int i = 0; i < count; i++) {
+                  String type = in.readUTF();
+                  int multiplier = in.readInt();
+                  Minecraft.getMinecraft().addScheduledTask(() -> onBooster(type, multiplier));
+               }
+               break;
+            }
+
+            case "clearlag": {
+               long remainingSeconds = in.readLong();
+               Minecraft.getMinecraft().addScheduledTask(() -> onClearLag(remainingSeconds));
+               break;
+            }
+
+            case "entityremover": {
+               long remainingSeconds = in.readLong();
+               Minecraft.getMinecraft().addScheduledTask(() -> onEntityRemover(remainingSeconds));
+               break;
+            }
+
+            case "plotchat_configuration": {
+               boolean status = in.readBoolean();
+               Minecraft.getMinecraft().addScheduledTask(() -> onPlotChatConfig(status));
                break;
             }
 
@@ -207,11 +380,61 @@ public class MeinPayloadListener {
             switch (id) {
                 case "accountbalance": {
                     double balance = in.readDouble();
-
-                    // Guthaben verarbeiten
                     MeinAddon.onMoneyUpdate(balance);
                     break;
                 }
+
+                case "bankbalance": {
+                    double balance = in.readDouble();
+                    MeinAddon.onBankUpdate(balance);
+                    break;
+                }
+
+                case "blockoftheday": {
+                    String type = in.readUTF();
+                    String blockMaterial = in.readUTF();
+                    int blockData = in.readInt();
+                    String entityType = in.readUTF();
+                    
+                    // type ist "BLOCK"/"MATERIAL" → blockMaterial gefüllt, entityType leer
+                    // type ist "ENTITY" → entityType gefüllt, blockMaterial leer
+                    MeinAddon.onBlockOfTheDay(type, blockMaterial, blockData, entityType);
+                    break;
+                }
+
+                case "blockoftheday_progress": {
+                    MeinAddon.onBlockProgressUpdate();
+                    break;
+                }
+
+                case "booster": {
+                    int count = in.readInt();
+                    for (int i = 0; i < count; i++) {
+                        String type = in.readUTF();
+                        int multiplier = in.readInt();
+                        MeinAddon.onBooster(type, multiplier);
+                    }
+                    break;
+                }
+
+                case "clearlag": {
+                    long remainingSeconds = in.readLong();
+                    MeinAddon.onClearLag(remainingSeconds);
+                    break;
+                }
+
+                case "entityremover": {
+                    long remainingSeconds = in.readLong();
+                    MeinAddon.onEntityRemover(remainingSeconds);
+                    break;
+                }
+
+                case "plotchat_configuration": {
+                    boolean status = in.readBoolean();
+                    MeinAddon.onPlotChatConfig(status);
+                    break;
+                }
+
                 default:
                     // Unbekannte ID ignorieren
                     // Neue Payloads können jederzeit hinzukommen
@@ -266,10 +489,31 @@ Neue Payloads können jederzeit hinzukommen.
 ```
 Kanal:  griefergames:main
 Payloads:
-  ┌──────────────────┬─────────────┬──────────────────────────────────────────────┐
-  │ ID               │ Felder      │ Wann gesendet                                │
-  ├──────────────────┼─────────────┼──────────────────────────────────────────────┤
-  │ accountbalance   │ double      │ Beim Betreten eines Servers & bei jeder      │
-  │                  │             │ Guthabenänderung                             │
-  └──────────────────┴─────────────┴──────────────────────────────────────────────┘
+  ┌──────────────────────────────┬────────────────────────────┬──────────────────────────────────────────────┐
+  │ ID                           │ Felder                     │ Wann gesendet                                │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ accountbalance               │ double                     │ Beim Betreten eines Servers & bei jeder      │
+  │                              │                            │ Guthabenänderung                             │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ bankbalance                  │ double                     │ Beim Betreten eines Servers & bei jeder      │
+  │                              │                            │ Bankguthabenänderung                         │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ blockoftheday                │ UTF, UTF, int, UTF         │ Wenn der Block/die Entity des Tages          │
+  │                              │                            │ aktualisiert wird                            │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ blockoftheday_progress       │ (keine)                    │ Regelmäßig zur Synchronisierung des          │
+  │                              │                            │ Fortschritts                                 │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ booster                      │ int, [UTF, int, ...]       │ Beim Betreten eines Servers & bei Änderung   │
+  │                              │                            │ der aktiven Booster                          │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ clearlag                     │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
+  │                              │                            │ ClearLag                                     │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ entityremover                │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
+  │                              │                            │ Entity Remover                               │
+  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
+  │ plotchat_configuration       │ boolean                    │ Beim Betreten eines Servers & bei Änderung   │
+  │                              │                            │ der PlotChat-Einstellung                     │
+  └──────────────────────────────┴────────────────────────────┴──────────────────────────────────────────────┘
 ```
