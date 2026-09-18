@@ -23,6 +23,7 @@
   * [Grundstücksrechte vergeben](grundlagen/grundstuecke/grundstucksrechte-vergeben.md)
   * [Grundstücke überschreiben](grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)
   * [Grundstücke inaktiver Spieler beantragen](grundlagen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)
+  * [Spawn-Grundstücke](grundlagen/grundstuecke/spawn-grundstucke.md)
   * [Limit-Flags](grundlagen/grundstuecke/limit-flags.md)
   * [Grundstücke verschieben & erweitern](grundlagen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
 * [⚙️ Befehlsübersicht](grundlagen/befehlsuebersicht/README.md)
