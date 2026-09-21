@@ -1,23 +1,5 @@
 ---
 description: Hier findest du Antworten auf typische Anliegen zu unserem TeamSpeak-Server
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
-  tags:
-    visible: true
-  actions:
-    visible: true
 ---
 
 # TeamSpeak
@@ -30,19 +12,17 @@ Wenn du dies getan hast, musst du dich auf unserem TeamSpeak-Server in der Einga
 
 Danach kannst du in der Lobby (`/hub`) unseres Minecraft-Servers einen der Befehle
 
-* `/ts update`
-* `/ts`
-* `/tsu`
-* `/teamspeak`
-* `/teamspeakupdate`&#x20;
+- `/ts update`
+- `/ts`
+- `/tsu`
+- `/teamspeak`
+- `/teamspeakupdate`&#x20;
 
 eingeben. Jetzt musst du nur noch einige Sekunden bis wenige Minuten warten.
 
 Falls die Rang-Synchronisierung nicht funktionieren sollte, versuche es nach 24 Stunden erneut. Der Bot ist nicht zu 100% fehlerfrei und legt ab und zu eine kleine „Ruhezeit“ ein.
 
 Sollte auch nach 24 Stunden keine Synchronisation deines Ranges möglich sein, wende dich bitte an ein Teammitglied.
-
-
 
 ### TeamSpeak: Forum-Verifikation
 
@@ -53,8 +33,6 @@ Hierzu können Gäste ihre TeamSpeak-Identität mit einem existierenden Foren-Ac
 {% hint style="info" %}
 Die Erstellung eines neuen Foren-Accounts ist nur noch über GGAuth möglich. Hierfür wird ein beliebiger Minecraft-Account benötigt. Ohne einen Minecraft-Account ist keine Verifikation auf dem TeamSpeak-Server mehr möglich.
 {% endhint %}
-
-
 
 **Ablauf der Verifikation**
 
@@ -73,11 +51,7 @@ Du kannst in deinem GGAuth-Account immer nur **eine e**indeutige Identität verk
 Die eindeutige ID findest du im TeamSpeak-Client unter _Extras_ » _Identitäten_ (Expertenmodus aktiviert)
 {% endhint %}
 
-
-
 Für noch mehr Austausch (ohne Minecraft-Account) schau auch gerne auf unserem [Discord-Server](https://discord.griefergames.net/) vorbei.
-
-
 
 ### TeamSpeak: Anstupsen deaktivieren
 
@@ -102,8 +76,6 @@ Wenn du die Benachrichtigung des Anstupsens nicht mehr als Pop-up Fenster sehen 
 2. Dann auf „Optionen“ klicken
 3. Folgend mit dem Klick auf „Anwendung“
 4. Jetzt musst du nur noch in der Unterkategorie „Verschiedenes“ den Haken in der Checkbox „Anstupsen Dialog nie zeigen“ setzen und fertig!
-
-
 
 ### TeamSpeak: Mikro-Qualität & Echo
 
@@ -135,5 +107,6 @@ Das Ganze sollte nun so aussehen:
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Empfohlene Einstellungen für Push-to-Talk in TeamSpeak 3</p></figcaption></figure>
 
-Es gibt natürlich noch weitere Möglichkeiten, die Qualität deiner Audioverbindung zu verbessern. Du kannst dir ein qualitativ hochwertiges Mikrofon (und Mischpult) zulegen oder einfach VoiceMeeter benutzen. Diese Software ist ein virtuelles Mischpult und bietet grandiose Einstellungen. \
-Wie du diese Software installierst und einstellst, erfährst du durch Tutorials auf YouTube.
+Es gibt natürlich noch weitere Möglichkeiten, die Qualität deiner Audioverbindung zu verbessern. Du kannst dir ein qualitativ hochwertiges Mikrofon (und Mischpult) zulegen oder einfach VoiceMeeter benutzen. Diese Software ist ein virtuelles Mischpult und bietet grandiose Einstellungen. 
+
+Wie du diese Software installierst und einstellst, erfährst du durch Tutorials auf YouTube
