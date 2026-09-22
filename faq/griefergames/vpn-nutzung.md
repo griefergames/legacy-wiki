@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # VPN-Nutzung
@@ -29,12 +31,12 @@ Bist du beispielsweise gebannt worden und nutzt anschließend einen VPN, um dies
 
 Bitte beachte, dass unser Netzwerk zum Schutz vor Bot-/DDoS-Angriffen oder aus rechtlichen Gründen nicht aus allen Ländern erreichbar ist. Wir empfehlen die Nutzung eines VPN-Servers aus dem europäischen DACH-Raum (Deutschland, Österreich & Schweiz) für eine optimale Verbindung.
 
-
-
 <details>
 
-<summary>An diesem Artikel beteiligt</summary>
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/informationen-zu-griefergames/vpn-nutzung)_._
+{% endhint %}
 
 </details>

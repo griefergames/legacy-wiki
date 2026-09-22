@@ -124,13 +124,3 @@ Beim letzten Punkt geht es **nicht um eine kurzfristige Stimmung** auf dem Cityb
 #### Wie melde ich Verstöße eines Helfers?
 
 Sollte dir auffallen, dass ein Helfer seine Rechte missbraucht oder gegen unser Regelwerk verstößt, erstelle bitte eine Beschwerde mit dem Label "Spielermeldung" über das Ticket-System im [Web](https://ticket.griefergames.de/) oder auf dem [Discord](https://discord.com/channels/325017098592059392/1022387246873198643).
-
-<details>
-
-<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
-
-{% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/das-helfer-system)_._
-{% endhint %}
-
-</details>

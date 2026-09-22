@@ -1,6 +1,6 @@
 # Übersicht der Helfer
 
-ier findet man eine Übersicht über die aktuell **aktiven Helfer** von GrieferGames.
+Hier findet man eine Übersicht über die aktuell **aktiven Helfer** von GrieferGames.
 
 Helfer unterstützen die Community auf ihrem jeweiligen Citybuild bei Fragen, kleineren Anliegen und allgemeinen Problemen. Sie sind dabei **keine Teammitglieder**, arbeiten aber eng mit dem Team zusammen.
 

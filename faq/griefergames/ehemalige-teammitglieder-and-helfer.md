@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# Ehemalige Teammitglieder & Helfer
+# Ehemalige Teammitglieder
 
 Auf dieser Seite findet ihr eine Übersicht über **alle ehemaligen Teammitglieder von GrieferGames**. Die Liste enthält Teammitglieder, die in der Vergangenheit Teil des Teams waren, mittlerweile aber nicht mehr sind.\
 \
@@ -239,42 +239,6 @@ Alle aktuellen Teammitglieder können in der [Teamliste](team.md) eingesehen wer
 
 </details>
 
-<details>
-
-<summary>Helfer</summary>
-
-* AOG\_0xXHunterXx0 (CB Evil)
-* JaR7 (CB 21)
-* blaze (CB 9)
-* CobbleShop (CB 2)
-* BinDaBobi (CB 5)
-* x\_Voice\_X (Cloud)
-* Schlomina (CB 22)
-* Saby87MM (CB 12)
-* Ibisobe (CB 20)
-* Buchbaum (CB 13)
-* Magic\_Farm (Nature & Extreme)
-* junro95 (CB 20)
-* EmreOzora (CB 22)
-* luca\_fendt (Nature & Extreme)
-* NfsNateDenver (CB 2)
-* TexasLanguste23 (CB 5)
-* \_MangoLassi\_ (CB 14)
-* SY\_MarvAP (CB 10)
-* RolDom\_FCR (CB 15)
-* DerNeueHappy19 (CB 22)
-* 1DrachiiLSP (CB 1)
-* Schokuhlade (CB 19)
-* Superflummi (CB 1)
-* coolhappynick36 (CB 5)
-* BigBlueFox (CB 10)
-* KirschenXD (CB 11)
-* Rommel12345 (CB Evil)
-* Pummelbaerchen\_ (CB 19)
-* Simeon626 (CB10)
-
-</details>
-
 ### Kreativ
 
 <details>
@@ -329,3 +293,13 @@ Alle aktuellen Teammitglieder können in der [Teamliste](team.md) eingesehen wer
 {% hint style="warning" %}
 Bei den aufgelisteten Spielern garantieren wir **keine** eindeutige Übereinstimmung für deren aktuellen Minecraft-Namen.
 {% endhint %}
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/informationen-zu-griefergames/ehemalige-teammitglieder)_._
+{% endhint %}
+
+</details>

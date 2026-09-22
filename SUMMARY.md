@@ -91,7 +91,7 @@
 * [Informationen zu GrieferGames](faq/griefergames/README.md)
   * [Team](faq/griefergames/team.md)
   * [Alfred (KI-Support)](faq/griefergames/alfred-ki-support.md)
-  * [Ehemalige Teammitglieder & Helfer](faq/griefergames/ehemalige-teammitglieder-and-helfer.md)
+  * [Ehemalige Teammitglieder](faq/griefergames/ehemalige-teammitglieder-and-helfer.md)
   * [Teammitglied werden](faq/griefergames/teammitglied-werden.md)
   * [VPN-Nutzung](faq/griefergames/vpn-nutzung.md)
 * [Minecraft: Allgemein](faq/allgemein/README.md)

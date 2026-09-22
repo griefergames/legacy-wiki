@@ -17,18 +17,20 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Teammitglied werden
 
 ### Offene Bewerbungsphasen
 
-Es gibt offene Bewerbungsphasen zu folgenden Positionen im Team:&#x20;
+Es gibt offene Bewerbungsphasen zu folgenden Positionen im Team:
 
 * Developer [(auch bezahlt)](teammitglied-werden.md#griefergames-als-arbeitgeber)
 
 {% hint style="danger" %}
-Auf die Positionen&#x20;
+Auf die Positionen
 
 * Administrator
 * Organisator
@@ -52,8 +54,6 @@ In der Zukunft sind für diese Positionen **keine** offenen Bewerbungsphasen gep
 {% endhint %}
 
 Eine Auflistung, in welcher gezeigt wird, welches Teammitglied aktuell welche Teamposition einnimmt, ist in der [Team-Übersicht](team.md) zu finden.
-
-
 
 ### GrieferGames als Arbeitgeber?
 
@@ -80,12 +80,12 @@ Dann kannst du mit einer Bewerbung zum bezahlten Entwickler zeigen, was du drauf
 * Berichte über deine Erfahrungen im Umgang mit den oben genannten Punkten.
 * Füge mindestens ein von dir absolviertes Projekt zu deiner Bewerbung hinzu, sodass wir dieses auch Code-technisch begutachten können. Projekte müssen hierfür auf GitHub / GitLab hochgeladen, Repositories per Direktlink freigegeben und der entsprechende Link zur Bewerbung hinzugefügt werden.
 
-
-
 <details>
 
-<summary>An diesem Artikel beteiligt</summary>
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/haufig-gestellte-fragen/informationen-zu-griefergames/teammitglied-werden)_._
+{% endhint %}
 
 </details>
