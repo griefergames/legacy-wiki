@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Praktische Chat-Filter für LabyMod
@@ -25,7 +27,7 @@ Hey, ich habe hier ein paar praktische Filter für GrieferGames (Version 1.8) er
 
 ***
 
-Falls du noch nicht weißt, wie du Filter einrichtest, klicke einfach auf deine Version für das passende Tutorial. Wenn du dich bereits auskennst, kannst du diesen Schritt überspringen: \
+Falls du noch nicht weißt, wie du Filter einrichtest, klicke einfach auf deine Version für das passende Tutorial. Wenn du dich bereits auskennst, kannst du diesen Schritt überspringen:\
 [**LabyMod 3**](https://youtu.be/XtLyDoapibA?t=62) | [**LabyMod 4**](https://youtu.be/XtLyDoapibA?t=180)
 
 ***
@@ -212,8 +214,6 @@ _&#x45;mpfohlen: Secondary Chat_\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃, @</kbd>
 
-
-
 ### GrieferGames Pass:
 
 \
@@ -223,14 +223,3 @@ _&#x45;mpfohlen: Secondary Chat_\
 <kbd>\[GrieferPass]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃, @</kbd>
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [PoliceModzXD](https://profile.griefergames.net/minecraft/39184854-ad19-4ea8-a797-5b7778a640a5)
-* [50U7R34P3R](https://profile.griefergames.net/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>

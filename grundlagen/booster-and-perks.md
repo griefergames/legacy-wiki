@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ⬆️ Booster & Perks
@@ -32,14 +34,14 @@ Folgende Booster gibt es auf GrieferGames:
 
 Booster werden auf dem ganzen Citybuild-Server aktiviert und jeder Spieler erhält die Vorteile der Effekte.
 
-Jeder Booster hat eine Laufzeit von 15 Minuten. Mit dem Zünden eines Boosters der gleichen Art während der Laufzeit wird die nächste Stufe aktiviert. Booster haben maximal 5 Stufen. \
+Jeder Booster hat eine Laufzeit von 15 Minuten. Mit dem Zünden eines Boosters der gleichen Art während der Laufzeit wird die nächste Stufe aktiviert. Booster haben maximal 5 Stufen.\
 Der Mob-, Drop- & XP-Booster werden mit jeder Stufe in ihrer Wirkung verstärkt.\
 Der Fliegen- & Break-Booster werden mit jeder Stufe um 15 Minuten verlängert.
 
 #### Booster erhalten
 
-Du hast die Möglichkeit Booster am [Case-Opening](../erweiterte-features/das-case-opening.md) am Spawn zu gewinnen. \
-Die Booster findest du in unterschiedlichen Kisten.&#x20;
+Du hast die Möglichkeit Booster am [Case-Opening](../erweiterte-features/das-case-opening.md) am Spawn zu gewinnen.\
+Die Booster findest du in unterschiedlichen Kisten.
 
 Solltest du nicht auf dein Glück vertrauen, kannst du Booster auch einfach direkt im GrieferGames [Webshop](../hilfreiche-links/griefergames-dienste.md) kaufen.
 
@@ -59,7 +61,7 @@ Eine Liste aller verfügbaren Perks erhältst du durch den Befehl `/perks`.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Das Perk-Menü</p></figcaption></figure>
 
-Perks kannst du für [GrieferGames-Dollar](waehrungen.md#griefergames-dollar) kaufen oder beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#perks) mit deinen Orbs erwerben oder im CaseOpening aus verschiedenen Kisten gewinnen. \
+Perks kannst du für [GrieferGames-Dollar](waehrungen.md#griefergames-dollar) kaufen oder beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#perks) mit deinen Orbs erwerben oder im CaseOpening aus verschiedenen Kisten gewinnen.\
 Einmal erworbene Perks sind dauerhaft für deinen Charakter verfügbar.
 
 {% tabs %}
@@ -114,7 +116,7 @@ Charakter-Perks schalten spezielle Effekte für deinen Spielcharakter frei.
 | [Wither Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Wither-Perk)                   | Du bekommst keinen Wither-Effekt mehr.                               | CaseOpening                           |
 | [Abbaulähmung Resistenz](https://items.griefergames.net/#Perks_%7C_Anti-Abbaul%C3%A4hmung-Perk)  | Du bekommst keinen Abbaulähmungs-Effekt mehr.                        | CaseOpening                           |
 
-Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie freigeschaltet hast.
+Charakter-Perks kannst du im Perk-Menü aktivieren und deaktivieren, sobald du sie freigeschaltet hast. Sobald ein Perk aktiviert wurde, bleibt es **dauerhaft aktiv**, bis es wieder manuell deaktiviert wird.
 
 Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-zauberwald.md)!
 {% endtab %}
@@ -122,9 +124,9 @@ Diese Perks funktionieren **nicht** im [Zauberwald](../erweiterte-features/der-z
 {% tab title="Funktions-Perks" %}
 Funktions-Perks schalten besondere Spielfunktionen frei.
 
-<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">	Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Perks_%7C_ClearChat_Perk">ClearChat</a></td><td>Fügt 1000 Leerzeilen im Chat ein.</td><td>15.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Slowchat_Perk">SlowChat</a></td><td>Cooldown beim Schreiben von Nachrichten.</td><td>15.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Mutep_Perk">MuteP</a></td><td>Schaltet einen Spieler für 15 Minuten stumm.</td><td>100.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Startkick_Perk">Startkick</a></td><td>Starte eine Abstimmung, um einen Spieler vom Server zu werfen.</td><td>100.000.000 $</td></tr></tbody></table>
+<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Perks_%7C_ClearChat_Perk">ClearChat</a></td><td>Fügt 1000 Leerzeilen im Chat ein.</td><td>15.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Slowchat_Perk">SlowChat</a></td><td>Cooldown beim Schreiben von Nachrichten.</td><td>15.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Mutep_Perk">MuteP</a></td><td>Schaltet einen Spieler für 15 Minuten stumm.</td><td>100.000.000 $</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Startkick_Perk">Startkick</a></td><td>Starte eine Abstimmung, um einen Spieler vom Server zu werfen.</td><td>100.000.000 $</td></tr></tbody></table>
 
-Funktions-Perks lassen sich nicht deaktivieren.&#x20;
+Funktions-Perks lassen sich nicht deaktivieren.
 
 Funktionsperks kannst du einzusetzen, indem du den entsprechenden Befehl des Perks verwendest.
 {% endtab %}
@@ -133,7 +135,7 @@ Funktionsperks kannst du einzusetzen, indem du den entsprechenden Befehl des Per
 Rechte schalten dir zusätzliche Features frei oder geben dir zusätzliche Fähigkeiten.\
 Rechte können dein Spielerlebnis beeinflussen.
 
-<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">	Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Famboss-Recht">Amboss-Recht</a></td><td>Du hast einen mobilen Amboss.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht">Kartenersteller</a></td><td>Du kannst <a href="../erweiterte-features/kartengenerierung.md">Karten generieren</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Machtversiegelte_Vorratskammer">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Ph%C3%B6nix-Auge">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Enderchest_sehen">Offline Endertruhe</a></td><td>Du kannst Endertruhen von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Taktisches_Analysemodul">Offline Inventare</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Inventare_sehen">Offline Inventare</a></td><td>Du kannst Inventare von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_Fly_Recht">Fly-Rechte</a></td><td>Du kannst dich in die Lüfte erheben.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Forcefield_Flag">Forcefield-Rechte</a></td><td>Du kannst die Forcefield-Flag auf deinem Grundstück aktivieren.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a></td><td>Erhalte eine Schutzaura, die andere Spieler wegstößt.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_2._Zeile_Signieren-Recht">2.Zeile signieren</a></td><td>Du kannst eine weitere Zeile zu deiner Signatur hinzufügen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fsigninv-Recht">SignInv<br>UnsignInv</a></td><td>(Un-)Signiert alle Items im Inventar.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Geb%C3%BChrensenkungs-Perk">Gebührensenkung</a></td><td>Senkt diverse Gebühren im Spiel.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fh%C3%A4ndler-Rechte">Händler-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-handler-handler">Orb-Händler</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fverk%C3%A4ufer-Rechte">Verkäufer-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-verkaufer-verkaufer">Orb-Verkäufer</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Ersteller_sehen_im_Auktionshaus">Auktionator</a></td><td>Du kannst die Ersteller laufender Auktionen sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Alle_Slots_in_%2Ftrade">Handelsslots-Recht</a></td><td>Alle Slots bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Kein_Cooldown_in_%2Ftrade">Handelscooldown-Recht</a></td><td>Kein Cooldown bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Keine_Geb%C3%BChren_in_%2Ftrade">Handelsgebühren-Recht</a></td><td>Keine Kosten bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Pay-All_Rechte">Pay *</a></td><td>Zahlung an alle Spieler auf dem Citybuild-Server.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Plot-Pay-Add_Recht">PlotPay *</a></td><td>Zahlung an alle Spieler auf deinem Grundstück.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Ph%C3%B6nix-Flug">Globales Pay*</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Globale-Pay-All_Rechte_(Item)">Globales Pay*</a></td><td>Zahlung an alle Spieler auf dem Netzwerk.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Dauerhaftes_God_Recht_(diesmal_3-mailg)">God-Recht</a></td><td>Keinen Schaden erleiden.</td><td>CaseOpening</td></tr></tbody></table>
+<table><thead><tr><th width="219.66666666666666">Perk</th><th width="326">Funktion</th><th>Preis</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Famboss-Recht">Amboss-Recht</a></td><td>Du hast einen mobilen Amboss.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fcreatekarte-Recht">Kartenersteller</a></td><td>Du kannst <a href="../erweiterte-features/kartengenerierung.md">Karten generieren</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Machtversiegelte_Vorratskammer">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Ph%C3%B6nix-Auge">Offline Endertruhe</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Enderchest_sehen">Offline Endertruhe</a></td><td>Du kannst Endertruhen von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Taktisches_Analysemodul">Offline Inventare</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Offline_Inventare_sehen">Offline Inventare</a></td><td>Du kannst Inventare von Offline-Spielern sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_Fly_Recht">Fly-Rechte</a></td><td>Du kannst dich in die Lüfte erheben.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Forcefield_Flag">Forcefield-Rechte</a></td><td>Du kannst die Forcefield-Flag auf deinem Grundstück aktivieren.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Dauerhaftes_%2Faura_Recht">Aura-Rechte</a></td><td>Erhalte eine Schutzaura, die andere Spieler wegstößt.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_2._Zeile_Signieren-Recht">2. Zeile Signieren-Recht</a></td><td>Du kannst eine weitere Zeile zu deiner Signatur hinzufügen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fsigninv-Recht">SignInv<br>UnsignInv</a></td><td>(Un-)Signiert alle Items im Inventar.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fpsign-Recht">/psign-Recht</a></td><td>Mit <strong><code>/psign</code></strong> wird ein Item mit eurem aktuellen Displaynamen und Prefix signiert.</td><td>Caseopening</td></tr><tr><td><a href="https://items.griefergames.net/#Perks_%7C_Geb%C3%BChrensenkungs-Perk">Gebührensenkung</a></td><td>Senkt diverse Gebühren im Spiel.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fh%C3%A4ndler-Rechte">Händler-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-handler-handler">Orb-Händler</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_%2Fverk%C3%A4ufer-Rechte">Verkäufer-Recht</a></td><td>Direktzugriff zum <a href="../erweiterte-features/das-orb-system.md#der-orb-verkaufer-verkaufer">Orb-Verkäufer</a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Ersteller_sehen_im_Auktionshaus">Auktionator</a></td><td>Du kannst die Ersteller laufender Auktionen sehen.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Alle_Slots_in_%2Ftrade">Handelsslots-Recht</a></td><td>Alle Slots bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Kein_Cooldown_in_%2Ftrade">Handelscooldown-Recht</a></td><td>Kein Cooldown bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Keine_Geb%C3%BChren_in_%2Ftrade">Handelsgebühren-Recht</a></td><td>Keine Kosten bei der Nutzung von <a href="handels-system.md"><code>/trade</code></a>.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Pay-All_Rechte">Pay *</a></td><td>Zahlung an alle Spieler auf dem Citybuild-Server.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Rechte_%7C_Plot-Pay-Add_Recht">PlotPay *</a></td><td>Zahlung an alle Spieler auf deinem Grundstück.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Ph%C3%B6nix-Flug">Globales Pay*</a><br><a href="https://items.griefergames.net/#Rechte_%7C_Globale-Pay-All_Rechte_(Item)">Globales Pay*</a></td><td>Zahlung an alle Spieler auf dem Netzwerk.</td><td>CaseOpening</td></tr><tr><td><a href="https://items.griefergames.net/#Dauerhaftes_God_Recht_(diesmal_3-mailg)">God-Recht</a></td><td>Keinen Schaden erleiden.</td><td>CaseOpening</td></tr></tbody></table>
 
 Aktive Rechte kannst du nach Erhalt einzusetzen, indem du den entsprechenden Befehl des Rechtes verwendest.
 
@@ -145,7 +147,7 @@ Passive Rechte sind nach Erhalt dauerhaft aktiv und müssen nicht aktiviert werd
 
 Manche Features auf dem Netzwerk ermöglichen Effekte für Spiel-Charaktere für einen gewissen Zeitraum.
 
-Da in der Farmwelt der [Fliegen-Booster](booster-and-perks.md#booster) nicht funktioniert, hast du die Möglichkeit dir beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#der-orb-verkaeufer-verkaeufer) einen [Flugtrank](https://items.griefergames.net/#Orb-Items_%7C_Flugtrank_) zu besorgen. Sobald du diesen trinkst, kannst du für einen gewissen Zeitraum auf deinem Grundstück und in der Farmwelt fliegen.&#x20;
+Da in der Farmwelt der [Fliegen-Booster](booster-and-perks.md#booster) nicht funktioniert, hast du die Möglichkeit dir beim [Orb-Verkäufer](../erweiterte-features/das-orb-system.md#der-orb-verkaeufer-verkaeufer) einen [Flugtrank](https://items.griefergames.net/#Orb-Items_%7C_Flugtrank_) zu besorgen. Sobald du diesen trinkst, kannst du für einen gewissen Zeitraum auf deinem Grundstück und in der Farmwelt fliegen.
 
 Beim Orb-Verkäufer erhältst du ebenfalls einen [Abbautrank](https://items.griefergames.net/#Orb-Items_%7C_Abbautrank), den du trinken kannst, um eine erhöhte Abbaugeschwindigkeit zu erhalten.
 
@@ -161,18 +163,3 @@ Solltest du für eine Gruppe Spieler einen Flug- oder Abbau-Effekt nutzen wollen
 Zusätzlich gibt es noch ein Item, welches dir erlaubt auf deinem Grundstück das Fliegen zu ermöglichen. Hierzu werden dann weder Booster noch Tränke benötigt. Dieses Item erhältst du gelegentlich beim [Adventurer](../erweiterte-features/das-adventurer-system.md#der-admin-shop) oder als Gewinn aus dem [Case-Opening](../erweiterte-features/das-case-opening.md).
 
 <table data-header-hidden><thead><tr><th width="330">Item</th><th>Funktion</th></tr></thead><tbody><tr><td><a href="https://items.griefergames.net/#Plot-Fliegen">Plot-Fliegen 1 Tag</a></td><td>Ermöglicht es dir und vertrauten Spielern 1 Tag auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 3 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 3 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 7 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 7 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 30 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 30 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 60 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 60 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 90 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 90 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 180 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 180 Tage auf deinem Grundstück zu fliegen</td></tr><tr><td>Plot-Fliegen 365 Tage</td><td>Ermöglicht es dir und vertrauten Spielern 365 Tage auf deinem Grundstück zu fliegen</td></tr></tbody></table>
-
-
-
-<details>
-
-<summary>An diesem Artikel beteiligt</summary>
-
-* [Lohoff44](https://profile.griefergames.live/minecraft/d20fe540-d3a4-4b14-bdb4-1e0ca9072029)
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-
-</details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../hilfreiche-links/under-construction.md)?
-{% endhint %}

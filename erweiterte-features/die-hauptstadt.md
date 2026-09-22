@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🏛️ Die Hauptstadt
@@ -28,7 +30,7 @@ Die Stadt ist ein zentraler Ort auf Griefergames, in der du dich mit anderen Spi
 
 Die Stadt (oder Hauptstadt) wird mit der Entwicklung neuer Features stetig erweitert und ausgebaut.
 
-<figure><img src="https://lh7-us.googleusercontent.com/gfuBRKCkJT0WNiwUmhjlnLSj7ez1mPZyhsaUAu-IgO5TbKQq9phWlNRDTuJnSrzYei8UY_gZ_USTok7bO9tzQ4LX8XghTbAxlWxKRsadOHVPCyzESWlcXrl_erixUNwedsjHwp7lwpw7IjqGff-QIsA" alt=""><figcaption><p> Der Spawn der Stadt</p></figcaption></figure>
+<figure><img src="https://lh7-us.googleusercontent.com/gfuBRKCkJT0WNiwUmhjlnLSj7ez1mPZyhsaUAu-IgO5TbKQq9phWlNRDTuJnSrzYei8UY_gZ_USTok7bO9tzQ4LX8XghTbAxlWxKRsadOHVPCyzESWlcXrl_erixUNwedsjHwp7lwpw7IjqGff-QIsA" alt=""><figcaption><p>Der Spawn der Stadt</p></figcaption></figure>
 
 Erreichst du die Stadt über den Warp-Befehl landest du am Hauptplatz der Stadt. Von hier aus siehst du bereits einige der Bewohner. Schauen wir doch einmal, wen wir hier alles antreffen:
 
@@ -59,7 +61,7 @@ Am Hauptplatz haben auch der Adventurer-NPC und der Admin-Shop-NPC ihren Stand e
 
 <figure><img src="https://lh7-us.googleusercontent.com/e1K7oTHWNLiSFZUa4XMGGuF5j9tpg3xMROEyTxEO0F5YDLSBvzwI-CSZ6MaC7_DuBysfIlRVuF56Q5Id67KRBm0DfZEppIbp8_BXthHDbXRarQfg_kDfT4nr_rUlQE_7hARmtBJlFFdNzpFv3TGLIu0" alt=""><figcaption><p>Der Vote-NPC am Hauptplatz der Hauptstadt</p></figcaption></figure>
 
-Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr [Vote-Belohnungen](das-vote-system.md#vote-belohnungen) abholen könnt.&#x20;
+Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch die Übersicht über eure aktuelle Vote-Streak, ob ihr bereits abgestimmt habt und ob ihr [Vote-Belohnungen](das-vote-system.md#vote-belohnungen) abholen könnt.
 
 ### Der Bürgermeister
 
@@ -68,7 +70,7 @@ Der Vote-NPC ist Bestandteil des [Vote-System](das-vote-system.md) und gibt euch
 Am Hauptplatz der Hauptstadt findet sich auch der Bürgermeister. Hier könnt ihr euren Haupt-Citybuild einstellen bzw. wechseln und euren Bürgerausweis (Karte) erhalten bzw. aktualisieren.
 
 {% hint style="info" %}
-Ihr müsst Bürger eines Citybuilds sein, um für einen [Helfer](das-helfer-system.md) abzustimmen oder euch selbst als Helfer zur Wahl zu stellen.
+Ihr müsst Bürger eines Citybuilds sein, um für einen [Helfer](das-helfer-system/) abzustimmen oder euch selbst als Helfer zur Wahl zu stellen.
 {% endhint %}
 
 Neben dem Bürgermeister ist eine Anzeige zum nächsten Farmwelt-Reset.
@@ -100,13 +102,13 @@ Spieler, die in das Gefängnis gekommen sind, müssen eine vorgegebene Anzahl an
 
 Als Besucher kommt man mit `/warp Gefängnis` zum Gefängnis. Vom Spawn-Punkt aus kann man sich frei bewegen. Wenn man jedoch ins Gefängnis hineinfällt, ist man selbst drin und muss Blöcke abbauen.
 
-Ihr werdet ihr sofort ins Gefängnis teleportiert, wenn ihr eine Strafe bekommen habt oder reinfallt. \
+Ihr werdet ihr sofort ins Gefängnis teleportiert, wenn ihr eine Strafe bekommen habt oder reinfallt.\
 Verlasst ihr den Server, landet ihr immer, wenn ihr einen [Citybuild-Server](../grundlagen/spielmodus-citybuild/) betretet, im Gefängnis. Dies passiert so lange, bis ihr die erforderliche Anzahl an Blöcken abgebaut habt.
 
-Spieler können mit `/startjail` eine Abstimmung starten, um einen anderen Spieler ins Gefängnis zu schicken. Welche Gründe für eine solche Abstimmung zulässig sind, ist im [Regelwerk](https://griefergames.cloud/regelwerk) festgelegt. Für eine StartJail-Abstimmung wird zunächst ein Token benötigt. Dieser kann mit `/startjail buy`  erworben werden.
+Spieler können mit `/startjail` eine Abstimmung starten, um einen anderen Spieler ins Gefängnis zu schicken. Welche Gründe für eine solche Abstimmung zulässig sind, ist im [Regelwerk](https://griefergames.cloud/regelwerk) festgelegt. Für eine StartJail-Abstimmung wird zunächst ein Token benötigt. Dieser kann mit `/startjail buy` erworben werden.
 
 {% hint style="info" %}
-Nach einer StartJail-Abstimmung hat der Ersteller einen Cooldown von **drei Stunden**, bevor er erneut eine Abstimmung starten kann. Community-Strafen werden in der Regel nicht vom Team aufgehoben.&#x20;
+Nach einer StartJail-Abstimmung hat der Ersteller einen Cooldown von **drei Stunden**, bevor er erneut eine Abstimmung starten kann. Community-Strafen werden in der Regel nicht vom Team aufgehoben.
 {% endhint %}
 
 Auch das Team kann Spieler aufgrund von Regelverstößen mit einer Gefängnisstrafe bestrafen. Art und Dauer der Strafe hängen vom jeweiligen Vergehen ab. Mit jeder gleichen Strafe verdoppelt sich die Anzahl der abzubauenden Blöcke. Hat man mit der ersten Strafe z.B. 20 Blöcke abzubauen, bekommt man bei der zweiten Strafe automatisch 40 Blöcke welche man abbauen muss.
@@ -115,8 +117,8 @@ Auch das Team kann Spieler aufgrund von Regelverstößen mit einer Gefängnisstr
 
 Besucher können das Gefängnis mit allen Befehlen verlassen, die eine Teleportation beinhalten. Beispielsweise durch den Einsatz von z.B. `/p h` , `/warp` oder `/home`.
 
-Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken abbaut. \
-Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen.&#x20;
+Ein Gefangener kann nur aus dem Gefängnis entkommen, indem er die vorgeschriebene Anzahl an Obsidianblöcken abbaut.\
+Mit einer ["Gefängnis-Frei-Karte"](https://items.griefergames.net/#Gef%C3%A4ngnis-Frei-Karte) kann man Strafen der Community aufheben und das Gefängnis verlassen.
 
 <figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 
@@ -124,7 +126,7 @@ Strafen, welche durch Teammitglieder ausgestellt wurden, können nicht mit diese
 
 #### Besucher
 
-Besucher haben die Möglichkeit, den Spielern im Gefängnis den Abbau der Obsidianblöcke zu erschweren. Das geht beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer in der Stadt (`/warp stadt`) erworben werden. \
+Besucher haben die Möglichkeit, den Spielern im Gefängnis den Abbau der Obsidianblöcke zu erschweren. Das geht beispielsweise durch Eier- oder Schneeballbeschuss. Passende [Eier](https://items.griefergames.net/#Orb-Items_%7C_Faules_Ei) können beim Orb-Verkäufer in der Stadt (`/warp stadt`) erworben werden.\
 Das Behindern von Inhaftierten ist allerdings **auch** ein zulässiger Grund, um durch eine [Community-Abstimmung](die-hauptstadt.md#strafen) in das Gefängnis gesperrt zu werden.
 
 {% hint style="info" %}

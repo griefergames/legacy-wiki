@@ -18,25 +18,26 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # ⚒️ GrieferGames - Dienste
 
 #### Dienste
 
-* [GG Auth](https://auth.griefergames.net/)
-* [GG Chatlog](https://chatlog.griefergames.de/my-chatlogs)
-* [GG Item-Liste](https://items.griefergames.net/)
-* [GG Profil-System](https://profile.griefergames.net/) (Beta)
-* [GG Vote-System](https://vote.griefergames.net/)
-* [GG Event-System](https://events.griefergames.net)
-* [GG Streamer-System](https://streamer.griefergames.net)
-* [GG Webshop](https://store.griefergames.net)
+* [GGAuth](https://auth.griefergames.net/)
+* [Chatlog](https://chatlog.griefergames.de/my-chatlogs)
+* [Item-Liste](https://items.griefergames.net/)
+* [Profil-System](https://profile.griefergames.net/) (Beta)
+* [Vote-System](https://vote.griefergames.net/)
+* [Event-System](https://events.griefergames.net)
+* [Streamer-System](https://streamer.griefergames.net)
+* [Webshop](https://store.griefergames.net)
 
 #### Kommunikation
 
-* [GG Discord](https://discord.griefergames.net/) (primär)
-* [GG Teamspeak](ts3server://griefergames.net)
-* [GG Ticket-System](https://ticket.griefergames.de/)
-* [GG Forum](https://forum.griefergames.net/)
-
+* [Discord](https://discord.griefergames.net/) (primär)
+* [Teamspeak](ts3server://griefergames.net)
+* [Ticket-System (Web)](https://ticket.griefergames.de/)
+* [Forum](https://forum.griefergames.net/)

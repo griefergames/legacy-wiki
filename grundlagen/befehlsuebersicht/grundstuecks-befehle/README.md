@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Grundstücks-Befehle
@@ -41,14 +43,14 @@ layout:
 
 ### Grundstück verwalten
 
-| Befehl                            | Funktion                                                                                                                                  |
-| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>/p i<br>/plot info</p>         | Zeigt eine Übersicht mit [Informationen und Einstellungen des Grundstücks](grundstuecks-informationen.md) an                              |
-| <p>/p<br>/plot<br>/m<br>/menu</p> | [Grundstücks-Menü](../../grundstuecke/grundstueck-menue.md) aufrufen                                                                      |
-| /merge                            | [Grundstücke verbinden](../../grundstuecke/grundstuecke-verbinden.md)                                                                     |
-| /mergebug                         | Fehler beim Verbinden an der aktuellen Position an das Team melden                                                                        |
-| /p clear                          | <p>Grundstück in den Ursprungszustand versetzen <br></p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
-| <p>/p delete<br>/p reset</p>      | Grundstück löschen und freigeben                                                                                                          |
+| Befehl                            | Funktion                                                                                                                                 |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>/p i<br>/plot info</p>         | Zeigt eine Übersicht mit [Informationen und Einstellungen des Grundstücks](grundstuecks-informationen.md) an                             |
+| <p>/p<br>/plot<br>/m<br>/menu</p> | [Grundstücks-Menü](../../grundstuecke/grundstueck-menue.md) aufrufen                                                                     |
+| /merge                            | [Grundstücke verbinden](../../grundstuecke/grundstuecke-verbinden.md)                                                                    |
+| /mergebug                         | Fehler beim Verbinden an der aktuellen Position an das Team melden                                                                       |
+| /p clear                          | <p>Grundstück in den Ursprungszustand versetzen<br></p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
+| <p>/p delete<br>/p reset</p>      | Grundstück löschen und freigeben                                                                                                         |
 
 ### Rechte verwalten
 
@@ -60,7 +62,7 @@ Natürlich könnt ihr auch gemeinschaftlich an Projekten arbeiten. Dazu könnt i
 | /p add \<Spielername>    | Der Spieler verfügt nur über die Rechte, sofern du auf dem Citybuild online bist           |
 | /p remove \<Spielername> | Du entziehst dem Spieler alle Rechte von deinem Grundstück                                 |
 | /p deny \<Spielername>   | Der Spieler wird von deinem Grundstück gebannt und kann dieses nicht mehr betreten         |
-| /p undeny \<Spielername> | Der Spieler darf dein Grundstück wieder betreten                                           |
+| /p undeny \<Spielername> | Der Spieler wird von deinem Grundstück entbannt und darf dein Grundstück wieder betreten.  |
 | /p kick \<Spielername>   | Der Spieler wird von deinem Grundstück geworfen und kann direkt wieder drauf               |
 
 Solltest du statt einem Spielernamen ein `*` einfügen, so gilt dieser Befehl für alle Spieler.
@@ -95,4 +97,3 @@ Rechte für alle Spieler zu vergeben ist nicht sonderlich ratsam und nur bedingt
 | /boden                             | Ändere den [Grundstücksboden](../../grundstuecke/grundstuecke-veraendern.md#boden)                                                                                                             |
 | /aushöhlen                         | Öffne das Menü zum [Aushöhlen des Grundstück](../../grundstuecke/grundstuecke-veraendern.md#aushohlen)                                                                                         |
 | /breakblock                        | Baut einen geschützten Block (z.B. Barrieren, Endportalrahmen, Grundgestein und Spawner) auf deinem Grundstück ab. Der Block wird nach anklicken abgebaut und geht verloren.                   |
-
