@@ -24,7 +24,7 @@ layout:
 
 ## Minecraft Citybuild
 
-Das GrieferGames.net Netzwerk besteht grundsätzlich aus unserem 1.8, sowie dem Cloud Citybuild-Netzwerk. Auf dem 1.8 Netzwerk bieten wir aktuell 25 verschiedene einzelne Citybuild-Server an, sodass jeder Spieler seinen eigenen Server - abhängig von den jeweilig dort vertretenden Communities - finden wird. Das Cloud-Netzwerk befindet sich immer auf der aktuellsten Minecraft-Version, sodass ihr dort alle Neuerungen von Minecraft zusammen mit anderen Spielern erleben könnt
+Das GrieferGames.net Netzwerk besteht grundsätzlich aus unserem 1.8, sowie dem Cloud Citybuild-Netzwerk. Auf dem 1.8 Netzwerk bieten wir aktuell 25 verschiedene einzelne Citybuild-Server an, sodass jeder Spieler seinen eigenen Server - abhängig von den jeweilig dort vertretenden Communities - finden wird. Das Cloud-Netzwerk befindet sich immer auf der aktuellsten Minecraft-Version, sodass ihr dort alle Neuerungen von Minecraft zusammen mit anderen Spielern erleben könnt.
 
 Auf dem 1.8-Netzwerk bieten wir aktuell 25 verschiedene einzelne [Citybuild-Server](grundlagen/spielmodus-citybuild/) an, sodass jeder Spieler seinen eigenen Server - abhängig von den jeweilig dort vertretenden Communities - finden kann.
 
