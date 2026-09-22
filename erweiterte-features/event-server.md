@@ -78,5 +78,3 @@ Der Event-Server des 1.8-Netzwerks ist zudem vorwiegend für die Durchführung v
 Falls ihr ein Event auf dem Event-Server veranstalten möchtet und Unterstützung benötigt (bspw. Ergänzung mit technischen Plugins oder Aktivieren/Deaktivieren bestimmter Features, meldet euch mit eurem Event-Konzept gerne beim Team für weitere Absprachen. Wir empfehlen dafür die Nutzung des [Ticket-Systems](../hilfreiche-links/griefergames-dienste.md). 😉
 
 <br>
-
-**... :)**
