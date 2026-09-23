@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Abschließbare Truhen
 
-Mit diesen Befehlen kannst du die Einstellungen für die [Abschließbaren Truhen](../../abschliessbare-truhen.md) verwalten.
+Mit diesen Befehlen kannst du die Einstellungen für die [Abschließbaren Truhen](../../features/abschliessbare-truhen.md) verwalten.
 
 | Befehl                                                                                                      | Kurzerklärung                                                                                              |
 | ----------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |

@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Fehler bei Minecraft-Features
@@ -27,13 +29,9 @@ Meistens liegen Probleme an der Minecraft-Version selbst. Sollten dir also Fehle
 
 Unser 1.8-Netzwerk ist für das Spielen mit der Version **1.8.9** optimiert! Wir empfehlen diese Version und Client-Mods, welche auf dieser Version basieren.
 
-
-
 In einigen Fällen kann es sein, dass wir die aktuellste Vollversion (noch) nicht unterstützen und du dich damit nicht verbinden kannst. Versuche in solchen Fällen die Verbindung mit der vorherigen Version durchzuführen oder informiere dich auf unserem Discord-Server über die aktuell unterstützte Client-Version.
 
 Wie du die Version deines Spielclients änderst, kannst du im Artikel [Server verbinden schlägt fehl](../../server-verbinden.../...schlaegt-fehl..md#unterstuetzte-versionen) nachlesen.
-
-
 
 ### Bedrock-Updates
 
@@ -41,16 +39,12 @@ Die Bedrock Edition wird seitens der App-Anbieter regelmäßig aktualisiert. Auc
 
 Auch für die Bedrock-Version informieren wir dich immer auf unserem Discord-Server, wenn wir ein Update veröffentlichen.
 
-
-
 ### Fehler melden
 
-Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du auf [unserem Discord](../../hilfreiche-links/griefergames-dienste.md) eine Fehlermeldung erstellen. Beachte die Hinweise im Artikel [Fehler melden](../../griefergames-allgemein/fehler-melden.md).<br>
+Fällt dir ein Fehler auf, welcher trotz der passenden Version auftritt, kannst du auf [unserem Discord](../../hilfreiche-links/griefergames-dienste.md) eine Fehlermeldung erstellen. Beachte die Hinweise im Artikel [Fehler melden](../../allgemein/fehler-melden.md).<br>
 
-Bei Beeinträchtigungen der Server-Performance brauchst du **keine** Fehlermeldung erstellen. \
+Bei Beeinträchtigungen der Server-Performance brauchst du **keine** Fehlermeldung erstellen.\
 Wir sind über entsprechende Analyse-Tools und den allgemeinen Chat auf dem Discord über aktuelle Performanceprobleme stets zeitnah informiert. Bekannte und geplante Einschränkungen der Verbindung findest du auch im Kanal "server-status" auf unserem Discord.
-
-
 
 <details>
 

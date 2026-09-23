@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🚩 Spielstart und erste Schritte
@@ -47,7 +49,7 @@ Um zu deinem Grundstück zurück zu kommen, kannst du jederzeit den Befehl `/plo
 
 Deine gefarmten Materialien kannst du nun auf deinem Grundstück unterbringen. Nutze hierfür Kisten, welche du aus Holz herstellen kannst. Um Gegenstände herzustellen, kannst du dir eine Werkbank bauen und auf deinem Grundstück aufstellen oder jederzeit den Befehl `/craft` verwenden, um eine mobile Werkbank zu öffnen.
 
-Wenn du dir bei einem Rezept unsicher bist, kannst du [alle Rezepte](../../erweiterte-features/die-rezeptsammlung.md) über den Befehl `/rezepte` aufrufen und verwenden. \
-Hast du bereits ein Item im Inventar, welches du erneut herstellen willst, kannst du nach Aufruf des [Rezept-Menü für Standard-Blöcke](../../erweiterte-features/die-rezeptsammlung.md#standardrezepte) das Item in deinem Inventar anklicken und das passende Rezept wird direkt ausgewählt und geöffnet.
+Wenn du dir bei einem Rezept unsicher bist, kannst du [alle Rezepte](../features/die-rezeptsammlung.md) über den Befehl `/rezepte` aufrufen und verwenden.\
+Hast du bereits ein Item im Inventar, welches du erneut herstellen willst, kannst du nach Aufruf des [Rezept-Menü für Standard-Blöcke](../features/die-rezeptsammlung.md#standardrezepte) das Item in deinem Inventar anklicken und das passende Rezept wird direkt ausgewählt und geöffnet.
 
 Für mehr Befehle, kannst du dir unsere [Befehlsübersicht](../befehlsuebersicht/) anschauen. Möchtest du mehr Informationen zu Grundstücken und deren Einstellungen, findest du diese [hier](../grundstuecke/).

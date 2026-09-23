@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Grundstücke verändern
@@ -28,9 +30,9 @@ Im [Spielmodus Citybuild](../spielmodus-citybuild/) dreht sich alles um die bunt
 
 #### Rand-Menü
 
-Wenn ihr auf eurem Grundstück steht, könnt ihr den Befehl `/rand` eingeben. Nun bekommt ihr eine Übersicht über verschiedene Ränder. Ihr könnt jetzt auf euren Wunschrand klicken und euer Grundstücks-Rand wird direkt aktualisiert.&#x20;
+Wenn ihr auf eurem Grundstück steht, könnt ihr den Befehl `/rand` eingeben. Nun bekommt ihr eine Übersicht über verschiedene Ränder. Ihr könnt jetzt auf euren Wunschrand klicken und euer Grundstücks-Rand wird direkt aktualisiert.
 
-Einige Ränder sind jedoch nur ab bestimmten Rängen verfügbar oder lassen sich nur aus den [Epischen Kisten oder den Supreme-Kisten](../../erweiterte-features/das-case-opening.md) gewinnen.
+Einige Ränder sind jedoch nur ab bestimmten Rängen verfügbar oder lassen sich nur aus den [Epischen Kisten oder den Supreme-Kisten](../features/das-case-opening.md) gewinnen.
 
 {% tabs %}
 {% tab title="Spieler" %}
@@ -77,7 +79,7 @@ Einige Ränder sind jedoch nur ab bestimmten Rängen verfügbar oder lassen sich
 {% tab title="Supreme" %}
 * Grundgestein
 * Endportalrahmen
-* &#x20;alle Tonblöcke
+* alle Tonblöcke
 * alle Holzbretter
 * alle Holzstämme
 {% endtab %}
@@ -97,13 +99,13 @@ Einige Ränder sind jedoch nur ab bestimmten Rängen verfügbar oder lassen sich
 
 #### Vorgefertigte Ränder
 
-Nun sind diese Ränder aber echt eintönig. Nur ein Block? Das ist ja langweilig! Dafür könnt ihr nun auch vorgefertigte Ränder verwenden.&#x20;
+Nun sind diese Ränder aber echt eintönig. Nur ein Block? Das ist ja langweilig! Dafür könnt ihr nun auch vorgefertigte Ränder verwenden.
 
-Diese könnt ihr als Gewinn im [CaseOpening](../../erweiterte-features/das-case-opening.md) ziehen oder für [Adventurer-Coins](../../erweiterte-features/das-adventurer-system.md#der-admin-shop) kaufen.\
+Diese könnt ihr als Gewinn im [CaseOpening](../features/das-case-opening.md) ziehen oder für [Adventurer-Coins](../features/das-adventurer-system.md#der-admin-shop) kaufen.\
 Um einen solchen Rand einzulösen, nehmt ihr das Item in die Hand und interagiert mit eurem Grundstück. Ihr schlagt also zum Beispiel auf den Boden oder drückt mit dem Rand-Item auf euren Rand.
 
 Diese Ränder sind thematisch gestaltet.\
-Der "Erze-Rand" besteht zum Beispiel aus den verschiedenen Erz-Arten. \
+Der "Erze-Rand" besteht zum Beispiel aus den verschiedenen Erz-Arten.\
 Der "Graue Rand" besteht aus verschiedenen grauen Blöcken wie Grundgestein, grauer Wolle und hellgrauer Wolle.
 
 Diese Ränder sind schon seit längerem in den Kisten und werden regelmäßig durch neue ergänzt. Daher wird sicher etwas für jeden von euch dabei sein.
@@ -112,7 +114,7 @@ Diese Ränder sind schon seit längerem in den Kisten und werden regelmäßig du
 
 Sollten nun auch die vorgefertigten Ränder immer noch nicht zu eurem Grundstück passen, dann ist der Rand-Schmied etwas für euch.
 
-In der [Stadt](../../erweiterte-features/die-hauptstadt.md) (`/warp Stadt`) versteckt sich ein NPC im großen Gebäude, vor dem die anderen NPC stehen.
+In der [Stadt](../features/die-hauptstadt.md) (`/warp Stadt`) versteckt sich ein NPC im großen Gebäude, vor dem die anderen NPC stehen.
 
 Wenn ihr den NPC nun anklickt, könnt ihr euch einen eigenen Rand erstellen.
 
@@ -120,20 +122,20 @@ Zum Anfang könnt ihr zwei verschiedene Blöcke auswählen. Ihr könnt jedoch au
 
 <figure><img src="https://lh5.googleusercontent.com/gPVF1VlehR5_pAqXbP0RDbjJeZYxENBvmM6MddBvjmVaJzin7WqVTV6knYo0hIKMrOQzg50FimZwcGOqi0dDHRrd220Ipw6a0J4gEKvMQa4EUspgFP5j-tKMNN_6jKEsCgZBZivVz4IZlD7z4WzPICM" alt=""><figcaption><p>Rand-Konfigurator mit 3 Slots</p></figcaption></figure>
 
-Nun klickt ihr auf eure freien Slots.&#x20;
+Nun klickt ihr auf eure freien Slots.
 
 Ihr erhaltet nun die gleiche Auswahl, wie wenn ihr `/rand` auf eurem Grundstück eingebt.\
-Das heißt, ihr könnt nur wieder nur Blöcke auswählen, welche ihr vorher bereits freigeschaltet habt.&#x20;
+Das heißt, ihr könnt nur wieder nur Blöcke auswählen, welche ihr vorher bereits freigeschaltet habt.
 
-Jedoch gibt es hier eine neue Kategorie auf der zweiten Seite, die [CustomBlocks-Möbel](../customblocks.md), welche von jedem Spieler verwendet werden kann.
+Jedoch gibt es hier eine neue Kategorie auf der zweiten Seite, die [CustomBlocks-Möbel](../../allgemein/clients-and-modifikationen/customblocks.md), welche von jedem Spieler verwendet werden kann.
 
 {% hint style="info" %}
-Die CustomBlocks-Möbel kannst du nur mit der für den Server optimierten [CustomBlocks-Mod](../customblocks.md) sehen.
+Die CustomBlocks-Möbel kannst du nur mit der für den Server optimierten [CustomBlocks-Mod](../../allgemein/clients-and-modifikationen/customblocks.md) sehen.
 {% endhint %}
 
 Habt ihr nun euren Rand gestaltet, könnt ihr euer Rand-Item erstellen.
 
-Hierbei kostet jeder belegte Slot 1.000$. Ein "2-Blöcke"-Rand kostet euch also 2.000$. Nachdem ihr den Rand erstellt habt, erhaltet ihr ein Item, welches ihr - genau wie die vorgefertigten Ränder -  direkt auf dem Grundstück eurer Wahl einlösen kannst.
+Hierbei kostet jeder belegte Slot 1.000$. Ein "2-Blöcke"-Rand kostet euch also 2.000$. Nachdem ihr den Rand erstellt habt, erhaltet ihr ein Item, welches ihr - genau wie die vorgefertigten Ränder - direkt auf dem Grundstück eurer Wahl einlösen kannst.
 
 #### Admin-Ränder
 
@@ -161,7 +163,7 @@ Ihr könnt eure Wand verändern, indem ihr auf eurem Grundstück den Befehl `/wa
 
 Hier findet ihr nun verschiedene Blöcke, welche eure neue Wand sein können.
 
-Genau wie bei dem Rand-System gibt es bestimmte Wände, welche ihr nur mit einem Rang oder durch Kisten freischalten könnt.&#x20;
+Genau wie bei dem Rand-System gibt es bestimmte Wände, welche ihr nur mit einem Rang oder durch Kisten freischalten könnt.
 
 {% tabs %}
 {% tab title="Spieler" %}
@@ -233,7 +235,7 @@ Zuallererst braucht ihr dafür auf eurem Grundstück eine Wand aus Wolle, Glas o
 Wenn ihr hier z.B. Wolle auswählt, wird euer Gemälde dann ganz aus Wolle bestehen.
 {% endhint %}
 
-Nun braucht ihr die [verzauberten Wand-Bücher](https://items.griefergames.net/#Verzaubertes_Wand-Buch). Diese erhaltet ihr aus [Vote-Kisten oder aus Epischen Kisten](../../erweiterte-features/das-case-opening.md). Hierbei steht bei jedem Buch die Wand-Energie, was die Anzahl an Blöcken angibt, welche ihr mit diesem Buch einfärben könnt.
+Nun braucht ihr die [verzauberten Wand-Bücher](https://items.griefergames.net/#Verzaubertes_Wand-Buch). Diese erhaltet ihr aus [Vote-Kisten oder aus Epischen Kisten](../features/das-case-opening.md). Hierbei steht bei jedem Buch die Wand-Energie, was die Anzahl an Blöcken angibt, welche ihr mit diesem Buch einfärben könnt.
 
 <figure><img src="https://lh3.googleusercontent.com/IQkzrX592xgXOl7qcx279phNk58PCoiHraIt-71ENUCvOqBBHCjJRVcNWjKGWv6nk777qhv4cYPPytCnP9wKUHiVhugP2np-KNVfkexN6qRFjFngJpZslVQnmjdHJIm31EYBZUBXV2V79c_ezp-Lu98" alt=""><figcaption></figcaption></figure>
 
@@ -333,7 +335,7 @@ Auf der rechten Seite kannst du nun einen bestimmten Block wählen, welcher entf
 * Um einen bestimmten Block zum Entfernen auszuwählen, musst du diesen Block in deinem Inventar anklicken.
 * Um alle Blöcke in dem gewählten Bereich entfernen zu lassen, klickst du auf die rote Glasscheibe neben dem Netherstern und bestätigst dies bei der folgenden Bestätigung.
 
-Nun kannst du unten rechts auf die Schaufel klicken. \
+Nun kannst du unten rechts auf die Schaufel klicken.\
 Daraufhin kommt eine weitere Abfrage, ob du den Vorgang abschließen willst.
 
 In der Mitte ist nun ein "Informations-Kopf", bei welchem du noch einmal siehst, in welchem Radius dein Grundstück ausgehöhlt wird. Du siehst außerdem wie viele und welche Blöcke entfernt werden und ganz wichtig, wie teuer der Vorgang ist.
@@ -363,20 +365,18 @@ Verluste, welche durch die Nutzung entstehen, werden nicht erstattet.
 
 ### Biom
 
-Der Befehl zum Ändern des Bioms lautet `/p biome`. \
+Der Befehl zum Ändern des Bioms lautet `/p biome`.\
 Ein Beispiel für einen Biom-Befehl wäre `/p biome roofed_forest`.
 
 Im Minecraft Wiki findest du eine Aufstellung aller [Biome und ihrer Eigenschaften](https://minecraft.fandom.com/de/wiki/Biom). Leerzeichen im Namen eines Bioms müssen durch einen Unterstrich `_` ersetzt werden.
 
 {% hint style="info" %}
-Auf dem "Citybuild 1.8"-Netzwerk stehen **nicht** alle Biome zur Verfügung. Hier sind nur Biome nutzbar, welche bis zur Vollversion 1.8 integriert wurden.&#x20;
+Auf dem "Citybuild 1.8"-Netzwerk stehen **nicht** alle Biome zur Verfügung. Hier sind nur Biome nutzbar, welche bis zur Vollversion 1.8 integriert wurden.
 
 Auf dem "Citybuild Cloud"-Netzwerk sind alle Biome nutzbar, welche in der aktuellen Version vorhanden sind.
 {% endhint %}
 
 Nach dem Umstellen des Bioms auf deinem Grundstück, werden die Änderungen erst wirksam, wenn die Chunks entladen und neu geladen werden. Dies kannst du erzwingen, indem du entweder den Server verlässt und dich neu verbindest oder wenn du dich zum Spawn teleportierst und dann zum Grundstück zurückkehrst. In dieser Zeit darf sich auch keine andere Person in der Nähe des Grundstücks aufhalten.
-
-
 
 <details>
 

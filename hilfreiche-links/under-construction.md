@@ -19,11 +19,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🏗️ under construction
 
-Auf dieser Seite findest du Auflistungen an Seiten, welche wir gerne befüllt sehen möchten.&#x20;
+Auf dieser Seite findest du Auflistungen an Seiten, welche wir gerne befüllt sehen möchten.
 
 Natürlich freuen wir uns auch über jede Einreichung zu neuen Themen. Falls du aber gerade nicht weißt, zu welchem Thema du einen Beitrag leisten möchtest, dann kannst du hier Seiten finden, die etwas Zuneigung suchen.
 
@@ -31,9 +33,9 @@ Zum Einsenden stehen dir alle [Kontaktwege](griefergames-dienste.md) zur Verfüg
 
 ### Fehlende Seiten (dead-link)
 
-Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.&#x20;
+Diese Seiten wurden bereits erstellt, aber sind noch nicht befüllt. Hier kannst du dich austoben und ein Thema ausführlich erläutern. Schreibe Texte und füge Bilder ein. Dann lass uns deinen Vorschlag zukommen.
 
-* [Handels-System](../grundlagen/handels-system.md) (derzeit deaktiviert)
+* [Handels-System](/broken/pages/jJkhzImozJmKKjtJVGYx) (derzeit deaktiviert)
 * Die Immobilienbörse
 
 ### Unvollständige Seiten (stub)
@@ -44,25 +46,25 @@ Diese Seiten sind bereits erstellt und befüllt, aber ein wenig zu kurz. Hier m�
 * [Spielmodus Citybuild](../grundlagen/spielmodus-citybuild/)
 * [Farmserver Wasser & Lava](../grundlagen/spielmodus-citybuild/farmserver-wasser-and-lava.md)
 * [Grundstücke](../grundlagen/grundstuecke/)
-* [Aufzüge & Teleporter](../grundlagen/aufzuege-and-teleporter.md)
-* [Die Hauptstadt](../erweiterte-features/die-hauptstadt.md) (außer Gefängnis)
-* [Das-Clan-System](../erweiterte-features/das-clan-system.md) ([Neue Features](https://discord.com/channels/325017098592059392/953769435632660492/1498343364066676746),)
-* [Block des Tages](../erweiterte-features/der-block-des-tages.md)
-* [Das Unendliche Lager](../grundlagen/das-unendliche-lager.md) ([Lagerterminals](https://discord.com/channels/325017098592059392/953769435632660492/1524764380737048636))
+* [Aufzüge & Teleporter](../grundlagen/features/aufzuege-and-teleporter.md)
+* [Die Hauptstadt](../grundlagen/features/die-hauptstadt.md) (außer Gefängnis)
+* [Das-Clan-System](../grundlagen/features/das-clan-system.md) ([Neue Features](https://discord.com/channels/325017098592059392/953769435632660492/1498343364066676746),)
+* [Block des Tages](../grundlagen/features/der-block-des-tages.md)
+* [Das Unendliche Lager](../grundlagen/features/das-unendliche-lager.md) ([Lagerterminals](https://discord.com/channels/325017098592059392/953769435632660492/1524764380737048636))
 
 ### Visuelle Überarbeitung (missing picture)
 
 Diese Seiten sind bereits toll beschrieben, aber für das gewisse Extra fehlen einfach noch ein paar Bilder. Hast du Lust ein paar Screenshots zu machen und damit den Artikel ansehnlicher zu gestalten?
 
-* [Booster & Perks](../grundlagen/booster-and-perks.md)
+* [Booster & Perks](../grundlagen/features/booster-and-perks.md)
 * [Währungen](../grundlagen/waehrungen.md)
 * [Grundstücke überschreiben](../grundlagen/grundstuecke/grundstuecke-ueberschreiben.md)
 * [...schlägt fehl](../server-verbinden.../...schlaegt-fehl..md)
-* [Das Case-Opening](../erweiterte-features/das-case-opening.md)
-* [Server-Performance](../erweiterte-features/server-performance.md)
-* [Passive Spawner](../grundlagen/passive-spawner.md)
-* [Die Rezeptsammlung](../erweiterte-features/die-rezeptsammlung.md)
-* [Zufallsbasierte Mechaniken](../erweiterte-features/zufallsbasierte-mechaniken.md)
+* [Das Case-Opening](../grundlagen/features/das-case-opening.md)
+* [Server-Performance](../grundlagen/features/server-performance.md)
+* [Passive Spawner](../grundlagen/features/passive-spawner.md)
+* [Die Rezeptsammlung](../grundlagen/features/die-rezeptsammlung.md)
+* [Zufallsbasierte Mechaniken](../grundlagen/features/zufallsbasierte-mechaniken.md)
 
 {% hint style="info" %}
 Bitte nutze beim Erstellen von Screenshots keine Texturepacks oder Shader. Diese sehen sicher toll aus. Jedoch hat nicht jeder Spieler die Möglichkeit diese zu nutzen und könnte durch abweichende Ansichten verwirrt sein.

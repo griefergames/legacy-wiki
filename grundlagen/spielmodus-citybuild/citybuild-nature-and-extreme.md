@@ -18,11 +18,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🏔️ Citybuild Nature & Extreme
 
-Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl `/switch nature` für Citybuild Nature oder `/switch extreme` für Citybuild Extreme.
+Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch` oder direkt mit dem Befehl `/switch nature` für Citybuild Nature oder `/switch extreme` für Citybuild Extreme.
 
 <figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,7 +38,7 @@ Die Plotwelt dieser Citybuild-Server ist nicht standardisiert und besteht aus ei
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md). Auf Citybuild Nature & Extreme ist dies aber lediglich für Wasser-/Lava-Fluss über die Grundstücksgrenze sowie die Komfort-Funktionen des [Trichter-Systems](../das-trichter-system.md) erforderlich. In den meisten Fällen verzichten Spieler auf das Verbinden der Grundstücke auf diesem Server.
+Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md). Auf Citybuild Nature & Extreme ist dies aber lediglich für Wasser-/Lava-Fluss über die Grundstücksgrenze sowie die Komfort-Funktionen des [Trichter-Systems](../features/das-trichter-system.md) erforderlich. In den meisten Fällen verzichten Spieler auf das Verbinden der Grundstücke auf diesem Server.
 
 {% hint style="danger" %}
 Wird ein Grundstück auf den Citybuild-Servern Nature/Extreme zu häufig zurückgesetzt, kommt es zu einem Fehler, bei welchem keine Blöcke mehr auf dem Grundstück droppen.
@@ -46,18 +48,16 @@ Dies gilt sowohl für natürlich generierte Blöcke beim Abbau, als auch für It
 Der Fehler behebt sich zum nächsten Server-Neustart selbstständig. Verlorene Items können nicht erstattet werden.
 {% endhint %}
 
-
-
 ### Besonderheiten
 
 * Plotwelt mit natürlicher Weltgenerierung
 * größere Grundstücke
 * kein Rand, keine Straßen
 * erhöhter Cooldown beim Zurücksetzen/Löschen von Grundstücken
-* Angepasster [MobRemover](../../erweiterte-features/server-performance.md) (chunkbasiert)
+* Angepasster [MobRemover](../features/server-performance.md) (chunkbasiert)
 
 {% hint style="info" %}
 **Spawn-Grundstücke**
 
-Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.
 {% endhint %}

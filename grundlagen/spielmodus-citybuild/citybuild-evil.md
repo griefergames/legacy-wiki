@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 🌇 Citybuild Evil
@@ -50,7 +52,7 @@ Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer akti
 ### Besonderheiten
 
 * Komplette Plotwelt im Nether-Stil
-* max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../../erweiterte-features/server-performance.md#join-cap-reservierte-slots-und-whitelists))
+* max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../features/server-performance.md#join-cap-reservierte-slots-und-whitelists))
 
 {% hint style="info" %}
 **Spawn-Grundstücke**

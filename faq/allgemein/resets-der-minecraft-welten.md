@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Resets der Minecraft-Welten
@@ -31,13 +33,11 @@ Bei diesem Vorgang werden die Farmwelten unserer Citybuild-Server komplett neu g
 
 Sollte nach der Durchführung ein Spawn nicht betretbar sein, so ist dies bitte umgehend bei einem Teammitglied zu melden.
 
-Der Farmwelt-Reset findet automatisch am 04. des Monats statt. Der genaue Zeitpunkt kann auch jederzeit in der [Stadtwelt](../../erweiterte-features/die-hauptstadt.md) eingesehen werden.
+Der Farmwelt-Reset findet automatisch am 04. des Monats statt. Der genaue Zeitpunkt kann auch jederzeit in der [Stadtwelt](../../grundlagen/features/die-hauptstadt.md) eingesehen werden.
 
 ### Zauberwald
 
 Der Zauberwald wird nicht zu festen Zeitpunkten zurückgesetzt, sondern nur bei Bedarf. Stellt das Team fest, dass es erforderlich ist die Spielwelt zu erneuern, wird der Zauberwald normalerweise mit dem nächsten Farmwelt-Reset zusammen zurückgesetzt.
-
-
 
 <details>
 

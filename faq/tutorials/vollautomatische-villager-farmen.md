@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Vollautomatische Villager-Farmen
@@ -71,8 +73,8 @@ Kartoffel- und Karottenebenen liegen beide folgendem Lichtschema zugrunde:
 <summary>1.3 Trichter und Lagerung</summary>
 
 Dieser Punkt unterscheidet ebenfalls zwischen Weizen- und Kartoffel-/Karottenebenen und baut stark auf dem Trichtersystem und unendlichen Lagern auf, welche so in Vanilla-Minecraft nicht existieren und serverspezifisch sind. Gerade für neuere Spieler möchte ich daher auf folgende Wiki-Einträge verweisen:\
-[Das Trichter-System](../../grundlagen/das-trichter-system.md)\
-[Das unendliche Lager](../../grundlagen/das-unendliche-lager.md)\
+[Das Trichter-System](../../grundlagen/features/das-trichter-system.md)\
+[Das unendliche Lager](../../grundlagen/features/das-unendliche-lager.md)\
 \
 Den Weizenebenen genügt das Setzen eines unendlichen Lagers mit aktiviertem Einsaugmodus an einem beliebigen Ort auf eurem GS. Optional kann auch das Auffangen von Seeds implementiert werden (ohne Sammelfunktion des unendlichen Lagers!), indem maximal ein Trichter ungefähr mittig unter jeder Weizenebene (Sammelradius: 5, Transportierte-Item-Anzahl: 64) einige Samen aufsammelt und abführt.\
 \

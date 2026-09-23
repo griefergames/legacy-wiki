@@ -17,15 +17,17 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Scoreboard deaktivieren
 
 ### Java Edition
 
-Das Scoreboard des Servers kann mittels verschiedener [Client-Modifikationen](../../hilfreiche-links/empfohlene-modifikationen.md) ausgeblendet werden.
+Das Scoreboard des Servers kann mittels verschiedener [Client-Modifikationen](../../allgemein/clients-and-modifikationen/empfohlene-modifikationen.md) ausgeblendet werden.
 
-Die Einstellungen für das Ausblenden des Scoreboards sind abhängig von der entsprechenden Client-Modifikation.&#x20;
+Die Einstellungen für das Ausblenden des Scoreboards sind abhängig von der entsprechenden Client-Modifikation.
 
 Über die Einstellungen (Esc) kannst du die Einstellungen der jeweiligen Client-Modifikation aufrufen.
 
@@ -33,15 +35,11 @@ Die Einstellungen für das Ausblenden des Scoreboards sind abhängig von der ent
 
 Unterstützung bei der Konfiguration deiner jeweiligen Client-Modifikation findest du auf den Community-/Hilfe-Seiten bzw. deren Support-Discord.
 
-
-
 ### Bedrock Edition
 
 Für die Bedrock Edition haben wir zudem in den Server-Einstellungen eine passende Option eingefügt. Auch hier kannst du durch einen einfachen Klick das Scoreboard entfernen.
 
 <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Bedrock-Einstellungen zum Verstecken des Scoreboard</p></figcaption></figure>
-
-
 
 <details>
 

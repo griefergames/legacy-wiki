@@ -17,6 +17,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Nicknames und Realnames
@@ -33,8 +35,6 @@ Um den echten Namen eines umbenannten Spieler zu erkennen, benötigt man folgend
 
 Spieler können ab dem Titan-Rang oder mit einem aktivierten Prefix aus den Kisten einen "magischen Namen" verwenden. Dieser ersetzt alle Zeichen des Namens durch ständig wechselnde Zeichen.
 
-
-
 Es gibt jedoch Möglichkeiten, wie man auch solche Spieler identifizieren kann:
 
 * WIN-Taste + R drücken
@@ -47,7 +47,7 @@ Jetzt bist du in der Log-Datei, in welcher der ganze Chatverlauf der letzten Min
 
 Wenn du jetzt den echten Namen des Spielers herausfinden möchtest, musst du in Minecraft `/realname nick123` eingeben. In der Antwort vom Plugin erhältst du dann den Rang und Account-Namen des Spielers, welcher aktuell diesen Nickname trägt.
 
-Des Weiteren gibt es mehrere Erweiterungen für [Client-Modifikationen](../../hilfreiche-links/empfohlene-modifikationen.md), welche magische Namen von Spielern im Chat auflösen und erkennbar machen.
+Des Weiteren gibt es mehrere Erweiterungen für [Client-Modifikationen](../../allgemein/clients-and-modifikationen/empfohlene-modifikationen.md), welche magische Namen von Spielern im Chat auflösen und erkennbar machen.
 
 </details>
 
@@ -55,9 +55,7 @@ Da Screenshots nicht mehr als Beweismittel zulässig sind, ist ein Realname-Bewe
 
 Bei einem Chatlog werden Nicknames automatisch zum Realname geändert. Hier ist kein zusätzlicher Nachweis per Realname-Befehl erforderlich.
 
-Welches Beweismittel für deine Meldung erforderlich ist, kannst du jederzeit [nachlesen](../../griefergames-allgemein/spieler-melden.md).
-
-
+Welches Beweismittel für deine Meldung erforderlich ist, kannst du jederzeit [nachlesen](../../allgemein/spieler-melden.md).
 
 <details>
 

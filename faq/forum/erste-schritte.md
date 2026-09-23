@@ -17,11 +17,13 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Erste Schritte
 
-Schön, dass du dich im Forum beteiligen möchtest!&#x20;
+Schön, dass du dich im Forum beteiligen möchtest!
 
 Wenn du bereits mit vergleichbaren Foren vertraut bist und dir Dinge bekannt vorkommen, kannst du diese nach eigenem Belieben überspringen.
 
@@ -41,7 +43,7 @@ Ein Foren-Account lässt sich nur noch mit der Bindung an GGAuth neu erstellen. 
 
 <summary>Verifikation</summary>
 
-Bevor du alle Funktionen des Forums nutzen kannst, kann es sein, dass dein Account "verifiziert" werden muss.&#x20;
+Bevor du alle Funktionen des Forums nutzen kannst, kann es sein, dass dein Account "verifiziert" werden muss.
 
 Dir kann hierfür eine E-Mail an deine angegebene E-Mail-Adresse zugesendet werden. Bitte folge den Anweisungen, die darin beschrieben sind.
 
@@ -51,9 +53,9 @@ Manchmal landet die E-Mail in deinem Spam-Ordner. Bitte überprüfe diesen ebenf
 
 ### Regeln & Netiquette
 
-Bitte lies dir vor dem Erstellen eines Beitrags das [Regelwerk](../../griefergames-allgemein/regelwerk.md) aufmerksam durch, welches für unser Netzwerk gilt.
+Bitte lies dir vor dem Erstellen eines Beitrags das [Regelwerk](../../allgemein/regelwerk.md) aufmerksam durch, welches für unser Netzwerk gilt.
 
-Beachte, dass Beiträge, welche nur aus der Erwähnung von Nutzern bestehen oder lediglich Zustimmung ausdrücken, als „Unnötiger Beitrag“ eingestuft und gemäß [§ 4 Absatz 1](../../griefergames-allgemein/regelwerk.md#id-1-das-verfassen-von-unnotigen-beitragen-die-nichts-mit-dem-eigentlichen-thema-zu-tun-haben-oder-kein) des Regelwerks moderiert werden können.
+Beachte, dass Beiträge, welche nur aus der Erwähnung von Nutzern bestehen oder lediglich Zustimmung ausdrücken, als „Unnötiger Beitrag“ eingestuft und gemäß [§ 4 Absatz 1](../../allgemein/regelwerk.md#id-1-das-verfassen-von-unnotigen-beitragen-die-nichts-mit-dem-eigentlichen-thema-zu-tun-haben-oder-kein) des Regelwerks moderiert werden können.
 
 Erhältst du beim Erstellen eines Beitrags einen Hinweis, dass das Thema möglicherweise veraltet ist, ist in diesem seit über 30 Tagen nichts passiert. Bitte überlege dir genau, ob ein „Wiederbeleben“ des Themas sinnvoll ist oder deine Frage abweicht und du besser ein neues Thema eröffnest.
 
