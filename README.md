@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # Startseite
@@ -32,7 +34,7 @@ GrieferGames ist ein Citybuild-Server-Netzwerk aus dem deutschen Raum. Es werden
 
 ## Das Wiki
 
-In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den Features des 1.8-Netzwerks. Weitere Tipps und Anregungen findest du auf unserem [Discord-Server](hilfreiche-links/griefergames-dienste.md).&#x20;
+In diesem Wiki findest du hauptsächlich Informationen zum 1.8-Netzwerk und den Features des 1.8-Netzwerks. Weitere Tipps und Anregungen findest du auf unserem [Discord-Server](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).
 
 ### Inhalte zum Wiki beitragen
 

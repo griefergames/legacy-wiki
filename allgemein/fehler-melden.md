@@ -1,5 +1,4 @@
 ---
-icon: bug
 layout:
   width: default
   title:
@@ -18,9 +17,11 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# Fehlermeldungen
+# 🪱 Fehlermeldungen
 
 Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
@@ -50,8 +51,6 @@ Gebt uns bitte so viele Informationen wie möglich an, die für den Fehler relev
 * :x: **Kein Fehler**: Es handelt sich um keinen Fehler unseres Server-Netzwerks, den wir beheben können
 
 Uns ist das Melden von Fehlern sehr wichtig. Grundsätzlich gilt, dass lieber eine Fehlermeldung zu viel als eine zu wenig verfasst wird.
-
-
 
 <details>
 

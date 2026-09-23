@@ -60,7 +60,7 @@ Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs
 {% hint style="info" %}
 Mit dem Befehl `/fremdwerbung` könnt ihr als Community helfen, Fremdwerbung zu reduzieren.\
 \
-Wenn es um Regelverstöße auf [TeamSpeak oder Discord](../hilfreiche-links/griefergames-dienste.md) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**
+Wenn es um Regelverstöße auf [TeamSpeak oder Discord](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**
 
 Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
 {% endhint %}

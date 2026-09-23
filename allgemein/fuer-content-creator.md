@@ -17,13 +17,15 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
-# 🎬 Für Content Creator
+# 🎬 Content Creator
 
 Du bist Content Creator, baust eine Community auf und erstellst Videos zu Minecraft oder streamst dein Gameplay? Dann sichere dir die Chance auf eine Eintragung als Creator auf unserem Netzwerk!
 
-Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Discord (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang ausgezeichnet und in unserem [Streamer-System](../hilfreiche-links/griefergames-dienste.md) aufgeführt.
+Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Discord (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang ausgezeichnet und in unserem [Streamer-System](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) aufgeführt.
 
 ***
 
@@ -36,7 +38,7 @@ Es gibt zwar keine Follower-Voraussetzungen für den Streamer-Rang, wir haben je
 * monatlich mindestens 8 Streams, die sich hauptsächlich auf GrieferGames-bezogenen Inhalt fokussieren mit einer monatlichen Mindestgesamtdauer von 16 Stunden
 
 {% hint style="info" %}
-Hiermit meinen wir, dass man wöchentlich mindestens zwei mal GrieferGames-Streams auf seinem Kanal veranstaltet und die Streams eine Mindestgesamtdauer von 4 Stunden innerhalb einer Woche haben sollten. \
+Hiermit meinen wir, dass man wöchentlich mindestens zwei mal GrieferGames-Streams auf seinem Kanal veranstaltet und die Streams eine Mindestgesamtdauer von 4 Stunden innerhalb einer Woche haben sollten.\
 \
 Die Zeit kann dabei frei eingeteilt werden: Beispielsweise 2 zweistündige Streams oder 4 Streams je 60 Minuten.\
 Auf die Minute genau müssen die Streams nicht gehen; Hauptsache die Mindestgesamtdauer und die Mindestanzahl der Streams in der Woche werden erreicht.
@@ -45,7 +47,7 @@ Auf die Minute genau müssen die Streams nicht gehen; Hauptsache die Mindestgesa
 Wenn man sich für den Rang bewirbt, entscheidet die Administration eigenständig und individuell, ob man diesen Rang bekommt oder nicht bzw. ob man als angehender Creator aufgenommen wird. Es besteht kein Anrecht auf Erteilung des Ranges.<br>
 
 {% hint style="info" %}
-Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im [Streamer-System](../hilfreiche-links/griefergames-dienste.md).\
+Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im [Streamer-System](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).\
 \
-Als YouTuber, YouTuber+ oder Streamer+ kann man sich **nicht** bewerben. Außerdem bieten wir den Streamer-Rang aktuell nur für Twitch-Streamer an. &#x20;
+Als YouTuber, YouTuber+ oder Streamer+ kann man sich **nicht** bewerben. Außerdem bieten wir den Streamer-Rang aktuell nur für Twitch-Streamer an.
 {% endhint %}

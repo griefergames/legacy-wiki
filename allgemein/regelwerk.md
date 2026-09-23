@@ -18,6 +18,8 @@ layout:
     visible: true
   actions:
     visible: true
+  anchors:
+    visible: true
 ---
 
 # 📜 Regelwerk
@@ -219,7 +221,7 @@ layout:
 
 ## § 4 - Spezifische Regeln zum Forum <a href="#id-74ca94a9-4-spezifische-regeln-zum-forum" id="id-74ca94a9-4-spezifische-regeln-zum-forum"></a>
 
-#### (1) Das Verfassen von unnötigen Beiträgen, die nichts mit dem eigentlichen Thema zu tun haben oder keinen Mehrwert bieten, ist verboten. Dies gilt auch für Beiträge, welche über die grundlegende Frage des Themenerstellers hinausgehen oder nicht aus dem Diskussionsverlauf hervorgehen. In Foren, in welchen die Aktivitätspunkte für neue Beiträge nicht zählen, gilt diese Regelung nicht. All diese Foren können [hier](../faq/forum/erste-schritte.md#in-welches-unterforum-gehort-mein-thema) eingesehen werden. Ausgenommen von dieser Ausnahmeregelung ist jedoch der Handelsbereich – in diesem befinden sich zwar keine punkterelevanten Foren, allerdings greift diese komplette Regelung dort ebenfalls.
+#### (1) Das Verfassen von unnötigen Beiträgen, die nichts mit dem eigentlichen Thema zu tun haben oder keinen Mehrwert bieten, ist verboten. Dies gilt auch für Beiträge, welche über die grundlegende Frage des Themenerstellers hinausgehen oder nicht aus dem Diskussionsverlauf hervorgehen. In Foren, in welchen die Aktivitätspunkte für neue Beiträge nicht zählen, gilt diese Regelung nicht. All diese Foren können [hier](/broken/pages/RuMwL3ng1ZHng6OHyMkh#in-welches-unterforum-gehort-mein-thema) eingesehen werden. Ausgenommen von dieser Ausnahmeregelung ist jedoch der Handelsbereich – in diesem befinden sich zwar keine punkterelevanten Foren, allerdings greift diese komplette Regelung dort ebenfalls.
 
 #### (2) Das Verfassen von Beiträgen im falschen Forum ist zu unterlassen. Wo man welches Thema posten sollte, kann man durch das Wiki, beispielsweise [hier](https://wiki.griefergames.net/faq/forum/erste-schritte#in-welches-unterforum-gehort-mein-thema), erfahren.
 
