@@ -156,3 +156,13 @@ Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich f
 {% embed url="https://discord.griefergames.net/" %}
 
 {% embed url="https://ticket.griefergames.de/" %}
+
+<details>
+
+<summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
+
+{% hint style="info" icon="square-star" %}
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/funktionen/grundstuecke/grundstucke-verschieben-and-erweitern)_._
+{% endhint %}
+
+</details>
