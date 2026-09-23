@@ -277,7 +277,7 @@ Alle aktuellen Teammitglieder können in der [Teamliste](./) eingesehen werden.
 
 <details>
 
-**Builder**
+<summary>Builder</summary>
 
 * EinfxchLukas
 * FranziFox
