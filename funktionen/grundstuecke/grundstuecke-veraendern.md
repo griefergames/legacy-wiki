@@ -378,6 +378,14 @@ Auf dem "Citybuild Cloud"-Netzwerk sind alle Biome nutzbar, welche in der aktuel
 
 Nach dem Umstellen des Bioms auf deinem Grundstück, werden die Änderungen erst wirksam, wenn die Chunks entladen und neu geladen werden. Dies kannst du erzwingen, indem du entweder den Server verlässt und dich neu verbindest oder wenn du dich zum Spawn teleportierst und dann zum Grundstück zurückkehrst. In dieser Zeit darf sich auch keine andere Person in der Nähe des Grundstücks aufhalten.
 
+### Wie kann ich die Grundstücks-Reihenfolge ändern?
+
+Wenn du neue Grundstücke erhältst sortiert Minecraft diese standardmäßig nach dem Alter des Grundstücks (älteste Grundstücke zuerst). Falls dir diese Reihenfolge nicht gefällt oder diese durch Grundstücke verschoben ist, welche du per Checkplot erhalten oder durch Mergen zusammengefügt hast, kannst du die Reihenfolge von Hand anpassen.
+
+Hierfür kannst du den Befehl `/p setorder <Zahl>` verwenden, während du auf einem Grundstück stehst. Es wird dann in deiner Liste an die entsprechende Stelle versetzt.
+
+Wiederhole den Vorgang für alle deine Grundstücke mit aufsteigender Reihenfolge, um das beste Ergebnis zu erzielen.
+
 <details>
 
 <summary>An diesem Artikel beteiligt</summary>

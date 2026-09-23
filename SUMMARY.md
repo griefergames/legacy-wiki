@@ -43,8 +43,6 @@
   * [Spawner, Hologramme & Partikeleffekte verwalten](funktionen/grundstuecke/spawner-hologramme-and-partikeleffekte-verwalten.md)
   * [Limit-Flags](funktionen/grundstuecke/limit-flags.md)
   * [Grundstücke verschieben & erweitern](funktionen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
-  * [Grundstücke verwalten](funktionen/grundstuecke/grundstuecke-verwalten.md)
-  * [Merge-Grundstücke](funktionen/grundstuecke/merge-grundstuecke.md)
 * [💰 Währungen](funktionen/waehrungen.md)
 * [❤️ Features](funktionen/features/README.md)
   * [🗝️ Abschließbare Truhen](funktionen/features/abschliessbare-truhen.md)

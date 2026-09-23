@@ -34,12 +34,12 @@ layout:
 
 ### Grundstücks-Teleport
 
-| Befehl                                                              | Funktion                                                                                                                                    |
-| ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
-| <p>/p h &#x3C;Zahl><br>/plot home &#x3C;Zahl><br>/p h &#x3C;ID></p> | <p>Teleportiere dich zu deinem Grundstück<br></p><p>Beispiel: <code>/p h 2</code> bringt dich auf dein zweites Grundstück.</p>              |
-| <p>/p h &#x3C;Spielername> &#x3C;Zahl><br>/p h &#x3C;Alias></p>     | Teleportiert dich zum Grundstück eines Mitspielers.                                                                                         |
-| /p middle                                                           | Teleportiere dich zur Mitte des Grundstück                                                                                                  |
-| <p>/p sethome<br>/p &#x3C;ID> sethome</p>                           | [Versetze den Spawnpunkt](../../grundstuecke/grundstuecke-verwalten.md#grundstueck-unerreichbar) des Grundstücks an deine aktuelle Position |
+| Befehl                                                              | Funktion                                                                                                                          |
+| ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| <p>/p h &#x3C;Zahl><br>/plot home &#x3C;Zahl><br>/p h &#x3C;ID></p> | <p>Teleportiere dich zu deinem Grundstück<br></p><p>Beispiel: <code>/p h 2</code> bringt dich auf dein zweites Grundstück.</p>    |
+| <p>/p h &#x3C;Spielername> &#x3C;Zahl><br>/p h &#x3C;Alias></p>     | Teleportiert dich zum Grundstück eines Mitspielers.                                                                               |
+| /p middle                                                           | Teleportiere dich zur Mitte des Grundstück                                                                                        |
+| <p>/p sethome<br>/p &#x3C;ID> sethome</p>                           | [Versetze den Spawnpunkt](/broken/pages/clJipGhAUZ6BchTAWC1v#grundstueck-unerreichbar) des Grundstücks an deine aktuelle Position |
 
 ### Grundstück verwalten
 
