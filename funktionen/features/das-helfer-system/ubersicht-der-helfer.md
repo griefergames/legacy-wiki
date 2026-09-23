@@ -11,7 +11,7 @@ Helfer unterstützen die Community auf ihrem jeweiligen Citybuild bei Fragen, kl
 <summary><em>Dieser Inhalt gilt für das 1.8- &#x26; das Cloud-Netzwerk</em></summary>
 
 {% hint style="info" icon="square-star" %}
-_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/allgemein/das-helfer-system/ubersicht-der-helfer)_._
+_Hier findest du die passende_ [_Cloud Wiki Seite_](https://wiki.griefergames.live/funktionen/features/das-helfer-system/ubersicht-der-helfer)_._
 {% endhint %}
 
 </details>

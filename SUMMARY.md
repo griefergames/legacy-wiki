@@ -87,7 +87,7 @@
 
 * [📜 Regelwerk](allgemein/regelwerk.md)
 * [💡 Vorschläge](allgemein/vorschlaege.md)
-* [🪱 Fehlermeldungen](allgemein/fehler-melden.md)
+* [🐛 Fehlermeldungen](allgemein/fehler-melden.md)
 * [📉 Server-Performance](allgemein/server-performance/README.md)
   * [Fehler beim Verbindungsaufbau](allgemein/server-performance/fehler-beim-verbindungsaufbau.md)
 * [❗ Beschwerden über Spieler/ Beweismaterial](allgemein/spieler-melden.md)

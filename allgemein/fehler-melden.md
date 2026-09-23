@@ -21,7 +21,7 @@ layout:
     visible: true
 ---
 
-# 🪱 Fehlermeldungen
+# 🐛 Fehlermeldungen
 
 Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
