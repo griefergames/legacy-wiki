@@ -25,7 +25,7 @@ layout:
 
 Du bist Content Creator, baust eine Community auf und erstellst Videos zu Minecraft oder streamst dein Gameplay? Dann sichere dir die Chance auf eine Eintragung als Creator auf unserem Netzwerk!
 
-Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Discord (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang ausgezeichnet und in unserem [Streamer-System](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) aufgeführt.
+Du erhältst Zugang zu speziellen Features auf dem Minecraft-Server, Zugang zum Creator-Discord (mit eigenem Raum und Ansprechpartnern im Team), wirst auf unserem Netzwerk mit einem speziellen Rang ausgezeichnet und in unserem [Streamer-System](https://streamer.griefergames.net) aufgeführt.
 
 ***
 
@@ -47,7 +47,9 @@ Auf die Minute genau müssen die Streams nicht gehen; Hauptsache die Mindestgesa
 Wenn man sich für den Rang bewirbt, entscheidet die Administration eigenständig und individuell, ob man diesen Rang bekommt oder nicht bzw. ob man als angehender Creator aufgenommen wird. Es besteht kein Anrecht auf Erteilung des Ranges.<br>
 
 {% hint style="info" %}
-Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im [Streamer-System](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).\
-\
+Eine Auflistung aller Content Creator auf unserem Netzwerk findest du im [Streamer-System](https://streamer.griefergames.net).
+
+
+
 Als YouTuber, YouTuber+ oder Streamer+ kann man sich **nicht** bewerben. Außerdem bieten wir den Streamer-Rang aktuell nur für Twitch-Streamer an.
 {% endhint %}
