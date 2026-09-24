@@ -1,6 +1,6 @@
 # 🪄 Verzauberungs-Upgrade
 
-## Verzauberungs-Upgrade
+## Verzauberungs-Upgrade 
 
 Aus dem CaseOpening kann man ein Items namens "Verzauberungs-Upgrade" ziehen. Dieses funktioniert für alle Rüstungen, Werkzeuge, Bögen und Schwerter.
 
