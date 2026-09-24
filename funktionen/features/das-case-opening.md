@@ -48,6 +48,8 @@ In diesem Menü kannst du auch in diese Kisten sehen oder die Kisten öffnen, we
 
 {% hint style="info" %}
 Gewinne, welche nicht abgeholt werden können - weil während dem Öffnen die Verbindung verloren geht oder euer Inventar voll ist - werden in einem eigenen Untermenü gesammelt und können über das CaseOpening-Menü zu einem späteren Zeitpunkt abgeholt werden. Eure Gewinne sind also gegen Verlust gesichert.
+
+Im Kisten-Menü befindet sich außerdem ein Einstellungsmenü, wo man die eigenen Gewinn-Broadcasts auf anonym umstellen kann oder auch den Erhalt von 5k-Blöcken deaktivieren kann. 
 {% endhint %}
 
 ### In-Game Store

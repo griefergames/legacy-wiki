@@ -78,7 +78,7 @@ Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</m
 Über die <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FI77II5p9u5a2Nb5f0BDi%2Fimage.png?alt=media&#x26;token=3ca84150-9a43-4a8e-a26c-c76abe38e599" alt="" data-size="line"> <mark style="color:orange;">**Trichter Verbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann sich in einem Bereich von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
 
 {% hint style="info" %}
-Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist daher mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann.
+Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist daher mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann. Trichter können weder über Straßen noch grundstücksübergreifend verbunden werden. 
 {% endhint %}
 
 Um einen Trichter zu verbinden, klicke auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FI77II5p9u5a2Nb5f0BDi%2Fimage.png?alt=media&#x26;token=3ca84150-9a43-4a8e-a26c-c76abe38e599" alt="" data-size="line"> und anschließend mit leerer Hand per Rechtsklick auf den Block, welcher verbunden werden soll.
