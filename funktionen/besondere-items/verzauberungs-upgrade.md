@@ -11,4 +11,5 @@ Der Ablauf ist Folgender:
 - **Item auswählen, welches verzaubert ist**
 - **Die Verzauberung wählen, welche gesteigert werden soll**
 - **Diese eine Verzauberung wird dann um +1 gesteigert**
+
 Das Item wird dann entsprechend verbraucht und verschwindet. Es gibt keine Einschränkungen zu Verzauberungen, die erhöht werden können. Die einzige Einschränkung ist, dass es nur für alle möglichen Rüstungen, Werkzeuge, Bögen und Schwerter machbar ist.
