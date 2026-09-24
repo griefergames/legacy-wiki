@@ -46,7 +46,7 @@ Zum Löschen eines Partikeleffektes ist es notwendig, dass man sich in einem ger
 
 Über `/removeparticle` kann man alle aktiven Partikeleffekte im näheren Umfeld anzeigen lassen. Im folgenden Screenshot ist nur ein Partikel in der Nähe platziert:
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Anzeige eines Partikels nach Ausführung des Befehls <code>/removeparticle</code></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Anzeige eines Partikels nach Ausführung des Befehls <code>/removeparticle</code></p></figcaption></figure>
 
 Bei mehreren Partikeleffekten im näheren Umkreis kann man üblicherweise die genaue Position (X-, Y- & Z-Koordinaten) und die Partikelart (bspw. **Beam** oder **Helix**) ermitteln, damit man den richtigen Partikeleffekt löscht. Ist der zu löschende Effekt ersichtlich, verwendet man die im Chat angezeigte Nummer zum Löschen.
 

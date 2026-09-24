@@ -44,7 +44,7 @@ Automatisch erzeugte Spawner in den Farmwelten der anderen Citybuild-Server sind
 
 ### Spawner-Menü
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Das Menü eines passiven Spawners</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Das Menü eines passiven Spawners</p></figcaption></figure>
 
 #### **Welche Möglichkeiten bietet ein passiver Spawner?**
 

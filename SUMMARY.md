@@ -68,6 +68,7 @@
   * [📥 Trichter-System](funktionen/features/das-trichter-system.md)
   * [📦 Unendliche Lager](funktionen/features/das-unendliche-lager.md)
   * [🧾 Rezeptsammlung](funktionen/features/die-rezeptsammlung.md)
+  * [💎 Showcase, Truhen & Vitrinen](funktionen/features/showcase-truhen-and-vitrinen.md)
   * [📊 Vote-System](funktionen/features/das-vote-system.md)
   * [🧙 Zauberwald](funktionen/features/der-zauberwald.md)
   * [🎰 Zufallsbasierte Mechaniken](funktionen/features/zufallsbasierte-mechaniken.md)

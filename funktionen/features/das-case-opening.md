@@ -1,5 +1,4 @@
 ---
-description: Das CaseOpening und die einzelnen Kisten-Arten
 layout:
   width: default
   title:
@@ -24,14 +23,11 @@ layout:
 
 # 🎁 CaseOpening
 
-### CaseOpening
-
 Im CaseOpening können zufällige Gewinne gezogen werden. Es gibt verschiedene Kisten, welche verschiedene Gewinne beinhalten und über unterschiedliche Wege erhalten werden können.
 
-<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>Case-Opening an einem Citybuild-Spawn</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/GNLxPcd.png" alt="" width="375"><figcaption><p>CaseOpening an einem Citybuild-Spawn</p></figcaption></figure>
 
-Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen.\
-Aus einigen Kisten können zusätzlich [eigene Case-Opening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche du auf deinem eigenen Grundstück platzieren und dort nutzen kannst.
+Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. Aus einigen Kisten können zusätzlich [eigene CaseOpening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche man auf dem eigenen Grundstück platzieren und dort nutzen kannst.
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
 
@@ -119,7 +115,9 @@ Community-Kisten waren auch beim [Admin-Shop](das-adventurer-system.md#der-admin
 
 #### Saisonale Kiste
 
-Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.
+Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Jahreszeiten oder Feiertagen verfügbar. Sie können nur in dieser Zeit gekauft werden. Das sind in der Regel die Winter-Kiste, die Frühlings-Kiste, die Sommer-Kiste und die (goldene) Herbst-Kiste.&#x20;
+
+Hier befinden sich in der Regel die wertvollsten Gewinne in der Kiste, wie zum Beispiel spezielle Sammler-Items.
 
 #### Besondere Zufallskisten
 

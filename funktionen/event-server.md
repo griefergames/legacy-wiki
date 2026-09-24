@@ -23,60 +23,54 @@ layout:
 
 # ⭐ Events
 
-### Zugang zum Event-Netzwerk <a href="#deefc738-zugang-zum-event-netzwerk" id="deefc738-zugang-zum-event-netzwerk"></a>
+Auf der Cloud befindet sich das zentrale Event-System von GrieferGames. Mit diesem werden verschiedene Events veranstaltet, welche unabhängig des Spielfortschritts auf der Cloud oder der 1.8 sind.
 
-Das Event-Server-Netzwerk ist bei Events geöffnet. Es ist in der Cloud via <kbd>/event</kbd> erreichbar. Auf dem 1.8 Netzwerk erhaltet ihr unter <kbd>/event</kbd> ebenfalls die Informationen über das Event, könnt jedoch nicht mithilfe eines Klicks direkt dort hin verbinden.
+Um auf einen Event-Server zu kommen, muss auf der Cloud der Befehl `/event` eingegeben werden oder das **Event-Portal am Spawn** benutzt werden. Das Beitreten auf die Event-Server ist jedoch nur dann möglich, wenn aktuell ein Event dort läuft.
 
-### Inventare / Enderchest <a href="#deefc738-inventare-enderchest" id="deefc738-inventare-enderchest"></a>
+### Beitreten eines Events
 
-Das Event-Netzwerk hat eigene Inventare und eigene Enderchests. Es sind keine Inventar- und EC-Inhalte der Citybuild-Server (sowohl 1.8, als auch Cloud) verfügbar. Es startet somit jeder Spieler mit den gleichen Voraussetzungen.
+Um einem Event beizutreten, laufe in eines der Netherportale am Event-Spawn, sobald du dich auf dem Event-Server befindest.
 
-### Event-Belohnungen <a href="#deefc738-event-belohnungen" id="deefc738-event-belohnungen"></a>
+{% hint style="warning" %}
+Achte dabei auf Chatausgaben oder lies die Ankündigung zu dem Event, falls du dir nicht sicher bist, wie das Event funktioniert.
+{% endhint %}
 
-Je nach Event sind die Belohnungen auf einem oder beiden Netzwerken verfügbar. Dieses ist immer abhängig vom aktuellen Event. Folgende Optionen sind u. a. möglich:
+## Belohnungen von Events
 
-* gleiche Belohnung auf beiden Netzwerken
-* unterschiedliche Belohnungen entsprechend der Netzwerke
-* Belohnungen auf beiden Netzwerken gleichzeitig abholbar
-* man entscheidet sich für ein Netzwerk, auf dem man die Belohnung erhalten möchte
+Das Event-System hat ein zentrales Belohnungssystem, welches sowohl für die Cloud-Belohnungen, als auch für die 1.8 Belohnungen genutzt wird.
 
-Welche Art der Belohnung vorliegt könnt ihr jederzeit über die Event-Ankündigung auf unserem Discord-Server nachschauen.
+Je nach Event werden die Belohnungen auf einer Version oder auf beiden Versionen vergeben.
 
-### Event-Welten / Homes / Teleport-Punkte <a href="#deefc738-event-welten-homes-teleport" id="deefc738-event-welten-homes-teleport"></a>
+{% hint style="info" %}
+Ebenfalls ist es möglich, dass das Event gleichzeitig auch auf der 1.8 stattfindet, dann wird im Regelfall die Belohnung auf der Cloud vergeben.
+{% endhint %}
 
-Das Event-System ist quasi ein eigenes Netzwerk mit mehreren Servern. Je nach Event und Auslastung des Events sind unterschiedlich viele Event-Server aktiv. Somit kann es sein, dass ihr ein Home habt, welches nicht erreichbar ist, da zu dem Zeitpunkt weniger Server gestartet sind.
+Wird die Belohnung nur auf einer Version vergeben und ist wählbar, kann die Einstellung, auf welcher Version die Belohnung zugestellt werden soll, mit dem Befehl `/eventbelohnung` auf dem Event-Server gewählt werden.
 
-Bei Events mit generierten Welten sind Homes unbrauchbar, wenn diese neu generiert wurden. Achtet deshalb immer auf die Informationen, ob bzw. wann dies der Fall ist. Die Homes werden dann nicht immer automatisch gelöscht, sind jedoch nicht mehr unbedingt am erwarteten Ort.
+### Abholen der Eventbelohnungen auf dem Citybuild
 
-In der Regel versuchen wir auf Homes zu verzichten, schalten diese aber teilweise auf Wunsch auch frei. Berücksichtigt die Hinweise und Infos in der Event-Ankündigung.
+Um eine vergebene Belohnung auf dem Citybuild abzuholen, gib auf dem Citybuild den Befehl `/eventbelohnung` ein. Sollte dein Inventarplatz nicht ausreichen, um alle Belohnungen abzuholen, schaffe Platz in deinem Inventar und gib den Befehl erneut ein.
 
-### Event-Scoreboard <a href="#deefc738-event-scoreboard" id="deefc738-event-scoreboard"></a>
+{% hint style="danger" %}
+Die Vergabe der Belohnungen erfolgt je nach Voraussetzung nach Beendigung des Events oder sonst innerhalb von 30 Minuten nach Erreichen der Belohnung.
+{% endhint %}
 
-Das Event-System bietet für viele Events ein [Online-Scoreboard mit Rankings](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv).
+## Zusätzliche Befehle
+
+Auf dem Event-Server stehen dir einige Standardbefehle vom Event-System zur Verfügung. Es kann jedoch sein, dass einzelne Befehle bei manchen Events deaktiviert sind.
+
+### Ausblenden von Spielern
+
+Bei Events, bei denen es darauf ankommt, dass du dich selbst gut zurecht findest (z.B. bei einem Jump and Run), gibt es den Befehl `/event toggleplayer`, um andere Spieler auszublenden.
+
+### Zurück zum Event-Spawn
+
+Mit `/event spawn` kommst du zurück zum Event-Spawn. Nicht zu verwechseln mit `/spawn`, welches dich zurück an den Cloud-Citybuild-Spawn bringt.
+
+## Event-Scoreboard <a href="#deefc738-event-scoreboard" id="deefc738-event-scoreboard"></a>
+
+Das Event-System bietet für viele Events ein [Online-Scoreboard mit Rankings](https://event.griefergames.live/).
 
 Des Weiteren ist das Scoreboard In-Game immer entsprechend des Events angepasst. Ihr findet dort Informationen über euren aktuellen Stand des Events.
-
-### Fragen und Antworten <a href="#deefc738-fragen-und-antworten" id="deefc738-fragen-und-antworten"></a>
-
-Zum Abschluss dieses Beitrages beantworten wir hier einige Fragen, die bei bisherigen Events bereits gestellt und beantwortet wurden:
-
-#### _**Warum nicht auf der 1.8?**_
-
-Das Netzwerk der Cloud ist ein Cluster-Netzwerk, welches uns ermöglicht, schnell zu skalieren und zu erweitern, sowie die Spieler auf verschiedenen Servern zu verteilen. Diese Option bietet uns das 1.8 Netzwerk nicht. Wir müssten dort für jedes Event diverse Event-Server bestellen, installieren und dort ein solches Netzwerk zusätzlich aufbauen. Deshalb nutzen wir dafür zukünftig die Infrastruktur des Cloud-Netzwerks.
-
-Für einen Spieler auf dem 1.8-Netzwerk ist nur ein Wechsel der Minecraft-Version erforderlich, um am Event teilzunehmen.
-
-#### _**Macht es doch in den CB-Farmwelten...?**_
-
-Events in der Vergangenheit haben gezeigt, dass das Event-Netzwerk die bessere Wahl ist. Es kam durch Events in den Farmwelten der Citybuild-Server immer wieder zu Ausfällen, welches wir mit dem Event-Netzwerk einfach vermeiden können. Es wären somit alle Spieler, die nicht am Event teilnehmen, zwangsläufig durch Lags und Ausfälle ebenfalls betroffen, welche sich mit diesem Prinzip bei Auftreten nur auf die Server des Event-Netzwerks beschränken.
-
-#### _**Warum nicht der 1.8 Eventserver?**_
-
-Der Event-Server des 1.8-Netzwerks ist ebenso nur **ein** Server.\
-Heißt, hier sind Teilnehmerzahlen und Performance deutlich eingeschränkter als bei einem dynamischen Netzwerk, bei dem wir die Ressourcen schnell skalieren können. Natürlich wird es hier auch, je nach Event, zu Lags kommen, jedoch haben wir mehr/bessere Optionen, diese schnellstmöglich zu verbessern.
-
-Der Event-Server des 1.8-Netzwerks ist zudem vorwiegend für die Durchführung von Community-Events des 1.8-Netzwerks gedacht, sodass ihr diese planen, vorbereiten und durchführen könnt, ohne die Performance oder Features eures Citybuild-Servers zu beeinträchtigen.
-
-Falls ihr ein Event auf dem Event-Server veranstalten möchtet und Unterstützung benötigt (bspw. Ergänzung mit technischen Plugins oder Aktivieren/Deaktivieren bestimmter Features, meldet euch mit eurem Event-Konzept gerne beim Team für weitere Absprachen. Wir empfehlen dafür die Nutzung des [Ticket-Systems](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv). 😉
 
 <br>

@@ -36,19 +36,19 @@ Eine Season läuft in der Regel 4 Monate. In dieser Zeit hat man die Möglichkei
 Battlepass - Übersicht<br>
 --------------------------
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
 
 Auf der Übersichtsseite findest du folgende Menüpunkte:
 
 ### Die XP Bar<br>
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Ganz oben findest du deine aktuellen XP.
 
 Diese Leiste füllt sich von rot zu grün, bis das nächste Level erreicht wurde. Ganz rechts auf dem Erfahrungsfläschchen findest du Informationen über dein aktuelles Level, deine aktuellen XP und wieviel XP du noch benötigst, um das nächste Level zu erreichen.
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pass Aufgaben
 
