@@ -68,7 +68,7 @@ Sobald man sich für einen Suffix entschieden und darauf geklickt hat, öffnet s
 <figure><img src="../../.gitbook/assets/ByBo184.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Suffixe können in verschiedenen Kisten des [Case-Openings](das-case-opening.md) erhalten werden. Die Suffix-Farben erhält man unter anderem über den Tauscher, welcher mit Einsatz von [Swap-Tokens](https://wiki.griefergames.net/grundlagen/waehrungen#swap-token) begehrte oder zum Teil auch exklusive Items verkauft.
+Suffixe können in verschiedenen Kisten des [Case-Openings](das-case-opening.md) erhalten werden. Die Suffix-Farben erhält man unter anderem über den Tauscher, welcher mit Einsatz von [Swap-Tokens](/grundlagen/waehrungen#swap-token) begehrte oder zum Teil auch exklusive Items verkauft.
 {% endhint %}
 
 ### Schrift

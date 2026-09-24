@@ -29,7 +29,7 @@ layout:
 
 ### GrieferGames-Dollar
 
-GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander Items handelt oder [Jobs](https://wiki.griefergames.net/erweiterte-features/das-job-system) (`/jobs`) erfüllt.\
+GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander Items handelt oder [Jobs](/erweiterte-features/das-job-system) (`/jobs`) erfüllt.\
 Es wird auch zum Bezahlen von verschiedenen Serverfunktionen eingesetzt.
 
 $ werden auf verschiedenen Wegen in das Spielgeschehen eingebracht.
@@ -45,7 +45,7 @@ Viele Transaktionen kannst du über den Befehl `/moneylog` anzeigen lassen.
 
 Kristalle sind eine Premium-Währung, welche zum Kauf von Kisten am [Case-Opening](features/das-case-opening.md#caseopening) eingesetzt werden kann.
 
-Kristalle können im über den [In-Game Store](https://wiki.griefergames.net/erweiterte-features/das-case-opening#in-game-store) oder den [GrieferGames WebShop](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) erworben oder durch Spielaktivitäten erspielt werden. Klickst du z.B. ein Teammitglied oder einen Spieler mit Hero-Rang an, bekommst du **einmalig** einen zufälligen Betrag an Kristallen.\
+Kristalle können im über den [In-Game Store](/erweiterte-features/das-case-opening#in-game-store) oder den [GrieferGames WebShop](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) erworben oder durch Spielaktivitäten erspielt werden. Klickst du z.B. ein Teammitglied oder einen Spieler mit Hero-Rang an, bekommst du **einmalig** einen zufälligen Betrag an Kristallen.\
 Sie sind **nicht handelbar** und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 
 Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristalllog` prüfen.
@@ -57,7 +57,7 @@ Den Prestige-Shop findet ihr am Spawn.
 
 <figure><img src="../.gitbook/assets/9azNxrf.png" alt="" width="456"><figcaption></figcaption></figure>
 
-Weitere Informationen dazu, gibt es im Beitrag "[Das Caseopening](https://wiki.griefergames.net/erweiterte-features/das-case-opening)".\
+Weitere Informationen dazu, gibt es im Beitrag "[Das Caseopening](/erweiterte-features/das-case-opening)".\
 Prestige-Tokens sind **nicht handelbar** und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 
 ### Orbs

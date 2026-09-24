@@ -94,7 +94,7 @@ layout:
 
 #### (4) Items, die durch unerlaubte Modifikationen (Hacked Clients, Cheats) oder Serverfehler entstanden sind, müssen zerstört oder an das Team übergeben werden.
 
-#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](https://wiki.griefergames.net/hilfreiche-links/empfohlene-modifikationen) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
+#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](/hilfreiche-links/empfohlene-modifikationen) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
 
 #### (6) Keine der exklusiv für diesen Server gebauten Bauwerke (Lobby, Portalraum, Spawns) dürfen ohne eine ausdrückliche, schriftliche Erlaubnis der Serverleitung, sowohl für private als auch gewerbliche Zwecke genutzt werden.
 
@@ -223,7 +223,7 @@ layout:
 
 #### (1) Das Verfassen von unnötigen Beiträgen, die nichts mit dem eigentlichen Thema zu tun haben oder keinen Mehrwert bieten, ist verboten. Dies gilt auch für Beiträge, welche über die grundlegende Frage des Themenerstellers hinausgehen oder nicht aus dem Diskussionsverlauf hervorgehen. In Foren, in welchen die Aktivitätspunkte für neue Beiträge nicht zählen, gilt diese Regelung nicht. All diese Foren können [hier](/broken/pages/RuMwL3ng1ZHng6OHyMkh#in-welches-unterforum-gehort-mein-thema) eingesehen werden. Ausgenommen von dieser Ausnahmeregelung ist jedoch der Handelsbereich – in diesem befinden sich zwar keine punkterelevanten Foren, allerdings greift diese komplette Regelung dort ebenfalls.
 
-#### (2) Das Verfassen von Beiträgen im falschen Forum ist zu unterlassen. Wo man welches Thema posten sollte, kann man durch das Wiki, beispielsweise [hier](https://wiki.griefergames.net/faq/forum/erste-schritte#in-welches-unterforum-gehort-mein-thema), erfahren.
+#### (2) Das Verfassen von Beiträgen im falschen Forum ist zu unterlassen. Wo man welches Thema posten sollte, kann man durch das Wiki, beispielsweise [hier](/faq/forum/erste-schritte#in-welches-unterforum-gehort-mein-thema), erfahren.
 
 #### (3) Private Diskussionen sind nicht im öffentlichen Forum gewünscht. Diese können beispielsweise in Konversationen getätigt und geführt werden.
 
