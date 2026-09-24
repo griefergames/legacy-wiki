@@ -23,7 +23,7 @@ layout:
 
 # ❗ Beschwerden über Spieler/ Beweismaterial
 
-Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [[Regelwerk](https://wiki.griefergames.net/allgemein/allgemein/regelwerk)](https://griefergames.cloud/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
+Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://wiki.griefergames.net/allgemein/allgemein/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
 
 {% hint style="info" %}
 Bitte nutzt dafür das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
