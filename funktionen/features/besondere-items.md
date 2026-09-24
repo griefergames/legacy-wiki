@@ -1,4 +1,4 @@
-# 🪄 Verzauberungs-Upgrade & Reparatur-Barren
+# 🪄 Besondere Items
 
 ## Verzauberungs-Upgrade
 
