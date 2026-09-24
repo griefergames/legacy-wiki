@@ -28,6 +28,6 @@ Gib folgende Server-Adresse ein, um dich auf das GrieferGames-Netzwerk zu verbin
 Server-Adresse: <mark style="color:orange;">**griefergames.net**</mark>
 {% endhint %}
 
-GrieferGames kannst du sowohl mit der  [[Java-Edition](https://wiki.griefergames.net/1-8/server-verbinden.../...in-der-java-version)](https://wiki.griefergames.net/server-verbinden.../...in-der-java-version) als auch mit der [[Bedrock-Edition](https://wiki.griefergames.net/1-8/server-verbinden.../...in-der-bedrock-version)](https://wiki.griefergames.net/server-verbinden.../...in-der-bedrock-version) betreten.
+GrieferGames kannst du sowohl mit der  [[Java-Edition](/1-8/server-verbinden.../...in-der-java-version)](/server-verbinden.../...in-der-java-version) als auch mit der [[Bedrock-Edition](/1-8/server-verbinden.../...in-der-bedrock-version)](/server-verbinden.../...in-der-bedrock-version) betreten.
 
 Der Server basiert auf der Java-Version und bietet so ein besseres Spielerlebnis für die Java-Edition. Jedoch arbeiten wir dauerhaft daran, dass auch der Bedrock-Edition ein gutes Spielerlebnis geboten wird.

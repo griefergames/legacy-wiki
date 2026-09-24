@@ -33,7 +33,7 @@ Auf GrieferGames gibt es eigene Blöcke, welche durch eine Mod zur Verfügung ge
 Es ist auf GrieferGames nicht verpflichtend, die CustomBlocks-Mod installiert zu haben. Ist die Mod nicht installiert, werden die neuen Blöcke durch Ersatzblöcke ersetzt und so wird es ermöglicht, auch mit Vanilla-Minecraft auf GrieferGames zu spielen.
 
 {% hint style="info" %}
-Die Nutzung der Blöcke und der Mod ist freiwillig. Für ein besseres Erlebnis im [Zauberwald](https://wiki.griefergames.net/erweiterte-features/der-zauberwald) wird sie allerdings stark empfohlen.
+Die Nutzung der Blöcke und der Mod ist freiwillig. Für ein besseres Erlebnis im [Zauberwald](/erweiterte-features/der-zauberwald) wird sie allerdings stark empfohlen.
 {% endhint %}
 
 ### ​<img src="../../.gitbook/assets/image (27) (1).png" alt="" data-size="line"> CustomBlocks als Forge-Mod (Minecraft 1.8.9 & 1.12.2) <a href="#rb81t04b5oqx" id="rb81t04b5oqx"></a>

@@ -78,7 +78,7 @@ Problem hierbei ist: Weder würden wir...
 3. spezielle Verschlüsselungsmöglichkeiten anwenden, um zukünftige Features zu schützen.
 4. .zip-Dateien oder anderweitige dekompilierte Dateien versenden.
 
-All diese Punkte zeigen, dass sich bei der Nachricht um einer Nachricht handelt, die nicht von einem [offiziellen Teammitglied](https://wiki.griefergames.net/faq/griefergames/team) versandt wurde.
+All diese Punkte zeigen, dass sich bei der Nachricht um einer Nachricht handelt, die nicht von einem [offiziellen Teammitglied](/faq/griefergames/team) versandt wurde.
 
 Ob man auf Discord mit dem richtigen Teammitglied von GrieferGames schreibt, kann man prüfen, indem man unter dem Profil desjenigen auf „Mutual Servers“ (deutsch: „Gemeinsame Server“) geht.\
 Sollte dort „GrieferGames“ stehen, ist das schon einmal der richtige Weg. Wenn jetzt noch die Rollen, die der Discord-Nutzer auf dem GrieferGames Discord-Server hat stimmen – wenn dort z. B. als Rolle „Administrator“ steht, weiß man, dass man mit dem richtigen Teamler schreibt.
