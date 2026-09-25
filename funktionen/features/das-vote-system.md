@@ -31,16 +31,16 @@ Einmal pro Tag kannst du für den Server abstimmen. Den Link hierfür kannst du 
 
 <figure><img src="../../.gitbook/assets/5l8naWB.png" alt=""><figcaption><p>Chat-Ausgabe über <code>/vote</code></p></figcaption></figure>
 
-Wenn du unser Vote-System aufrufst, wirst du automatisch verbunden und dir werden alle Voting-Server angezeigt, bei welchen wir vertreten sind.
+Wenn du unser Vote-System aufrufst, wirst du automatisch verbunden und dir werden alle Voting-Server angezeigt, bei denen wir vertreten sind.
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
 Von hier aus kannst du nun auf die jeweiligen Voting-Anbieter zugreifen und für unseren Server abstimmen. Hier ein Beispiel für den Anbieter `minecraft-server.eu`.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamen (Minecraft-Account)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Eingabe deines Spielernamens (Minecraft-Account)</p></figcaption></figure>
 
 {% hint style="success" %}
-Wenn du den auf der Vote-Seite bereits eingeloggt bist, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
+Wenn du auf der Vote-Seite bereits eingeloggt bist, kannst du diesen Schritt überspringen. Dein Name wird über den Link automatisch eingetragen.
 
 Du musst nur noch auf den Button "Voten!" drücken.
 {% endhint %}
@@ -58,10 +58,8 @@ Wenn die grüne Erfolgsmeldung kommt, dass du erfolgreich für den Server abgest
 {% endhint %}
 
 {% hint style="warning" %}
-* Das Vote-System ist auf unserem Citybuild-Server 7 angebunden. Wenn der Server nicht erreicht ist, kann es passieren, dass dein Vote im System nicht sauber registriert wird.
+Das Vote-System ist an unseren Citybuild-Server 7 angebunden. Wenn der Server nicht erreichbar ist, kann es passieren, dass dein Vote im System nicht sauber registriert wird.
 {% endhint %}
-
-***
 
 ### Vote-Belohnungen
 
@@ -71,29 +69,29 @@ Wenn du erfolgreich für den Server abgestimmt hast, kannst du dir In-Game eine 
 
 Du musst deine Belohnung **nicht** sofort einlösen. Wir sammeln diese auch für dich. Votest du an 5 Tagen und gibst dann `/geschenk` ein, erhältst du die Belohnung für alle 5 Tage auf einmal.
 
-Pro täglicher Abstimmung erhält dein Account 16 Brote, [$100](../waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste). Solltest du auf mehreren Seiten abstimmern erhältst du für jedes Voting eine Belohung.
+Pro täglicher Abstimmung erhält dein Account 16 Brote, [$100](../waehrungen.md#griefergames-dollar) und eine [Vote-Kiste](das-case-opening.md#die-vote-kiste). Solltest du auf mehreren Seiten abstimmen, erhältst du für jedes Voting eine Belohnung.
 
 Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen für deine erreichten Vote-Streak-Ziele. Diese kannst du bis zu insgesamt 3000 Tage lang aufbauen.
 
 | Streak              | Belohnung                          |
 | ------------------- | ---------------------------------- |
-| 10'er Vote-Streak   | 10.000 Dollar + 1 Vote-Kiste       |
-| 25'er Vote-Streak   | 2.5000 Dollar + 3 Epische Kiste    |
-| 50'er Vote-Streak   | 50.000 Dollar + 5 Epische Kisten   |
-| 100'er Vote-Streak  | 100.000 Dollar + 5 Supreme-Kisten  |
-| 250'er Vote-Streak  | 250.000 Dollar + 1.500 Kristalle   |
-| 500'er Vote-Streak  | 375.000 Dollar + 1.750 Kristalle   |
-| 750'er Vote-Streak  | 500.000 Dollar + 2.000 Kristalle   |
-| 1000'er Vote-Streak | 625.000 Dollar + 2.250 Kristalle   |
-| 1250'er Vote-Streak | 750.000 Dollar + 2.500 Kristalle   |
-| 1500'er Vote-Streak | 825.000 Dollar + 2.750 Kristalle   |
-| 1750'er Vote-Streak | 1.000.000 Dollar + 3.000 Kristalle |
-| 2000'er Vote-Streak | 1.500.000 Dollar + 3.500 Kristalle |
-| 2500'er Vote-Streak | 2.000.000 Dollar + 4.000 Kristalle |
-| 3000'er Vote-Streak | 2.500.000 Dollar + 5.000 Kristalle |
+| 10er-Vote-Streak    | 10.000 Dollar + 1 Vote-Kiste       |
+| 25er-Vote-Streak    | 25.000 Dollar + 3 Epische Kisten   |
+| 50er-Vote-Streak    | 50.000 Dollar + 5 Epische Kisten   |
+| 100er-Vote-Streak   | 100.000 Dollar + 5 Supreme-Kisten  |
+| 250er-Vote-Streak   | 250.000 Dollar + 1.500 Kristalle   |
+| 500er-Vote-Streak   | 375.000 Dollar + 1.750 Kristalle   |
+| 750er-Vote-Streak   | 500.000 Dollar + 2.000 Kristalle   |
+| 1000er-Vote-Streak  | 625.000 Dollar + 2.250 Kristalle   |
+| 1250er-Vote-Streak  | 750.000 Dollar + 2.500 Kristalle   |
+| 1500er-Vote-Streak  | 825.000 Dollar + 2.750 Kristalle   |
+| 1750er-Vote-Streak  | 1.000.000 Dollar + 3.000 Kristalle |
+| 2000er-Vote-Streak  | 1.500.000 Dollar + 3.500 Kristalle |
+| 2500er-Vote-Streak  | 2.000.000 Dollar + 4.000 Kristalle |
+| 3000er-Vote-Streak  | 2.500.000 Dollar + 5.000 Kristalle |
 
 {% hint style="danger" %}
-Wenn du mehrere Tage in Folge nicht abstimmst wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
+Wenn du mehrere Tage in Folge nicht abstimmst, wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
 
 Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast.
 {% endhint %}

@@ -42,7 +42,7 @@ layout:
 
 #### (3) Das Äußern und Diskutieren von konstruktiver Kritik ist grundsätzlich erwünscht. Kritik, welche allerdings beleidigend, provokant oder allgemein nicht konstruktiv geäußert wird, ist nicht gestattet. (Bewertungs-)Umfragen über Arbeiten einzelner Teammitglieder sind ebenfalls nicht gestattet.
 
-(4) Sich als eine bekannte Person auszugeben ist in jeglicher Art und Weise verboten. Als bekannte Personen zählen alle Teammitglieder, Freunde vom Team, welche mit der „Freund“- oder „Best Buddy“-Gruppe auf dem TeamSpeak-Server oder dem „Freund“-Rang auf dem Minecraft-Netzwerk gekennzeichnet sind, sowie Spieler auf dem Minecraft-Netzwerk mit dem „Helfer“-, „YouTuber“-, „YouTuber+“-, „Streamer“- oder „Streamer+“-Rang.
+#### (4) Sich als eine bekannte Person auszugeben ist in jeglicher Art und Weise verboten. Als bekannte Personen zählen alle Teammitglieder, Freunde vom Team, welche mit der „Freund“- oder „Best Buddy“-Gruppe auf dem TeamSpeak-Server oder dem „Freund“-Rang auf dem Minecraft-Netzwerk gekennzeichnet sind, sowie Spieler auf dem Minecraft-Netzwerk mit dem „Helfer“-, „YouTuber“-, „YouTuber+“-, „Streamer“- oder „Streamer+“-Rang.
 
 #### (5) Werbung in Form der Nennung von vollständigen Serveradressen (Domain inkl. Top-Level-Domain) für Angebote, die nicht GrieferGames betreffen (z. B. fremde Minecraft-, TeamSpeak-, Discord-Server), ist verboten.
 
@@ -94,7 +94,7 @@ layout:
 
 #### (4) Items, die durch unerlaubte Modifikationen (Hacked Clients, Cheats) oder Serverfehler entstanden sind, müssen zerstört oder an das Team übergeben werden.
 
-#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](/hilfreiche-links/empfohlene-modifikationen) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
+#### (5) Alle Modifikationen, die einen erheblichen Spielvorteil bieten, sind verboten. [In dieser Auflistung](clients-and-modifikationen/empfohlene-modifikationen.md) sind einige Modifikationen aufgelistet, die wir zum angenehmen Spielen auf unserem Netzwerk empfehlen.
 
 #### (6) Keine der exklusiv für diesen Server gebauten Bauwerke (Lobby, Portalraum, Spawns) dürfen ohne eine ausdrückliche, schriftliche Erlaubnis der Serverleitung, sowohl für private als auch gewerbliche Zwecke genutzt werden.
 
@@ -144,7 +144,7 @@ layout:
 3. Jeder Einzelfall wird von einem Administrator überprüft und bei Verstoß mit einem Kick oder Bann vom Server oder mit einer Löschung des Grundstücks geahndet.
 4. Der Grundstücksbesitzer kann dafür belangt werden, wenn ein fremder, helfender oder vertrauter Spieler diese Farmen betreibt.
 5. Im Spawn-Bereich (erste bis dritte Reihe) dürfen keine Farmen gebaut werden. Ausnahmeregelung: Sie bieten der Community einen Community-Zweck mit zum Beispiel speziellen dauerhaft aktivierten Flags.
-6. Vollautomatisierte Spieleraccounts, welche wir als Bots einstufen, werden mindestens einen langen Bann erhalten. Hier gilt ebenfalls [§ 2 Absatz 8](regelwerk.md#id-8-das-nutzen-jeglicher-hacked-clients-bots-und-visueller-vorteile-ist-strengstens-verboten.-die-nutz).
+6. Vollautomatisierte Spieleraccounts, welche wir als Bots einstufen, werden mindestens einen langen Bann erhalten. Hier gilt ebenfalls [§ 2 Absatz 8](#8-das-nutzen-jeglicher-hacked-clients-bots-und-visueller-vorteile-ist-strengstens-verboten-die-nutzung-von-bots-die-einen-automatischen-an--und-verkauf-anbieten-ist-lediglich-auf-dem-18-citybuild-netzwerk-erlaubt-das-automatisierte-herstellen-von-items-durch-minecraft-eigene-rezepte--auch-unter-autocrafting-bekannt--ist-ebenfalls-nur-auf-dem-18-citybuild-netzwerk-erlaubt).
 7. Die Administration behält sich das Recht vor, AFK-betriebene Farmen vollständig zu deaktivieren, zu griefen oder zu zerstören.
 8. Community-Farmen dürfen AFK-Farmmechanismen betreiben, wenn sie eine bestätigte Community-Farm sind. Darunter müssen folgende Kriterien eingehalten werden:
    * AFK-Farmer müssen aktiv von den Farmbesitzern gekickt, gebannt oder getötet werden.
@@ -205,25 +205,25 @@ layout:
 
 #### (5) Das Umgehen von Sprach- und Schreibblockaden in Form von Channel-Banns, -Mutes, -ChatBanns, etc. ist verboten.
 
-(6) Telefonstreiche sind verboten.
+#### (6) Telefonstreiche sind verboten.
 
-(7) Das Blockieren von Serverslots mit mehr als 2 Clients/Accounts ist verboten.
+#### (7) Das Blockieren von Serverslots mit mehr als 2 Clients/Accounts ist verboten.
 
-(8) Jegliche Skripts, die den Client verändern, sind verboten.
+#### (8) Jegliche Skripts, die den Client verändern, sind verboten.
 
-(9) Das beabsichtigte Ausnutzen der Report-Funktion auf dem Discord-Server ist verboten.
+#### (9) Das beabsichtigte Ausnutzen der Report-Funktion auf dem Discord-Server ist verboten.
 
-(10) Der Verrat von Anwesenheiten eines Teammitglieds, welches sich verdeckt in einem Channel befindet, ist verboten.
+#### (10) Der Verrat von Anwesenheiten eines Teammitglieds, welches sich verdeckt in einem Channel befindet, ist verboten.
 
-(11) Sinnlose Markierungen von Teammitgliedern in Textkanälen auf unseren Discord-Servern sind untersagt.
+#### (11) Sinnlose Markierungen von Teammitgliedern in Textkanälen auf unseren Discord-Servern sind untersagt.
 
 ***
 
 ## § 4 - Spezifische Regeln zum Forum <a href="#id-74ca94a9-4-spezifische-regeln-zum-forum" id="id-74ca94a9-4-spezifische-regeln-zum-forum"></a>
 
-#### (1) Das Verfassen von unnötigen Beiträgen, die nichts mit dem eigentlichen Thema zu tun haben oder keinen Mehrwert bieten, ist verboten. Dies gilt auch für Beiträge, welche über die grundlegende Frage des Themenerstellers hinausgehen oder nicht aus dem Diskussionsverlauf hervorgehen. In Foren, in welchen die Aktivitätspunkte für neue Beiträge nicht zählen, gilt diese Regelung nicht. All diese Foren können [hier](/broken/pages/RuMwL3ng1ZHng6OHyMkh#in-welches-unterforum-gehort-mein-thema) eingesehen werden. Ausgenommen von dieser Ausnahmeregelung ist jedoch der Handelsbereich – in diesem befinden sich zwar keine punkterelevanten Foren, allerdings greift diese komplette Regelung dort ebenfalls.
+#### (1) Das Verfassen von unnötigen Beiträgen, die nichts mit dem eigentlichen Thema zu tun haben oder keinen Mehrwert bieten, ist verboten. Dies gilt auch für Beiträge, welche über die grundlegende Frage des Themenerstellers hinausgehen oder nicht aus dem Diskussionsverlauf hervorgehen. In Foren, in welchen die Aktivitätspunkte für neue Beiträge nicht zählen, gilt diese Regelung nicht. All diese Foren können [hier](https://forum.griefergames.de) eingesehen werden. Ausgenommen von dieser Ausnahmeregelung ist jedoch der Handelsbereich – in diesem befinden sich zwar keine punkterelevanten Foren, allerdings greift diese komplette Regelung dort ebenfalls.
 
-#### (2) Das Verfassen von Beiträgen im falschen Forum ist zu unterlassen. Wo man welches Thema posten sollte, kann man durch das Wiki, beispielsweise [hier](/faq/forum/erste-schritte#in-welches-unterforum-gehort-mein-thema), erfahren.
+#### (2) Das Verfassen von Beiträgen im falschen Forum ist zu unterlassen. Wo man welches Thema posten sollte, kann man durch das Wiki, beispielsweise [hier](https://forum.griefergames.de), erfahren.
 
 #### (3) Private Diskussionen sind nicht im öffentlichen Forum gewünscht. Diese können beispielsweise in Konversationen getätigt und geführt werden.
 
@@ -240,7 +240,7 @@ layout:
 
 #### (8) Das Erstellen von Benutzerkonten mit sogenannten Einmal-E-Mail-Adressen („Trash-Mails“) ist verboten.
 
-#### (9) Jeder Spieler darf nur ein Benutzerkonto im Forum besitzen und nutzen. Ist dieser gebannt so gilt [§ 1 Absatz 10](regelwerk.md#id-10-verwarnungs-mute-und-bannumgehungen-mithilfe-von-multi-und-alt-accounts-sind-verboten).
+#### (9) Jeder Spieler darf nur ein Benutzerkonto im Forum besitzen und nutzen. Ist dieser gebannt so gilt [§ 1 Absatz 10](#10-verwarnungs--mute--und-bannumgehungen-mithilfe-von-multi--und-alt-accounts-sind-verboten).
 
 #### (10) Das Hinweisen auf moderative Fehler eines Benutzers obliegt dem Team. Es ist daher als nicht-Teammitglied zu unterlassen, Benutzer auf Themen im falschen Forum, unnötigen Beitrag, Spam oder anderes hinzuweisen. Die Meldefunktion soll benutzt werden. Das Anfragen von moderativen Aktionen (Schließen, Verschieben, etc.) durch den Themenautor ist über die Meldefunktion vorzunehmen.
 

@@ -27,9 +27,9 @@ layout:
 
 Helfer sind von der Community gewählte Spieler, die auf ihrem Citybuild bei Fragen und allgemeinen Support-Anliegen unterstützen.
 
-Sie sind weiterhin ganz normale Mitglieder der Community und **gehören** **nicht zum Team**. Jeder Helfer ist für seinen jeweiligen Haupt-Citybuild zuständig und steht dabei in engem Kontakt mit dem Team, insbesondere mit dem Support-Bereich.
+Sie sind weiterhin ganz normale Mitglieder der Community und **gehören nicht zum Team**. Jeder Helfer ist für seinen jeweiligen Haupt-Citybuild zuständig und steht dabei in engem Kontakt mit dem Team, insbesondere mit dem Support-Bereich.
 
-Helfer können euch bei Fragen weiterhelfen, euch an die richtige Stelle verweisen oder Anliegen und Fehler an das Team weiterleiten.&#x20;
+Helfer können euch bei Fragen weiterhelfen, euch an die richtige Stelle verweisen oder Anliegen und Fehler an das Team weiterleiten.
 
 Eine Liste aller derzeitigen Helfer ist in der [Team-Übersicht](../../../team/#mods-sups-and-helfer) zu finden.
 
@@ -86,7 +86,7 @@ Damit du zum Helfer gewählt werden kannst, musst du mindestens 30 Tage auf dem 
 Damit du andere Spieler zum Helfer wählen kannst, musst du mindestens 14 Tage auf dem Citybuild-Server als Bürger eingetragen sein.
 {% endhint %}
 
-Eine Eintragung ist einmal monatlich über den [Bürgermeister](../die-hauptstadt.md#der-buergermeister) in der [Stadt](../die-hauptstadt.md#stadt) möglich.<br>
+Eine Eintragung ist einmal monatlich über den [Bürgermeister](../die-hauptstadt.md#der-buergermeister) in der [Stadt](../die-hauptstadt.md#stadt) möglich.
 
 ### Wie funktioniert die Helfer-Wahl?
 

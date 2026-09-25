@@ -33,7 +33,7 @@ Die Plotwelt dieser Citybuild-Server ist nicht standardisiert und besteht aus ei
 * Jedes Grundstück ist 42x42 Blöcke groß.
 * Grundstücke haben keinen [Rand](../grundstuecke/grundstuecke-veraendern.md#rand) und grenzen direkt aneinander.
 * Zwischen den Grundstücken ist **keine** Straße.
-* Das Grundstück wird automatisch mit der normalen Weltgenerierung auf Basis des Bioms erzeugt. Die Höhe und Art der Blöcke ist also völlig unterschiedlich.
+* Das Grundstück wird automatisch mit der normalen Weltgenerierung auf Basis des Bioms erzeugt. Höhe und Art der Blöcke sind also von Grundstück zu Grundstück völlig unterschiedlich.
 * Die maximale Bauhöhe liegt bei 256.
 
 <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -43,17 +43,17 @@ Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen 
 {% hint style="danger" %}
 Wird ein Grundstück auf den Citybuild-Servern Nature/Extreme zu häufig zurückgesetzt, kommt es zu einem Fehler, bei welchem keine Blöcke mehr auf dem Grundstück droppen.
 
-Dies gilt sowohl für natürlich generierte Blöcke beim Abbau, als auch für Items, die ein Spieler abwirft/verliert.
+Dies gilt sowohl für natürlich generierte Blöcke beim Abbau als auch für Items, die ein Spieler abwirft/verliert.
 
-Der Fehler behebt sich zum nächsten Server-Neustart selbstständig. Verlorene Items können nicht erstattet werden.
+Der Fehler behebt sich mit dem nächsten Server-Neustart von selbst. Verlorene Items können nicht erstattet werden.
 {% endhint %}
 
-### Besonderheiten
+## Besonderheiten
 
 * Plotwelt mit natürlicher Weltgenerierung
-* größere Grundstücke
-* kein Rand, keine Straßen
-* erhöhter Cooldown beim Zurücksetzen/Löschen von Grundstücken
+* Größere Grundstücke (42x42 Blöcke)
+* Kein Rand, keine Straßen
+* Erhöhter Cooldown beim Zurücksetzen/Löschen von Grundstücken
 * Angepasster [MobRemover](../../allgemein/server-performance/) (chunkbasiert)
 
 {% hint style="info" %}

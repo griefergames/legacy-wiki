@@ -1,7 +1,5 @@
 ---
-description: >-
-  Wenn du für dein Bauvorhaben mehr Platz brauchst oder den Citybuild wechseln
-  möchtest, kannst du dafür im Ticket-System einen Antrag stellen.
+description: Wenn du für dein Bauvorhaben mehr Platz brauchst oder den Citybuild wechseln möchtest, kannst du dafür im Ticket-System einen Antrag stellen.
 layout:
   width: default
   title:
@@ -30,16 +28,17 @@ layout:
 
 Grundstücksverschiebungen sind ein freiwilliger Service des Teams, auf den kein Anspruch besteht. Grundstücke werden **nicht** gedreht, es ist in abgesprochenen Ausnahmefällen allerdings in der 1. (oder manchmal auch 2.) Spawn-Reihe möglich.
 
-Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](grundstuecke-inaktiver-spieler-beantragen.md) könnt eurem Bauvorhaben im Weg steht.
+<figure class="wiki-illus"><img src="/img/wiki-illus/grundstuecke-verschieben.webp" alt="Schematisch: Ein Grundstück wird an eine neue Stelle verschoben bzw. erweitert."><figcaption>Schematisch: Ein Grundstück wird an eine neue Stelle verschoben bzw. erweitert.</figcaption></figure>
+
+Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück auf einen anderen Citybuild-Server umziehen wollt, euer Grundstück innerhalb des Citybuild-Servers an eine andere Stelle verschieben wollt oder ein Grundstück, welches ihr nicht [beantragen](grundstuecke-inaktiver-spieler-beantragen.md) könnt, eurem Bauvorhaben im Weg steht.
 
 ### Was gibt es hierbei zu beachten?
 
 {% hint style="info" %}
 **Checkplot hat Vorrang!**
 
-Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../team/#mods-sups-and-helfer) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
+Sollten (fast) unbebaute Einzelgrundstücke anderer (inaktiver) Spieler benötigt werden, ist dies bitte mit dem Spieler direkt oder über `/checkplot` bzw. Kontaktaufnahme mit dem jeweiligen für den [Citybuild zuständigen Supporter](../../team/#supporter) (z. B. via [Ticket-System](https://ticket.griefergames.de/)) zu klären.
 
-\
 Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung im Weg stehen, werden nur verschoben, wenn es **keine** andere Möglichkeit mehr gibt.
 {% endhint %}
 
@@ -49,7 +48,7 @@ Zu wertvolle/bebaute Einzelgrundstücke anderer Spieler, die einer Erweiterung i
 Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergreifend möglich, allerdings nur mit Einschränkungen.
 
 * Grundstücke, die nicht viereckig oder zu groß sind, können aktuell nicht auf einen anderen Citybuild-Server verschoben werden.
-  * In der Regel max. \~ 100er Merges - Ausnahmen sind jedoch möglich
+  * In der Regel max. \~100er-Merges – Ausnahmen sind jedoch möglich
 * Ränder und Straßen (inklusive Schilder & Köpfe) werden nicht mit verschoben.
 * Dieser Service ist **nicht** auf den Citybuilds 7, Nature & Extreme verfügbar.
 {% endhint %}
@@ -57,10 +56,8 @@ Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergre
 ### Kritische Entities
 
 {% hint style="danger" %}
-**Kritische Entities**
+**Kritische Entities/Blöcke auf dem 1.8-Netzwerk:**
 
-\
-**Kritische Entities/Blöcke auf dem 1.8-Netzwerk:**\
 Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Blöcken beachten:
 
 * **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
@@ -82,12 +79,12 @@ Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Bl
   * CaseOpenings
   * 4-Gewinnt-Blöcke
   * Plot-NPCs (zusätzlich Einstellungen angeben)
-  * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)<br>
+  * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)
 
 ***
 
-\
-**Kritische Entities/Blöcke der Cloud:**\
+**Kritische Entities/Blöcke der Cloud:**
+
 Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Blöcken beachtet werden:
 
 * **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
@@ -98,7 +95,7 @@ Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Bl
   * Vitrinen
 * **Diese Blöcke/Entities können verschwinden:**
   * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
-  * Mobs (vorher mit "Magischer Leine" einfangen)
+  * Mobs (vorher mit „Magischer Leine“ einfangen)
   * Dorfbewohner
   * Plot-NPCs (Koordinaten + Einstellungen angeben)
 * **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
@@ -114,7 +111,7 @@ Wenn sich Umstände bis zum Bearbeitungszeitpunkt ändern sollten (z. B. neue Sp
 Bitte gib uns erst Bescheid, sobald du alle Hinweise zu den Entities & Blöcken umgesetzt hast, die in dieser Nachricht stehen und du alles zur Kenntnis genommen hast. Solltest du etwas vergessen haben, können wir dir möglicherweise nicht mehr weiterhelfen.
 {% endhint %}
 
-Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
+Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden – es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
 
 ***
 
@@ -133,29 +130,31 @@ Alle Grundstücke, die zusammengefügt werden sollen, müssen vollständig bebau
 {% endhint %}
 
 {% hint style="warning" %}
-Sollten Grundstücke anderer Spieler im Weg sein, kannst du einen Antrag auf [Verschiebung des Grundstücks](grundstucke-verschieben-and-erweitern.md#grundstucke-verschieben) stellen. Beachte dabei die Hinweise!
+Sollten Grundstücke anderer Spieler im Weg sein, kannst du einen Antrag auf Verschiebung des Grundstücks stellen (siehe Abschnitt „Grundstücksverschiebungen“ oben). Beachte dabei die Hinweise!
 {% endhint %}
 
 {% hint style="danger" %}
 Anträge, die nicht allen Anforderungen entsprechen, werden höchstwahrscheinlich direkt abgelehnt.
 {% endhint %}
 
-Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden - es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
+Dein Antrag kann auch nach Weiterleitung immer noch abgelehnt werden – es gibt also keine Garantie auf eine Umsetzung. Außerdem kann die endgültige Umsetzung des Antrags je nach Situation einige Zeit dauern.
 
 ***
 
 ## Antrag stellen
 
-Anträge für die Verschiebung oder Erweiterung deines Grundstück lassen sich folgendermaßen erstellen:
+Anträge für die Verschiebung oder Erweiterung deines Grundstücks lassen sich folgendermaßen erstellen:
 
-### **Ticket-System**
+### Ticket-System
 
-* Nutze hier das passende Label "Grundstücksverschiebung/-erweiterung"
+* Nutze hier das passende Label „Grundstücksverschiebung/-erweiterung“.
 * Erstelle das Ticket über unseren Discord-Server oder im Web:
 
 {% embed url="https://discord.griefergames.net/" %}
+{% endembed %}
 
 {% embed url="https://ticket.griefergames.de/" %}
+{% endembed %}
 
 <details>
 

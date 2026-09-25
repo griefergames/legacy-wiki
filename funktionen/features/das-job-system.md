@@ -28,7 +28,7 @@ Das Ganze funktioniert mindestens stackweise (oder in größeren Mengen) und es 
 
 ### Wie erstelle ich einen Auftrag?
 
-Ich benötige einen bestimmten Materialblock – Wie erhalte ich diesen?
+Du benötigst einen bestimmten Materialblock? Dann erstellst du einen Auftrag in diesen Schritten:
 
 1. Job-Menü aufrufen
 2. "Meine Aufträge" aufrufen
@@ -39,7 +39,7 @@ Ich benötige einen bestimmten Materialblock – Wie erhalte ich diesen?
 
 ***
 
-1. Das Job-System lässt sich über einen Job-NPC oder über den Befehl `/jobs`  aufrufen. Der Job-NPC ist in der Hauptstadt zu finden.
+1. Das Job-System lässt sich über einen Job-NPC oder über den Befehl `/jobs` aufrufen. Der Job-NPC ist in der Hauptstadt zu finden.
 
 {% hint style="success" %}
 **Tipp:** Am besten den gesuchten Materialblock bereits im Inventar dabei haben!
@@ -47,85 +47,80 @@ Ich benötige einen bestimmten Materialblock – Wie erhalte ich diesen?
 
 2. Es öffnet sich ein GUI mit allen eingestellten Aufträgen von Spielern. Mit dem Button „Meine Aufträge“ (Redstone – Komparator) gelangst du in deine Auftragsliste.
 
-<figure><img src="https://lh7-us.googleusercontent.com/mw30eALsnM-_nuVxeMwT5rP71CtxZfEht3-GfSuQ07eseCa4xRrmSiFZq_PyV7F3Bx22XkjvRD0D6hCsnB5DKh0X67vUNhJMymW4tJ9zH91iOgKpPw9XnWAIthjuq_WH0y_XePfIQq5hLglp2k-mdoQ" alt=""><figcaption><p>Der Button "Meine Aufträge" öffnet eure Auftragsliste</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-ff7a48b82dbf.png" alt=""><figcaption><p>Der Button "Meine Aufträge" öffnet eure Auftragsliste</p></figcaption></figure>
 
-3. In diesem Fenster werden alle Aufträge, die du erstellt hast, angezeigt. \
-   Hierüber hast du die Übersicht über deine bestehenden Aufträge und zusätzlich die Möglichkeit, einen neuen Auftrag zu erstellen (Grüner + Kopf Button) „Neuen Auftrag erstellen“.\
-   Hinweis: Abholbereite Items werden mit einem Leucht-Effekt angezeigt.
-4. Sobald du auf den (Grüner + Kopf Button) „Neuen Auftrag erstellen“ klickt, öffnet sich ein weiteres Fenster mit folgenden Buttons
+3. In diesem Fenster werden alle Aufträge angezeigt, die du erstellt hast. Hier hast du die Übersicht über deine bestehenden Aufträge und kannst mit dem Button „Neuen Auftrag erstellen“ (grüner Kopf mit „+“) einen neuen Auftrag anlegen.
+
+   **Hinweis:** Abholbereite Items werden mit einem Leucht-Effekt angezeigt.
+4. Sobald du auf „Neuen Auftrag erstellen“ klickst, öffnet sich ein weiteres Fenster mit folgenden Buttons:
 
 {% tabs %}
 {% tab title="Obere Reihe" %}
 *   Barriere „Item wählen“
 
-    Hier gibst du an, welches Material du sucht. Dafür musst du diesen Material-Block zumindest einmal im Inventar haben. Klicke in deinem Inventar auf den gesuchten Block; dieser wird automatisch hinterlegt.
+    Hier gibst du an, welches Material du suchst. Dafür musst du diesen Material-Block zumindest einmal im Inventar haben. Klicke in deinem Inventar auf den gesuchten Block; dieser wird automatisch hinterlegt.
 *   Goldbarren „Preis pro Stack“
 
     Sobald du auf den Goldbarren klickst, musst du im Chat eingeben, wie viel du bereit bist, je Stack zu bezahlen.
 
 {% hint style="success" %}
-Tipp: Realistische Preise erhöhen eure Chance, dass andere Spieler diesen Block an Euch verkaufen.&#x20;
+**Tipp:** Realistische Preise erhöhen eure Chance, dass andere Spieler diesen Block an euch verkaufen.
 {% endhint %}
 {% endtab %}
 
 {% tab title="Mittlere Reihe" %}
-* 64x Barrieren „Anzahl 1x Stack“\
-  Dies bedeutet, dass Ihr einen Stack des gesuchten Materials sucht bzw. kauft.
-* Truhe „Anzahl 1x Kiste“\
-  Dies bedeutet, dass Ihr 27x Stacks des gesuchten Materials sucht bzw. kauft.
-* 2x Truhe „1x Doppelkiste“\
-  Dies bedeutet, dass Ihr 54x Stacks des gesuchten Materials sucht bzw. kauft.
-* Güterlore „Anzahl Stacks“\
-  Dies bedeutet, dass Ihr individuell die Anzahl der Stacks des gesuchten Materials im Chat eingeben könnt.
+* **64x Barrieren „Anzahl 1x Stack“**\
+  Dies bedeutet, dass ihr einen Stack des gesuchten Materials sucht bzw. kauft.
+* **Truhe „Anzahl 1x Kiste“**\
+  Dies bedeutet, dass ihr 27 Stacks des gesuchten Materials sucht bzw. kauft.
+* **2x Truhe „1x Doppelkiste“**\
+  Dies bedeutet, dass ihr 54 Stacks des gesuchten Materials sucht bzw. kauft.
+* **Güterlore „Anzahl Stacks“**\
+  Dies bedeutet, dass ihr individuell die Anzahl der Stacks des gesuchten Materials im Chat eingeben könnt.
 {% endtab %}
 
 {% tab title="Untere Reihe" %}
-* Redstone "Abbrechen"\
-  Mit diesem Button brecht ihr den aktuellen Auftrag ab und kehrt in eure Auftragliste zurück.\
-  Der Button ist nicht verfügbar,. wenn ihr den Auftrag fertig gestellt habt.
-* Barriere "Unvollständig"\
-  Dieser Button zeigt an, das Informationen zum Erstellen des Auftrags fehlen.&#x20;
-* Grüner Farbstoff "Auftrag erstellen"\
+* **Redstone „Abbrechen“**\
+  Mit diesem Button brecht ihr den aktuellen Auftrag ab und kehrt in eure Auftragsliste zurück. Der Button ist nicht verfügbar, wenn ihr den Auftrag fertiggestellt habt.
+* **Barriere „Unvollständig“**\
+  Dieser Button zeigt an, dass Informationen zum Erstellen des Auftrags fehlen.
+* **Grüner Farbstoff „Auftrag erstellen“**\
   Dieser Button ist erst verfügbar, wenn alle Informationen zum Auftrag eingegeben wurden. Er ersetzt die Barriere.
 {% endtab %}
 {% endtabs %}
 
-<figure><img src="https://lh7-us.googleusercontent.com/L-FKo2l8rO-LhMY0ViOcPRkAse9KBb2L3VuJIx9T7I5RGqrNPpXR9sCE3CBQ9Lu7LOhX8Hm_rX_SDNUh5D_m21LejtmLCb3rQ0ctG0s66453f-lgimkfx2fRwdjBhFGU8FCy-FyrhTNbUeLPf-xJaY0" alt=""><figcaption><p>Die Erstellung eines Auftrags erfordert gewisse Informationen.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-13e73fc9ce31.png" alt=""><figcaption><p>Die Erstellung eines Auftrags erfordert gewisse Informationen.</p></figcaption></figure>
 
-5. Rechts unten erscheint ein grüner Farbstoff Button, sobald alle Informationen hinterlegt sind.
+5. Rechts unten erscheint ein Button mit grünem Farbstoff, sobald alle Informationen hinterlegt sind.
 
 {% hint style="success" %}
-Tipp: Wenn du über den Button fährst, werden dir die Kosten für den Auftrag zzgl. Gebühren angezeigt.
+**Tipp:** Wenn du über den Button fährst, werden dir die Kosten für den Auftrag zzgl. Gebühren angezeigt.
 {% endhint %}
 
-<figure><img src="https://lh7-us.googleusercontent.com/rnb9v7hfjFDTg9UR0KrT7EFeRcYeiZOJS6y1NLsS3A3zXNcflaUQ3ArtCjuPYjNh46ISv4tafEbbi1DBLpyT_wZU1rDia0xHPXWWMZVHlppeO0Bz95yIrsglQRQzt70_yCgHrVumclyfXj5TfheSylY" alt=""><figcaption><p>Der Mouseover des Buttons "Auftrag erstellen" gibt euch eine Übersicht eures Auftrags.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-d428e37711c4.png" alt=""><figcaption><p>Der Mouseover des Buttons "Auftrag erstellen" gibt euch eine Übersicht eures Auftrags.</p></figcaption></figure>
 
 6. Mit einem Klick auf den Button erstellst du deinen Auftrag. Denke daran, dass du dieses Geld direkt an den NPC bezahlen musst.
 
-***
-
-### Ich möchte einen Auftrag stornieren  - Wie geht das?
+### Wie storniere ich einen Auftrag?
 
 Möchtest du einen Auftrag stornieren, gehe wie folgt vor:
 
 1. Rufe das Jobs-Menü über einen Jobs-NPC oder per Befehl `/jobs` auf.
-2. Es öffnet sich das GUI mit allen eingestellten Aufträgen von Spielern. Mit dem Knopf (Redstone – Komparator) „Meine Aufträge“ gelangst du in deine Auftragliste.
+2. Es öffnet sich das GUI mit allen eingestellten Aufträgen von Spielern. Mit dem Knopf (Redstone – Komparator) „Meine Aufträge“ gelangst du in deine Auftragsliste.
 
-<figure><img src="https://lh7-us.googleusercontent.com/OSs3B0vTdae9Yz7311wTk9OpQqMnKnEyLQD5wOnUuVNrFD8IIR4NAZa180buxXpVcU_Gmy14DgbQrqVtq_30z-4DafZEAclCxVsYegafB85aeMW8KVQZhogEh-Au4xIFeN6VuFR9wekZ9BA2PhiHswQ" alt=""><figcaption><p>Mit dem Button "Meine Aufträge" öffnest du deine persönliche Auftragsliste.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-6fd668ae3cc4.png" alt=""><figcaption><p>Mit dem Button "Meine Aufträge" öffnest du deine persönliche Auftragsliste.</p></figcaption></figure>
 
-3. Hier findest du eine Übersicht deiner Aufträge. Mit einem Rechtsklick auf den jeweiligen Auftrag kannst du diesen stornieren.&#x20;
+3. Hier findest du eine Übersicht deiner Aufträge. Mit einem Rechtsklick auf den jeweiligen Auftrag kannst du diesen stornieren.
 
-<figure><img src="https://lh7-us.googleusercontent.com/0HTc3J928Xt_mmNrGoYkvPzs-Q5AWVo-9QqwiehHRqD_VNw-oGJKxmybGwUgaUJmEnRLtnEm8Mg1mXJau7AG1QAYEpAzVwKMp4yj6jZOI0VVPObz3gnT5pOM7jzctrCohCIatBXtf9TuSfOmgdgPhmU" alt=""><figcaption><p>Alle Aufträge, welche noch nicht erledigt sind, findest du hier. </p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-b3758925ab35.png" alt=""><figcaption><p>Alle Aufträge, die noch nicht erledigt sind, findest du hier.</p></figcaption></figure>
 
-4. Wenn du den Auftrag abbrichst, erhältst du den verbleibenden Betrag für die ausstehende Itemmenge zurück erstattet. Das Geld wird deinem Kontostand automatisch hinzugefügt.
+4. Wenn du den Auftrag abbrichst, erhältst du den verbleibenden Betrag für die ausstehende Itemmenge zurückerstattet. Das Geld wird deinem Kontostand automatisch hinzugefügt.
 
 {% hint style="warning" %}
-Du erhältst lediglich das Geld für den verleibenden Itemwert zurück.&#x20;
+Du erhältst lediglich das Geld für den verbleibenden Itemwert zurück.
 
-Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurück erstattet.
+Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurückerstattet.
 {% endhint %}
-
-
 
 <details>
 

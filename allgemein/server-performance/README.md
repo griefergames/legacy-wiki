@@ -24,6 +24,8 @@ layout:
 
 # 📉 Server-Performance
 
+Auf dieser Seite erfährst du, wie die Leistung unserer Server gemessen wird, welche automatischen Schutzmaßnahmen (Remover, Slot-Beschränkungen, Whitelists) es gibt und warum Redstone auf deinem Grundstück eingeschränkt werden kann.
+
 ### Performancewerte
 
 #### TPS
@@ -32,28 +34,30 @@ layout:
 
 Minecraft arbeitet mit einem eigenen Zeitsystem, welches mit sogenannten "Ticks" arbeitet. Ein Minecraft-Tag entspricht einer Zeitspanne von 24.000 Ticks. Auch der Server nutzt diese Angabe, um Änderungen in der Spielwelt zu verarbeiten. Das Bewegen von Entitäten, die Zeit zum Abbauen eines Blocks, Schaden erleiden/heilen und alle anderen Vorgänge werden bei jedem Tick ein wenig weiter geschoben.
 
-Minecraft geht hierbei von einer optimalen Tickrate von 20 Ticks pro Sekunde aus. (1 Tick = 50ms / 0,05 Sekunden). Dabei kann der Server, gemessen an seiner Rechengeschwindigkeit nur eine bestimmte Anzahl an "Rechenoperationen" vornehmen. Übersteigt die Anzahl an Verarbeitungen die Menge, so können diese nicht mehr in der vollen Geschwindigkeit ablaufen. Der Server "laggt" (engl. "lag behind" = hinterherhängen) und in einer Sekunde werden weniger Ticks abgearbeitet.
+Minecraft geht hierbei von einer optimalen Tickrate von 20 Ticks pro Sekunde aus (1 Tick = 50 ms / 0,05 Sekunden). Dabei kann der Server, gemessen an seiner Rechengeschwindigkeit, nur eine bestimmte Anzahl an "Rechenoperationen" vornehmen. Übersteigt die Anzahl an Verarbeitungen die Menge, so können diese nicht mehr in der vollen Geschwindigkeit ablaufen. Der Server "laggt" (engl. "lag behind" = hinterherhängen) und in einer Sekunde werden weniger Ticks abgearbeitet.
 
-Die Performance des Servers fällt dann auf einen niedrigeren TPS-Wert. Es werden also weniger Ticks pro Sekunde ausgeführt. Aktionen, welche davon abhängig sind benötigen entweder mehr Zeit zum Ausführen oder werden "zurückgesetzt", wenn zwischen dem Server und dem Spielclient unterschiedliche Zeitberechnungen stattfanden. Das tritt besonders oft beim Abbauen von Blöcken oder beim Bewegen von Spielfigur oder Kreaturen auf. (sog. "Zurückbuggen").
+Die Performance des Servers fällt dann auf einen niedrigeren TPS-Wert. Es werden also weniger Ticks pro Sekunde ausgeführt. Aktionen, welche davon abhängig sind, benötigen entweder mehr Zeit zum Ausführen oder werden "zurückgesetzt", wenn zwischen dem Server und dem Spielclient unterschiedliche Zeitberechnungen stattfanden. Das tritt besonders oft beim Abbauen von Blöcken oder beim Bewegen von Spielfigur oder Kreaturen auf (sog. "Zurückbuggen").
 
 #### CPU
 
 Server arbeiten wie andere Informationssysteme mit einer CPU (Central Processing Unit), auch als Prozessor bezeichnet. Ein wesentliches Problem in der Performance ist, dass Minecraft als Anwendung lediglich einen Kern des Prozessors ansteuert und verwendet, was die maximale Rechenleistung der verwendeten Systeme stark einschränkt.
 
-Selbst ein Multikernprozessor _(DualCore, QuadCore oder EightCore)_ auf einem Server bringt also keinen Vorteil, da der MainThread von Minecraft immer nur einen Kern ansteuern würde und die Leistung verloren ginge. Viele Prozesse können zudem bei Minecraft nicht asynchron abgearbeitet werden, da sie mit anderen in der Spielwelt zusammenhängen. Somit fällt auch eine Virtualisierung von mehreren Prozessoren auf einen aus. Der "virtualisierte" Einzelkern würde die Aufgaben an mehrere physische Kerne verteilen, was die Abarbeitung nicht nur "verzögert", sondern möglicherweise auch asychronisiert und dadurch insgesamt zu mehr Problemen führt, als es löst.
+Selbst ein Multikernprozessor _(DualCore, QuadCore oder EightCore)_ auf einem Server bringt also keinen Vorteil, da der MainThread von Minecraft immer nur einen Kern ansteuern würde und die Leistung verloren ginge. Viele Prozesse können zudem bei Minecraft nicht asynchron abgearbeitet werden, da sie mit anderen in der Spielwelt zusammenhängen. Somit fällt auch eine Virtualisierung von mehreren Prozessoren auf einen aus. Der "virtualisierte" Einzelkern würde die Aufgaben an mehrere physische Kerne verteilen, was die Abarbeitung nicht nur "verzögert", sondern möglicherweise auch asynchronisiert und dadurch insgesamt zu mehr Problemen führt, als es löst.
 
-Je mehr Aktionen also innerhalb der Spielwelt auftreten, desto stärker wird der Server hierdurch belastet. Je weiter die CPU-Auslastung ansteigt, desto mehr Aktionen muss der Server in kurzer Zeit "verarbeiten". Übersteigt die Menge der zu verarbeitenden Aktionen 5% der max. CPU-Last, so können 20 Ticks in einer Sekunde nicht mehr abgearbeitet werden. (20 Ticks \* 5% = 100% Last pro Sekunde).
+Je mehr Aktionen also innerhalb der Spielwelt auftreten, desto stärker wird der Server hierdurch belastet. Je weiter die CPU-Auslastung ansteigt, desto mehr Aktionen muss der Server in kurzer Zeit "verarbeiten". Übersteigt die Menge der zu verarbeitenden Aktionen 5% der max. CPU-Last, so können 20 Ticks in einer Sekunde nicht mehr abgearbeitet werden (20 Ticks \* 5 % = 100 % Last pro Sekunde).
 
-Hat ein Server also mehr CPU-Last, muss er die Menge an Ticks reduzieren, damit er nicht überlastet wird. Wird die Menge an Ticks reduziert, fällt dies als schlechte Performance durch entsprechendes Fehleverhalten zwischen Server und Spiel-Client auf.
+<figure class="wiki-illus"><img src="/img/wiki-illus/server-performance.webp" alt="Zu viele Entities, Hopper und Item Frames auf einem Grundstück kosten Leistung."><figcaption>Zu viele Entities, Hopper und Item Frames auf einem Grundstück kosten Leistung.</figcaption></figure>
+
+Hat ein Server also mehr CPU-Last, muss er die Menge an Ticks reduzieren, damit er nicht überlastet wird. Wird die Menge an Ticks reduziert, fällt dies als schlechte Performance durch entsprechendes Fehlverhalten zwischen Server und Spiel-Client auf.
 
 {% hint style="warning" %}
-Fällt die Serverperformance unter entsprechende Schwellwerte werden zur Stabilisierung verschiedene Vorgänge automatisch ausgeführt:
+Fällt die Serverperformance unter entsprechende Schwellwerte, werden zur Stabilisierung verschiedene Vorgänge automatisch ausgeführt:
 
 * Die Funktion von Redstone wird deaktiviert
 * Der Lava- & Wasser-Fluss wird deaktiviert
 * Auf Citybuild Nature werden alle Hühner gelöscht
 
-Steigt die Performance über den entsprechenden Schwellert wird die Maßnahme wieder außer Kraft gesetzt.
+Steigt die Performance wieder über den entsprechenden Schwellwert, wird die Maßnahme wieder außer Kraft gesetzt.
 {% endhint %}
 
 ### Limits und Remover
@@ -71,11 +75,11 @@ Der MobRemover entfernt alle 15 Minuten sämtliche Kreaturen in allen geladenen 
 
 #### ItemRemover
 
-Der ItemRemover entfernt alle 20 Minuten frei schwebende Items in allen geladenen Chunks. Die Items gehen hierbei unwiderbringlich verloren, unabhängig davon, wie lange sie bereits in der Welt sind.
+Der ItemRemover entfernt alle 20 Minuten frei schwebende Items in allen geladenen Chunks. Die Items gehen hierbei unwiederbringlich verloren, unabhängig davon, wie lange sie bereits in der Welt sind.
 
 #### MoneyDrop-Stopp
 
-Wird die [Join-Cap (Freie Serverslots)](./#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine [Moneydrops](https://items.griefergames.net/#10.000%24_10x-Money-Drop) aus den [Case-Opening-Kisten](../../funktionen/features/das-case-opening.md#case-opening) mehr generiert. Die Kiste wird dem Spieler zurück erstattet.
+Wird die [Join-Cap (Freie Serverslots)](./#join-cap-reservierte-slots-und-whitelists) des Servers überschritten, so werden keine [Moneydrops](https://items.griefergames.net/#10.000%24_10x-Money-Drop) aus den [Case-Opening-Kisten](../../funktionen/features/das-case-opening.md) mehr generiert. Die Kiste wird dem Spieler zurückerstattet.
 
 ### Join-Cap, Reservierte Slots und Whitelists
 
@@ -106,12 +110,13 @@ Die Slot-Beschränkungen von Servern können entsprechend der technischen Verfü
 
 ### Redstone deaktiviert
 
-Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstruktionen zu beeinträchtigen, wurden Sicherheitsvorkehrungen an den Grundstücken vorgenommen. Durch diese Vorkehrung werden Grundstücke, die eine erhöhte Redstone-Aktivität vorweisen, automatisch von einem Plugin „eingeschränkt“, sodass die Redstone-Schaltung nciht mehr genutzt werden kann.
+Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstruktionen zu beeinträchtigen, wurden Sicherheitsvorkehrungen an den Grundstücken vorgenommen. Durch diese Vorkehrung werden Grundstücke, die eine erhöhte Redstone-Aktivität vorweisen, automatisch von einem Plugin „eingeschränkt“, sodass die Redstone-Schaltung nicht mehr genutzt werden kann.
 
 Ein Grundstück kann daher, wenn besonders viele, große oder schnelle Redstone-Schaltungen auf dem Grundstück verbaut sind, von der Benutzung von Redstone bis zum nächsten Server-Neustart (um 4 Uhr morgens) eingeschränkt werden.
 
-Leider lässt sich diese Einschränkung des Grundstücks nicht manuell ändern.\
-**Das heißt:** Wenn diese Einschränkung ausgelöst wurde, musst du leider damit leben und vorteilsweise noch einmal deine Konstruktionen näher anschauen und entscheiden, ob du diese nicht etwas minimierst.
+Leider lässt sich diese Einschränkung des Grundstücks nicht manuell ändern.
+
+**Das heißt:** Wenn diese Einschränkung ausgelöst wurde, musst du leider damit leben und solltest dir vorzugsweise noch einmal deine Konstruktionen näher anschauen und entscheiden, ob du diese etwas verkleinern kannst.
 
 Aus Gründen der Sicherheit können wir natürlich nicht genau mitteilen, ab welchen Limits diese Einschränkungen aktiv werden.
 

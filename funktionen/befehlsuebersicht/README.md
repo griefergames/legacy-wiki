@@ -21,6 +21,8 @@ layout:
 
 # ⚙️ Befehlsübersicht
 
+Hier findest du alle wichtigen Befehle für das 1.8-Netzwerk, sortiert nach Themen. Wähle einfach den passenden Bereich aus:
+
 {% content-ref url="allgemeine-befehle.md" %}
 [allgemeine-befehle.md](allgemeine-befehle.md)
 {% endcontent-ref %}

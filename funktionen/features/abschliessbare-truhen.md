@@ -25,19 +25,21 @@ layout:
 
 Mit einem speziellen Crafting-Rezept kannst du dir eine Truhe herstellen, welche du schnell und einfach für andere Spieler freigeben kannst. Dieses findest du auch in der [Rezeptesammlung](die-rezeptsammlung.md#abschliessbare-truhe).
 
-<figure><img src="../../.gitbook/assets/image (153).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (153).png" alt="Crafting-Rezept der abschließbaren Truhe"><figcaption></figcaption></figure>
 
-* Einfach auf deinem Grundstück platzieren.
-* Der Zugriff gilt erst einmal nur für dich und lässt sich auch gezielt für andere Spieler per `/chest trust/add <Spielername>` freigeben
-* Auch zeitlich begrenzte Zugriffe sind optional möglich (z. B. `/chest trust/add 1m` für eine Minute)
+* Platziere die Truhe einfach auf deinem Grundstück.
+* Der Zugriff gilt erst einmal nur für dich und lässt sich gezielt für andere Spieler per `/chest trust <Spielername>` bzw. `/chest add <Spielername>` freigeben.
+* Auch zeitlich begrenzte Zugriffe sind optional möglich (z. B. `/chest trust <Spielername> 1m` für eine Minute):
   * m = Minuten
   * h = Stunden
   * d = Tage
-* Mit `/chest info` siehst du, wer Zugriff auf die Kiste hat
-* Aktiviere `/chest notification`, um lokal benachrichtigt zu werden, wenn jemand auf deine Kiste zugreift.
+* Mit `/chest info` siehst du, wer Zugriff auf die Truhe hat.
+* Aktiviere `/chest notification`, um benachrichtigt zu werden, wenn jemand auf deine Truhe zugreift.
+
+Eine Übersicht aller Befehle findest du unter [Befehlsübersicht – Abschließbare Truhen](../befehlsuebersicht/spezielle-features/abschliessbare-truhen.md).
 
 {% hint style="info" %}
-- Benachrichtigungen funktionieren nur, solange ihr auf dem gleichen Server online seid. Befindet ihr euch auf einem anderen Citybuild-Server, Farmserver, dem Cloud-Netzwerk, etc. erhaltet ihr keine Benachrichtigung.
+Benachrichtigungen funktionieren nur, solange ihr auf dem gleichen Server online seid. Befindet ihr euch auf einem anderen Citybuild-Server, Farmserver, dem Cloud-Netzwerk usw., erhaltet ihr keine Benachrichtigung.
 {% endhint %}
 
 Abschließbare Truhen sind zudem gegen Abbau und Explosionen geschützt. Des Weiteren lassen sich diese auch nicht mit Trichtern absaugen. Dies dient der Sicherheit der eingelagerten Items, um sie vor Personen zu schützen, welche Rechte am Grundstück, jedoch nicht an der Truhe haben.

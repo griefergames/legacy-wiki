@@ -25,9 +25,9 @@ layout:
 
 In der Spielversion 1.8 ist das Rezeptbuch aus den höheren Spiel-Versionen noch nicht vorhanden.
 
-Ersatzweise haben wir daher den Befehl `/rezepte` hinzugefügt, mit welchem ihr ein GrieferGames-eigenes Rezeptbuch (Rezeptsammlung) aufrufen könnt.
+Ersatzweise haben wir daher den Befehl `/rezepte` hinzugefügt, mit dem ihr ein GrieferGames-eigenes Rezeptbuch (Rezeptsammlung) aufrufen könnt.
 
-In der Rezeptsammlung habt ihr 4 verschiedene Auswahlmöglichkeiten:
+In der Rezeptsammlung habt ihr vier verschiedene Auswahlmöglichkeiten:
 
 * [Standardrezepte](die-rezeptsammlung.md#standardrezepte)
 * [Item-Komprimierung](die-rezeptsammlung.md#item-komprimierung)
@@ -36,9 +36,9 @@ In der Rezeptsammlung habt ihr 4 verschiedene Auswahlmöglichkeiten:
 
 ### Standardrezepte
 
-Hierbei handelt es sich um eine Sammlung aller Standard-Minecraft-Rezepte. Du kannst hier das passende Item aus den vorhandenen Kategorien heraussuchen. Öffnest du ein Rezept und hast alle benötigten Materialien im Inventar kannst du das Item auch direkt in der Rezept-Ansicht herstellen.
+Hierbei handelt es sich um eine Sammlung aller Standard-Minecraft-Rezepte. Du kannst hier das passende Item aus den vorhandenen Kategorien heraussuchen. Öffnest du ein Rezept und hast alle benötigten Materialien im Inventar, kannst du das Item auch direkt in der Rezept-Ansicht herstellen.
 
-Hast du bereits ein Item im Inventar, von welchem du mehr herstellen willst, so kannst du nach Auswahl der Standard-Rezepte auf das Item in deinem Inventar klicken. Wenn es ein Rezept zur Herstellung gibt, wirst du direkt in die Rezept-Ansicht des Items gebracht.
+Hast du bereits ein Item im Inventar, von dem du mehr herstellen willst, so kannst du nach Auswahl der Standard-Rezepte auf das Item in deinem Inventar klicken. Wenn es ein Rezept zur Herstellung gibt, wirst du direkt in die Rezept-Ansicht des Items gebracht.
 
 {% hint style="info" %}
 Einige Items haben mehrere verschiedene Rezeptvarianten. Diese können über das +/- Symbol in der Rezeptansicht gewechselt werden.
@@ -48,16 +48,15 @@ Einige Items haben mehrere verschiedene Rezeptvarianten. Diese können über das
 
 Items sind wichtig und je mehr man hat, desto mehr kann man damit machen. Aber irgendwann wird auch das größte Lager voll.
 
-Deswegen gibt es die Item-Komprimierung. Im Sinne von Erzen, welche sich zu Barren verschmelzen lassen haben wir keine Mühen gescheut und eine Vielzahl an Items mit eigenen Rezepten versehen, mit welchen du diese "komprimieren" kannst. Mit diesem Vorgang kannst du mehrere Items zu einem einzigen zusammenfügen, welches diese enthält.
+Deswegen gibt es die Item-Komprimierung. Ähnlich wie bei Erzen, die sich zu Barren verschmelzen lassen, haben wir keine Mühen gescheut und eine Vielzahl an Items mit eigenen Rezepten versehen, mit denen du diese "komprimieren" kannst. Mit diesem Vorgang kannst du mehrere Items zu einem einzigen zusammenfügen, welches diese enthält.
 
-Der Vorgang lässt sich auf 7 Stufen herauf wiederholen, sodass du mehrere Millionen Items derselben Art auf einem einzigen Slot haben kannst. Du kannst mit diesen sogar ganz normal bauen oder sie für Interaktionen mit dem [Adventurer](das-adventurer-system.md#abgabe-aufgaben) und dem [Orb-Händler](das-orb-system.md#der-orb-haendler-haendler) verwenden.
+Der Vorgang lässt sich bis zur 7. Stufe wiederholen, sodass du mehrere Millionen Items derselben Art auf einem einzigen Slot haben kannst. Du kannst mit diesen sogar ganz normal bauen oder sie für Interaktionen mit dem [Adventurer](das-adventurer-system.md#abgabe-aufgaben) und dem [Orb-Händler](das-orb-system.md#der-orb-haendler-haendler) verwenden.
 
 {% hint style="warning" %}
 Komprimierte Blöcke sind noch nicht zur Nutzung als Spawner-Upgrade-Material verwendbar! Der Block wird dort ohne Betrachtung der Komprimierung als Solo-Item gewertet.
 {% endhint %}
 
-Da in der Komprimierungsliste eine Vielzahl an Items vorhanden ist, kannst du - sobald du die Komprimierung ausgewählt hast - auf ein Item in deinem Inventar klicken. Du wirst automatisch zum Komprimierungsrezept für das entsprechende Item gebracht, sofern es komprimierbar ist.\
-Die Komprimierungs-Stufe lässt sich über das +/- Symbol anpassen.
+Da in der Komprimierungsliste eine Vielzahl an Items vorhanden ist, kannst du - sobald du die Komprimierung ausgewählt hast - auf ein Item in deinem Inventar klicken. Du wirst automatisch zum Komprimierungsrezept für das entsprechende Item gebracht, sofern es komprimierbar ist. Die Komprimierungs-Stufe lässt sich über das +/- Symbol anpassen.
 
 ### Spezial-Rezepte
 
@@ -79,7 +78,7 @@ Wenn man jetzt noch eine passende Rüstung dazu hätte...?
 
 _Benötigte Materialien: 5 Zucker, 3 Magmacreme, 1 Wassereimer_
 
-Cola für den besonderen Kick! Dieses erfrischende Getränk gibt dir einen Schnelligkeit II-Effekt und lässt dich 90 Sekunden lang mit 40% zusätzlicher Geschwindigkeit agieren.
+Cola für den besonderen Kick! Dieses erfrischende Getränk gibt dir einen Schnelligkeit II-Effekt und lässt dich 90 Sekunden lang mit 40 % zusätzlicher Geschwindigkeit agieren.
 
 #### [Die Yeezys](https://items.griefergames.net/#Yeezys)
 
@@ -87,11 +86,10 @@ Cola für den besonderen Kick! Dieses erfrischende Getränk gibt dir einen Schne
 
 _Benötigte Materialien: 8 Smaragde, 1 Lederschuhe_
 
-Yeezies haben einen Geschwindigkeits- & Sprungkraft-Boost.
+Yeezys haben einen Geschwindigkeits- & Sprungkraft-Boost.
 
 {% hint style="warning" %}
-Durch den hohen Sprungeffekt kann man Fallschaden erleiden!\
-Wir empfehlen einen NoFall-Perk bei der Nutzung.
+Durch den hohen Sprungeffekt kann man Fallschaden erleiden! Wir empfehlen einen NoFall-Perk bei der Nutzung.
 {% endhint %}
 
 #### Normaler Stein
@@ -106,7 +104,7 @@ Wer muss schon Stein im Ofen brennen, wenn man ihn auch herstellen kann?
 
 _Benötigte Materialien: 4 Smaragdblöcke, 5 Leuchtfeuer_
 
-Wenn Dorfbewohner nicht durch den [MobRemover](../../allgemein/server-performance/#mobremover) entfernt werden sollen, dann kann einem dieser Token dabei helfen ihn zu schützen.
+Wenn Dorfbewohner nicht durch den [MobRemover](../../allgemein/server-performance/#mobremover) entfernt werden sollen, kann dieser Token dabei helfen, sie zu schützen.
 
 Man muss mit dem Token lediglich einen Rechtsklick auf den entsprechenden Dorfbewohner machen.
 
@@ -126,7 +124,7 @@ Die Dorfbewohner können weiterhin normal sterben oder durch [StopLag-Maßnahmen
 
 _Benötigte Materialien: insgesamt 24 Leuchtfeuer_
 
-Jedes Rüstungsteil hat Schutz VI standardmäßig. Die perfekte Ausrüstung für einsame Farmer und gewiefte Kämpfer in der Arena. Zusammen mit dem Antiken Schwert wirst du zu einer wahren Kampfmaschine.
+Jedes Rüstungsteil hat standardmäßig Schutz VI. Die perfekte Ausrüstung für einsame Farmer und gewiefte Kämpfer in der Arena. Zusammen mit dem Antiken Schwert wirst du zu einer wahren Kampfmaschine.
 
 #### [Erschaffe Bruchstein-Generator](https://items.griefergames.net/#Erschaffe_Bruchstein-Generator)
 
@@ -134,8 +132,7 @@ Jedes Rüstungsteil hat Schutz VI standardmäßig. Die perfekte Ausrüstung für
 
 _Benötigte Materialien: 1 Bruchstein, 1 Eisenbarren, 1 Goldbarren, 1 Kohle, 1 Redstonestaub, 1 Lapislazuli, 1 Smaragd, 1 Diamant, 1 Lore_
 
-Setze dieses Item in einen [passiven Spawner](passive-spawner.md#passive-spawner), um ihn zu einem Bruchstein- & Erze-Generator umzufunktionieren.\
-Das Item funktioniert wie ein reguläres Spawn-Ei. Ein bestehendes Spawn-Ei wird durch dieses ersetzt. Das Spawn-Ei wird nicht zurückerstattet.
+Setze dieses Item in einen [passiven Spawner](passive-spawner.md#passive-spawner), um ihn zu einem Bruchstein- & Erze-Generator umzufunktionieren. Das Item funktioniert wie ein reguläres Spawn-Ei. Ein bestehendes Spawn-Ei wird durch dieses ersetzt. Das Spawn-Ei wird nicht zurückerstattet.
 
 #### Abschließbare Truhe
 
@@ -147,7 +144,7 @@ Platziere diese [abschließbare Truhe](abschliessbare-truhen.md) auf deinem Grun
 
 ### CustomBlocks
 
-In dieser Kategorie hast du die Möglichkeit eine Vielzahl an [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) herzustellen. Diese sind vor allem zu dekorativen Zwecken gedacht und lassen dich dein Zuhause, deinen Shop oder dein Projektgrundstück noch vielseitiger dekorieren.
+In dieser Kategorie hast du die Möglichkeit, eine Vielzahl an [CustomBlocks](../../allgemein/clients-and-modifikationen/customblocks.md) herzustellen. Diese sind vor allem zu dekorativen Zwecken gedacht und lassen dich dein Zuhause, deinen Shop oder dein Projektgrundstück noch vielseitiger dekorieren.
 
 <figure><img src="../../.gitbook/assets/LVHNsEc.png" alt=""><figcaption></figcaption></figure>
 

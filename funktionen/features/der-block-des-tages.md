@@ -1,7 +1,5 @@
 ---
-description: >-
-  Seit dem 16.05.2024 gibt es auf unserem Netzwerk eine neue Besonderheit: Den
-  Block des Tages.
+description: Seit dem 16.05.2024 gibt es auf unserem Netzwerk eine neue Besonderheit – den Block des Tages.
 layout:
   width: default
   title:
@@ -26,15 +24,17 @@ layout:
 
 # 🔳 Block des Tages
 
-<figure><img src="../../.gitbook/assets/yHCPEr4.png" alt=""><figcaption><p>"Block des Tages"-NPC am Spawngrundstück eines Citybuild-Servers</p></figcaption></figure>
+Beim Block des Tages wird jeden Tag ein bestimmter Block festgelegt. Baust du diesen Block in der Farmwelt ab, erhältst du mit einer gewissen Wahrscheinlichkeit eine Belohnung. Alle Infos dazu erhältst du beim „Block des Tages“-NPC am Spawn-Grundstück deines Citybuild-Servers.
 
-### **Welchen Block muss man abbauen?**
+<figure><img src="../../.gitbook/assets/yHCPEr4.png" alt=""><figcaption><p>„Block des Tages“-NPC am Spawn-Grundstück eines Citybuild-Servers</p></figcaption></figure>
 
-Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf des NPCs sehen, wenn man auf den NPC klickt und das "Block des Tages"-Menü öffnet.
+## Welchen Block muss man abbauen?
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/BdT_Menu.png" alt=""><figcaption><p>"Block des Tages"-Menü</p></figcaption></figure></div>
+Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf des NPCs sehen oder im „Block des Tages“-Menü, das sich öffnet, wenn man auf den NPC klickt.
 
-**Im Menü sind folgende Buttons:**
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/BdT_Menu.png" alt=""><figcaption><p>„Block des Tages“-Menü</p></figcaption></figure></div>
+
+**Im Menü findest du folgende Buttons:**
 
 * Persönliche Statistik
   * Zeigt die eigenen Ergebnisse im Block des Tages an
@@ -47,7 +47,7 @@ Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf
 Mit welchem Werkzeug der Block des Tages abgebaut wird, ist nicht relevant. Die Chance lässt sich nicht verändern.
 {% endhint %}
 
-### Welche Belohnungen gibt es?
+## Welche Belohnungen gibt es?
 
 Beim Abbau **natürlich generierter Blöcke** in der Farmwelt (Overworld oder Nether) wird, sofern man das tägliche Belohnungslimit noch nicht ausgereizt hat, mit einer festgelegten Wahrscheinlichkeit die Belohnung ausgegeben.
 
@@ -55,7 +55,7 @@ Beim Abbau **natürlich generierter Blöcke** in der Farmwelt (Overworld oder Ne
 * Die Wahrscheinlichkeit wird nicht von anderen Faktoren wie Rang oder Anzahl der bereits abgeholten Belohnungen bzw. abgebauten Blöcke beeinflusst.
 * Die Wahrscheinlichkeit wird bei jedem einzelnen Blockabbau neu angewendet. Sie kann also in schneller Folge hintereinander oder erst nach langer Zeit zutreffen.
 
-Es gibt verschiedenste Belohnungen wie etwa [Geld](../waehrungen.md#griefergames-dollar), [Kristalle](../waehrungen.md#kristalle), spezielle Items oder natürlich den Block mit einer besonderen Verzauberung. Jeden Tag wird zufällig festgelegt, welche Art von Belohnung man erhält. Zum Beispiel bekommt man heute Geld, morgen den verzauberten Block und so weiter...
+Es gibt verschiedenste Belohnungen wie etwa [Geld](../waehrungen.md#griefergames-dollar), [Kristalle](../waehrungen.md#kristalle), spezielle Items oder natürlich den Block mit einer besonderen Verzauberung. Jeden Tag wird zufällig festgelegt, welche Art von Belohnung man erhält. Zum Beispiel bekommt man heute Geld, morgen den verzauberten Block und so weiter.
 
 Die Menge an Belohnungen pro Tag hängt von der Art der Belohnung ab:
 

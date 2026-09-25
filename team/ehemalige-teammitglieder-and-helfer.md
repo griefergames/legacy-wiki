@@ -23,8 +23,8 @@ layout:
 
 # Ehemalige Teammitglieder
 
-Auf dieser Seite findet ihr eine Übersicht über **alle ehemaligen Teammitglieder von GrieferGames**. Die Liste enthält Teammitglieder, die in der Vergangenheit Teil des Teams waren, mittlerweile aber nicht mehr sind.\
-\
+Auf dieser Seite findet ihr eine Übersicht über **alle ehemaligen Teammitglieder von GrieferGames**. Die Liste enthält Teammitglieder, die in der Vergangenheit Teil des Teams waren, mittlerweile aber nicht mehr sind.
+
 Alle aktuellen Teammitglieder können in der [Teamliste](./) eingesehen werden.
 
 ### Management

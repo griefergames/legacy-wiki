@@ -1,5 +1,5 @@
 ---
-description: Der Schematica-Mod - Installation & Anwendung
+description: Der Litematica-Mod - Installation & Anwendung
 layout:
   width: default
   title:
@@ -22,25 +22,24 @@ layout:
 
 **Hallo zusammen,**
 
-Viele von euch kennen den Schematica Mod. Dieser ist jedoch nur bis zu einer Version von Minecraft 1.12 verfügbar. Für alle höheren Versionen benutzt man Litematica. In diesen zweit Tutorials zeige ich euch die **Installation und Anwendung des Litematica-Mods über Labymod 4**
-
-
+Viele von euch kennen den Schematica-Mod. Dieser ist jedoch nur bis zur Minecraft-Version 1.12 verfügbar. Für alle höheren Versionen benutzt man Litematica. In diesen zwei Tutorials zeige ich euch die **Installation und Anwendung des Litematica-Mods über Labymod 4**.
 
 Um es übersichtlicher zu halten, ist das Tutorial in zwei Teile gegliedert.
 
-\[Teil 1] **Installation und Funktionstest**
+## Teil 1: Installation und Funktionstest
 
 **Benötigte Mods:**
 
-**Labymod 4:** [https://labymod.net/de/download](https://labymod.net/de/download)
+* **Labymod 4:** [https://labymod.net/de/download](https://labymod.net/de/download)
 
 **Installationsdurchführung:**
 
 {% embed url="https://www.youtube.com/watch?v=UYvWM_OKZzA" %}
+{% endembed %}
 
-\[**Teil 2]** **Funktion und Arbeiten**
+## Teil 2: Funktion und Arbeiten
 
-**Das Video ist gegliedert in**
+Das Video ist in folgende Abschnitte gegliedert:
 
 * Litematica erstellen
 * Layer / Ebenen
@@ -49,10 +48,9 @@ Um es übersichtlicher zu halten, ist das Tutorial in zwei Teile gegliedert.
 * Drucker einstellen
 
 {% embed url="https://www.youtube.com/watch?v=NrdBcRtQYII" %}
+{% endembed %}
 
-**Ich hoffe ich konnte euch so ein wenig Litematica mit Labymod 4 näher bringen und ihr habt nun einen kleinen Überblick, wie ihr damit Arbeiten könnt.**
-
-
+Ich hoffe, ich konnte euch Litematica mit Labymod 4 so ein wenig näherbringen und ihr habt nun einen kleinen Überblick, wie ihr damit arbeiten könnt.
 
 <details>
 

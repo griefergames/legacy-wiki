@@ -23,7 +23,9 @@ layout:
 
 # ❗ Beschwerden über Spieler/ Beweismaterial
 
-Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://wiki.griefergames.net/allgemein/allgemein/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit diese bei uns zu melden.
+Manchmal gibt es Situationen, die eure Spielerfahrung negativ beeinflussen. Solltet ihr einen Verstoß gegen unser [Regelwerk](https://wiki.griefergames.net/allgemein/allgemein/regelwerk) feststellen, habt ihr jederzeit die Möglichkeit, diesen bei uns zu melden.
+
+<figure class="wiki-illus"><img src="/img/wiki-illus/spieler-melden.webp" alt="Beweise sichern (Screenshot oder Video) und den Vorfall dem Team melden."><figcaption>Beweise sichern (Screenshot oder Video) und den Vorfall dem Team melden.</figcaption></figure>
 
 {% hint style="info" %}
 Bitte nutzt dafür das Ticket-System im [Web](https://ticket.griefergames.de/) beziehungsweise den [offiziellen GrieferGames Discord](https://discord.griefergames.net/). Beschwerden an anderen Stellen werden möglicherweise nicht bearbeitet.
@@ -58,22 +60,22 @@ Wir akzeptieren ausschließlich [Chat-Logs](spieler-melden.md#was-sind-chat-logs
 | Vulgäres Chatverhalten                 | Chat-Log/Videoaufnahme   |
 
 {% hint style="info" %}
-Mit dem Befehl `/fremdwerbung` könnt ihr als Community helfen, Fremdwerbung zu reduzieren.\
-\
-Wenn es um Regelverstöße auf [TeamSpeak oder Discord](/broken/pages/Ih0m8YSsNDzPV0hOc7Vv) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**
+Mit dem Befehl `/fremdwerbung` könnt ihr als Community helfen, Fremdwerbung zu reduzieren.
 
-Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die “Beitrag melden” Funktion nutzen.
+Wenn es um Regelverstöße auf [TeamSpeak oder Discord](https://discord.com/invite/abge) geht, gebt uns bitte die jeweilige User-ID des gemeldeten Spielers an. **Sprachaufnahmen sind nicht gestattet.**
+
+Für alle Anliegen, die unser Forum betreffen, könnt ihr dort die „Beitrag melden“-Funktion nutzen.
 {% endhint %}
 
 ### Was sind Chat-Logs?
 
-Damit sind nicht eure Logs in den Tiefen eures Minecraft Ordners gemeint, sondern das von uns eingeführte Feature zur Erfassung von Chatnachrichten!
+Damit sind nicht eure Logs in den Tiefen eures Minecraft-Ordners gemeint, sondern das von uns eingeführte Feature zur Erfassung von Chatnachrichten!
 
 Folgende Befehle stehen euch hier zur Verfügung:
 
-<table><thead><tr><th width="320">Befehl</th><th>Funktion</th></tr></thead><tbody><tr><td><code>/chatlog</code></td><td>Zeige dir die Hilfe/Übersicht an.</td></tr><tr><td><code>/chatlog all</code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog all &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log und markiere den genannten Spieler.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog msg &#x3C;Spieler></code></td><td>Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler.</td></tr><tr><td><code>/chatlog plot</code></td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log.</td></tr><tr><td><code>/chatlog plot &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks auf dem du stehst als Chat-Log und markiere den genannten Spieler.</td></tr><tr><td><code>/chatlog global</code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log. (nur Citybuild 1.8)</td></tr><tr><td><code>/chatlog global &#x3C;Spieler></code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log und markiere den angegebenen Spieler. (nur Citybuild 1.8.)</td></tr><tr><td><code>/chatlog clan</code></td><td>Erfasse die letzten Nachrichten aus dem Clan-Chat als Chat-Log.</td></tr><tr><td><code>/chatlog clan &#x3C;Spieler></code></td><td>Erfasse die letzten Nachrichten aus dem Clan-Chat als Chat-Log und markiere den genannten Spieler.</td></tr></tbody></table>
+<table><thead><tr><th>Befehl</th><th>Funktion</th></tr></thead><tbody><tr><td><code>/chatlog</code></td><td>Zeige dir die Hilfe/Übersicht an.</td></tr><tr><td><code>/chatlog all</code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog all &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Citybuild-Chat als Chat-Log und markiere den genannten Spieler.<br>(75 Nachrichten auf der Cloud)</td></tr><tr><td><code>/chatlog msg &#x3C;Spieler></code></td><td>Erfasse die letzten 20 privaten Nachrichten über /msg zwischen dir und dem genannten Spieler.</td></tr><tr><td><code>/chatlog plot</code></td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks, auf dem du stehst, als Chat-Log.</td></tr><tr><td><code>/chatlog plot &#x3C;Spieler></code></td><td>Erfasse die letzten 50 Nachrichten aus dem Grundstück-Chat des Grundstücks, auf dem du stehst, als Chat-Log und markiere den genannten Spieler.</td></tr><tr><td><code>/chatlog global</code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log. (nur Citybuild 1.8)</td></tr><tr><td><code>/chatlog global &#x3C;Spieler></code></td><td>Erfasse die letzten 100 Nachrichten im Global-Chat als Chat-Log und markiere den angegebenen Spieler. (nur Citybuild 1.8)</td></tr><tr><td><code>/chatlog clan</code></td><td>Erfasse die letzten Nachrichten aus dem Clan-Chat als Chat-Log.</td></tr><tr><td><code>/chatlog clan &#x3C;Spieler></code></td><td>Erfasse die letzten Nachrichten aus dem Clan-Chat als Chat-Log und markiere den genannten Spieler.</td></tr></tbody></table>
 
-Habt ihr keinen [GGAuth-Account](gg-auth.md) könnt ihr Chatlogs erstellen, jedoch nicht in eurem Account sichern. Ihr müsst dann nach Erstellen des Chatlogs den Link aus dem Chat seperat speichern, damit ihr ihn für eine Meldung verwenden könnt.
+Habt ihr keinen [GGAuth-Account](gg-auth.md), könnt ihr Chatlogs zwar erstellen, jedoch nicht in eurem Account sichern. Ihr müsst dann nach dem Erstellen des Chatlogs den Link aus dem Chat separat speichern, damit ihr ihn für eine Meldung verwenden könnt.
 
 Habt ihr euren Minecraft-Account mit GGAuth verknüpft, könnt ihr Chatlogs auch auf der [Chatlog-Seite](https://chatlog.griefergames.de/my-chatlogs) einsehen. Dies funktioniert für Chatlogs aus dem Citybuild-Chat, dem Grundstück-Chat und dem Global-Chat (nur Citybuild 1.8).
 
@@ -83,22 +85,21 @@ Chatlogs, welche ihr von Direktnachrichten erstellt, lassen sich **nicht** auf d
 
 ### Videoaufnahmen?
 
-Richtig! Manche Verstöße gegen unser Regelwerk lassen sich nur nachvollziehen, wenn ihr uns eine Videoaufnahme zukommen lassen. Es empfiehlt sich, die Aufnahmen auf YouTube als "Nicht gelistet" hochzuladen und uns mindestens bis zum Abschluss der Bearbeitung zur Verfügung zu stellen.
+Richtig! Manche Verstöße gegen unser Regelwerk lassen sich nur nachvollziehen, wenn ihr uns eine Videoaufnahme zukommen lasst. Es empfiehlt sich, die Aufnahmen auf YouTube als "Nicht gelistet" hochzuladen und uns mindestens bis zum Abschluss der Bearbeitung zur Verfügung zu stellen.
 
 Es gibt viele verschiedene Möglichkeiten, wie ihr Videoaufnahmen erstellen könnt.
 
 #### _Windows Game Bar_
 
-Wenn ihr als Betriebssystem Windows 10 oder Windows 11 besitzt, dann verfügt dieses über eine integrierte Game Bar. Drückt einfach die Tastenkombination Win + G, um die Game Bar zu erreichen. Hier könnt ihr eine Aufnahme starten/stoppen und Tastenkombinationen dafür festlegen.
+Wenn ihr als Betriebssystem Windows 10 oder Windows 11 besitzt, dann verfügt dieses über eine integrierte Game Bar. Drückt einfach die Tastenkombination <kbd>Win</kbd> + <kbd>G</kbd>, um die Game Bar zu erreichen. Hier könnt ihr eine Aufnahme starten/stoppen und Tastenkombinationen dafür festlegen.
 
 {% hint style="success" %}
-Über die Game Bar könnt ihr auch Einstellungen treffen, um automatisch die letzten X Sekunden dauerhaft aufzunehmen und bei Bedarf zu speichern.\
-Diese Option benötigt etwas mehr Leistung und sollte daher nur auf performanten Systemen eingesetzt werden.
+Über die Game Bar könnt ihr auch Einstellungen treffen, um automatisch die letzten X Sekunden dauerhaft aufzunehmen und bei Bedarf zu speichern. Diese Option benötigt etwas mehr Leistung und sollte daher nur auf performanten Systemen eingesetzt werden.
 {% endhint %}
 
 #### _NVIDIA GeForce Experience_
 
-Nutzt ihr eine NVIDIA-Grafikkarte, könnt ihr über das NVIDIA GeForce Experience-Overlay die Option "ShadowPlay" aktivieren. Drückt einfach die Tastenkombination Alt + Z, um das Overlay zu erreichen.
+Nutzt ihr eine NVIDIA-Grafikkarte, könnt ihr über das NVIDIA GeForce Experience-Overlay die Option "ShadowPlay" aktivieren. Drückt einfach die Tastenkombination <kbd>Alt</kbd> + <kbd>Z</kbd>, um das Overlay zu erreichen.
 
 #### _AMD Adrenaline_
 
@@ -110,5 +111,4 @@ Nutzt ihr eine AMD-Grafikkarte, könnt ihr über die AMD Adrenaline-Software ebe
 
 #### _Open Broadcast Software_
 
-Alternativ könnt ihr auch jedes andere Aufnahmeprogramm verwenden, welches den kompletten Spielinhalt unverändert aufzeichnet.\
-Unsere Empfehlung hierfür ist das einsteigerfreundliche und kostenfreie [OBS Studio](https://obsproject.com/de).
+Alternativ könnt ihr auch jedes andere Aufnahmeprogramm verwenden, welches den kompletten Spielinhalt unverändert aufzeichnet. Unsere Empfehlung hierfür ist das einsteigerfreundliche und kostenfreie [OBS Studio](https://obsproject.com/de).

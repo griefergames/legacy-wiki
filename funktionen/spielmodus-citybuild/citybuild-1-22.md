@@ -22,9 +22,9 @@ layout:
 
 # 🏘️ Citybuild 1-22
 
-Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch`  oder direkt mit dem Befehl. Für Citybuild 22 wäre dies z.B. `/switch cb22`.
+Die Citybuild-Server erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch` oder direkt mit dem Befehl `/switch cb<Nummer>`. Für Citybuild 22 wäre dies z. B. `/switch cb22`.
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt="Spawn eines Citybuild-Servers aus der Vogelperspektive"><figcaption></figcaption></figure>
 
 Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -34,13 +34,14 @@ Die Plotwelt dieser Citybuild-Server ist standardisiert und besteht aus gleichf�
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Erde, Grober Erde und einer Schicht Gras [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
 * Die maximale Bauhöhe liegt bei 256.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="Grundstücke mit Rand, getrennt durch Straßen aus Holz"><figcaption></figcaption></figure>
 
-Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende [Rechte](../befehlsuebersicht/rang-befehle.md) oder [Items](https://items.griefergames.net/), welche du freischalten kannst.\
+Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende [Rechte](../befehlsuebersicht/rang-befehle.md) oder [Items](https://items.griefergames.net/), welche du freischalten kannst.
+
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).
 
 {% hint style="info" %}
 **Spawn-Grundstücke**
 
-Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.&#x20;
+Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.
 {% endhint %}

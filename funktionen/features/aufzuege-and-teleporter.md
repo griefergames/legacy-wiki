@@ -23,35 +23,35 @@ layout:
 
 # ↕️ Aufzüge & Teleporter
 
-### Aufzug
+## Aufzug
 
-Um schnellstmöglich zwischen verschiedenen Höhen zu wechseln, ist ein [Aufzug ](http://items.griefergames.net/#Aufzug)sehr praktisch.
+Um schnellstmöglich zwischen verschiedenen Höhen zu wechseln, ist ein [Aufzug](http://items.griefergames.net/#Aufzug) sehr praktisch.
 
 Hierfür musst du nur zwei Aufzüge auf zwei unterschiedlichen Höhen an derselben Position (X- & Z-Koordinate) platzieren.
 
 Nun kannst du durch Springen und Schleichen zwischen den verschiedenen Ebenen wechseln.
 
-<figure><img src="https://lh7-us.googleusercontent.com/bCOVJcQ3tnOJ0wnHjxbmDkj-i5ox01kYJXK8e7_UegmuKVFRx8-7DGYKDovM06Xq7kaKs5Ib2mqpDTYXbwkFcenNLDiyuAQ42RWSDlSocebWUy28Yf3JTmdZX4OlUcNuCDYcvzNvbjlkhNxyyMCqLmI" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-376ae1706550.gif" alt="Zwei übereinander platzierte Aufzüge"><figcaption></figcaption></figure>
 
-Aufzüge können Spieler durch solide Blöcke hindurch transportieren. Sie eignen sich somit auch zum Wechseln zwischen unterirdischer und überirdischer Bereiche, wie auch um verschiedene Stockwerke innerhalb von Gebäuden zu erreichen.
+Aufzüge können Spieler durch solide Blöcke hindurch transportieren. Sie eignen sich somit sowohl zum Wechseln zwischen unterirdischen und überirdischen Bereichen als auch zum Erreichen verschiedener Stockwerke innerhalb von Gebäuden.
 
-### Teleporter
+## Teleporter
 
 Willst du auch die Position verändern oder sogar Spieler zu einem anderen Plot bringen, so hilft dir hierbei ein [Teleporter](https://items.griefergames.net/#Teleporter).
 
-Diesen platzierst du einfach an einer gewünschten Position. Teleporter eines Spielers (Grundstückbesitzer) werden automatisch in ein Netzwerk eingebunden. Durch Springen oder Schleichen auf einem Teleporter wird man zum nächsten/vorherigen Teleporter-Punkt dieses Netzwerks transportiert. Ein Spieler kann bis zu 7 Teleporter-Netzwerke aufbauen.
+Diesen platzierst du einfach an einer gewünschten Position. Teleporter eines Spielers (Grundstücksbesitzers) werden automatisch in ein Netzwerk eingebunden. Durch Springen oder Schleichen auf einem Teleporter wird man zum nächsten/vorherigen Teleporter-Punkt dieses Netzwerks transportiert. Ein Spieler kann bis zu 7 Teleporter-Netzwerke aufbauen.
 
 Mit einem Rechtsklick kann das Menü des entsprechenden Teleporters geöffnet werden. Hierüber kann man auch einen beliebigen Teleportpunkt aus dem Netzwerk direkt auswählen.
 
-<figure><img src="https://lh7-us.googleusercontent.com/bm9qo4xlIiE3Fr_0FJvM8HMWbJ-v2KFi0lFHpxekIa1oyAe4cM-hgtLjTcObm72Uh-WSoMX2Fqpk82vgejEvL0VDT1Y81DoFOjmcgsIQrDaoy0K4sUkJPN2eBIvjp7TUKowQRIoCwyDP3-9eKHc9EQw" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-126d04a92a72.png" alt="Menü eines Teleporters"><figcaption></figcaption></figure>
 
-Als Besitzer kannst du im Menü auch die Teleportpunkte individuell gestalten, z.B. den Namen ändern, den Kopf (Item-Symbol) ändern und du kannst Rechte für den Teleport-Punkt einstellen, damit alle Spieler, nur vertraute Spieler oder Helfer diesen benutzen können.
+Als Besitzer kannst du im Menü auch die Teleportpunkte individuell gestalten, z. B. den Namen ändern, den Kopf (Item-Symbol) ändern und du kannst Rechte für den Teleport-Punkt einstellen, damit alle Spieler, nur vertraute Spieler oder Helfer diesen benutzen können.
 
 {% hint style="warning" %}
-Die festgelegten Rechte gelten nur lokal - das globale Nutzen von Teleportern ist nur dem Besitzer des Grundstücks möglich.
+Die festgelegten Rechte gelten nur lokal – das globale Nutzen von Teleportern ist nur dem Besitzer des Grundstücks möglich.
 {% endhint %}
 
-<figure><img src="https://lh7-us.googleusercontent.com/zjOXR-oixoGPb8_Jx1m8LLmwnB5NyqtTX8qtO0gI3LNCFqgezHK80GJmCGv1oI6zYtnWxj1rh1PtiSD0Tt2DP3lRTbU41zmy9x9wBKKmOw503Ft3gKvbJjHOvsXBSdi1afkJsXnFridU2suc4g6VI3M" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/gdoc-dc21f6abfc02.png" alt="Einstellungen eines Teleport-Punkts"><figcaption></figcaption></figure>
 
 <details>
 
@@ -63,5 +63,5 @@ Die festgelegten Rechte gelten nur lokal - das globale Nutzen von Teleportern is
 </details>
 
 {% hint style="danger" %}
-Dieser Artikel ist recht kurz. Er könnte eine Ergänzung vertragen. [Interessiert](/broken/pages/by9MuDbzY0Ijtj7fmkBG)?
+Dieser Artikel ist recht kurz. Er könnte eine Ergänzung vertragen. [Interessiert](../../allgemein/vorschlaege.md)?
 {% endhint %}

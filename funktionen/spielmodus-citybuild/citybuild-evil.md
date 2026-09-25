@@ -26,7 +26,7 @@ layout:
 
 Den Citybuild-Server Evil erreicht man über den Portalraum, über das Auswahlmenü unter dem Befehl `/switch` oder direkt mit dem Befehl `/switch cbevil`.
 
-<figure><img src="../../.gitbook/assets/image (169).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (169).png" alt="Spawn des Citybuild-Servers Evil"><figcaption></figcaption></figure>
 
 Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichförmigen [Einzelgrundstücken](../grundstuecke/), welche durch Straßen getrennt sind.
 
@@ -36,26 +36,27 @@ Die Plotwelt dieses Citybuild-Servers ist thematisiert und besteht aus gleichfö
 * Das Grundstück ist standardmäßig bis zur Höhe 64 mit Netherrack [befüllt](../grundstuecke/grundstuecke-veraendern.md#aushoehlen).
 * Die maximale Bauhöhe liegt bei 256.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="Grundstücke aus Netherrack, getrennt durch Straßen aus Netherziegeln"><figcaption></figcaption></figure>
 
-Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende Rechte oder Items, welche du freischalten kannst.\
+Die Grundstücke lassen sich zum Teil auch [anpassen](../grundstuecke/grundstuecke-veraendern.md). Hierzu benötigst du entsprechende [Rechte](../befehlsuebersicht/rang-befehle.md) oder [Items](https://items.griefergames.net/), welche du freischalten kannst.
+
 Nebeneinander liegende Grundstücke, die du besitzt, kannst du zu einem großen [Grundstück verbinden](../grundstuecke/grundstuecke-verbinden.md).
 
-### Geschichte
-
-Im Herbst 2018 (August bis November) entstand eine Video-Reihe des Serverinhabers Abgegrieft auf YouTube in welcher ein Charakter names "AdminEvil" das Netzwerk angriff. Im Rahmen der [Video-Reihe](https://youtube.com/playlist?list=PL7S6rx1CT0Nol0zGj7Wb2ZGVSEaeFxtuP) tauchte der Charakter in verschiedener Form wiederholt auf, verschaffte sich unerlaubt Rechte und forderte schlussendlich im November seinen eigenen Citybuild-Server unter seiner Kontrolle und mit eigenen Regeln.
-
-Im Zuge dessen wurde am 09.11.2018 der [Citybuild-Server Evil eröffnet](https://www.youtube.com/watch?v=zgw-HsBeaI4), welcher den Namen des Charakters weiterträgt. Die Spieleranzahl wurde auf Forderung des Charakters begrenzt und es gibt keine Zutrittsrechte über dem Join-Cap. Die gesamte Plot-Welt ist im Nether-Stil gehalten und der Server hat ein eigenes individuelles Spawn-Grundstück erhalten.
-
-Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer aktiv. Durch diese hohe Zuverlässigkeit, haben sich auf dem Citybuild-Server vor allem Spieler angesiedelt, welche mit entsprechender Technik arbeiten.
-
-### Besonderheiten
+## Besonderheiten
 
 * Komplette Plotwelt im Nether-Stil
-* max. Spieleranzahl von 170 Spielern (keine[ reservierten Slots](../../allgemein/server-performance/#join-cap-reservierte-slots-und-whitelists))
+* Maximale Spieleranzahl von 170 Spielern (keine [reservierten Slots](../../allgemein/server-performance/#join-cap-reservierte-slots-und-whitelists))
 
 {% hint style="info" %}
 **Spawn-Grundstücke**
 
 Um den Spawn herum gibt es Spawn-Grundstücke, die von Spielern mit hohem Wert gehandelt werden. Diese Grundstücke befinden sich in der 1. bis 5. Grundstücksreihe direkt um den Spawn herum und können nicht über `/checkplot` beantragt werden. Sollte ein Spawn-Grundstück inaktiv oder unbebaut sein, kann es über `/spawnplotreport` gemeldet werden.
 {% endhint %}
+
+## Geschichte
+
+Im Herbst 2018 (August bis November) entstand eine Video-Reihe des Serverinhabers Abgegrieft auf YouTube, in welcher ein Charakter namens „AdminEvil“ das Netzwerk angriff. Im Rahmen der [Video-Reihe](https://youtube.com/playlist?list=PL7S6rx1CT0Nol0zGj7Wb2ZGVSEaeFxtuP) tauchte der Charakter in verschiedener Form wiederholt auf, verschaffte sich unerlaubt Rechte und forderte schlussendlich im November seinen eigenen Citybuild-Server unter seiner Kontrolle und mit eigenen Regeln.
+
+Im Zuge dessen wurde am 09.11.2018 der [Citybuild-Server Evil eröffnet](https://www.youtube.com/watch?v=zgw-HsBeaI4), welcher den Namen des Charakters weiterträgt. Die Spieleranzahl wurde auf Forderung des Charakters begrenzt und es gibt keine Zutrittsrechte über dem Join-Cap. Die gesamte Plot-Welt ist im Nether-Stil gehalten und der Server hat ein eigenes individuelles Spawn-Grundstück erhalten.
+
+Durch die begrenzte Spieleranzahl ist Redstone auf dem Server beinahe immer aktiv. Durch diese hohe Zuverlässigkeit haben sich auf dem Citybuild-Server vor allem Spieler angesiedelt, welche mit entsprechender Technik arbeiten.

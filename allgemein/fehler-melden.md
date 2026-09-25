@@ -25,24 +25,24 @@ layout:
 
 Du möchtest einen Fehler melden, der mit dem 1.8-Netzwerk, Cloud-Netzwerk, der Bedrock Edition oder unseren Web-Diensten zusammenhängt?
 
-Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/).\
-Die Bearbeitung der Fehlermeldung kann je nach Priorität des Fehlers variieren.
+Erstelle dafür eine Meldung im dafür vorgesehenen [Discord-Channel](https://discord.com/channels/325017098592059392/1283079587080966297) auf unserem [Discord-Server](https://discord.griefergames.net/). Die Bearbeitungsdauer kann je nach Priorität des Fehlers variieren.
 
-Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.\
+Wirklich kritische Fehler, die nicht öffentlich kommuniziert werden sollten, können uns auch im Ticket-System ([Discord](https://discord.gg/abge) oder [Web](https://ticket.griefergames.de/)) gemeldet werden.
+
 Meldungen zur Server-Performance können ebenfalls als Fehlermeldung auf dem Discord erstellt werden.
 
-### Infos zu Fehlermeldungen im Discord:
+### Infos zu Fehlermeldungen im Discord
 
-**Welches Label wählt man wann aus?**
+#### Welches Label wählt man wann aus?
 
-- Wenn ihr einen Fehler unseres **1.8 Netzwerks** melden möchtet, wählt bitte das Label **1.8 Netzwerk** aus.
-- Wenn ihr einen Fehler unseres **Cloud Netzwerks** oder **Minigames** melden möchtet, wählt bitte das Label **Cloud Netzwerk** aus.
+- Wenn ihr einen Fehler unseres **1.8-Netzwerks** melden möchtet, wählt bitte das Label **1.8 Netzwerk** aus.
+- Wenn ihr einen Fehler unseres **Cloud-Netzwerks** oder **Minigames** melden möchtet, wählt bitte das Label **Cloud Netzwerk** aus.
 - Wenn ihr einen Fehler unserer **Bedrock Edition** melden möchtet, wählt bitte das Label **Bedrock Edition** aus. ([Auflistung bekannter Bedrock-Fehler + Tipps](https://discord.com/channels/325017098592059392/1291741617363095562/1291741617363095562))
 - Wenn ihr einen Fehler unserer **Web-Dienste** (z. B. **Ticket-System**, **Profil-System**, **GGAuth** etc.) melden möchtet, wählt bitte das Label **Web-Dienste** aus.
 
 Gebt uns bitte so viele Informationen wie möglich an, die für den Fehler relevant sein könnten.
 
-**Was bedeuten die Status-Labels?**
+#### Was bedeuten die Status-Labels?
 
 - ✅ **Behoben**: Der Fehler wurde erfolgreich behoben
 - ✅ **Erledigt**: Der Fehler wurde bereits gemeldet oder das Problem anderweitig gelöst

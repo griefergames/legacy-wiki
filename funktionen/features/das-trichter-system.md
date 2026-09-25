@@ -32,9 +32,9 @@ Auf GrieferGames wurden die Trichter-Ticks angepasst, um den Performance-Verbrau
 
 ### Trichter-Tick
 
-Die Häufigkeit mit der die Trichter auf GrieferGames ticken ist reduziert.
+Die Häufigkeit, mit der Trichter auf GrieferGames ticken, ist reduziert.
 
-Ein Trichter tickt im Standard alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames Tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item Verschoben, wartet der Trichter ebenfalls 80 Ticks bevor er erneut prüft, ob ein neues Item vorhanden ist.
+Ein Trichter tickt im Standard alle <mark style="color:red;">**8 Ticks**</mark> und verschiebt dabei <mark style="color:red;">**1 Item**</mark>. Auf GrieferGames tickt ein Trichter alle <mark style="color:green;">**80 Ticks**</mark> und verschiebt dabei <mark style="color:green;">**12 Items**</mark>. Wird in einem Tick kein Item verschoben, wartet der Trichter ebenfalls 80 Ticks, bevor er erneut prüft, ob ein neues Item vorhanden ist.
 
 ## Die neuen Trichter-Funktionen
 
@@ -46,8 +46,7 @@ Dieses Menü bietet verschiedene Einstellungsoptionen, welche im Folgenden erlä
 
 ### Item-Anzahl einstellen
 
-Mit dem Button <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden.\
-Die Standardeinstellung liegt hier bei 12 Items.
+Mit dem Button <img src="../../.gitbook/assets/image (14) (1).png" alt="" data-size="line"> kann die <mark style="color:orange;">Anzahl der transportierten Items</mark> festgelegt werden. Die Standardeinstellung liegt hier bei 12 Items.
 
 Folgende Optionen stehen dir zur Auswahl:
 
@@ -56,12 +55,12 @@ Folgende Optionen stehen dir zur Auswahl:
 * 64 Items
 
 {% hint style="info" %}
-Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items, als die eingestellte Anzahl, wird nur die Anzahl dieses Stacks verschoben.
+Es wird immer nur ein Stack gleichzeitig bewegt. Hat ein Stack weniger Items als die eingestellte Anzahl, wird nur die Anzahl dieses Stacks verschoben.
 {% endhint %}
 
 ### Fast Tick
 
-Mit der <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FNT48AEl3AIaqUVOaVIQm%2Fimage.png?alt=media&#x26;token=adafb11e-0799-4974-80bf-fe1b4f91091d" alt="" data-size="line"> <mark style="color:orange;">Fast Tick</mark>-Option ist es möglich, die Tick-Geschwindigkeit auf den Standard zurück zu setzen (siehe [Trichter-Tick](das-trichter-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil aller Schaltungen lässt sich durch die angepassten Item-Mengen so umbauen, dass diese auch auf GrieferGames funktionieren.
+Mit der <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FNT48AEl3AIaqUVOaVIQm%2Fimage.png?alt=media&#x26;token=adafb11e-0799-4974-80bf-fe1b4f91091d" alt="" data-size="line"> <mark style="color:orange;">Fast Tick</mark>-Option ist es möglich, die Tick-Geschwindigkeit auf den Standard zurückzusetzen (siehe [Trichter-Tick](das-trichter-system.md#trichter-tick)). Diese Möglichkeit wird für manche Redstone-Schaltungen benötigt, welche sich nicht anders realisieren lassen. Der Großteil aller Schaltungen lässt sich durch die angepassten Item-Mengen so umbauen, dass diese auch auf GrieferGames funktionieren.
 
 {% hint style="warning" %}
 Diese Option steht nur zur Verfügung, wenn sie durch die Administration per `hopper-fast-tick`-Flag auf dem Grundstück freigeschaltet wurde. Diese Flag wird nur in Ausnahmefällen vergeben und kann über das Ticket-System beantragt werden.
@@ -69,21 +68,21 @@ Diese Option steht nur zur Verfügung, wenn sie durch die Administration per `ho
 
 ### Sammelradius
 
-Über die Einstellungsoptionen <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2Fzczdqj57dTuFhUVkkL0t%2Fimage.png?alt=media&#x26;token=d9c251f3-5d06-4c01-8f54-51863107dd10" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis aus dem ein herumliegendes Item von dem Trichter eingesammelt wird.
+Über die Einstellungsoptionen <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2Fzczdqj57dTuFhUVkkL0t%2Fimage.png?alt=media&#x26;token=d9c251f3-5d06-4c01-8f54-51863107dd10" alt="" data-size="line"> kann der Sammelradius eingestellt werden. Der Sammelradius beeinflusst den Umkreis, aus dem ein herumliegendes Item von dem Trichter eingesammelt wird.
 
 Der maximale Sammelradius beträgt <mark style="color:orange;">**15 Blöcke**</mark> und wird außerdem an der <mark style="color:orange;">**Plot-Grenze**</mark> gestoppt.
 
 ### Verbundener Trichter
 
-Über die <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FI77II5p9u5a2Nb5f0BDi%2Fimage.png?alt=media&#x26;token=3ca84150-9a43-4a8e-a26c-c76abe38e599" alt="" data-size="line"> <mark style="color:orange;">**Trichter Verbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann sich in einem Bereich von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
+Über die <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FI77II5p9u5a2Nb5f0BDi%2Fimage.png?alt=media&#x26;token=3ca84150-9a43-4a8e-a26c-c76abe38e599" alt="" data-size="line"> <mark style="color:orange;">**Trichter-Verbindung**</mark> kann das Ziel des Trichters direkt ausgewählt werden. Das Ziel kann in einem Umkreis von <mark style="color:orange;">**30 Blöcken**</mark> gewählt werden.
 
 {% hint style="info" %}
-Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist daher mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann. Trichter können weder über Straßen noch grundstücksübergreifend verbunden werden. 
+Trichter können mit allen Blöcken verbunden werden, welche ein Inventar haben. Die Verbindung ist daher mit allen Blöcken möglich, in die ein Trichter auch standardmäßig weiterleiten kann. Trichter können weder über Straßen noch grundstücksübergreifend verbunden werden.
 {% endhint %}
 
 Um einen Trichter zu verbinden, klicke auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FI77II5p9u5a2Nb5f0BDi%2Fimage.png?alt=media&#x26;token=3ca84150-9a43-4a8e-a26c-c76abe38e599" alt="" data-size="line"> und anschließend mit leerer Hand per Rechtsklick auf den Block, welcher verbunden werden soll.
 
-Beim Klick auf den selben Trichter oder wenn die Entfernung zu groß ist, wird der Verbindungs-Modus beendet.
+Beim Klick auf denselben Trichter oder wenn die Entfernung zu groß ist, wird der Verbindungs-Modus beendet.
 
 ### Mehrfach-Verbindungen
 
@@ -93,15 +92,15 @@ Beim Klick auf den selben Trichter oder wenn die Entfernung zu groß ist, wird d
 
 <figure><img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FicHXUR93eIgzXXMxz5V3%2Fimage.png?alt=media&#x26;token=a081d4cf-c35e-4e01-89b3-34ee5d2b1083" alt=""><figcaption><p>Übersichtsseite</p></figcaption></figure>
 
-In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann immer nur ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material, kann der Endpunkt entfernt werden.
+In dieser Ansicht sind die bereits eingerichteten Verbindungen zu sehen. Pro Material kann immer nur ein Endpunkt als Ziel existieren. Mit einem Klick auf das Material kann der Endpunkt entfernt werden.
 
 Mit einem Klick auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2F70pS79LvC5KqG0ZtwynN%2Fimage.png?alt=media&#x26;token=d9eeba9c-6d3d-4056-98f6-a9e8235f2557" alt="" data-size="line"> <mark style="color:orange;">**Verbindungsmodus starten**</mark> kann der Verbindungsmodus für Multi-Verbindungen gestartet werden.
 
 ### Endpunkte hinzufügen / Verbindungs-Modus
 
-Sobald der Verbindungs-Modus aktiv ist, können neue Verbindungen hinzugefügt werden, indem man mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe Verbundener Trichter) klickt.
+Sobald der Verbindungs-Modus aktiv ist, können neue Verbindungen hinzugefügt werden, indem man mit dem gewünschten Material in der Hand auf einen möglichen Endpunkt (siehe [Verbundener Trichter](das-trichter-system.md#verbundener-trichter)) klickt.
 
-Die Verbindung wird hinzugefügt, was ebenfalls im Chat bestätigt wird und das nächste Material kann hinterlegt werden.
+Die Verbindung wird hinzugefügt und im Chat bestätigt. Anschließend kann das nächste Material hinterlegt werden.
 
 Der Verbindungs-Modus wird durch Schleichen beendet.
 
@@ -110,7 +109,7 @@ Der Verbindungs-Modus wird durch Schleichen beendet.
 Mit einem Klick auf <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FpeYcGhMJHH8ouWF2EWS9%2Fimage.png?alt=media&#x26;token=9dfb5f83-0709-4098-9d6d-d67210ffe7c8" alt="" data-size="line"> <mark style="color:orange;">**Optische Anzeige**</mark> werden die Verbindungen und der Sammelradius des Trichters mit farbigen Partikeln angezeigt.
 
 * Der Radius wird durch aufsteigende lila Partikel markiert.
-* Verbindungen durch statische rote Partikel zwischen Trichter und Endpunkt.
+* Verbindungen werden durch statische rote Partikel zwischen Trichter und Endpunkt dargestellt.
 
 <figure><img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FpjnXFQUFwNDHfr0bpVUe%2Fimage.png?alt=media&#x26;token=b0b59347-8389-488e-9dbf-f1e292417db5" alt=""><figcaption><p>Optische Anzeige</p></figcaption></figure>
 
@@ -142,7 +141,7 @@ Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0
 
 <figure><img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FOvpxp5u7drdDHj78KqE1%2Fimage.png?alt=media&#x26;token=bb92ec13-fed0-43a7-8b09-05e2f0b78632" alt=""><figcaption><p>Übersichtsseite Verzauberungen</p></figcaption></figure>
 
-In dieser Ansicht können nun die Verzauberungen angewählt werden, welche auf dem Item vorhanden sein müssen. Mit **Rechtsklick** wird die gewünschte Verzauberungsstufe erhöht, mit einem **Linksklickt** verringert. Mit einem **Shift-Klick** wird die Verzauberung aus dem Filter entfernt.
+In dieser Ansicht können nun die Verzauberungen angewählt werden, welche auf dem Item vorhanden sein müssen. Mit **Rechtsklick** wird die gewünschte Verzauberungsstufe erhöht, mit einem **Linksklick** verringert. Mit einem **Shift-Klick** wird die Verzauberung aus dem Filter entfernt.
 
 {% hint style="warning" %}
 Werden mehrere Verzauberungen gewählt, müssen alle Verzauberungen auf dem Item vorhanden sein. Es muss auch die entsprechende Stufe der Verzauberung vorhanden sein.
@@ -158,12 +157,12 @@ Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0
 
 Die folgenden Optionen der Signierung können eingestellt werden:
 
-* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2Fx0uuH8M9M9f1GyDdm80u%2Fimage.png?alt=media&#x26;token=e7b11d06-5e70-42f8-a080-62d5105e8da3" alt="" data-size="line">**Signierung von:** Filtert welcher Spieler die Signierung erstellt haben muss
-* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FJyHqV1CfzOgaRi5tx6OK%2Fimage.png?alt=media&#x26;token=25207249-f709-41ae-8b93-e436d0eaf8c8" alt="" data-size="line">**Signierung am:** Filtert an welchem Datum die Signierung erstellt wurde
-* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FIJXE0XEx96w2EczqxbSe%2Fimage.png?alt=media&#x26;token=d6c6f69a-e6d0-4662-baa2-363b8eed3308" alt="" data-size="line">**Signierung:** Filtert den Text der Signierung
+* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2Fx0uuH8M9M9f1GyDdm80u%2Fimage.png?alt=media&#x26;token=e7b11d06-5e70-42f8-a080-62d5105e8da3" alt="" data-size="line"> **Signierung von:** Filtert, welcher Spieler die Signierung erstellt haben muss
+* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FJyHqV1CfzOgaRi5tx6OK%2Fimage.png?alt=media&#x26;token=25207249-f709-41ae-8b93-e436d0eaf8c8" alt="" data-size="line"> **Signierung am:** Filtert, an welchem Datum die Signierung erstellt wurde
+* <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FIJXE0XEx96w2EczqxbSe%2Fimage.png?alt=media&#x26;token=d6c6f69a-e6d0-4662-baa2-363b8eed3308" alt="" data-size="line"> **Signierung:** Filtert den Text der Signierung
 
 {% hint style="info" %}
-Der Text der Signierung muss die eingestellten Zeichen / den eingestellten Text nur enthalten und nicht vollständig entsprechen.
+Der Text der Signierung muss die eingestellten Zeichen bzw. den eingestellten Text nur enthalten, ihm aber nicht vollständig entsprechen.
 {% endhint %}
 
 #### Beschreibungs-Filter
@@ -172,8 +171,7 @@ Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0
 
 <figure><img src="../../.gitbook/assets/image (15) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü</p></figcaption></figure>
 
-Mit dem Button <img src="../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen.\
-Im nachfolgenden Amboss-Menü kannst du den Text, welcher gefiltert werden soll, eintragen und per Klick auf das fertige Produkt bestätigen. Dein ausgewählter Filter wird im Menü angezeigt. Es können auch mehrere Filter hinterlegt werden.
+Mit dem Button <img src="../../.gitbook/assets/image (16) (1).png" alt="" data-size="line"> kannst du eine neue Beschreibung als Filter-Option hinzufügen. Im nachfolgenden Amboss-Menü kannst du den Text, welcher gefiltert werden soll, eintragen und per Klick auf das fertige Produkt bestätigen. Dein ausgewählter Filter wird im Menü angezeigt. Es können auch mehrere Filter hinterlegt werden.
 
 <figure><img src="../../.gitbook/assets/image (18) (1).png" alt=""><figcaption><p>Beschreibungsfilter-Menü mit 2 Einträgen</p></figcaption></figure>
 

@@ -1,5 +1,5 @@
 ---
-description: Hier erfährst du, wie du auf unseren Server verbindest
+description: Hier erfährst du, wie du dich mit unserem Server verbindest
 layout:
   width: default
   title:
@@ -30,4 +30,6 @@ Server-Adresse: <mark style="color:orange;">**griefergames.net**</mark>
 
 GrieferGames kannst du sowohl mit der [Java-Edition](/1-8/server-verbinden.../...in-der-java-version) als auch mit der [Bedrock-Edition](/1-8/server-verbinden.../...in-der-bedrock-version) betreten.
 
-Der Server basiert auf der Java-Version und bietet so ein besseres Spielerlebnis für die Java-Edition. Jedoch arbeiten wir dauerhaft daran, dass auch der Bedrock-Edition ein gutes Spielerlebnis geboten wird.
+Der Server basiert auf der Java-Version und bietet daher in der Java-Edition das bessere Spielerlebnis. Wir arbeiten jedoch dauerhaft daran, dass auch die Bedrock-Edition ein gutes Spielerlebnis bietet.
+
+Falls die Verbindung nicht klappt, findest du im Artikel [Server verbinden schlägt fehl](/1-8/server-verbinden.../...schlaegt-fehl.) bekannte Fehler und mögliche Lösungen.

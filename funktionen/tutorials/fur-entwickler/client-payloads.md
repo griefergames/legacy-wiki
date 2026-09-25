@@ -19,7 +19,7 @@ Du musst **kein** Registrierungs- oder Handshake-Paket an den Server senden. Der
 | Umgebung  | Wo werden Payloads gesendet?                              |
 | --------- | --------------------------------------------------------- |
 | **1.8**   | Auf allen Servern **außer** der Lobby und dem Portalraum  |
-| **Cloud** | Alle Server auf denen die Verwendung von Geld möglich ist |
+| **Cloud** | Alle Server, auf denen die Verwendung von Geld möglich ist |
 
 ## Übertragungsformat
 
@@ -54,7 +54,7 @@ Wird an den Client gesendet, sobald sich das Bargeld des Spielers ändert, sowie
 **Beispiel-Hex-Aufschlüsselung (Guthaben = `1234.56`):**
 
 ```
-00 0D 61 63 63 6F 75 6E 74 62 61 6C 61 6E 63 65   ← UTF: 2-Byte-Länge (13) + "accountbalance"
+00 0E 61 63 63 6F 75 6E 74 62 61 6C 61 6E 63 65   ← UTF: 2-Byte-Länge (14) + "accountbalance"
 40 93 4A 3D 70 A3 D7 0A                           ← double: 1234.56
 ```
 
@@ -75,12 +75,12 @@ Wird an den Client gesendet, um Informationen über den Block oder die Entity de
 | --------------- | --------------- | ---------------------------------------------------------------------------- |
 | `id`            | UTF             | `"blockoftheday"`                                                            |
 | `type`          | UTF             | `"BLOCK"`, `"MATERIAL"` oder `"ENTITY"`                                      |
-| `blockMaterial` | UTF             | Materialname (z.B. `"DIAMOND_ORE"`); leer wenn `type = "ENTITY"`             |
+| `blockMaterial` | UTF             | Materialname (z. B. `"DIAMOND_ORE"`); leer, wenn `type = "ENTITY"`           |
 | `blockData`     | `int` (4 Bytes) | Block-Daten / Varianten; immer `0`                                           |
-| `entityType`    | UTF             | Entity-Typ (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
+| `entityType`    | UTF             | Entity-Typ (z. B. `"WITHER"`); leer, wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
 
 {% hint style="info" %}
-**Feldlogik je nach Type:**
+**Feldlogik je nach `type`:**
 
 * `type = "BLOCK"` oder `"MATERIAL"`: `blockMaterial` gefüllt, `entityType` leer
 * `type = "ENTITY"`: `entityType` gefüllt, `blockMaterial` leer
@@ -104,7 +104,7 @@ Wird an den Client gesendet, um aktive Booster und deren Multiplikatoren zu übe
 | `count`              | `int` (4 Bytes) | Anzahl der Booster in dieser Liste                         |
 | _Für jeden Booster:_ |                 |                                                            |
 | `type`               | UTF             | Booster-Typ: `"BREAK"`, `"DROP"`, `"FLY"`, `"MOB"`, `"XP"` |
-| `multiplier`         | `int` (4 Bytes) | Multiplikator des Boosters (z.B. `2` für 2x)               |
+| `multiplier`         | `int` (4 Bytes) | Multiplikator des Boosters (z. B. `2` für 2x)              |
 
 ### `clearlag`
 
@@ -117,7 +117,7 @@ Wird an den Client gesendet, um die verbleibenden Sekunden bis zum nächsten Cle
 
 ### `entityremover`
 
-Wird an den Client gesendet, um die verbleibenden Sekunden bis zum nächsten Entity Remover-Event zu übermitteln.
+Wird an den Client gesendet, um die verbleibenden Sekunden bis zum nächsten Entity-Remover-Event zu übermitteln.
 
 | Feld               | Typ              | Beschreibung                                          |
 | ------------------ | ---------------- | ----------------------------------------------------- |
@@ -486,34 +486,16 @@ Neue Payloads können jederzeit hinzukommen.
 
 ## Kurzübersicht
 
-```
-Kanal:  griefergames:main
-Payloads:
-  ┌──────────────────────────────┬────────────────────────────┬──────────────────────────────────────────────┐
-  │ ID                           │ Felder                     │ Wann gesendet                                │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ accountbalance               │ double                     │ Beim Betreten eines Servers & bei jeder      │
-  │                              │                            │ Guthabenänderung                             │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ bankbalance                  │ double                     │ Beim Betreten eines Servers & bei jeder      │
-  │                              │                            │ Bankguthabenänderung                         │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ blockoftheday                │ UTF, UTF, int, UTF         │ Wenn der Block/die Entity des Tages          │
-  │                              │                            │ aktualisiert wird                            │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ blockoftheday_progress       │ (keine)                    │ Regelmäßig zur Synchronisierung des          │
-  │                              │                            │ Fortschritts                                 │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ booster                      │ int, [UTF, int, ...]       │ Beim Betreten eines Servers & bei Änderung   │
-  │                              │                            │ der aktiven Booster                          │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ clearlag                     │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
-  │                              │                            │ ClearLag                                     │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ entityremover                │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
-  │                              │                            │ Entity Remover                               │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ plotchat_configuration       │ boolean                    │ Beim Betreten eines Servers & bei Änderung   │
-  │                              │                            │ der PlotChat-Einstellung                     │
-  └──────────────────────────────┴────────────────────────────┴──────────────────────────────────────────────┘
-```
+**Kanal:** `griefergames:main`
+
+| ID | Felder | Wann gesendet |
+| --- | --- | --- |
+| `accountbalance` | double | Beim Betreten eines Servers & bei jeder Guthabenänderung |
+| `bankbalance` | double | Beim Betreten eines Servers & bei jeder Bankguthabenänderung |
+| `blockoftheday` | UTF, UTF, int, UTF | Wenn der Block/die Entity des Tages aktualisiert wird |
+| `blockoftheday_progress` | (keine) | Regelmäßig zur Synchronisierung des Fortschritts |
+| `booster` | int, [UTF, int, ...] | Beim Betreten eines Servers & bei Änderung der aktiven Booster |
+| `clearlag` | long | Regelmäßig zur Anzeige der Zeit bis ClearLag |
+| `entityremover` | long | Regelmäßig zur Anzeige der Zeit bis Entity Remover |
+| `plotchat_configuration` | boolean | Beim Betreten eines Servers & bei Änderung der PlotChat-Einstellung |
+

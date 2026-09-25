@@ -22,10 +22,20 @@ layout:
 
 # Spezielle Features
 
+Hier findest du Befehle, die zu bestimmten Features gehören:
+
 {% content-ref url="checkplot.md" %}
 [checkplot.md](checkplot.md)
 {% endcontent-ref %}
 
 {% content-ref url="hologramme.md" %}
 [hologramme.md](hologramme.md)
+{% endcontent-ref %}
+
+{% content-ref url="individuelles-scoreboard.md" %}
+[individuelles-scoreboard.md](individuelles-scoreboard.md)
+{% endcontent-ref %}
+
+{% content-ref url="abschliessbare-truhen.md" %}
+[abschliessbare-truhen.md](abschliessbare-truhen.md)
 {% endcontent-ref %}

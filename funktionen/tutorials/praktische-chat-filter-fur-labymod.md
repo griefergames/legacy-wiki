@@ -25,87 +25,76 @@ layout:
 
 Hey, ich habe hier ein paar praktische Filter für GrieferGames (Version 1.8) erstellt.
 
-***
+Falls du noch nicht weißt, wie du Filter einrichtest, klicke einfach auf deine Version für das passende Tutorial. Wenn du dich bereits auskennst, kannst du diesen Schritt überspringen: [**LabyMod 3**](https://youtu.be/XtLyDoapibA?t=62) | [**LabyMod 4**](https://youtu.be/XtLyDoapibA?t=180)
 
-Falls du noch nicht weißt, wie du Filter einrichtest, klicke einfach auf deine Version für das passende Tutorial. Wenn du dich bereits auskennst, kannst du diesen Schritt überspringen:\
-[**LabyMod 3**](https://youtu.be/XtLyDoapibA?t=62) | [**LabyMod 4**](https://youtu.be/XtLyDoapibA?t=180)
+## Filter einrichten (kurzes Text-Tutorial)
 
-***
-
-Kurzes Text Tutorial:
-
-#### Bei LabyMod 3:
+### Bei LabyMod 3
 
 Um einen Filter einzustellen, drücke "T", um den Chat zu öffnen. Klicke dann unten rechts auf "Chat-Filter", um die gewünschten Filter anzupassen.
 
 **Hinweis:** Bei LabyMod 3 musst du möglicherweise den Filter zuerst aktivieren. Drücke "ESC", gehe zu LabyMod, suche nach "Filter" und aktiviere ihn dort.
 
-#### Bei LabyMod 4:
+### Bei LabyMod 4
 
 Öffne den Chat und klicke auf die drei Striche. Wähle dann "Filter-Einstellungen", um die Filter anzupassen.
 
-***
+## Die Filter
 
-Ich habe dir die wichtigsten Filter vorbereitet, die du ganz einfach kopieren und einfügen kannst. Zudem empfehle ich dir, den **Secondary Chat** zu verwenden oder bestimmte Nachrichten auszublenden – bei den Filtern habe ich bereits empfohlen: **Secondary Chat** oder Ausblenden hinzugefügt. Letztlich bleibt die Entscheidung aber natürlich dir überlassen.
+Ich habe dir die wichtigsten Filter vorbereitet, die du ganz einfach kopieren und einfügen kannst. Zudem empfehle ich dir, den **Secondary Chat** zu verwenden oder bestimmte Nachrichten auszublenden – bei den einzelnen Filtern habe ich meine Empfehlung (**Secondary Chat** oder **Ausblenden**) jeweils dazugeschrieben. Letztlich bleibt die Entscheidung aber natürlich dir überlassen.
 
 Viel Erfolg!
 
-***
-
-### Private Nachrichten:
+### Private Nachrichten
 
 **Eingehende Nachrichten:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>-> mir]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », @</kbd>
 
 **Ausgehende Nachrichten:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[mir -></kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », @</kbd>
 
-***
-
-### Geld:
+### Geld
 
 **Eingehende Zahlung:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>gegeben.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ->, :, Du hast</kbd>
 
 **Ausgehende Zahlung:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>gegeben.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ->, :, \[GrieferGames], hat dir</kbd>
 
 **Bank:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Bank]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃</kbd>
 
 **Geld von Kisten / Drops / Server:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>wurden zu deinem Konto hinzugefügt.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], »</kbd>
 
-***
-
-### Allgemein Chat:
+### Allgemeiner Chat
 
 **Plot-Chat:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Plot-Chat]</kbd>\
 **Beinhaltet nicht:**\
@@ -119,15 +108,15 @@ _&#x45;mpfohlen: Secondary Chat_\
 **Raum (wenn verfügbar):**\
 <kbd>GG-Global</kbd>
 
-**Home Punkte:**\
-_&#x45;mpfohlen: Secondary Chat_\
+**Home-Punkte:**\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Home-Punkte:</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], @, », ┃</kbd>
 
 **Zauberer:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Ein Zauberer ist auf dem Grundstück</kbd>\
 **Beinhaltet nicht:**\
@@ -140,21 +129,21 @@ _&#x45;mpfohlen: Secondary Chat_\
 <kbd>\[Greeting], », @</kbd>
 
 **Orbs:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Orbs]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], »</kbd>
 
 **Tageszeit wiederhergestellt:**\
-_&#x45;mpfohlen: Ausblenden_\
+_Empfohlen: Ausblenden_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Tageszeit wurde wiederhergestellt.</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], »</kbd>
 
 **Tageszeit aktualisiert:**\
-_&#x45;mpfohlen: Ausblenden_\
+_Empfohlen: Ausblenden_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Deine Tageszeit wurde vom Grundstück aktualisiert.</kbd>\
 **Beinhaltet nicht:**\
@@ -179,46 +168,42 @@ _&#x45;mpfohlen: Ausblenden_\
 <kbd>», ->, :</kbd>
 
 **AH Überboten:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Du wurdest bei der Auktion für</kbd>\
 **Beinhaltet nicht:**\
 <kbd>», ┃</kbd>
 
 **AH Gewonnen:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferGames] Du hast die Auktion für</kbd>\
 **Beinhaltet nicht:**\
 <kbd>», ┃</kbd>
 
-***
-
-### Block des Tages:
+### Block des Tages
 
 **Eingehende Nachrichten:**\
-_&#x45;mpfohlen: Secondary Chat_\
-_&#x45;mpfohlen: Sound on: random.anvil\_break_\
+_Empfohlen: Secondary Chat_\
+_Empfohlen: Sound on: random.anvil\_break_\
 **Beinhaltet:**\
 <kbd>\[Block des Tages]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃, @</kbd>
 
-### Advancements:
+### Advancements
 
-\
 **Eingehende Nachrichten:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[Advancements]</kbd>\
 **Beinhaltet nicht:**\
 <kbd>\[Greeting], », ┃, @</kbd>
 
-### GrieferGames Pass:
+### GrieferGames Pass
 
-\
 **Eingehende Nachrichten:**\
-_&#x45;mpfohlen: Secondary Chat_\
+_Empfohlen: Secondary Chat_\
 **Beinhaltet:**\
 <kbd>\[GrieferPass]</kbd>\
 **Beinhaltet nicht:**\
