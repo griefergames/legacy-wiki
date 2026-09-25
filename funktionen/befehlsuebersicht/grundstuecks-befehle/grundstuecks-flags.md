@@ -41,16 +41,17 @@ Die Grundstück-Flags `animal-attack` und `hostile-attack` betreffen ausgewählt
 
 ### "use"-Flag
 
-Die Flag „use“ beinhaltet, wie der Name andeutet, die Berechtigung eine Sache zu benutzen. Sie funktioniert mit dem Befehl: `/p flag set use`
+Mit der **„use“-Flag** kann man anderen Spielern erlauben, bestimmte Blöcke auf dem eigenen Grundstück zu benutzen bzw. mit ihnen zu interagieren.
 
-Mit dieser Flag kann man jedem Spieler die Berechtigung geben mit Blöcken auf dem Grundstück zu interagieren. Will man mehrere Blöcke freigeben, muss man die ID's mit einem Komma trennen.\
-Möchte man mehr als drei Flags setzen, dann sind zwischen den Zahlen und Kommata Buchstaben hinzuzufügen.
+Die Flag wird mit folgendem Befehl gesetzt: /p flag set use [Block-ID]
 
-**Beispiel:** `/p flag set use 1,2,3,x,4,x,5`
+Möchte man mehrere Blockarten freigeben, trennt man die IDs mit Kommas: /p flag set use 1,2,3
 
-**WICHTIG**: Wenn du Blöcke freigibst, dann können andere Spieler nur mit dieser Blockart interagieren, sie aber nicht abbauen.
+Bei mehr als drei IDs müssen zwischen den Zahlen und Kommas Buchstaben eingefügt werden: /p flag set use 1,2,3,x,4,x,5
 
-**Achtung:** Der Befehl `/p set flag use 0` gibt die Interaktion mit dem Block "Luft" frei und erlaubt somit, **jeden** Block zu benutzen (Kisten, Öfen, Braustände, etc.)!
+{% hint style="danger" %}
+**Die Verwendung von **`use 0`** ist nicht empfehlenswert!** Die ID `0` steht für Luft. Dadurch wird die Interaktion mit **allen Blöcken** freigegeben, wodurch Spieler unter anderem auf Truhen, Öfen und andere interaktive Blöcke zugreifen können.
+{% endhint %}
 
 Möchte man alle „use“-Flags deaktivieren, wird anstatt der IDs, der Wert „false“ verwendet: `/p flag set use false`
 
