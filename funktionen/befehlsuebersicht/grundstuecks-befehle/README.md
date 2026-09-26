@@ -77,7 +77,7 @@ Setzt du statt eines Spielernamens ein `*` ein, so gilt dieser Befehl für alle 
 {% endhint %}
 
 {% hint style="danger" %}
- Der Befehl **/p trust *** gibt Spielern Rechte auf dem **gesamten Grundstück **und ist daher nicht empfehlenswert. Damit kannst du nicht gezielt einzelne Funktionen oder Blöcke wie Kisten für alle Spieler freigeben. Wenn du beispielsweise möchtest, dass andere Spieler nur auf eine Kiste zugreifen können, nutze dafür eine use-flag.
+Der Befehl `/p trust *` gibt Spielern Rechte **auf dem gesamten Grundstück** und ist daher nicht empfehlenswert. Damit kannst du nicht gezielt einzelne Funktionen oder Blöcke wie Kisten für alle Spieler freigeben. Wenn du beispielsweise möchtest, dass andere Spieler nur auf eine Kiste zugreifen können, nutze dafür eine use-flag.
 {% endhint %}
 
 ## Weitere Grundstücks-Befehle
