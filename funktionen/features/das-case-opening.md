@@ -48,7 +48,10 @@ Die linke Truhe in der untersten Reihe zeigt dir bei einem Klick, welche und wie
 {% hint style="info" %}
 Gewinne, welche nicht abgeholt werden können – weil während des Öffnens die Verbindung verloren geht oder euer Inventar voll ist –, werden in einem eigenen Untermenü gesammelt und können über das CaseOpening-Menü zu einem späteren Zeitpunkt abgeholt werden. Eure Gewinne sind also gegen Verlust gesichert.
 
+
 Im Kisten-Menü befindet sich außerdem ein Einstellungsmenü, wo man die eigenen Gewinn-Broadcasts auf anonym umstellen kann oder auch den Erhalt von 5k-Blöcken deaktivieren kann.
+
+Man kann aus dem CaseOpening auch einen CaseOpening-Block ziehen, den man sich selbst auf sein Grundstück stellen kann, damit man nicht an den Spawn gebunden ist. Die mobilen CaseOpenings müssen nicht per Use-Flag freigegeben werden und sind standardmäßig für jeden nutzbar. 
 {% endhint %}
 
 ## In-Game Store
