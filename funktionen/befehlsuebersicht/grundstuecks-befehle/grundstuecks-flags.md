@@ -48,7 +48,7 @@ Möchte man mehrere Blockarten freigeben, trennt man die IDs mit Kommas: `/p fla
 Bei mehr als drei IDs müssen zwischen den Zahlen und Kommas Buchstaben eingefügt werden: `/p flag set use 1,2,3,x,4,x,5`
 
 {% hint style="danger" %}
-**Die Verwendung von `use 0` ist nicht empfehlenswert!** Die ID `0` steht für Luft. Dadurch wird die Interaktion mit **allen Blöcken** freigegeben, wodurch Spieler unter anderem auf Truhen, Öfen und andere interaktive Blöcke zugreifen können.
+**Die Verwendung von `use 0` ist nicht empfehlenswert!** Die ID `0` steht für Luft. Dadurch wird die Interaktion mit **allen Blöcken** freigegeben, wodurch Spieler auf alles auf dem Grundstück zugreifen können. Bitte nutzt daher die ID des Blockes, den ihr für alle freigeben möchtet.
 {% endhint %}
 
 Möchte man alle „use“-Flags deaktivieren, wird anstatt der IDs der Wert „false“ verwendet: `/p flag set use false`
