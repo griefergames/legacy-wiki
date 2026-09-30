@@ -30,6 +30,10 @@ Seit Ende 2022 gibt es zwei ominöse Gestalten an jedem der 25 Citybuild-Spawns 
 
 Seit dem 16.02.2023 vergibt der Adventurer Aufgaben an Spieler. Das Ziel ist es, eine dauerhafte Beschäftigung für die Community zu bieten, indem ihr Items farmen oder craften müsst.
 
+{% hint style="info" %}
+Mit einem [Plot-NPC](../grundstuecke/plot-npcs.md) könnt ihr die Aufgaben des Adventurers und den Admin-Shop auch auf eurem eigenen Grundstück öffnen.
+{% endhint %}
+
 ## Adventurer
 
 Beim Adventurer könnt ihr neue Aufgaben annehmen, durch welche ihr [Adventurer-Coins](../waehrungen.md#adventurer-coins) verdienen könnt.
@@ -41,6 +45,10 @@ Hierbei gibt es tägliche, wöchentliche und monatliche Aufgaben.
 * Die täglichen Aufgaben könnt ihr jeden Tag machen und sie bringen euch einen Adventurer-Coin und mit einer geringen Wahrscheinlichkeit erhält man [Kristalle](../waehrungen.md#kristalle). Das heißt aber auch, dass ihr nur einen Tag Zeit habt, die Aufgabe zu erledigen. Am nächsten Tag gibt es eine neue Aufgabe und die alte ist nicht mehr gültig.
 * Die wöchentlichen Aufgaben bringen euch bei der Erfüllung 6 Adventurer-Coins und eine höhere Chance auf mehrere [Kristalle](../waehrungen.md#kristalle). Ihr erhaltet jede Woche eine neue Aufgabe. Diese Aufgaben sind natürlich schwerer als die täglichen Aufgaben, damit ihr die ganze Woche über etwas zu tun habt.
 * Die monatlichen Aufgaben bekommt ihr zum Monatsbeginn. Ihr erhaltet für diese schwierigsten Aufgaben beim erfolgreichen Absolvieren 14 Adventurer-Coins und sie haben eine hohe Chance auf [Kristalle](../waehrungen.md#kristalle) als Zusatzgewinn.
+
+{% hint style="info" %}
+Mit einem [Talisman](../besondere-items/talismane.md) „Adventurer-Boost“ erhaltet ihr pro Stufe **10 %** mehr Adventurer-Coins. Unter „Belohnung“ zeigt euch die Aufgabe bereits die Coins mit Bonus an. Der Bonus wird auf ganze Coins gerundet.
+{% endhint %}
 
 ### Aber was sind das für Aufgaben?
 
@@ -72,6 +80,12 @@ Habt ihr euer Adventurer-Werkzeug verloren, könnt ihr euch ein neues Werkzeug b
 {% endtab %}
 {% endtabs %}
 
+### Statistik und Ranking
+
+Im Menü des Adventurers findet ihr unter „Persönliche Statistik“, wie viele tägliche, wöchentliche und monatliche Aufgaben ihr erledigt und wie viele Adventurer-Coins ihr insgesamt verdient habt.
+
+Im „Ranking“ seht ihr euren Score und euren aktuellen Rang im Vergleich zu anderen Spielern. Mit einem Klick darauf werden euch die **36** Spieler mit dem höchsten Score angezeigt.
+
 ## Der Admin-Shop
 
 Ihr habt einige Aufgaben erledigt und euch eure ersten [Adventurer-Coins](../waehrungen.md#adventurer-coins) zusammengespart? Dann könnt ihr diese nun beim Admin-Shop ausgeben. Über die Feuerkugel im Menü beider NPCs seht ihr, wie viele Adventurer-Coins ihr derzeit habt.
@@ -83,6 +97,10 @@ Im Admin-Shop gibt es mehrere Items, welche täglich wechseln können.
 In der Mitte seht ihr exklusive Prefixe, welche natürlich teurer sind als andere Items. Ihr könnt hier aber auch Deko-Köpfe, Rand-Effekte, Luckyblöcke, kleine Rüstungsständer, spezielle Werkzeuge, Rüstung und andere Items kaufen.
 
 Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vielleicht am nächsten Tag an dieser Stelle erhältlich sind.
+
+{% hint style="info" %}
+Mit einem [Talisman](../besondere-items/talismane.md) „Admin-Shop-Rabatt“ zahlt ihr im Admin-Shop pro Stufe **5 %** weniger. Der Preis, den euch der Shop anzeigt, ist bereits reduziert.
+{% endhint %}
 
 {% tabs %}
 {% tab title="Klassische Items" %}
@@ -114,7 +132,7 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 * ![](<../../.gitbook/assets/image (32).png>) [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) (3 Tage)
   * Mit diesem Gutschein aktivierst du den Plot-Fliegen-Effekt für 3 Tage.
 * ![](<../../.gitbook/assets/image (33).png>) [Sammelball](https://items.griefergames.net/#Sammelball)
-  * Mit einem Sammelball kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 100 Anwendungen.
+  * Mit einem [Sammelball](../besondere-items/sammelball.md) kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 100 Anwendungen.
 * ![](<../../.gitbook/assets/image (34).png>) 12x [Kleiner Rüstungsständer](https://items.griefergames.net/#Adventurer-Items_%7C_Kleiner_R%C3%BCstungsst%C3%A4nder)
   * Setze einen kleinen Rüstungsständer. Für die Minis!
 {% endtab %}
@@ -168,7 +186,7 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 * ![](<../../.gitbook/assets/image (54).png>) [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) (30 Tage)
   * Mit diesem Gutschein aktivierst du den Plot-Fliegen-Effekt für 3 Tage.
 * ![](<../../.gitbook/assets/image (55).png>) [Sammelball](https://items.griefergames.net/#Sammelball)
-  * Mit einem Sammelball kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 750 Anwendungen.
+  * Mit einem [Sammelball](../besondere-items/sammelball.md) kannst du bis zu 1000 Kreaturen einer Art in einem Radius von 20 Blöcken sammeln und zu einem späteren Zeitpunkt wieder freilassen. Reicht für bis zu 750 Anwendungen.
 * ![](<../../.gitbook/assets/image (56).png>) [Smaragd-Amulett](https://items.griefergames.net/#Adventurer-Item_%7C_Smaragd_Amulett)
   * Smaragd mit Verzauberung Schutz 10 & Federfall 10
   * Schutz-Edelstein für den kleinen Spieler
@@ -182,7 +200,7 @@ Mit einem Rechtsklick auf eines der Items seht ihr die anderen Items, welche vie
 
 Fordere dein Glück mit diesem Luckyblock heraus!
 
-Luckyblöcke können nur auf deinem eigenen Grundstück aktiviert werden und können sowohl positive als auch negative Effekte mit sich bringen.
+Luckyblöcke können nur auf deinem eigenen Grundstück aktiviert werden und können sowohl positive als auch negative Effekte mit sich bringen. Beispiele für diese Effekte findest du unter [Zufallsbasierte Mechaniken](zufallsbasierte-mechaniken.md#luckybloecke).
 
 **Achtung!** Zwischen den tollen Gewinnen befinden sich auch Jail-Strafen. Lediglich die Sperren aus dem Luckyblock oder einem StartJail der Community kannst du mit einer „Du kommst aus dem Gefängnis frei“-Karte aufheben.
 {% endtab %}
