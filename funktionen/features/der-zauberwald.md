@@ -40,10 +40,10 @@ Für das optimale Erlebnis im Zauberwald empfehlen wir die neueste Version der [
 
 Den Zauberwald kannst du über einen NPC, den Zauberer, betreten, der gelegentlich bei einem zufälligen Spieler eines zufälligen Citybuilds erscheint. Sobald du mit diesem interagierst, wirst du in den Zauberwald teleportiert und darfst dich dort für eine gewisse Zeit aufhalten. Über `/zauberwald` siehst du, wie lange du den Zauberwald aktuell noch betreten kannst.
 
-Du kannst die Zeit auch mit [Zauberwald-Tickets](https://items.griefergames.net/#Zauberwald_Ticket) erhöhen oder dir den Zugang mit diesen freischalten.
+Du kannst die Zeit auch mit [Zauberwald-Tickets](https://items.griefergames.net/#Zauberwald_Ticket) erhöhen oder dir den Zugang mit diesen freischalten. Mit einem [Talisman](../besondere-items/talismane.md) „Zauberwald-Zeit“ bekommst du zusätzlich einmal pro Tag Zeit im Zauberwald gutgeschrieben.
 
 {% hint style="info" %}
-Wenn deine Restzeit im Zauberwald zur Neige geht, erhältst du im Chat eine Info-Nachricht.
+Wenn deine Restzeit im Zauberwald zur Neige geht, erhältst du **60 Sekunden** vorher eine Info-Nachricht im Chat und einen Hinweis mitten auf dem Bildschirm.
 {% endhint %}
 
 Sobald jemand den Zauberer auf dem Grundstück angeklickt hat, erscheint ebenfalls eine Nachricht für alle im Chat.
