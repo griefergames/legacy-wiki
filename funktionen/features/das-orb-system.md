@@ -122,11 +122,12 @@ Der letzte NPC des Orb-Systems ist der Statistik-NPC.
 
 Hierüber könnt ihr euren Fortschritt mit dem anderer Spieler vergleichen und darauf hinarbeiten, der Spieler zu sein, der die meisten Items einer Art abgegeben hat.
 
-### Die Zukunft des Orb-Systems
+### Passende Talismane
 
-{% hint style="info" %}
-Seit einiger Zeit wird das Orb-System immer häufiger kritisiert und ein Update wird gefordert. Das Team hat hierzu mitgeteilt, dass das Orb-System dafür komplett überarbeitet werden muss. Ein Update wird also noch etwas brauchen.
-{% endhint %}
+Zwei [Talismane](../besondere-items/talismane.md) bringen euch im Orb-System zusätzliche Vorteile. Beide gibt es in den Stufen **1** bis **5**.
+
+* **Orb-Verkäufer-Rabatt**: Beim Orb-Verkäufer zahlt ihr pro Stufe **5 %** weniger Orbs, auf Stufe **5** also **25 %**. Im Menü des Verkäufers seht ihr direkt den reduzierten Preis.
+* **Orb-Angel Bonus**: Mit jeder Stufe steigt eure Chance, mit der Orb-Angel einen Schatz zu ziehen.
 
 <details>
 
