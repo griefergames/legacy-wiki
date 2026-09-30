@@ -36,6 +36,8 @@ Durch das Betreten eines Portals gelangst du auf den entsprechenden Server und b
 
 Eine Übersicht über die grundlegenden Befehle zum Start findest du auf den Karten rund um den Spawn. Zusätzlich kannst du die wichtigsten Befehle auch jederzeit über den Befehl `/anfang` abrufen.
 
+Am Spawn steht außerdem der NPC **Changelog**. Über ihm siehst du, wann die letzte Ankündigung und der letzte Changelog erschienen sind und ob Wartungsarbeiten geplant sind. Klickst du ihn an, erhältst du die Links dazu im Chat.
+
 ## Dein erstes Grundstück
 
 Der erste Schritt zu deinem Spielerfolg ist, ein eigenes Grundstück (Plot) zu beanspruchen. Dies kannst du zu Beginn über den Befehl `/plot auto` durchführen. Hierbei erhältst du das dem Citybuild-Spawn nächstgelegene Grundstück ohne Besitzer.
@@ -54,7 +56,9 @@ Um an weitere Materialien zu kommen, kannst du über `/warp farmwelt` in die Far
 In den Farmwelten ist PvP aktiviert. Das heißt, andere Spieler können _(und werden)_ dich bei gegebener Situation töten.
 {% endhint %}
 
-Sobald du in der Farmwelt angekommen bist, musst du erst einmal ungefähr 300 Blöcke vom Spawn weglaufen, da der Bereich um den Spawn-Punkt geschützt ist. Du kannst dir mit `/sethome` auch einen eigenen Teleportpunkt setzen, um nicht immer wieder vom Spawn aus laufen zu müssen. Mit `/home` kommst du jederzeit wieder dorthin.
+Sobald du in der Farmwelt angekommen bist, musst du erst einmal ungefähr 300 Blöcke vom Spawn weglaufen, da der Bereich um den Spawn-Punkt geschützt ist. Schneller geht es mit dem Befehl `/rtp` oder dem NPC **Random Teleport** am Spawn: Damit wirst du an eine zufällige, sichere Stelle in der Farmwelt oder im Nether teleportiert.
+
+Du kannst dir mit `/sethome` auch einen eigenen Teleportpunkt setzen, um nicht immer wieder vom Spawn aus laufen zu müssen. Mit `/home` kommst du jederzeit wieder dorthin.
 
 ## Lagern und Herstellen
 
