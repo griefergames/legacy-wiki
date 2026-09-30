@@ -1,6 +1,6 @@
 # ⚒️ Reparatur-Barren
 
-Im CaseOpening gibt es ein Item namens „Reparatur-Barren“. Dieses kann für alle Rüstungen, Werkzeuge, Bögen und Schwerter angewendet werden. Das jeweilige Item wird dadurch vollständig repariert.
+Du besitzt ein Item, welches du aufgrund zu hoher Level-Kosten nicht mehr reparieren kannst? Im CaseOpening gibt es ein Item namens „Reparatur-Barren“. Dieses kann für alle Rüstungen, Werkzeuge, Bögen und Schwerter angewendet werden, auch wenn es die Level-Kosten zu hoch wären. Das jeweilige Item wird dadurch vollständig repariert.
 
 <div align="center"><figure><img src="../../.gitbook/assets/bWltrqF.png" alt="Item-Beschreibung des Reparatur-Barrens"><figcaption></figcaption></figure></div>
 
