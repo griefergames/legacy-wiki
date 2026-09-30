@@ -31,6 +31,9 @@ Beim Block des Tages wird jeden Tag ein bestimmter Block festgelegt. Baust du di
 ## Welchen Block muss man abbauen?
 
 Welcher Block am jeweiligen Tag gefordert wird, kann man entweder über dem Kopf des NPCs sehen oder im „Block des Tages“-Menü, das sich öffnet, wenn man auf den NPC klickt.
+Ein neuer Tag beginnt beim Block des Tages um **4 Uhr** morgens. Ab dann gibt es einen neuen Block und dein tägliches Belohnungslimit startet neu.
+
+Mit `/sideboard` kannst du dir den heutigen Block und deinen Tagesfortschritt (z. B. „1/3“) auch im [Scoreboard](../befehlsuebersicht/spezielle-features/individuelles-scoreboard.md) anzeigen lassen.
 
 <div data-full-width="false"><figure><img src="../../.gitbook/assets/BdT_Menu.png" alt=""><figcaption><p>„Block des Tages“-Menü</p></figcaption></figure></div>
 
@@ -57,8 +60,18 @@ Beim Abbau **natürlich generierter Blöcke** in der Farmwelt (Overworld oder Ne
 
 Es gibt verschiedenste Belohnungen wie etwa [Geld](../waehrungen.md#griefergames-dollar), [Kristalle](../waehrungen.md#kristalle), spezielle Items oder natürlich den Block mit einer besonderen Verzauberung. Jeden Tag wird zufällig festgelegt, welche Art von Belohnung man erhält. Zum Beispiel bekommt man heute Geld, morgen den verzauberten Block und so weiter.
 
+An besonderen Tagen, z. B. an Feiertagen oder Aktionstagen, gibt es besondere Belohnungen wie seltene Sammel-Items. Diese Tage erkennst du im „Block des Tages“-Menü am Hinweis **„Event“** beim heutigen Block.
+
 Die Menge an Belohnungen pro Tag hängt von der Art der Belohnung ab:
 
 * Verzauberter Block: 2 Mal
 * Kristalle: 3 Mal
 * Geld: 5 Mal
+
+{% hint style="info" %}
+Hast du den [Talisman](../besondere-items/talismane.md) „Block-des-Tages-Boost“ ausgerüstet, bekommst du pro Stufe **5 %** mehr Geld und Kristalle. Auf der höchsten Stufe **5** sind es **25 %** mehr. Die Chance auf eine Belohnung bleibt dabei gleich.
+{% endhint %}
+
+{% hint style="warning" %}
+Laut [Regelwerk](../../allgemein/regelwerk.md) darfst du beim Block des Tages mit höchstens **5 Accounts** pro Tag mitmachen.
+{% endhint %}
