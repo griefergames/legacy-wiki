@@ -47,6 +47,7 @@
 * [⚔️ Besondere Items](funktionen/besondere-items/README.md)
   * [🪄 Verzauberungs-Upgrade](funktionen/besondere-items/verzauberungs-upgrade.md)
   * [⚒️ Reparatur-Barren](funktionen/besondere-items/reparatur-barren.md)
+  * [🧱 Builders Wand](funktionen/besondere-items/builders-wand.md)
 * [❤️ Features](funktionen/features/README.md)
   * [🗝️ Abschließbare Truhen](funktionen/features/abschliessbare-truhen.md)
   * [🪙 Adventurer-System](funktionen/features/das-adventurer-system.md)
