@@ -75,8 +75,8 @@ Wird an den Client gesendet, um Informationen über den Block oder die Entity de
 | --------------- | ----------------------- | -------------------------------------------------------------- |
 | `id`            | UTF                     | `"blockoftheday"`                                              |
 | `type`          | UTF                     | `"BLOCK"`, `"MATERIAL"` oder `"ENTITY"`                        |
-| `blockMaterial` | UTF                     | Materialname (z.B. `"DIAMOND_ORE"`); leer wenn `type = "ENTITY"` |
-| `blockData`     | `int` (4 Bytes)         | Block-Daten / Varianten; immer `0`                             |
+| `blockMaterial` | UTF                     | Materialname (z.B. `"PRISMARINE"`); leer wenn `type = "ENTITY"` |
+| `blockData`     | `int` (4 Bytes)         | Block-Daten / Variante (z.B. `1` = Prismarinziegel bei `PRISMARINE`); auf modernen Servern (>= 1.13, keine Data-Values mehr) immer `0` |
 | `entityType`    | UTF                     | Entity-Typ (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
 
 {% hint style="info" %}
@@ -104,7 +104,12 @@ Wird an den Client gesendet, um aktive Booster und deren Multiplikatoren zu übe
 | *Für jeden Booster:* | | |
 | `type`     | UTF                  | Booster-Typ: `"BREAK"`, `"DROP"`, `"FLY"`, `"MOB"`, `"XP"` |
 | `multiplier` | `int` (4 Bytes)    | Multiplikator des Boosters (z.B. `2` für 2x)           |
-| `remainingSeconds` | `long` (8 Bytes) | Verbleibende Sekunden bis der Booster abläuft     |
+| `tierCount` | `int` (4 Bytes)     | Anzahl der Einträge in `remainingSeconds` (= `multiplier`) |
+| `remainingSeconds` | `long` (8 Bytes) × `tierCount` | Verbleibende Sekunden bis zum Ablauf **jeder einzelnen aktiven Stufe**, aufsteigend sortiert |
+
+{% hint style="info" %}
+**Stapelbare Booster (z.B. Mob-Booster):** Ein Booster kann mehrfach aktiviert werden und dadurch mehrere Stufen (Stack) besitzen, wobei jede Stufe zu einem eigenen Zeitpunkt abläuft (z.B. hat ein Stufe-5-Mob-Booster 5 unterschiedliche Endzeitpunkte). Deshalb wird `remainingSeconds` als Liste mit genau `multiplier` Einträgen übertragen, aufsteigend sortiert: Der erste Wert ist die Restzeit bis zum nächsten Ablauf einer Stufe (wodurch sich `multiplier` um 1 verringert), der letzte Wert die Restzeit der zuletzt aktivierten/am längsten laufenden Stufe.
+{% endhint %}
 
 ### `clearlag`
 
@@ -214,8 +219,12 @@ public class MeinModClient implements ClientModInitializer {
                         for (int i = 0; i < count; i++) {
                             String type = in.readUTF();
                             int multiplier = in.readInt();
-                            long remainingSeconds = in.readLong();
-                            context.client().execute(() -> MeinMod.onBooster(type, multiplier, remainingSeconds));
+                            int tierCount = in.readInt();
+                            long[] remainingSecondsPerTier = new long[tierCount];
+                            for (int t = 0; t < tierCount; t++) {
+                                remainingSecondsPerTier[t] = in.readLong();
+                            }
+                            context.client().execute(() -> MeinMod.onBooster(type, multiplier, remainingSecondsPerTier));
                         }
                         break;
                     }
@@ -323,8 +332,12 @@ public class MeinMod {
                for (int i = 0; i < count; i++) {
                   String type = in.readUTF();
                   int multiplier = in.readInt();
-                  long remainingSeconds = in.readLong();
-                  Minecraft.getMinecraft().addScheduledTask(() -> onBooster(type, multiplier, remainingSeconds));
+                  int tierCount = in.readInt();
+                  long[] remainingSecondsPerTier = new long[tierCount];
+                  for (int t = 0; t < tierCount; t++) {
+                     remainingSecondsPerTier[t] = in.readLong();
+                  }
+                  Minecraft.getMinecraft().addScheduledTask(() -> onBooster(type, multiplier, remainingSecondsPerTier));
                }
                break;
             }
@@ -414,8 +427,12 @@ public class MeinPayloadListener {
                     for (int i = 0; i < count; i++) {
                         String type = in.readUTF();
                         int multiplier = in.readInt();
-                        long remainingSeconds = in.readLong();
-                        MeinAddon.onBooster(type, multiplier, remainingSeconds);
+                        int tierCount = in.readInt();
+                        long[] remainingSecondsPerTier = new long[tierCount];
+                        for (int t = 0; t < tierCount; t++) {
+                            remainingSecondsPerTier[t] = in.readLong();
+                        }
+                        MeinAddon.onBooster(type, multiplier, remainingSecondsPerTier);
                     }
                     break;
                 }
@@ -492,31 +509,31 @@ Neue Payloads können jederzeit hinzukommen.
 ```
 Kanal:  griefergames:main
 Payloads:
-  ┌──────────────────────────────┬────────────────────────────┬──────────────────────────────────────────────┐
-  │ ID                           │ Felder                     │ Wann gesendet                                │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ accountbalance               │ double                     │ Beim Betreten eines Servers & bei jeder      │
-  │                              │                            │ Guthabenänderung                             │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ bankbalance                  │ double                     │ Beim Betreten eines Servers & bei jeder      │
-  │                              │                            │ Bankguthabenänderung                         │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ blockoftheday                │ UTF, UTF, int, UTF         │ Wenn der Block/die Entity des Tages          │
-  │                              │                            │ aktualisiert wird                            │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ blockoftheday_progress       │ (keine)                    │ Wenn der Spieler einen Reward vom Block/der  │
-  │                              │                            │ Entity des Tages erhält                      │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ booster                      │ int, [UTF, int, long, ...] │ Beim Betreten eines Servers & bei Änderung   │
-  │                              │                            │ der aktiven Booster                          │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ clearlag                     │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
-  │                              │                            │ ClearLag                                     │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ entityremover                │ long                       │ Regelmäßig zur Anzeige der Zeit bis          │
-  │                              │                            │ Entity Remover                               │
-  ├──────────────────────────────┼────────────────────────────┼──────────────────────────────────────────────┤
-  │ plotchat_configuration       │ boolean                    │ Beim Betreten eines Servers & bei Änderung   │
-  │                              │                            │ der PlotChat-Einstellung                     │
-  └──────────────────────────────┴────────────────────────────┴──────────────────────────────────────────────┘
+  ┌──────────────────────────────┬─────────────────────────────────┬──────────────────────────────────────────────┐
+  │ ID                           │ Felder                          │ Wann gesendet                                │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ accountbalance               │ double                          │ Beim Betreten eines Servers & bei jeder      │
+  │                              │                                 │ Guthabenänderung                             │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ bankbalance                  │ double                          │ Beim Betreten eines Servers & bei jeder      │
+  │                              │                                 │ Bankguthabenänderung                         │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ blockoftheday                │ UTF, UTF, int, UTF              │ Wenn der Block/die Entity des Tages          │
+  │                              │                                 │ aktualisiert wird                            │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ blockoftheday_progress       │ (keine)                         │ Wenn der Spieler einen Reward vom Block/der  │
+  │                              │                                 │ Entity des Tages erhält                      │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ booster                      │ int, [UTF, int, int, long, ...] │ Beim Betreten eines Servers & bei Änderung  │
+  │                              │                                 │ der aktiven Booster                          │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ clearlag                     │ long                            │ Regelmäßig zur Anzeige der Zeit bis          │
+  │                              │                                 │ ClearLag                                     │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ entityremover                │ long                            │ Regelmäßig zur Anzeige der Zeit bis          │
+  │                              │                                 │ Entity Remover                               │
+  ├──────────────────────────────┼─────────────────────────────────┼──────────────────────────────────────────────┤
+  │ plotchat_configuration       │ boolean                         │ Beim Betreten eines Servers & bei Änderung   │
+  │                              │                                 │ der PlotChat-Einstellung                     │
+  └──────────────────────────────┴─────────────────────────────────┴──────────────────────────────────────────────┘
 ```
