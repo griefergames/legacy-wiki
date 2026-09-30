@@ -36,12 +36,16 @@ In der Rezeptsammlung habt ihr vier verschiedene Auswahlmöglichkeiten:
 
 ### Standardrezepte
 
-Hierbei handelt es sich um eine Sammlung aller Standard-Minecraft-Rezepte. Du kannst hier das passende Item aus den vorhandenen Kategorien heraussuchen. Öffnest du ein Rezept und hast alle benötigten Materialien im Inventar, kannst du das Item auch direkt in der Rezept-Ansicht herstellen.
+Hierbei handelt es sich um eine Sammlung aller Standard-Minecraft-Rezepte. Im Menü findest du sie unter „Minecraft-Rezepte“. Du kannst hier das passende Item aus den vorhandenen Kategorien heraussuchen. Öffnest du ein Rezept und hast alle benötigten Materialien im Inventar, kannst du das Item auch direkt in der Rezept-Ansicht herstellen.
 
 Hast du bereits ein Item im Inventar, von dem du mehr herstellen willst, so kannst du nach Auswahl der Standard-Rezepte auf das Item in deinem Inventar klicken. Wenn es ein Rezept zur Herstellung gibt, wirst du direkt in die Rezept-Ansicht des Items gebracht.
 
 {% hint style="info" %}
 Einige Items haben mehrere verschiedene Rezeptvarianten. Diese können über das +/- Symbol in der Rezeptansicht gewechselt werden.
+{% endhint %}
+
+{% hint style="info" %}
+Werkzeuge, Waffen, Rüstungen und andere nicht stapelbare Items wie Loren, Boote oder Betten kannst du höchstens **64** Stück auf einmal herstellen. Danach musst du **30 Sekunden** warten, bevor du wieder solche Items herstellen kannst.
 {% endhint %}
 
 ### Item-Komprimierung
@@ -50,13 +54,21 @@ Items sind wichtig und je mehr man hat, desto mehr kann man damit machen. Aber i
 
 Deswegen gibt es die Item-Komprimierung. Ähnlich wie bei Erzen, die sich zu Barren verschmelzen lassen, haben wir keine Mühen gescheut und eine Vielzahl an Items mit eigenen Rezepten versehen, mit denen du diese "komprimieren" kannst. Mit diesem Vorgang kannst du mehrere Items zu einem einzigen zusammenfügen, welches diese enthält.
 
-Der Vorgang lässt sich bis zur 7. Stufe wiederholen, sodass du mehrere Millionen Items derselben Art auf einem einzigen Slot haben kannst. Du kannst mit diesen sogar ganz normal bauen oder sie für Interaktionen mit dem [Adventurer](das-adventurer-system.md#abgabe-aufgaben) und dem [Orb-Händler](das-orb-system.md#der-orb-haendler-haendler) verwenden.
+Der Vorgang lässt sich bis zur 7. Stufe wiederholen, sodass du mehrere Millionen Items derselben Art auf einem einzigen Slot haben kannst. Du kannst sie für Interaktionen mit dem [Adventurer](das-adventurer-system.md#abgabe-aufgaben) und dem [Orb-Händler](das-orb-system.md#der-orb-haendler-haendler) verwenden.
 
 {% hint style="warning" %}
 Komprimierte Blöcke sind noch nicht zur Nutzung als Spawner-Upgrade-Material verwendbar! Der Block wird dort ohne Betrachtung der Komprimierung als Solo-Item gewertet.
 {% endhint %}
 
 Da in der Komprimierungsliste eine Vielzahl an Items vorhanden ist, kannst du - sobald du die Komprimierung ausgewählt hast - auf ein Item in deinem Inventar klicken. Du wirst automatisch zum Komprimierungsrezept für das entsprechende Item gebracht, sofern es komprimierbar ist. Die Komprimierungs-Stufe lässt sich über das +/- Symbol anpassen.
+
+Komprimierte Blöcke bis **Stufe 4** kannst du sogar direkt zum Bauen nutzen. Bei jedem platzierten Block wird ein Item aus dem komprimierten Block abgezogen. Halte dazu nur **ein** komprimiertes Item in der Hand. Auch mit der Builders Wand kannst du komprimierte Blöcke platzieren.
+
+{% hint style="warning" %}
+Vor dem ersten Platzieren musst du einmal bestätigen. Danach lässt sich das Item nur noch dekomprimieren.
+
+Komprimierte Items lassen sich außerdem nicht verzaubern und nicht im Braustand verwenden.
+{% endhint %}
 
 ### Spezial-Rezepte
 
