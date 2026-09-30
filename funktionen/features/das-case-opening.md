@@ -27,7 +27,11 @@ Im CaseOpening können zufällige Gewinne gezogen werden. Es gibt verschiedene K
 
 <figure><img src="../../.gitbook/assets/GNLxPcd.png" alt="" width="375"><figcaption><p>CaseOpening an einem Citybuild-Spawn</p></figcaption></figure>
 
-Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. Aus einigen Kisten können zusätzlich [eigene CaseOpening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche man auf dem eigenen Grundstück platzieren und dort nutzen kann.
+Das CaseOpening lässt sich an allen Citybuild-Spawns durch beschriftete Truhen mit Partikeln erkennen und durch einen Rechtsklick auf die Truhe öffnen. Aus einigen Kisten können zusätzlich [eigene CaseOpening-Blöcke](https://items.griefergames.net/#Mobiles_Caseopening) gewonnen werden, welche man auf dem eigenen Grundstück platzieren und dort nutzen kann. So ist man nicht an den Spawn gebunden. Die mobilen CaseOpenings müssen nicht per Use-Flag freigegeben werden und sind standardmäßig für jeden nutzbar. Neben der Truhe gibt es sie auch in anderen Blockformen.
+
+{% hint style="danger" %}
+Baust du ein mobiles CaseOpening ab, wird es zerstört.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (21) (1).png" alt=""><figcaption><p>Das Case-Opening mit Auswahl der Kisten</p></figcaption></figure>
 
@@ -47,11 +51,6 @@ Die linke Truhe in der untersten Reihe zeigt dir bei einem Klick, welche und wie
 
 {% hint style="info" %}
 Gewinne, welche nicht abgeholt werden können – weil während des Öffnens die Verbindung verloren geht oder euer Inventar voll ist –, werden in einem eigenen Untermenü gesammelt und können über das CaseOpening-Menü zu einem späteren Zeitpunkt abgeholt werden. Eure Gewinne sind also gegen Verlust gesichert.
-
-
-Im Kisten-Menü befindet sich außerdem ein Einstellungsmenü, wo man die eigenen Gewinn-Broadcasts auf anonym umstellen kann oder auch den Erhalt von 5k-Blöcken deaktivieren kann.
-
-Man kann aus dem CaseOpening auch einen CaseOpening-Block ziehen, den man sich selbst auf sein Grundstück stellen kann, damit man nicht an den Spawn gebunden ist. Die mobilen CaseOpenings müssen nicht per Use-Flag freigegeben werden und sind standardmäßig für jeden nutzbar. 
 {% endhint %}
 
 ## In-Game Store
@@ -120,6 +119,10 @@ Saisonale Kisten sind zeitlich begrenzt und sind üblicherweise zu bestimmten Ja
 
 Hier befinden sich in der Regel die wertvollsten Gewinne in der Kiste, wie zum Beispiel spezielle Sammler-Items.
 
+### Die Prefix-Kiste
+
+Die Prefix-Kiste ist nur zeitweise erhältlich und hat jedes Mal ein eigenes Thema, z. B. Taschenmonster, Space oder Magie.
+
 ### Besondere Zufallskisten
 
 Die besonderen Zufallskisten enthalten neben wertvollen Gewinnen auch andere Kisten, wodurch man mit etwas Glück hochwertige Kisten und Items gewinnen kann. Mit etwas Pech landet man aber auch bei einer einfachen Vote-Kiste. Besondere Zufallskisten enthalten zudem neben der aktuellen auch weitere saisonale Kisten, welche derzeit nicht käuflich zu erwerben sind.
@@ -135,13 +138,23 @@ Es gibt auch noch weitere Kisten, die zu einer bestimmten Zeit mal erhältlich w
 * Kleine Winter-Kiste
 * Drachen-Kiste
 * Geburtstags-Kiste
-* Prefix-Kiste (sind meistens thematisch, z. B. Taschenmonster & Space)
 * Möbel-Kiste
 * Lucky-Kiste
 * OP-Kiste
 
 Einige davon sind zu bestimmten Events und Aktionen erhältlich. Wenn es eine aktuelle Aktion gibt, findet man alle Infos dazu im Discord.
 {% endhint %}
+
+## Einstellungen
+
+Über das Buch „Einstellungen“ im Hauptmenü des CaseOpenings legst du fest, wie das CaseOpening für dich funktioniert. Mit einem Klick auf die Glasscheibe unter einer Einstellung schaltest du sie um.
+
+| Einstellung | Wirkung |
+| --- | --- |
+| Anonyme Broadcasts | Deine Gewinn-Broadcasts werden ohne deinen Namen angezeigt. |
+| Verknüpfte Zahlungsmethode | Verknüpft ein Zahlungsmittel für den [In-Game Store](#in-game-store) oder hebt die Verknüpfung auf. |
+| Hero-Hit-Belohnung | Ab dem Rang **Hero** legst du fest, ob andere Spieler Kristalle bekommen, wenn sie dich anklicken. |
+| 5K Drop-Blöcke | Gewinnt ein Spieler einen Moneydrop ab **5.000 Dollar**, bekommst du zusätzlich einen Diamantblock mit seinem Namen. Die Einstellung ist standardmäßig aktiviert. Deaktivierst du sie, erhältst du das Geld weiterhin, aber keine Diamantblöcke mehr. |
 
 ## Fragmente
 
@@ -158,12 +171,12 @@ Fragmente können als Gewinn aus verschiedenen Kisten erhalten werden. Wenn du g
 
 ## Angebotszug
 
-Der Angebotszug befindet sich im CaseOpening unten rechts.
+Der Angebotszug befindet sich im CaseOpening unten rechts. Zusätzlich steht am Spawn ein Angebotszug-NPC.
 
-Jede Woche erhältst du 10 exklusive Angebote, die für dich persönlich festgelegt werden. Diese enthalten Rabatte und andere Überraschungen für dich!
+Jede Woche erhältst du 10 exklusive Angebote, die für dich persönlich festgelegt werden. Diese enthalten Rabatte und andere Überraschungen für dich! Bezahlt werden die Angebote mit [Kristallen](../waehrungen.md#kristalle).
 
 {% hint style="info" %}
 Du kannst immer nur das nächste Angebot sehen. Manchmal kann es sich also auch lohnen, ein weniger interessantes Angebot anzunehmen, um das nächste freizuschalten.
 {% endhint %}
 
-Der Angebotszug wird jeden Montag um 00:00 Uhr zurückgesetzt und 10 neue Angebote für die Woche generiert. Noch nicht eingelöste Angebote verfallen dadurch.
+Der Angebotszug wird jeden Montag um 00:00 Uhr zurückgesetzt. Noch nicht eingelöste Angebote verfallen dadurch.
