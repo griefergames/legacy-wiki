@@ -75,9 +75,9 @@ Wird an den Client gesendet, um Informationen über den Block oder die Entity de
 | --------------- | ----------------------- | -------------------------------------------------------------- |
 | `id`            | UTF                     | `"blockoftheday"`                                              |
 | `type`          | UTF                     | `"BLOCK"`, `"MATERIAL"` oder `"ENTITY"`                        |
-| `blockMaterial` | UTF                     | Materialname (z.B. `"PRISMARINE"`); leer wenn `type = "ENTITY"` |
-| `blockData`     | `int` (4 Bytes)         | Block-Daten / Variante (z.B. `1` = Prismarinziegel bei `PRISMARINE`); auf modernen Servern (>= 1.13, keine Data-Values mehr) immer `0` |
-| `entityType`    | UTF                     | Entity-Typ (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
+| `blockMaterial` | UTF                     | Bukkit-[`Material`](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html) (z.B. `"PRISMARINE"`); leer wenn `type = "ENTITY"` |
+| `blockData`     | `int` (4 Bytes)         | Block-Daten / Variante (z.B. `1` = Prismarinziegel bei `PRISMARINE`) |
+| `entityType`    | UTF                     | Bukkit-[`EntityType`](https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html) (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
 
 {% hint style="info" %}
 **Feldlogik je nach Type:**
