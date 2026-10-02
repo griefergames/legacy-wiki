@@ -75,7 +75,7 @@ Wird an den Client gesendet, um Informationen über den Block oder die Entity de
 | --------------- | ----------------------- | -------------------------------------------------------------- |
 | `id`            | UTF                     | `"blockoftheday"`                                              |
 | `type`          | UTF                     | `"BLOCK"`, `"MATERIAL"` oder `"ENTITY"`                        |
-| `blockMaterial` | UTF                     | Bukkit-[`Material`]([https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html](https://helpch.at/docs/1.8/index.html?org/bukkit/Material.html)) (z.B. `"PRISMARINE"`); leer wenn `type = "ENTITY"` |
+| `blockMaterial` | UTF                     | Bukkit-[`Material`](https://helpch.at/docs/1.8/index.html?org/bukkit/Material.html) (z.B. `"PRISMARINE"`); leer wenn `type = "ENTITY"` |
 | `blockData`     | `int` (4 Bytes)         | Block-Daten / Variante (z.B. `1` = Prismarinziegel bei `PRISMARINE`) |
 | `entityType`    | UTF                     | Bukkit-[`EntityType`](https://helpch.at/docs/1.8/index.html?org/bukkit/entity/EntityType.html) (z.B. `"WITHER"`); leer wenn `type` = `"BLOCK"` oder `"MATERIAL"` |
 
