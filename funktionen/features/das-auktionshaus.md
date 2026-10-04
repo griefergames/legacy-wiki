@@ -60,6 +60,8 @@ In der Auktionsansicht habt ihr die Möglichkeit, auf ein ausgewähltes Item zu 
 
 Mit einem Gebot wird der Betrag direkt geboten und der Auktionspreis erhöht sich auf diesen Betrag.
 
+Das **Schnellgebot** liegt **5 %** über dem aktuellen Gebot, mindestens aber **500 Dollar** darüber. Ist ein Sofortkaufpreis festgelegt, liegt das Schnellgebot höchstens bei diesem Preis.
+
 <figure><img src="../../.gitbook/assets/image (120).png" alt=""><figcaption><p>Über das „Schnellgebot“ wird der erforderliche Preis direkt als Gebot abgegeben.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (121).png" alt=""><figcaption><p>Über „Eigenen Beitrag bieten“ kannst du auch direkt ein höheres Gebot setzen.</p></figcaption></figure>
@@ -95,7 +97,7 @@ Du brauchst einen freien Inventarplatz für das Item, auch wenn du bereits ein g
 {% endhint %}
 
 {% hint style="warning" %}
-Die auslaufenden Auktionen werden alle **15 Minuten** verarbeitet. Es befinden sich also zeitweise ausgelaufene Auktionen in der Übersicht.
+Die auslaufenden Auktionen werden alle **5 Minuten** verarbeitet. Es befinden sich also zeitweise ausgelaufene Auktionen in der Übersicht.
 {% endhint %}
 
 ## Auktion erstellen <a href="#auktion-erstellen" id="auktion-erstellen"></a>
@@ -107,6 +109,12 @@ Jeder Spieler kann eine neue Auktion erstellen. Dazu wählt ihr in der Auktions�
 <figure><img src="../../.gitbook/assets/image (124).png" alt=""><figcaption></figcaption></figure>
 
 Wählt nun ein Item aus eurem Inventar, welches ihr im Auktionshaus anbieten möchtet. _Dieses erscheint dann oben als angezeigtes Item._
+
+{% hint style="warning" %}
+Pro Auktion könnt ihr nur ein **einzelnes Item** anbieten. Gestapelte Items, z. B. 64 Diamanten, lassen sich nicht einstellen.
+
+Standardmäßig könnt ihr bis zu **10 Auktionen** gleichzeitig laufen lassen. Ist das Limit erreicht, zeigt „Meine Auktionen“ statt der Schleimkugel einen roten Farbstoff mit dem Hinweis, dass ihr bereits zu viele Auktionen habt.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (125).png" alt=""><figcaption></figcaption></figure>
 
@@ -136,7 +144,7 @@ Folgende Laufzeitstufen gibt es: 1 Stunde, 3 Stunden, 6 Stunden, 12 Stunden, 24 
 
 Wenn ihr alle gewünschten Einstellungen getroffen habt, könnt ihr die Auktion mit einem Klick auf den grünen Farbstoff „Bestätigen“ abschließend erstellen.
 
-Je nach Einstellung fällt dabei eine **Gebühr** für das Erstellen der Auktion von **10 %** an. Dafür ausschlaggebend ist der höchste eingestellte Preis (Mindestpreis, Sofortkaufpreis). Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
+Beim Erstellen fällt eine **Gebühr** von **5 %** an, mindestens aber **1.000 Dollar**. Dafür ausschlaggebend ist der höchste eingestellte Preis (Startpreis, Sofortkaufpreis). Diese Gebühr muss beim Erstellen gezahlt werden und wird nicht erstattet, falls das Item nicht verkauft wird.
 
 ## Auktion zurückziehen <a href="#auktion-zuruckziehen" id="auktion-zuruckziehen"></a>
 
@@ -151,7 +159,11 @@ Geht dazu in eure Auktion und klickt auf den Button zum Zurückziehen der Auktio
 {% hint style="danger" %}
 Es fällt eine **Strafgebühr** von **10 % auf das aktuelle Gebot** an! Je höher das Item also bereits geboten wurde, desto teurer wird das Zurückziehen.
 
-Wurde noch kein Gebot abgegeben, wird eine **Strafgebühr** von **5 % des Startgebots/Sofortkaufpreises** (sofern vorhanden) erhoben.
+Wurde noch kein Gebot abgegeben, zahlt ihr **10 % des Startpreises**. Die **Strafgebühr** beträgt immer mindestens **1.000 Dollar**.
+{% endhint %}
+
+{% hint style="info" %}
+Mit dem aktivierten [Gebührensenkungs-Perk](booster-and-perks.md#perks-and-rechte) sinkt die Gebühr beim Erstellen einer Auktion von **5 %** auf **2,5 %** und die Strafgebühr beim Zurückziehen von **10 %** auf **2,5 %**. Die Mindestgebühr von **1.000 Dollar** bleibt bestehen.
 {% endhint %}
 
 ## Auktionshistorie <a href="#auktionshistorie" id="auktionshistorie"></a>
