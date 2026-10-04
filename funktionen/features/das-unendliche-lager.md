@@ -34,15 +34,23 @@ Das unendliche Lager kann über folgendes Rezept in der Werkbank hergestellt wer
 
 Es werden 4x Holzstamm, 1x Trichter, 2x Goldblock, 1x Eisenblock und 1x Truhe _oder_ 1x Redstonetruhe benötigt, um das unendliche Lager herzustellen.
 
+Mit einer Redstonetruhe im Rezept erhaltet ihr ein Lager in Form einer Redstonetruhe. Direkt neben einem Lager darf keine Truhe derselben Art stehen, also keine Truhe neben einem Truhen-Lager und keine Redstonetruhe neben einem Redstonetruhen-Lager. Lager aus Truhe und Redstonetruhe könnt ihr aber abwechselnd direkt nebeneinander stellen.
+
 ### Allgemeine Funktionsweise
 
 Anders als auf der Cloud ist das [unendliche Lager auf der 1.8 eine Truhe](https://items.griefergames.net/#Unbegrenzter_Speicher) und speichert weitaus mehr Items (also über 2.147.483.647 Einheiten).
 
-Das Lager speichert immer den Item-Typ, der als Erstes hineingelegt wurde. Ab diesem Zeitpunkt ist das Lager speziell auf dieses Item fixiert und kann keine anderen Items mehr aufnehmen. Pro Grundstück können zwar mehrere unendliche Lager eines bestimmten Item-Typs verwendet werden, allerdings kann nur eines davon als [„passive Farm“ (Einsaugmodus)](das-unendliche-lager.md#der-einsaugmodus) aktiv sein.
+Das Lager speichert immer den Item-Typ, der als Erstes hineingelegt wurde. Ab diesem Zeitpunkt ist das Lager speziell auf dieses Item fixiert und kann keine anderen Items mehr aufnehmen. Erst wenn das Lager wieder leer ist, könnt ihr ein anderes Item als neues Lagermaterial hineinlegen.
+
+Auch nicht stapelbare Items wie Werkzeuge, Rüstung, Eimer, Loren, Sättel, Schallplatten oder Betten lassen sich einlagern. Sie müssen aber neu und unverändert sein, dürfen also weder beschädigt noch umbenannt oder verzaubert sein.
+
+Pro Grundstück können zwar mehrere unendliche Lager eines bestimmten Item-Typs verwendet werden, allerdings kann nur eines davon als [„passive Farm“ (Einsaugmodus)](das-unendliche-lager.md#der-einsaugmodus) aktiv sein.
 
 Außerdem sind auch Verbindungen mit Trichtern möglich. Die Funktionen des [Trichter-Systems](das-trichter-system.md) können also auch auf ein unendliches Lager geleitet werden.
 
 Die Lager lassen sich nur abbauen, wenn sie komplett leer sind. Durch `/breakblock` ist das Abbauen auch in gefülltem Zustand möglich. Die Items gehen in diesem Fall verloren.
+
+Um eure Lager zu beschriften, könnt ihr Rahmen direkt an ein unendliches Lager hängen.
 
 Unendliche Lager lassen sich mit dem Befehl `/p flag set unlimited-storage-public true` für andere Spieler auf einem Grundstück freigeben.
 
@@ -67,10 +75,22 @@ Mit einem Lagerterminal können mehrere unendliche Lager zentral an einem Ort ve
 <figure><img src="../../.gitbook/assets/JBaKI6j (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Ein unendliches Lager kann immer nur mit **einem** Terminal verbunden sein. Die Lager müssen sich in der Nähe des Terminals befinden. Ist ein Lager zu weit entfernt, kann es nicht verbunden werden.
+Ein unendliches Lager kann immer nur mit **einem** Terminal verbunden sein. Die Lager müssen auf demselben Grundstück in der Nähe des Terminals stehen. Ist ein Lager zu weit entfernt, kann es nicht verbunden werden.
 
 Die Lagerterminals kann man entweder im CaseOpening ziehen oder sie sich mit Adventure-Coins im Admin-Shop kaufen.
 {% endhint %}
+
+Jedes Lagerterminal hat eine bestimmte Anzahl an **Slots**. Sie steht in der Beschreibung des Terminals und gibt an, wie viele Lager ihr damit verbinden könnt.
+
+So verbindet ihr Lager mit eurem Terminal:
+
+1. Terminal per Rechtsklick öffnen.
+2. Unten auf das „Binding-Tool“ klicken.
+3. „Unendliches Lager hinzufügen“ anklicken.
+4. Nacheinander die Lager anklicken, die verbunden werden sollen.
+5. Schleichen, um den Vorgang zu beenden.
+
+Klickt ihr im „Binding-Tool“ auf ein verbundenes Lager, wird es wieder vom Terminal getrennt. Das „Binding-Tool“ können nur der Grundstücksbesitzer und vertraute Spieler nutzen.
 
 Lagerterminals lassen sich mit der Flag `/p flag set unlimited-storageterminal-public true` für andere Spieler auf einem Grundstück freigeben. Im Menü unten links (Buch) können außerdem Zugriffsrechte verwaltet werden. Dort gibt es die Möglichkeit, dass ihr einzelnen Spielern Zugriff auf das Lagerterminal gebt.
 
@@ -80,4 +100,4 @@ Lagerterminals lassen sich mit der Flag `/p flag set unlimited-storageterminal-p
 
 Dieses Item vergibt die Möglichkeit, über das Lagerterminal-Menü alle Items aus dem Inventar automatisch in die mit dem Terminal verknüpften unendlichen Lager einzusortieren. Das Recht wird per Rechtsklick auf das Item aktiviert.
 
-Dazu öffnet man das Lagerterminal-Menü und wählt das Trichter-Symbol unten links aus. Die Items werden dann automatisch in das passende Lager einsortiert.
+Dazu öffnet man das Lagerterminal-Menü und wählt das Trichter-Symbol unten links aus. Die Items werden dann automatisch in das passende Lager einsortiert. Auch komprimierte Items werden einsortiert und im Lager als die entsprechende Menge des normalen Items gezählt.
