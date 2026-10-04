@@ -84,7 +84,7 @@ Ihr habt ab dem Zeitpunkt der Ziehung eine Woche Zeit, eure Gewinne manuell unte
 
 Zu speziellen Events und Aktionen wird das Feature "Coinflip" freigeschaltet.
 
-Über den Befehl `/coinflip <Betrag>` kannst du als Spieler um einen selbst festgelegten Betrag wetten. Die Maximalgrenze pro Vorgang liegt dabei bei 100 Millionen.
+Über den Befehl `/coinflip <Betrag>` kannst du als Spieler um einen selbst festgelegten Betrag wetten. Die Maximalgrenze pro Vorgang liegt dabei bei **50 Millionen Dollar**.
 
 Du spielst ausschließlich gegen das System und hast die Möglichkeit, deinen Einsatz komplett zu verlieren oder zu verdoppeln. Der Münzwurf wird vom System automatisiert ausgeführt.
 
@@ -110,6 +110,20 @@ Ein Rechtsklick genügt, um den Würfel rollen zu lassen. Nach kurzer Zeit ersch
 
 Du benötigst **keinen** speziellen Rang, um zu würfeln. Es reicht, wenn du den Würfel hast und auf dem Grundstück die [passende Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md#feature-flags) gesetzt ist **oder** du auf dem Grundstück [Hinzugefügt, Vertraut oder der Besitzer](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md) bist.
 
+## [#](#überschrift)LuckyBlöcke
+
+Ein LuckyBlock ist ein Block voller Überraschungen. Sobald du ihn platzierst, öffnet er sich und löst einen zufälligen Effekt aus. LuckyBlöcke bekommst du z. B. im [Admin-Shop](https://wiki.griefergames.net/1-8/funktionen/features/das-adventurer-system#der-admin-shop) des Adventurers.
+
+LuckyBlöcke kannst du nur auf deinem eigenen Grundstück platzieren.
+
+Die Effekte reichen von sehr gut bis sehr schlecht:
+
+**Gute Effekte** z. B. Spawner die vom Himmel regnen, Fledermäuse die beim Erlegen Geld bringen oder ein Lucky-Schwert**Harmlose Scherze** z. B. bunte Regenbogenschafe auf deinem Grundstück**Schlechte Effekte** z. B. TNT-Regen, eine Gruppe Hexen oder ein Aufenthalt im [Gefängnis](https://wiki.griefergames.net/1-8/funktionen/features/die-hauptstadt#das-gefaengnis)
+
+{% hint style="danger" %}
+Einige Effekte verändern dein Grundstück, z. B. durch Explosionen, Sandregen oder Glas, das zu Barrieren wird. Bei einem Effekt zahlst du **5 %** deines Geldes an die Spieler auf dem Server aus. Platziere LuckyBlöcke daher mit Bedacht.
+{% endhint %}
+
 ### Spieler-"Casinos"
 
 Spieler haben die unterschiedlichsten Möglichkeiten gefunden, mithilfe der Ingame-Mechaniken und -Blöcke Schaltungen zu bauen, die komplexe Mechanismen antreiben, um zufallsbasierte Ergebnisse zu erzielen.
@@ -117,5 +131,3 @@ Spieler haben die unterschiedlichsten Möglichkeiten gefunden, mithilfe der Inga
 Die einfachsten Zufallssysteme sind Dracheneier, die sich beim Abbauversuch zufällig wegteleportieren, und Blumen, die zufällig wachsen. Auch Werfer können bestückt werden, sodass sie zufällig unterschiedliche Items ausgeben.
 
 Durch den Einsatz von Redstone-Technik und Trichtern lässt sich das Schaltverhalten und somit auch die Zufallsvarianz von Schaltungen stark anpassen. So lassen sich ganze „Slot-Maschinen“ bauen, die vom Betreiber mit unterschiedlichen Gewinnwahrscheinlichkeiten eingestellt werden können.
-
-Spieler-Casinos befinden sich überwiegend auf [Citybuild Evil](../spielmodus-citybuild/citybuild-evil.md) und [Citybuild 1](../spielmodus-citybuild/citybuild-1-22.md).

@@ -25,7 +25,7 @@ layout:
 
 ### Spawner allgemein
 
-[Spawner](https://items.griefergames.net/#Spawner) sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Eis vom Spieler verändert werden.
+[Spawner](https://items.griefergames.net/#Spawner) sind Blöcke, welche ständig Kreaturen einer bestimmten Sorte um sich herum erschaffen. Um welche Kreatur es sich dabei handelt, ist in der Mitte des Spawners zu sehen. Die Art der Kreatur kann durch das Einsetzen eines Spawn-Eis vom Spieler verändert werden. Mit einer [Spawnei-Schere](https://wiki.griefergames.net/1-8/funktionen/besondere-items/spawnei-schere) lässt sich ein eingesetztes Spawn-Ei mit etwas Glück wieder herausholen.
 
 Spawner erzeugen, während sie geladen sind (ein Spieler befindet sich im Umkreis von 16 Blöcken), alle 10 bis 40 Sekunden bis zu vier Kreaturen. Die Kreaturen erscheinen in einem 9×3×9 Blöcke großen, auf den Spawner zentrierten freien Bereich, also innerhalb eines drei Blöcke hohen Quaders von neun Blöcken Seitenlänge.
 
@@ -86,6 +86,11 @@ Einige Upgrades erfordern zur Freischaltung das Einzahlen von Items. In diesem F
 
 Die geforderten Items sowie deren Menge variieren je nach eingesetztem Spawn-Ei und Upgrade-Stufe.
 
+{% hint style="info" %}
+Spawner lassen sich unter anderem mit einem **Spawner-Upgrade-Item** aus dem [CaseOpening](https://wiki.griefergames.net/1-8/funktionen/features/das-case-opening) aufwerten. Diese Items gibt es für **Stufe II** und **Stufe III**.
+Für die **Stufe IV **des Spawner-Lagers oder Spawner-Drops kann ein Upgrade-Item beim Orb-Händler erworben werden.
+{% endhint %}
+
 ### Besonderheiten
 
 Einige Spawn-Eier werden rein zu Deko-Zwecken verwendet, da die Kreaturen, die der Spawner erstellt, keine Items als Drop haben. Im passiven Modus erzeugt der Spawner dann keine Items. Im aktiven Modus werden wie gewohnt die Kreaturen gespawnt.
@@ -99,9 +104,9 @@ Der Spawner erstellt (im passiven Modus) anschließend Bruchstein und alle Forme
 
 Durch Freigabe der [„use“-Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md#use-flag) mit der ID 52 können alle Spieler auf dem entsprechenden Grundstück das Spawner-Lager öffnen und die erzeugten Items entnehmen. Diese Einstellung ist vor allem für Community-Projekte gedacht, welche die Erzeugnisse der Spawner allen zur Verfügung stellen.
 
-Um einen versehentlichen Abbau der Spawner zu verhindern, wurden alle Spawner mit einem Abbauschutz versehen. Ein gesetzter Spawner kann daher nur noch mit dem Befehl `/breakblock` vom Besitzer des Grundstücks zerstört werden.
+Um einen versehentlichen Abbau der Spawner zu verhindern, wurden alle Spawner mit einem Abbauschutz versehen. Ein gesetzter Spawner kann daher nur noch mit dem Befehl `/breakblock` vom Besitzer des Grundstücks zerstört oder mit einer [Spawner-Spitzhacke](https://wiki.griefergames.net/1-8/funktionen/grundstuecke/spawner-hologramme-and-partikeleffekte-verwalten#kann-ich-spawner-verschieben) abgebaut werden. Mit der Spitzhacke besteht eine Chance, den Spawner als Item zu behalten.
 
-Dieses Verhalten trifft **nur** auf die Grundstückswelt zu. In der Farmwelt und im Nether lassen sich Spawner normal durch Abbau zerstören.
+Dieses Verhalten trifft **nur** auf die Grundstückswelt zu. In der Farmwelt und im Nether lassen sich Spawner normal durch Abbau zerstören. Auch die Spawner-Spitzhaacke funktioniert dort nicht.
 
 <details>
 
@@ -111,7 +116,3 @@ Dieses Verhalten trifft **nur** auf die Grundstückswelt zu. In der Farmwelt und
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
-
-{% hint style="danger" %}
-Dieser Artikel könnte ein paar Bilder vertragen. [Interessiert](../../allgemein/vorschlaege.md)?
-{% endhint %}

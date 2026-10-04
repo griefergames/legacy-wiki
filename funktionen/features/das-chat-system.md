@@ -57,13 +57,15 @@ Diese Nachrichten erkennst du daran, dass vor dem Spielernamen ein @ steht und d
 
 <figure><img src="../../.gitbook/assets/gdoc-0dd8e6d7c60b.png" alt=""><figcaption><p>Nachricht eines Spielers im globalen Chat zwischen Nachrichten im öffentlichen Chat</p></figcaption></figure>
 
-Um eine Nachricht in den globalen Chat zu schreiben, kannst du `/globalchat <Nachricht>` verwenden. Wir empfehlen die Verwendung des Kurzbefehls `@<Nachricht>`.
+Bist du angemeldet, landen deine normalen Chatnachrichten automatisch auch im globalen Chat. Auf deinem Citybuild erscheinen sie wie gewohnt im öffentlichen Chat, auf den anderen Citybuilds als Nachricht im globalen Chat. Möchtest du das nicht, schalte unter `/globalchat settings` die Einstellung **„Global schreiben“** aus. Deine normalen Nachrichten bleiben dann auf deinem Citybuild.
+
+Einzelne Nachrichten schickst du dann mit `/globalchat <Nachricht>` in den globalen Chat. Wir empfehlen die Verwendung des Kurzbefehls `@<Nachricht>`.
 
 {% hint style="warning" %}
 Vergiss nicht, dass du dafür im globalen Chat angemeldet sein musst.
 {% endhint %}
 
-Du kannst unter `/globalchat settings` einstellen, von welchen Citybuilds du keine Nachrichten erhalten möchtest.
+Du kannst unter `/globalchat settings` auch einstellen, von welchen Citybuilds du keine Nachrichten erhalten möchtest.
 
 Wenn du nun keine Nachrichten aus dem globalen Chat mehr sehen möchtest, kannst du dich mit `/globalchat logout` aus dem globalen Chat abmelden.
 
@@ -72,6 +74,7 @@ Wenn du nun keine Nachrichten aus dem globalen Chat mehr sehen möchtest, kannst
 Der Grundstückschat (auch _Plot-Chat_ genannt) ist ein Chat, bei welchem nur die Mitspieler auf einem [Grundstück](../grundstuecke/) die geschriebenen Nachrichten lesen und auf diese antworten können.
 
 Hierfür musst du auf einem Grundstück stehen und den Plot-Chat mit `/p chat` aktivieren. Alle von dir darauf folgenden Nachrichten werden nun in den Plot-Chat geschrieben.
+Möchtest du trotz aktivem Plot-Chat etwas in den [globalen Chat](https://wiki.griefergames.net/#globaler-chat) schreiben, setzt du einfach ein `@` vor deine Nachricht.
 
 Alle Nachrichten aus dem Grundstückschat haben vor dem Spielernamen in Klammern, dass diese aus dem Plot-Chat sind und auf welchem Grundstück (ID) die Nachrichten geschrieben werden.
 

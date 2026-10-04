@@ -14,6 +14,7 @@ Wie auf den Bildern zu sehen, wird dazu eine normale Truhe im Amboss in „Showc
 
 <img src="../../.gitbook/assets/unknown (1).png" alt="Die Truhe wird im Amboss in Showcase umbenannt" height="101" width="315">
 
+Neben Truhen kannst du auf diese Weise auch andere Behälter wie Spender, Werfer oder Trichter zur Showcase machen.
 Andere Spieler können sie zwar öffnen, wenn das entsprechende Material freigegeben ist oder sie auf dem Grundstück vertraut sind, jedoch kann nur der Grundstücksbesitzer Items dort hineinlegen oder entnehmen.
 
 {% hint style="info" %}
@@ -62,8 +63,16 @@ Die Vitrine ist unter anderem im **Admin-Shop** im Tausch gegen **Adventure-Coin
 
 Damit andere Spieler auf die Vitrine zugreifen können, kann folgende Flag auf dem eigenen Grundstück aktiviert werden: `/p flag set use 20`.
 
-Auch vertraute Spieler können Items in die Vitrine legen. Das ausgestellte Item bleibt dabei erhalten und geht nicht verloren.
+Vertraute Spieler können nur dann Items in die Vitrine legen, wenn die Flag `trusted-showcase-edit` aktiviert ist (siehe [Showcase-Truhen](https://wiki.griefergames.net/1-8/funktionen/features/showcase-truhen-and-vitrinen#showcase-truhen)). Das ausgestellte Item bleibt dabei erhalten und geht nicht verloren.
 
 {% hint style="info" %}
 Eine **Vitrine** kann mit einer Spitzhacke mit **Behutsamkeit** abgebaut werden. Dabei bleibt die Vitrine als Item erhalten und kann anschließend erneut platziert werden.
 {% endhint %}
+
+
+
+## [#](#überschrift)Items in der Vitrine drehen
+
+Mit einem Rechtsklick auf deine Vitrine öffnest du ihr Menü. Über den Knopf „Drehen“ drehst du das ausgestellte Item bei jedem Klick um **45 Grad** weiter. Das funktioniert mit Köpfen und normalen Items. 
+
+<div align="center"><figure><img src="../../.gitbook/assets/D0sRASp.png" alt="Bild"><figcaption></figcaption></figure></div>
