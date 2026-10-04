@@ -29,11 +29,18 @@ Mit diesen Befehlen kannst du Hologramme auf deinen Grundstücken verwalten. Wel
 | `/pholo` | Listet alle Hologramm-Befehle auf |
 | `/pholo help` | Zeigt alle verfügbaren Befehle an |
 | `/pholo list` | Zeigt alle Hologramme, die du auf diesem Citybuild-Server hast |
-| `/pholo create` | Erzeugt ein Hologramm |
-| `/pholo remove` | Löscht ein Hologramm |
+| `/pholo create <Nummer> <Text>` | Erzeugt an deiner Position ein Hologramm mit dieser Nummer |
+| `/pholo remove <Nummer>` | Löscht das Hologramm mit dieser Nummer |
 | `/pholo add` | Fügt eine neue Zeile zum Hologramm hinzu |
-| `/pholo edit` | Ändert eine Zeile in einem Hologramm |
-| `/pholo move` | Verschiebt das Hologramm auf die aktuelle Position |
-| `/pholo tp {Nummer}` | Teleportiere dich zum Hologramm mit dieser Nummer |
+| `/pholo edit <Nummer> <Zeilennummer> <Text>` | Ändert die angegebene Zeile des Hologramms |
+| `/pholo move <Nummer>` | Verschiebt das Hologramm auf deine aktuelle Position |
+| `/pholo tp <Nummer>` | Teleportiere dich zum Hologramm mit dieser Nummer |
 | `/pholo removeplot` | Entfernt alle Hologramme auf dem Grundstück |
 
+## [#](#hinweise)Hinweise
+
+Hologramme erstellst und verschiebst du nur auf deinem eigenen Grundstück.Ein Hologramm hat höchstens **3 Zeilen**.Mit `&` und einem Farbcode färbst du den Text ein, z. B. `&6` für Gold.Umlaute sind erlaubt, andere Sonderzeichen nicht.
+
+{% hint style="info" %}
+Schreibst du `{displayname}` in eine Zeile, sieht jeder Besucher an dieser Stelle seinen eigenen Namen. So kannst du z. B. jeden Gast persönlich begrüßen.
+{% endhint %}

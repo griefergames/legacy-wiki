@@ -130,7 +130,7 @@ Du erhältst lediglich das Geld für den verbleibenden Itemwert zurück. Davon w
 
 Über den Filter (Trichter) findest du schnell Aufträge für ein bestimmtes Item. Klicke dafür das Item in deinem Inventar an. Ein Klick auf den Trichter entfernt den Filter wieder.
 
-## [#](#wie-hole-ich-gelieferte-items-ab)[#](#überschrift)Wie hole ich gelieferte Items ab?
+## [#](#wie-hole-ich-gelieferte-items-ab)Wie hole ich gelieferte Items ab?
 
 Haben andere Spieler Items für deinen Auftrag geliefert, holst du sie mit einem Linksklick auf den Auftrag in „Meine Aufträge“ ab.
 
@@ -138,7 +138,7 @@ Lässt sich das Item komprimieren, erhältst du die gelieferte Menge als komprim
 
 Sobald alle bestellten Stacks geliefert und abgeholt sind, ist dein Auftrag abgeschlossen.
 
-## [#](#wie-beliefere-ich-einen-auftrag)[#](https://wiki.griefergames.net/editor#wie-hole-ich-gelieferte-items-ab)[#](https://wiki.griefergames.net/editor#%C3%BCberschrift)Wie beliefere ich einen Auftrag?
+## [#](#wie-beliefere-ich-einen-auftrag)Wie beliefere ich einen Auftrag?
 
 1. Öffne die **Jobs** über einen Job-NPC oder mit `/jobs`.Dort siehst du alle gesuchten Items. 2. Beim Überfahren eines Items werden dir die bestbezahlten Aufträge mit Anzahl und Preis pro Stack angezeigt. 
 3. Nimm volle Stacks des gesuchten Items mit ins Inventar. Komprimierte Items werden ebenfalls angenommen. 
