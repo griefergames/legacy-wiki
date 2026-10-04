@@ -79,8 +79,8 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | --- | --- |
 | `/b` | Fett im Chat schreiben |
 | `/sign <Signatur>` | Items signieren |
-| `/unsign` | Vorhandene Signatur entfernen |
-| `/kopf <Spieler>` | Einen Kopf von einem Spieler erhalten |
+| `/unsign` | Eigene Signatur entfernen (fremde Signaturen nur mit einem [Unsign-Token](../features/booster-and-perks.md#temporaere-perks)) |
+| `/kopf <Spieler>` | Einen Kopf von einem Spieler erhalten (auch während der Wartezeit mit einem [Kopf-Token](../besondere-items/kopf-token.md)) |
 | `/d <sheep, silverfish, skeleton_horse, slime>` | In ein Schaf, ein Silberfischchen, ein Skelettpferd oder einen Schleim verwandeln |
 | `/ud` | Verwandlung aufheben |
 | `/prefix` | Zugriff auf einfarbige (gold, rot & blau) und magische Prefixe |
@@ -93,8 +93,8 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 {% tab title="Griefer" %}
 | Befehl | Funktion |
 | --- | --- |
-| `/grieferboost` | Erhalte einen zufälligen [Serverbooster](../features/booster-and-perks.md#booster) |
-| `/freekiste` | Erhalte 2 [Epische Kisten](../features/das-case-opening.md) |
+| `/grieferboost` | Erhalte einen zufälligen [Serverbooster](../features/booster-and-perks.md#booster) (alle 14 Tage möglich) |
+| `/freekiste` | Erhalte 2 [Epische Kisten](../features/das-case-opening.md) (alle 14 Tage möglich) |
 | `/d <minecart, witch, villager, armor_stand, ender_crystal, squid, falling_block, boat>` | In eine Lore, eine Hexe, einen Dorfbewohner, einen Rüstungsständer, einen Enderkristall, einen Tintenfisch, einen Block oder ein Boot verwandeln |
 | `/ud` | Verwandlung aufheben |
 |  | Items farbig umbenennen |
@@ -110,7 +110,7 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | Befehl | Funktion |
 | --- | --- |
 | `/skin <Spieler>` | Minecraft-Skin eines anderen Spielers annehmen |
-| `/premium <Spieler>` | Einem Spieler ohne Rang den Premium-Rang für 7 Tage geben |
+| `/premium <Spieler>` | Einem Spieler ohne Rang den Premium-Rang für 7 Tage geben (alle 7 Tage möglich) |
 | `/status <Nachricht>` | Status setzen, der bei jedem Join auf einen Server im [Chat](../features/das-chat-system.md#oeffentlicher-chat) erscheint |
 | `/status toggle` | Status an-/ausschalten |
 | `/gun` | Paintball-Gun nutzen |
@@ -127,7 +127,7 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | Befehl | Funktion |
 | --- | --- |
 | `/globalbroadcast <Nachricht>` | Sendet eine hervorgehobene Nachricht an das Netzwerk. |
-| `/ultra <Spieler>` | Einem Spieler ohne Rang dauerhaft den Ultra-Rang vergeben. |
+| `/ultra <Spieler>` | Einem Spieler ohne Rang dauerhaft den Ultra-Rang vergeben (alle 30 Tage möglich). |
 | `@<Spielername>` | Erwähnt einen Spieler im Chat. |
 |  | Beim Anklicken eines Heros erhält ein Spieler eine zufällige Anzahl an Kristallen. |
 |  | Beim Serverbeitritt (mit aktivem `/status`) wird ein Feuerwerk gezündet. |
