@@ -27,7 +27,7 @@ Der Grieferpass ist ein aufgabenbasiertes Belohnungssystem. Innerhalb eines fest
 
 Es gibt sowohl Free-Belohnungen, also [Belohnungen](grieferpass.md#pass-belohnungen-1), die jeder erspielen kann, als auch einen gekauften [Grieferpass](grieferpass.md#grieferpass-kaufen), wodurch weitere Belohnungen freigeschaltet werden können.
 
-Den Pass öffnet man mit den Befehlen `/pass`, `/grieferpass` oder `/battlepass`.
+Den Pass öffnet man mit den Befehlen `/pass`, `/grieferpass`, `/battlepass` oder `/seasonpass`.
 
 ## Die Season
 
@@ -65,9 +65,11 @@ Hier kannst du deine erspielten [Belohnungen](grieferpass.md#pass-belohnungen-1)
 
 <figure><img src="../../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
-Hier hast du die Möglichkeit, dir den Grieferpass und dessen zusätzliche Belohnungen freizuschalten.
+Hier hast du die Möglichkeit, dir den Grieferpass und dessen zusätzliche Belohnungen freizuschalten. Das geht jederzeit, auch mitten in der laufenden Season.
 
 Dies kostet aktuell [1000 Kristalle](../waehrungen.md#kristalle), es wird jedoch garantiert, dass man bei Erreichen der maximalen [100 Level](grieferpass.md#die-xp-bar) im Pass auch immer mindestens diese 1000 Kristalle aus den Free- und Grieferpass-Belohnungen zurückbekommt.
+
+Den Grieferpass gibt es auch als Item. Benutzt du das Item, wird der Grieferpass für die laufende Season freigeschaltet. Das Item kannst du nur einlösen, wenn gerade eine Season läuft und du den Grieferpass noch nicht freigeschaltet hast.
 
 {% hint style="warning" %}
 Ein gekaufter Grieferpass gilt immer nur für die aktuelle Season. In der nächsten Season ist wieder nur der Free-Pass zugänglich.
@@ -141,7 +143,7 @@ Gibt es bei der Weekly Aufgabe bspw. „Töte 170 Lohen“, wären dies bei den 
 Hat man eine Aufgabe nicht erfüllt, ist diese am nächsten Tag nicht mehr absolvierbar und es kommen neue Aufgaben.
 
 {% hint style="warning" %}
-Auch hier ist es nicht nötig, alle [täglichen Aufgaben](https://docs.google.com/document/d/1kSbhywU9oGFeylHKv4nf1uaSU0KHoAamtb-Ru57nX2w/edit?tab=t.0#heading=h.ebk7cimqzi6f) zu absolvieren, um Level 100 zu erreichen.
+Auch hier ist es nicht nötig, alle [täglichen Aufgaben](grieferpass.md#daily-aufgaben) zu absolvieren, um Level 100 zu erreichen.
 
 Es ist aber auch nicht möglich, ganz ohne sie das maximale Level zu erreichen!
 {% endhint %}
@@ -170,7 +172,7 @@ Die Reihenfolge ist also Daily vor Weekly; bei Weekly älteste Aufgabe vor neues
 
 Dieses Menü ist in 2 Teile unterteilt. Oben findest du die Free-Belohnungen, unten die Grieferpass-Belohnungen, also jene, die mit dem [gekauften Grieferpass](grieferpass.md#grieferpass-kaufen) erspielt werden können.
 
-Diese Belohnungen können [Kristalle](../waehrungen.md#kristalle), [InGame-Geld](../waehrungen.md#griefergames-dollar) oder diverse [Items](https://items.griefergames.net/) (auch Admin-Items) sein, wobei die Grieferpass-Belohnungen natürlich bessere Belohnungen bereithalten als der Free-Pass.
+Diese Belohnungen können [Kristalle](../waehrungen.md#kristalle), [InGame-Geld](../waehrungen.md#griefergames-dollar), [Kisten](das-case-opening.md) oder diverse [Items](https://items.griefergames.net/) (auch Admin-Items) sein, wobei die Grieferpass-Belohnungen natürlich bessere Belohnungen bereithalten als der Free-Pass.
 
 Fährt man mit der Maus über ein Item, findet man folgende Informationen:
 
