@@ -149,6 +149,14 @@ Werden mehrere Verzauberungen gewählt, müssen alle Verzauberungen auf dem Item
 
 Zusätzlich zu dem Verzauberungsfilter steht mit dem <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FUUIhQ2kdINw7HfrQjTUm%2Fimage.png?alt=media&#x26;token=cb5c4ce8-3189-4451-b1ab-4a337d90526d" alt="" data-size="line"> unter dem <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FyjfK1PHbthxuu0Sp5xpl%2Fimage.png?alt=media&#x26;token=6019f8a4-eff7-4829-9136-b79c011de270" alt="" data-size="line"> der Filter "keine Verzauberung" zur Verfügung.
 
+#### Effekt-Filter
+
+Mit dem <mark style="color:orange;">**Effekt-Filter**</mark> kannst du Tränke nach ihren Effekten filtern. Mit einem Klick aktivierst du den Filter, ein weiterer Klick öffnet das Menü mit allen Effekten. Dort legst du per Klick fest, welche Effekte gefiltert werden sollen.
+
+Der Trichter nimmt dann nur Tränke auf, die mindestens einen der gewählten Effekte haben. Wählst du keinen bestimmten Effekt aus, werden alle Tränke mit Effekten gefiltert.
+
+Zusätzlich steht unter dem Effekt-Filter der Filter „Keine Effekte“ zur Verfügung. Damit nimmt der Trichter nur Items ohne Effekte auf.
+
 #### Signierungs-Filter
 
 Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FgVfl6sMpdCcChYQtD8Nw%2Fimage.png?alt=media&#x26;token=8684d650-c99b-4f9b-a859-afcdc5658f3f" alt="" data-size="line"> <mark style="color:orange;">**Signierungs-Filter**</mark> aktiviert sich der Signierungsfilter. Bei einem weiteren Klick öffnet sich das Menü für die Einstellung der Signierung.
