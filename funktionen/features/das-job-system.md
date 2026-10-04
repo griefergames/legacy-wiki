@@ -22,9 +22,7 @@ layout:
 
 # 🧑‍🏭 Das Job-System
 
-Ihr könnt Aufträge vergeben, damit euch andere Spieler Items erfarmen. Hierbei stellt ihr einen Auftrag ein, welches Item für euch gefarmt werden soll und in welcher Menge.
-
-Das Ganze funktioniert mindestens stackweise (oder in größeren Mengen) und es können nur ausgewählte Materialien gesucht werden. Andere Items lassen sich nicht beauftragen.
+Ihr könnt Aufträge vergeben, damit euch andere Spieler Items erfarmen. Hierbei stellt ihr einen Auftrag ein, welches Item für euch gefarmt werden soll und in welcher Menge.Umgekehrt verdient ihr Geld, indem ihr die Aufträge anderer Spieler beliefert. Das Ganze funktioniert mindestens stackweise (oder in größeren Mengen). Gesucht werden können fast alle stapelbaren Items. Ausgenommen sind unter anderem Fackeln, Eimer und Nethersterne sowie besondere Items wie Endstein, Leuchtfeuer, Dracheneier, Köpfe, Spawner oder Spawneier.
 
 ### Wie erstelle ich einen Auftrag?
 
@@ -95,11 +93,12 @@ Du benötigst einen bestimmten Materialblock? Dann erstellst du einen Auftrag in
 
 {% hint style="success" %}
 **Tipp:** Wenn du über den Button fährst, werden dir die Kosten für den Auftrag zzgl. Gebühren angezeigt.
+Die Gebühr beträgt **10 %** des Auftragswerts. Mit dem aktivierten [Gebührensenkungs-Perk](https://wiki.griefergames.net/1-8/funktionen/features/booster-and-perks#perks-and-rechte) zahlst du nur **2,5 %**.
 {% endhint %}
 
 <figure><img src="../../.gitbook/assets/gdoc-d428e37711c4.png" alt=""><figcaption><p>Der Mouseover des Buttons "Auftrag erstellen" gibt euch eine Übersicht eures Auftrags.</p></figcaption></figure>
 
-6. Mit einem Klick auf den Button erstellst du deinen Auftrag. Denke daran, dass du dieses Geld direkt an den NPC bezahlen musst.
+1. Mit einem Klick auf den Button und einer Bestätigung erstellst du deinen Auftrag. Denke daran, dass der Gesamtbetrag inklusive Gebühren sofort von deinem Kontostand abgezogen wird.
 
 ### Wie storniere ich einen Auftrag?
 
@@ -110,16 +109,14 @@ Möchtest du einen Auftrag stornieren, gehe wie folgt vor:
 
 <figure><img src="../../.gitbook/assets/gdoc-6fd668ae3cc4.png" alt=""><figcaption><p>Mit dem Button "Meine Aufträge" öffnest du deine persönliche Auftragsliste.</p></figcaption></figure>
 
-3. Hier findest du eine Übersicht deiner Aufträge. Mit einem Rechtsklick auf den jeweiligen Auftrag kannst du diesen stornieren.
+1. Hier findest du eine Übersicht deiner Aufträge. Mit einem Rechtsklick auf den jeweiligen Auftrag und einer Bestätigung kannst du diesen stornieren. Bereits gelieferte Items musst du vorher abholen.
 
 <figure><img src="../../.gitbook/assets/gdoc-b3758925ab35.png" alt=""><figcaption><p>Alle Aufträge, die noch nicht erledigt sind, findest du hier.</p></figcaption></figure>
 
 4. Wenn du den Auftrag abbrichst, erhältst du den verbleibenden Betrag für die ausstehende Itemmenge zurückerstattet. Das Geld wird deinem Kontostand automatisch hinzugefügt.
 
 {% hint style="warning" %}
-Du erhältst lediglich das Geld für den verbleibenden Itemwert zurück.
-
-Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurückerstattet.
+Du erhältst lediglich das Geld für den verbleibenden Itemwert zurück. Davon wird beim Abbrechen noch einmal eine Gebühr von **10 %** abgezogen, mit dem Gebührensenkungs-Perk **2,5 %**. Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurückerstattet.
 {% endhint %}
 
 <details>
@@ -130,3 +127,29 @@ Die Auftragsgebühren für das Einstellen des Jobs werden nicht zurückerstattet
 * [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
 
 </details>
+
+Über den Filter (Trichter) findest du schnell Aufträge für ein bestimmtes Item. Klicke dafür das Item in deinem Inventar an. Ein Klick auf den Trichter entfernt den Filter wieder.
+
+## [#](#wie-hole-ich-gelieferte-items-ab)[#](#überschrift)Wie hole ich gelieferte Items ab?
+
+Haben andere Spieler Items für deinen Auftrag geliefert, holst du sie mit einem Linksklick auf den Auftrag in „Meine Aufträge“ ab.
+
+Lässt sich das Item komprimieren, erhältst du die gelieferte Menge als komprimiertes Item. Andere Items bekommst du stackweise, solange in deinem Inventar Platz ist.
+
+Sobald alle bestellten Stacks geliefert und abgeholt sind, ist dein Auftrag abgeschlossen.
+
+## [#](#wie-beliefere-ich-einen-auftrag)[#](https://wiki.griefergames.net/editor#wie-hole-ich-gelieferte-items-ab)[#](https://wiki.griefergames.net/editor#%C3%BCberschrift)Wie beliefere ich einen Auftrag?
+
+1. Öffne die **Jobs** über einen Job-NPC oder mit `/jobs`.Dort siehst du alle gesuchten Items. 2. Beim Überfahren eines Items werden dir die bestbezahlten Aufträge mit Anzahl und Preis pro Stack angezeigt. 
+3. Nimm volle Stacks des gesuchten Items mit ins Inventar. Komprimierte Items werden ebenfalls angenommen. 
+4. Klicke auf das Item in der Jobbörse. Alle passenden Stacks aus deinem Inventar werden geliefert und das Geld wird dir sofort gutgeschrieben.
+
+
+Geliefert wird immer zuerst an den Auftrag mit dem höchsten Preis. Würde der nächste Auftrag weniger Geld bringen, bekommst du einen Hinweis im Chat. Klickst du erneut, belieferst du auch diesen Auftrag.
+
+<div align="center"><figure><img src="../../.gitbook/assets/csPzvZL.png" alt="Bild"><figcaption>Beispiel</figcaption></figure></div>
+
+{% hint style="info" %}
+Über den **Filter** (Trichter) findest du schnell Aufträge für ein bestimmtes Item. Klicke dafür das passende Item in deinem Inventar an. 
+Ein Klick auf den Trichter entfernt den Filter wieder.
+{% endhint %}
