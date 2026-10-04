@@ -93,15 +93,17 @@ Wenn du mehrere Tage in Folge abstimmst, erhältst du zudem Zusatz-Belohnungen f
 {% hint style="danger" %}
 Wenn du mehrere Tage in Folge nicht abstimmst, wird deine Vote-Streak zurückgesetzt und du startest wieder von vorne. Zum Aufrechterhalten der Vote-Streak reicht das Abstimmen bei einem der Anbieter aus.
 
-Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" kannst du eine zurückgesetzte Vote-Streak wiederherstellen, wenn du mindestens 1 Tag in Folge abgestimmt hast.
+Mit dem Item "[Vote-Streak-Retter](https://items.griefergames.net/#Vote-Streak-Retter)" holst du dir nach einem Rechtsklick und einer Bestätigung deine höchste Vote-Streak der letzten Tage zurück. Wie weit diese zurückliegen darf, steht auf dem Item. Ist deine aktuelle Streak bereits genauso hoch oder höher, kann nichts wiederhergestellt werden.
 {% endhint %}
 
 {% hint style="info" %}
 Wenn du am Tag der Streak die Belohnung nicht abholen kannst, versuche es am nächsten Tag erneut. Die Verarbeitung im System kann manchmal einen Tag nicht korrekt zuweisen.
 {% endhint %}
 
-Beim Vote-NPC in der Hauptstadt findest du eine Übersicht über deine aktuelle Vote-Streak, ob du heute bereits abgestimmt hast und ob du Vote-Belohnungen abholen kannst.
+Beim Vote-NPC in der Hauptstadt findest du eine Übersicht über deine aktuelle Vote-Streak, deine bisher höchste Streak und wie oft du insgesamt abgestimmt hast.
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Vote-System bei einer Streak von 1 Vote</p></figcaption></figure>
 
 Durch einen Klick auf den goldenen "Vote-Streak"-Kopf erhältst du eine Übersicht über deine Streak und die Belohnungen. Hier kannst du ggf. ausstehende Zusatz-Belohnungen für deine aktive Streak auch direkt abholen.
+
+Im Menü findest du außerdem das **Ranking**. Dort siehst du deinen Rang im Vergleich zu anderen Spielern und die Zahl aller Votes auf dem Server. Mit einem Klick darauf werden dir die Spieler mit der höchsten aktuellen Vote-Streak angezeigt.
