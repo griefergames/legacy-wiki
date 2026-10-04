@@ -28,11 +28,13 @@ Je nach Größe des Grundstücks läuft das etwas unterschiedlich ab:
 
 ## Normale Grundstücke überschreiben
 
-Einzel-Grundstücke kannst du jederzeit mit `/setowner {Name}` zur Übergabe an den entsprechenden Spieler reservieren.
+Einzel-Grundstücke können jederzeit mit `/setowner <NAME>` zur Übertragung an einen anderen Spieler reserviert werden. 
+Damit die Überschreibung durchgeführt wird, müssen sowohl der bisherige als auch der neue Besitzer diese mit `/setowner confirm` bestätigen. Zum ablehnen der Übertragung kann der Befehl `/setowner deny` verwendet werden. 
+Für jede Bestätigung stehen **30 Sekunden** zur Verfügung. Erfolgt innerhalb dieser Zeit keine Bestätigung, läuft die Anfrage ab.
 
-Zur Bestätigung müssen anschließend beide Spieler (bisheriger & neuer Besitzer) die Überschreibung mit `/setowner confirm` bestätigen. Die Überschreibung kann mit `/setowner deny` auch abgelehnt werden.
-
-Bei einem Einzel-Grundstück fallen 10.000 $ an Kosten für den neuen Besitzer an, wenn dieser keine freien Grundstücke auf dem Citybuild-Server hat.
+{% hint style="warning" %}
+Hat der neue Besitzer keine freien Grundstücke auf dem jeweiligen Citybuild-Server, fallen für die Übertragung eines Einzel-Grundstücks **10.000 $** an.
+{% endhint %}
 
 ## Große Grundstücke überschreiben
 
