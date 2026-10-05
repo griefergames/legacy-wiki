@@ -24,7 +24,9 @@ layout:
 
 # Grundstücke verändern
 
-Auf dieser Seite erfahrt ihr, wie ihr Rand, Wand und Boden eures Grundstücks gestalten, das Grundstück aushöhlen, das Biom ändern und die Reihenfolge eurer Grundstücke anpassen könnt.
+Auf dieser Seite erfahrt ihr, wie ihr Rand, Wand und Boden eures Grundstücks gestalten, das Grundstück aushöhlen, ein Merge leeren, das Biom ändern und die Reihenfolge eurer Grundstücke anpassen könnt.
+
+<figure class="wiki-illus"><img src="../../.gitbook/assets/rand-wand-boden.png" alt="Ausschnitt einer Grundstückskante: oben auf der Kante der Rand aus Bruchsteinstufen, darunter die Wand aus Stein, die in einer gegrabenen Grube sichtbar ist, daneben der Grasboden des Grundstücks"><figcaption>Der Rand liegt oben auf der Grundstückskante. Die Wand darunter siehst du erst, wenn du daneben in die Tiefe gräbst. Der Boden ist die oberste Schicht deines Grundstücks.</figcaption></figure>
 
 ## Rand
 
@@ -358,6 +360,22 @@ Wenn du mal keine Lust hast, einen bestimmten Block – beispielsweise Obsidian 
 Bei der Nutzung der Aushöhlen-Funktion kann es zu Verlusten kommen. Sei also vorsichtig im Umgang mit dem System und achte bei jedem Vorgang darauf, den richtigen Block-Filter und die richtige Höhe auszuwählen.
 
 Verluste, welche durch die Nutzung entstehen, werden nicht erstattet.
+{% endhint %}
+
+## Merge leeren
+
+Mit dem Item **„Merge Clearen“** leerst du dein ganzes [Merge](grundstuecke-verbinden.md) auf einmal. Anders als bei `/p clear` bleiben deine Grundstücke dabei verbunden, du musst also nicht neu mergen.
+
+1. Stell dich auf dein Merge.
+2. Nimm das Item „Merge Clearen“ in die Hand und mache einen Rechtsklick.
+3. Klicke im Menü auf „Bestätigen“.
+
+Danach ist dein Merge leer: Oben liegt Gras, darunter grobe Erde. Dein Rand, deine Wand und dein Boden bleiben erhalten.
+
+Das Item kann nur der Besitzer des Merges einlösen und es wird dabei verbraucht. Auf einem einzelnen Grundstück funktioniert es nicht.
+
+{% hint style="danger" %}
+Beim Leeren werden alle Blöcke auf deinem Merge ersetzt, auch unterirdische Bauten und Truhen samt Inhalt. Räume vorher alles weg, was du behalten möchtest.
 {% endhint %}
 
 ## Biom
