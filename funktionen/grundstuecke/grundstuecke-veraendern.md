@@ -26,8 +26,6 @@ layout:
 
 Auf dieser Seite erfahrt ihr, wie ihr Rand, Wand und Boden eures Grundstücks gestalten, das Grundstück aushöhlen, ein Merge leeren, das Biom ändern und die Reihenfolge eurer Grundstücke anpassen könnt.
 
-<figure class="wiki-illus"><img src="../../.gitbook/assets/rand-wand-boden.png" alt="Ausschnitt einer Grundstückskante: oben auf der Kante der Rand aus Bruchsteinstufen, darunter die Wand aus Stein, die in einer gegrabenen Grube sichtbar ist, daneben der Grasboden des Grundstücks"><figcaption>Der Rand liegt oben auf der Grundstückskante. Die Wand darunter siehst du erst, wenn du daneben in die Tiefe gräbst. Der Boden ist die oberste Schicht deines Grundstücks.</figcaption></figure>
-
 ## Rand
 
 Im [Spielmodus Citybuild](../spielmodus-citybuild/) dreht sich alles um die bunt bebauten Plots. Da sollte man auch seinen Rand verschönern können. Das könnt ihr sogar gleich auf verschiedene Arten.
