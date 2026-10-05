@@ -33,6 +33,7 @@ Auf dieser Seite findest du alle Befehle rund um deine Grundstücke. `/p` ist da
 | `/p auto` | Erhalte ein zufällig gewähltes freies Grundstück |
 | `/p claim` | Erhalte das freie Grundstück, auf welchem du dich aktuell befindest |
 | `/checkplot` | [Grundstück eines inaktiven Spielers beantragen](../../grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md) |
+| `/spawnplotreport <Grund>` | [Inaktives oder unbebautes Spawn-Grundstück melden](../../grundstuecke/spawn-grundstucke.md) |
 
 ## Grundstücks-Teleport
 
@@ -51,6 +52,7 @@ Auf dieser Seite findest du alle Befehle rund um deine Grundstücke. `/p` ist da
 | <p><code>/p</code><br><code>/plot</code><br><code>/m</code><br><code>/menu</code></p> | [Grundstücks-Menü](../../grundstuecke/grundstueck-menue.md) aufrufen |
 | `/merge` | [Grundstücke verbinden](../../grundstuecke/grundstuecke-verbinden.md) |
 | `/mergebug` | Fehler beim Verbinden an der aktuellen Position an das Team melden |
+| `/plotfly` | Zeigt dir, bis wann das [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) auf deinem Grundstück aktiv ist |
 | `/p clear` | <p>Grundstück in den Ursprungszustand versetzen</p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
 | <p><code>/p delete</code><br><code>/p reset</code></p> | Grundstück löschen und freigeben |
 
@@ -93,8 +95,8 @@ Der Befehl `/p trust *` gibt Spielern Rechte **auf dem gesamten Grundstück** un
 | <p><code>/p chat on</code><br><code>/p chat off</code></p> | <p>Schreibe im Grundstücks-Chat<br>Schreibe im Normalchat</p> |
 | `/p flag set {Flag} {true/false/ID}` | [Grundstücks-Flag](grundstuecks-flags.md) setzen |
 | `/p setorder {Zahl}` | Setzt das Grundstück an die ausgewählte Position deiner Grundstücksliste |
-| `/bewertung` | Aktiviere die Bewertungsfunktion für dein Grundstück |
-| `/bewerten` | Menü zur Grundstücks-Bewertung aufrufen |
+| `/bewertung` | Aktiviere die [Bewertungsfunktion](../../grundstuecke/grundstuecke-bewerten.md) für dein Grundstück und sieh dir deine Bewertungen und die Top-Listen an |
+| `/bewerten` | Bewerte das Grundstück, auf dem du stehst |
 | `/leuchten` | <p>Leuchtfeuer an den Grundstücksecken platzieren<br><em>(Recht kann im</em> <a href="../../features/das-case-opening.md"><em>CaseOpening</em></a> <em>gewonnen werden)</em></p> |
 | `/rand` | Ändere den [Grundstücksrand](../../grundstuecke/grundstuecke-veraendern.md#rand) |
 | `/wand` | Ändere die [Grundstückswände](../../grundstuecke/grundstuecke-veraendern.md#wand) |
