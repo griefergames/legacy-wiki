@@ -53,7 +53,7 @@ Das Menü rufst du auf deinem Grundstück mit `/plot`, `/p`, `/menü` oder `/m` 
 | ![](../../.gitbook/assets/gdoc-575110f6db49.png) |  | Grundstücks-Flags |
 | <p><img src="../../.gitbook/assets/gdoc-cbd3653990c1.png" alt=""><br>PvP</p> | <p><code>/p flag set pvp true</code><br><code>/p flag set pvp false</code></p> | Ist PvP aktiviert, könnt ihr euch auf dem Grundstück gegenseitig Schaden zufügen. |
 | <p><img src="../../.gitbook/assets/gdoc-22a6487f33e9.png" alt=""><br>Animal-Attack</p> | <p><code>/p flag set animal-attack true</code><br><code>/p flag set animal-attack false</code></p> | Ist Animal-Attack aktiviert, so können Spieler auf dem Grundstück Tiere angreifen. |
-| <p><img src="../../.gitbook/assets/gdoc-93ff39fe4684.png" alt=""><br>Hostile-Attack</p> | <p><code>/p flag set hostile-attack true</code><br><code>/p flag set hostile-attack false</code></p> | Ist Hostile-Attack aktiviert, so können Spieler auf dem Grundstück Monster angreifen. |
+| <p><img src="../../.gitbook/assets/gdoc-93ff39fe4684.png" alt=""><br>Monster-Interaktionen</p> | <p><code>/p flag set hostile-attack true</code><br><code>/p flag set hostile-attack false</code></p> | Ist diese Flag aktiviert, so können Spieler auf dem Grundstück Monster angreifen. |
 | <p><img src="../../.gitbook/assets/gdoc-f3d1b8dbc1e1.png" alt=""><br>Explosionen</p> | <p><code>/p flag set explosion true</code><br><code>/p flag set explosion false</code></p> | Sind Explosionen aktiviert, so kann TNT Schaden anrichten. |
 | <p><img src="../../.gitbook/assets/gdoc-7860a77fcf6d.png" alt=""><br>Forcefield</p> | <p><code>/p flag set forcefield true</code><br><code>/p flag set forcefield false</code></p> | <p>Ist Forcefield aktiviert, stößt du Spieler zur Seite, die dir zu nahe kommen.</p><p><strong>Hinweis:</strong> Das <a href="https://items.griefergames.net/#Rechte_%7C_Forcefield_Flag">Forcefield-Flag-Item</a> aus der Supreme-Kiste wird benötigt.</p> |
 | <p><img src="../../.gitbook/assets/gdoc-5429f7652fc2.png" alt=""><br>Dorfbewohnerhandel</p> | <p><code>/p flag set villager-interact true</code><br><code>/p flag set villager-interact false</code></p> | Erlaubt es Spielern, mit deinen Dorfbewohnern zu interagieren. |
@@ -69,6 +69,8 @@ Das Menü rufst du auf deinem Grundstück mit `/plot`, `/p`, `/menü` oder `/m` 
 | <p><img src="../../.gitbook/assets/gdoc-f642d90891e6.png" alt=""><br>Eis-Formungen</p> | <p><code>/p flag set ice-form true</code><br><code>/p flag set ice-form false</code></p> | Ist diese Flag aktiviert, formt sich Eis auf deinem Grundstück. |
 | <p><img src="../../.gitbook/assets/gdoc-0f57803e6841.png" alt=""><br>Eis-Schmelzungen</p> | <p><code>/p flag set ice-melt true</code><br><code>/p flag set ice-melt false</code></p> | Ist diese Flag aktiviert, schmilzt das Eis auf deinem Grundstück. |
 | <p><img src="../../.gitbook/assets/gdoc-0fce0a9a2223.png" alt=""><br>Tier-Interaktionen</p> | <p><code>/p flag set animal-interact true</code><br><code>/p flag set animal-interact false</code></p> | Erlaubt es Spielern, mit Tieren zu interagieren. |
+| Enderperlen | <p><code>/p flag set enderpearl true</code><br><code>/p flag set enderpearl false</code></p> | <p>Mit <code>false</code> können Besucher auf deinem Grundstück keine Enderperlen mehr benutzen.</p><p>Du, deine Helfer und deine Vertrauten sind davon ausgenommen.</p> |
+| Unsichtbarkeit | <p><code>/p flag set anti-unsichtbarkeit true</code><br><code>/p flag set anti-unsichtbarkeit false</code></p> | <p>Ist diese Flag aktiviert, kann auf deinem Grundstück niemand unsichtbar sein.</p><p>Ein aktives <a href="../features/booster-and-perks.md">Unsichtbarkeits-Perk</a> wird beim Betreten ausgeschaltet und beim Verlassen wieder eingeschaltet.</p> |
 
 ## Use-Flag-Menü
 
@@ -82,7 +84,11 @@ Mit dem Use-Flag-Menü hast du die Möglichkeit, gängige Blöcke für Spieler f
 
 Zur Auswahl stehen dir hier:
 
-<table data-header-hidden><thead><tr><th></th><th width="108"></th><th></th><th width="159"></th><th></th></tr></thead><tbody><tr><td>Werkbänke</td><td>Öfen</td><td>Ambosse</td><td>Truhen</td><td>Braustände</td></tr><tr><td>Zaubertische</td><td>Spender</td><td>Endertruhen</td><td><a href="https://items.griefergames.net/#Mobiles_4-Gewinnt">4-Gewinnt</a></td><td>Spawner</td></tr><tr><td>Knöpfe</td><td>Hebel</td><td>Zauntore</td><td>Holzdruckplatte</td><td>Steindruckplatte</td></tr></tbody></table>
+<table data-header-hidden><thead><tr><th></th><th width="108"></th><th></th><th width="159"></th><th></th></tr></thead><tbody><tr><td>Werkbänke</td><td>Öfen</td><td>Ambosse</td><td>Redstone-Truhen</td><td>Braustände</td></tr><tr><td>Zaubertische</td><td>Spender</td><td>Endertruhen</td><td><a href="https://items.griefergames.net/#Mobiles_4-Gewinnt">4-Gewinnt</a></td><td>Spawner</td></tr><tr><td>Steinknöpfe</td><td>Hebel</td><td>Zauntore</td><td>Holzdruckplatte</td><td>Steindruckplatte</td></tr></tbody></table>
+
+{% hint style="info" %}
+Über das Menü gibst du nur Redstone-Truhen frei. Normale Truhen (ID 54) gibst du über die [„use“-Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md#use-flag) frei.
+{% endhint %}
 
 Ob eine Use-Flag gerade freigegeben ist, erkennst du daran, ob das Item leuchtet oder nicht.
 
