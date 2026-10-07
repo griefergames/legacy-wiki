@@ -44,6 +44,7 @@
   * [Plot-NPCs](funktionen/grundstuecke/plot-npcs.md)
   * [Limit-Flags](funktionen/grundstuecke/limit-flags.md)
   * [Grundstücke verschieben & erweitern](funktionen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
+  * [Grundstücke bewerten](funktionen/grundstuecke/grundstuecke-bewerten.md)
 * [💰 Währungen](funktionen/waehrungen.md)
 * [⚔️ Besondere Items](funktionen/besondere-items/README.md)
   * [🪄 Verzauberungs-Upgrade](funktionen/besondere-items/verzauberungs-upgrade.md)
