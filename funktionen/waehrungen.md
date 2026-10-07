@@ -1,5 +1,4 @@
 ---
-description: Mit den Befehlen /wallet oder /brieftasche könnt ihr eine Übersicht über eure vorhandenen Währungen aufrufen. Dort werden euch eure jeweiligen Guthaben angezeigt.
 layout:
   width: default
   title:
@@ -24,17 +23,29 @@ layout:
 
 # 💰 Währungen
 
+In eurer **Brieftasche** seht ihr euer Bargeld, euer Bankguthaben, eure Kristalle, Adventurer-Coins, Swap-Tokens und Prestige-Tokens auf einen Blick. Statt `/wallet` oder `/brieftasche` funktioniert auch `/portemonnaie`.
+
 ## GrieferGames-Dollar
 
-GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander Items handelt oder [Jobs](features/das-job-system.md) (`/jobs`) erfüllt. Geld wird auch zum Bezahlen von verschiedenen Serverfunktionen eingesetzt.
+GrieferGames-Dollar ($) werden als allgemein gültiges Zahlungsmittel auf unserem 1.8-Netzwerk verwendet, um den Handel zwischen Spielern zu vereinfachen. Ihr könnt Geld verdienen, indem ihr direkt mit Spielern untereinander [Items handelt](features/der-handel.md) oder [Jobs](features/das-job-system.md) (`/jobs`) erfüllt. Geld wird auch zum Bezahlen von verschiedenen Serverfunktionen eingesetzt.
 
 $ werden auf verschiedenen Wegen in das Spielgeschehen eingebracht.
 
-Spieler können ihre $ entweder mit sich führen (Kontostand) oder auf der Bank sichern (Bankguthaben). Geld auf der Bank steht nicht für die Verwendung zur Verfügung, bis es vom Spieler abgehoben wird.
+Spieler können ihre $ entweder mit sich führen (Kontostand) oder auf der Bank sichern (Bankguthaben). Geld auf der Bank steht nicht für die Verwendung zur Verfügung, bis es vom Spieler abgehoben wird. Ein- und Auszahlungen sind ab **1.000 Dollar** möglich.
 
 Beim Bezahlen von Serverfunktionen wird das Geld automatisch vom Kontostand abgezogen. Zum Überweisen an Spieler oder zum Übertragen zwischen Bankguthaben und Kontostand werden [Befehle](befehlsuebersicht/allgemeine-befehle.md#allgemeine-befehle) verwendet.
 
-Viele Transaktionen kannst du über den Befehl `/moneylog` anzeigen lassen.
+#### Moneylog
+
+Viele Transaktionen kannst du über den Befehl `/moneylog` anzeigen lassen. Neben Zahlungen zwischen Spielern und Buchungen der Bank findest du dort auch Geld aus dem CaseOpening, dem Block des Tages, den Jobs, dem Auktionshaus, der Lotterie, den Advancements und den Fragmenten.
+
+Standardmäßig zeigt der Moneylog die letzten **30 Tage**. Über den **Filter** kannst du:
+
+* einzelne Bereiche ein- und ausblenden,
+* den Zeitraum zwischen 24 Stunden und 30 Tagen wählen,
+* nach einem bestimmten Datum suchen.
+
+Mit der **Spielersuche** siehst du nur die Einträge mit einem bestimmten Spieler. Eine Statistik fasst deine Einnahmen und Ausgaben im gewählten Zeitraum zusammen.
 
 ## Kristalle
 
@@ -44,7 +55,7 @@ Kristalle können über den [In-Game-Store](features/das-case-opening.md#in-game
 
 Sie sind **nicht handelbar** und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 
-Das Gutschreiben und Einsetzen deiner Kristalle kannst du über den Befehl `/kristalllog` prüfen.
+Deinen aktuellen Kristall-Kontostand zeigt dir der Befehl `/kristalle`. Das Gutschreiben und Einsetzen deiner Kristalle in den letzten **30 Tagen** kannst du über den Befehl `/kristalllog` prüfen.
 
 ## Prestige-Tokens
 
