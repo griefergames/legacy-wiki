@@ -53,13 +53,17 @@ Hier findest du die wichtigsten Befehle, die dir auf den Citybuild-Servern des 1
 | `/r {Nachricht}` | Schreibe eine private Nachricht an den letzten Spieler, der dir eine private Nachricht gesendet hat. |
 | `/pay {Name} {Betrag}` | <p>Überweise einem Spieler Geld. Pass auf, dass es der richtige Betrag ist.<br>Willst du Cents bezahlen, so musst du einen Punkt nutzen und kein Komma.<br><br><mark style="color:green;">Richtig:</mark> <code>/pay {Name} 0.01</code><br><mark style="color:red;">Falsch:</mark> <code>/pay {Name} 0,01</code></p> |
 | `/money` | Zeigt dir deinen aktuellen [Kontostand](../waehrungen.md#griefergames-dollar) an. |
+| `/wallet`<br>`/brieftasche`<br>`/portemonnaie` | <p>Öffnet deine Brieftasche. Dort siehst du deine Währungen auf einen Blick: Kontostand, Bankguthaben, Kristalle, Adventurer-Coins, Swap-Tokens und Prestige-Tokens.</p> |
 | `/bank guthaben` | Zeigt dir dein aktuelles [Bankguthaben](../waehrungen.md#griefergames-dollar) an. Auf der Bank ist dein Geld bei Servercrashs sicher. |
 | `/bank einzahlen {Betrag}` | Zahlt den angegebenen Betrag auf die Bank ein. Dieser muss mindestens 2000$ betragen. |
 | `/bank abheben {Betrag}` | Hebt den Betrag von deiner Bank ab. |
 | `/moneylog` | Erstellt eine Übersicht über die letzten Transaktionen von deinem Kontostand. |
+| `/kristalle` | Zeigt dir an, wie viele Kristalle du gerade besitzt. |
 | `/kristalllog` | Öffnet eine Übersicht über die letzten Transaktionen deiner Kristalle. |
 | `/warp` | Listet dir alle offiziellen Warp-Punkte auf dem Citybuild-Server sowie alle globalen Warp-Punkte auf. |
 | `/warp {Warpname}` | Teleportiert dich zu diesem Warp-Punkt |
+| `/farmwelt`<br>`/farmwelten`| Öffnet das Menü „Farmwelten“ mit den Farmwelten aller Citybuild-Server. Mit einem Klick gelangst du direkt in die gewählte Farmwelt, auch wenn sie auf einem anderen Citybuild-Server liegt. |
+| `/nether`<br>`/netherwelt`| Öffnet ein Menü mit dem Nether aller Citybuild-Server. Mit einem Klick gelangst du direkt in den gewählten Nether. |
 | `/tpa {Spielername}` | <p>Du sendest dem Spieler eine Teleportationsanfrage.<br>(Du wirst zu ihm teleportiert)</p> |
 | `/tpahere {Spielername}` | <p>Du sendest dem Spieler eine Teleportationsanfrage.<br>(Er wird zu dir teleportiert)</p> |
 | `/tpaccept` | Du akzeptierst die Teleportationsanfrage. |
@@ -92,7 +96,8 @@ Hier findest du die wichtigsten Befehle, die dir auf den Citybuild-Servern des 1
 | `/startkick {Name} {Grund}` | Starte eine [Startkick](../features/booster-and-perks.md)-Abstimmung. Die Spieler auf dem Citybuild können nun mit `/ja` und `/nein` abstimmen, ob der besagte User für 15 Minuten vom Server gekickt werden soll. |
 | `/startjail {Name}` | Starte eine Startjail-Abstimmung. Die Spieler auf dem Citybuild können nun mit `/ja` und `/nein` abstimmen, ob der besagte Spieler 12 Obsidian-Blöcke im [Gefängnis](../features/die-hauptstadt.md#das-gefangnis) abbauen muss. |
 | `/startjail buy` | Hier kannst du Startjail-Token für 100.000$/Stück kaufen. |
-| `/mutep {Name}` | Damit kannst du einen Spieler für 15 Minuten im [Chat](../features/das-chat-system.md#oeffentlicher-chat) stummschalten. Er kann in dieser Zeit nichts mehr im öffentlichen Chat schreiben. |
+| `/mutep {Name}` | Damit kannst du einen Spieler für 15 Minuten im [Chat](../features/das-chat-system.md#oeffentlicher-chat) stummschalten. Er kann in dieser Zeit nichts mehr im öffentlichen Chat schreiben. Den Befehl kannst du alle 3 Stunden nutzen. |
+| `/pay * {Betrag}` | Mit dem Pay-All-Recht zahlst du jedem Spieler auf deinem Citybuild-Server den angegebenen Betrag. Du musst genug Geld haben, um alle Spieler zu bezahlen. |
+| `/gpay * {Betrag}` | Mit dem globalen Pay-All-Recht zahlst du jedem Spieler, der gerade auf dem 1.8-Netzwerk online ist, den angegebenen Betrag. Auch hier musst du genug Geld für alle Spieler haben. |
 | `/booster` | Zeigt dir an, welche [Booster](../features/booster-and-perks.md#booster) auf dem Server aktiv sind und wie lange noch. |
 | <p><code>/booster drop</code><br><code>/booster mob</code><br><code>/booster fly</code><br><code>/booster erfahrung</code><br><code>/booster break</code><br><code>/booster bonze</code></p> | Zündet diesen [Booster](../features/booster-and-perks.md#booster-aktivieren) und alle Spieler auf dem Server erhalten den Effekt. |
-| `/removeparticle` | Löscht einen gesetzten Partikeleffekt. |
