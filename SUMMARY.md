@@ -50,6 +50,7 @@
   * [🪄 Verzauberungs-Upgrade](funktionen/besondere-items/verzauberungs-upgrade.md)
   * [📕 Verzauberungs-Entferner](funktionen/besondere-items/verzauberungs-entferner.md)
   * [⚒️ Reparatur-Barren](funktionen/besondere-items/reparatur-barren.md)
+  * [🔴 4-Gewinnt](funktionen/besondere-items/vier-gewinnt.md)
   * [🧿 Talismane](funktionen/besondere-items/talismane.md)
   * [🥎 Sammelball](funktionen/besondere-items/sammelball.md)
   * [🔥 Automatisches Schmelzen](funktionen/besondere-items/automatisches-schmelzen.md)
