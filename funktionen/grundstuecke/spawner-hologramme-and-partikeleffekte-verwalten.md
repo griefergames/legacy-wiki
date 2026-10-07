@@ -55,6 +55,38 @@ Bei mehreren Partikeleffekten im näheren Umkreis kann man üblicherweise die ge
 
 Für unser oberes Beispiel ist dies die Nummer **1.** Im Chat gibt man daher an, dass der Partikeleffekt 1 gelöscht werden soll. Der Befehl dafür lautet: `/removeparticle 1`.
 
-Als letzter Schritt ist es notwendig, die Löschung zu bestätigen. Mit dem Bestätigen wird der Effekt gelöscht. Das Partikel-Item wird dabei nicht zurückerstattet. Zur Bestätigung der Löschung hat man 60 Sekunden Zeit. Der Befehl lautet: `/removeparticle confirm`.
+Als letzter Schritt ist es notwendig, die Löschung zu bestätigen. Mit dem Bestätigen wird der Effekt gelöscht. Das Partikel-Item wird dabei nicht zurückerstattet. Zur Bestätigung der Löschung hat man **60 Sekunden** Zeit. Der Befehl lautet: `/removeparticle confirm`.
 
 <figure><img src="../../.gitbook/assets/image (2) (1).png" alt="Chat-Ausgabe nach erfolgreicher Löschung des Partikels"><figcaption><p>Anzeige nach erfolgreicher Löschung des Partikels</p></figcaption></figure>
+
+{% hint style="warning" %}
+Für `/removeparticle` muss man sich auf einem Grundstück befinden. Die Auswahl gilt nur für eine Minute. Danach muss man den Befehl erneut ausführen.
+{% endhint %}
+
+## Wie drehe ich einen Partikeleffekt?
+
+Manche Partikeleffekte lassen sich in **90°-Schritten** drehen. Das gilt ausschließlich für Bild- und Schrift-Effekte wie zum Beispiel **Flügel**, **GrieferGames**, **Abgegrieft** und **Pickaxe**.
+
+1. In die Nähe des Effekts stellen.
+2. `/rotateparticle` ausführen. Der Chat zeigt die drehbaren Effekte im Umkreis mit Nummer, Typ und Koordinaten.
+3. Die Nummer anklicken oder `/rotateparticle <Nummer>` eingeben.
+
+Jede Ausführung dreht den Effekt um **90°**. Im Chat steht danach die aktuelle Ausrichtung.
+
+{% hint style="info" %}
+Effekte wie Helix oder Beam erscheinen in der Liste nicht. Für `/rotateparticle` muss man sich auf einem Grundstück befinden. Die Auswahl gilt eine Minute.
+{% endhint %}
+
+## Wie verschiebe ich einen Partikeleffekt?
+
+Mit `/moveparticle` setzt man einen eigenen Partikeleffekt an die eigene Position. Der Effekt muss dafür nicht abgebaut werden.
+
+1. An die Stelle stellen, an der der Effekt stehen soll.
+2. `/moveparticle` ausführen. Der Chat zeigt die eigenen Effekte im Umkreis mit Nummer, Typ und Koordinaten.
+3. Die Nummer anklicken oder `/moveparticle <Nummer>` eingeben.
+
+Der Effekt steht danach an der Position, an der man den Befehl ausgeführt hat.
+
+{% hint style="warning" %}
+Für `/moveparticle` muss man sich auf einem Grundstück befinden. Die Auswahl gilt eine Minute. Ist kein eigener Effekt in der Nähe, bleibt die Liste leer.
+{% endhint %}
