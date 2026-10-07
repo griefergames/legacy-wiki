@@ -49,6 +49,7 @@
   * [🪄 Verzauberungs-Upgrade](funktionen/besondere-items/verzauberungs-upgrade.md)
   * [📕 Verzauberungs-Entferner](funktionen/besondere-items/verzauberungs-entferner.md)
   * [⚒️ Reparatur-Barren](funktionen/besondere-items/reparatur-barren.md)
+  * [🧿 Talismane](funktionen/besondere-items/talismane.md)
   * [🥎 Sammelball](funktionen/besondere-items/sammelball.md)
   * [🔥 Automatisches Schmelzen](funktionen/besondere-items/automatisches-schmelzen.md)
   * [🧱 Builders Wand](funktionen/besondere-items/builders-wand.md)
