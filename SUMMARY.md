@@ -41,6 +41,7 @@
   * [Grundstücke inaktiver Spieler beantragen](funktionen/grundstuecke/grundstuecke-inaktiver-spieler-beantragen.md)
   * [Spawn-Grundstücke](funktionen/grundstuecke/spawn-grundstucke.md)
   * [Spawner, Hologramme & Partikeleffekte verwalten](funktionen/grundstuecke/spawner-hologramme-and-partikeleffekte-verwalten.md)
+  * [Plot-NPCs](funktionen/grundstuecke/plot-npcs.md)
   * [Limit-Flags](funktionen/grundstuecke/limit-flags.md)
   * [Grundstücke verschieben & erweitern](funktionen/grundstuecke/grundstucke-verschieben-and-erweitern.md)
 * [💰 Währungen](funktionen/waehrungen.md)
