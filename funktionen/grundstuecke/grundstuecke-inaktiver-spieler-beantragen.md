@@ -57,7 +57,7 @@ Alternativ kannst du das Grundstück auch über die Grundstücks-ID beantragen.
 
 In dieser Nachricht stehen nun weitere Informationen. Zum einen steht oben, wann der Grundstücksbesitzer das letzte Mal online war. Ein Spieler muss einen gewissen Zeitraum offline gewesen sein, damit du das Grundstück beanspruchen kannst.
 
-In der Nachricht stehen nun zwei weitere Daten. Das erste Datum zeigt dir, wann du ein unbebautes Grundstück beantragen kannst. Das zweite Datum zeigt dir, wann du das Grundstück beantragen kannst, wenn es baulich verändert wurde.
+In der Nachricht stehen nun zwei weitere Daten. Das erste Datum zeigt dir, wann du ein unbebautes Grundstück beantragen kannst. Das ist **1 Monat**, nachdem der Besitzer zuletzt online war. Das zweite Datum zeigt dir, wann du das Grundstück beantragen kannst, wenn es baulich verändert wurde. Das ist **3 Monate**, nachdem der Besitzer zuletzt online war.
 
 Wenn das aktuelle Datum nach den Daten des Systems ist, kannst du deinen Antrag mit `/checkplot antrag` einreichen.
 
@@ -70,6 +70,8 @@ Den Status deiner Anträge kannst du jederzeit mit `/checkplot list` einsehen.
 {% endhint %}
 
 Wenn ein Grundstück freigegeben wurde, kannst du es mit `/checkplot claim` beanspruchen und darauf folgend mit `/checkplot claim confirm` die Übernahme bestätigen.
+
+Dafür hast du nach der Freigabe **14 Tage** Zeit. Beanspruchst du das Grundstück in dieser Zeit nicht, verfällt dein Antrag.
 
 {% hint style="warning" %}
 Ein Grundstück kannst du nur annehmen, wenn du noch ein weiteres Grundstück auf dem Citybuild-Server besitzen kannst. Solltest du keinen freien Grundstücks-Slot haben, musst du 10.000$ für den Kauf eines weiteren Grundstücks zahlen.
