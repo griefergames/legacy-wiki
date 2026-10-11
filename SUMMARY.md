@@ -91,6 +91,7 @@
   * [Litematica mit Labymod 4](funktionen/tutorials/litematica-mit-labymod-4.md)
   * [Praktische Chat-Filter für LabyMod](funktionen/tutorials/praktische-chat-filter-fur-labymod.md)
   * [Spawn-Bedingungen](funktionen/tutorials/spawn-bedingungen.md)
+  * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
   * [Vollautomatische Villager-Farmen](funktionen/tutorials/vollautomatische-villager-farmen.md)
   * [Für Entwickler](funktionen/tutorials/fur-entwickler/README.md)
     * [Client Payloads](funktionen/tutorials/fur-entwickler/client-payloads.md)
