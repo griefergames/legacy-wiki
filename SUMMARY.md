@@ -92,6 +92,7 @@
   * [Praktische Chat-Filter für LabyMod](funktionen/tutorials/praktische-chat-filter-fur-labymod.md)
   * [Spawn-Bedingungen](funktionen/tutorials/spawn-bedingungen.md)
   * [Tränke brauen](funktionen/tutorials/traenkebrauen.md)
+  * [Verzaubern & Reparieren](funktionen/tutorials/verzaubernundreparieren.md)
   * [Vollautomatische Villager-Farmen](funktionen/tutorials/vollautomatische-villager-farmen.md)
   * [Für Entwickler](funktionen/tutorials/fur-entwickler/README.md)
     * [Client Payloads](funktionen/tutorials/fur-entwickler/client-payloads.md)
