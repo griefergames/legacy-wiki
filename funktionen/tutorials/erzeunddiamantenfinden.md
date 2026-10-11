@@ -4,7 +4,7 @@ description: Auf welcher Höhe auf der 1.8 welches Erz liegt und wo du auf Grief
 
 # ⛏️ Erze & Diamanten finden
 
-<div align="left"><figure><img src=".gitbook/assets/titelbild--3-.jpg" alt="Bild"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/titelbild--3-.jpg" alt="Bild"><figcaption></figcaption></figure></div>
 
 Auf der 1.8 liegen die Erze anders als in neueren Minecraft-Versionen. Die Welt ist niedriger, und Diamanten findest du knapp über den Lavaseen. Hier steht, auf welcher Höhe du suchen solltest und wo du auf GrieferGames abbauen kannst.
 
