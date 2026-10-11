@@ -87,7 +87,7 @@
   * [🎰 Zufallsbasierte Mechaniken](funktionen/features/zufallsbasierte-mechaniken.md)
 * [⭐ Events](funktionen/event-server.md)
 * [🔎 Tutorials](funktionen/tutorials/README.md)
-  * [Erze & Diamanten finden](funktionen/tutorials/vom-bild-zur-karte.md)
+  * [Erze & Diamanten finden](funktionen/tutorials/erzeunddiamantenfinden.md)
   * [Kartenbau](funktionen/tutorials/vom-bild-zur-karte.md)
   * [Litematica mit Labymod 4](funktionen/tutorials/litematica-mit-labymod-4.md)
   * [Praktische Chat-Filter für LabyMod](funktionen/tutorials/praktische-chat-filter-fur-labymod.md)
