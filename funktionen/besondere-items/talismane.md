@@ -53,7 +53,7 @@ Die Stufe steht im Namen des Talismans, z. B. „Admin-Shop-Rabatt Stufe 2“.
 | Zauberwald-Zeit | Einmal pro Tag zusätzliche Zeit im [Zauberwald](../features/der-zauberwald.md). Die Dauer steht auf dem Talisman, z. B. **15 Minuten**. |
 | Instant Kill | Alle Wesen außer Spielern, z. B. Monster, Tiere und Dorfbewohner, tötest du mit einem Schlag. |
 | Bonus Drop | Beim Abbauen in der Farmwelt und im Nether hast du eine Chance auf einen besonderen Bonus-Drop. Wie hoch sie ist, wird nicht angezeigt. Mit jeder Stufe steigt sie. |
-| Orb-Angel Bonus | Höhere Chance, mit der Orb-Angel einen Schatz zu ziehen. |
+| Orb-Angel Bonus | Höhere Chance, mit der Orb-Angel einen Schatz zu ziehen. Die genauen Werte stehen unter „Orb-Angel Bonus“. |
 
 {% hint style="info" %}
 Die Zauberwald-Zeit bekommst du gutgeschrieben, sobald du den Talisman ausrüstest oder einen Server betrittst. Danach gibt es sie frühestens am nächsten Tag ab **4 Uhr** morgens wieder.
