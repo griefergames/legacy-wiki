@@ -1,3 +1,7 @@
+---
+description: Grundstücke zum Verkauf anbieten und Angebote anderer Spieler finden
+---
+
 # 🏘️ Immobilienbörse
 
 Die **Immobilienbörse** ermöglicht es euch, Grundstücke zum Verkauf anzubieten oder nach Grundstücken anderer Spieler zu suchen.
@@ -24,7 +28,11 @@ Für jedes Inserat wählst du außerdem **einen bis drei Tags** aus. Dadurch kö
 Aktuell könnt ihr bis zu **fünf Grundstücke gleichzeitig** inserieren.
 {% endhint %}
 
-Ein Angebot bleibt **30 Tage** in der Immobilienbörse und endet danach automatisch. Unter „Meine Angebote“ bearbeitest du ein Angebot mit einem Rechtsklick. Mit einem Linksklick beendest du es vorzeitig, etwa wenn dein Grundstück schon verkauft ist.
+Ein Angebot bleibt **30 Tage** in der Immobilienbörse und endet danach automatisch. Unter „Meine Angebote“ bearbeitest du ein Angebot mit einem Rechtsklick. Mit einem Linksklick beendest du es vorzeitig.
+
+{% hint style="info" %}
+Wechselt ein inseriertes Grundstück den Besitzer, wird das Inserat automatisch gelöscht. Das gilt auch, wenn du das Grundstück überschreibst oder es an dich überschrieben wird.
+{% endhint %}
 
 ### Grundstücke kaufen
 
@@ -39,5 +47,5 @@ Mit einem Rechtsklick setzt du ein Angebot auf deine Beobachtungsliste. Diese An
 Da der Spieler, der das Grundstück anbietet, immer im Inserat steht, kannst du ihn im Chat kontaktieren. Manchmal findest du in der Beschreibung allerdings auch die Information, wie der Spieler auf Discord heißt, damit du ihn dort z. B. für eine Preisverhandlung oder auch die Absprache zum Kauf kontaktieren kannst.
 
 {% hint style="warning" %}
-In der Immobilienbörse selbst kannst du weder bieten noch bezahlen. Habt ihr euch geeinigt, überschreibt dir der Anbieter das Grundstück, wie unter [Grundstücke überschreiben](../grundstuecke/grundstuecke-ueberschreiben.md) beschrieben.
+In der Immobilienbörse selbst kannst du weder bieten noch bezahlen. Habt ihr euch geeinigt, überschreibt dir der Anbieter das Grundstück, wie unter [Grundstücke überschreiben](../grundstuecke/grundstuecke-ueberschreiben.md) beschrieben. Das Inserat verschwindet dabei automatisch.
 {% endhint %}
