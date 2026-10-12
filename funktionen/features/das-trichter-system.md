@@ -173,6 +173,10 @@ Die folgenden Optionen der Signierung können eingestellt werden:
 Der Text der Signierung muss die eingestellten Zeichen bzw. den eingestellten Text nur enthalten, ihm aber nicht vollständig entsprechen.
 {% endhint %}
 
+{% hint style="warning" %}
+Das Datum wird als Text verglichen. Gib es so ein, wie es auf dem Item steht, z. B. **1.10.2026**. Ein einzelnes Datum wie **10** trifft auch andere Tage, etwa den **10.9.2026**. Für ein genaues Datum trägst du den vollständigen Text ein.
+{% endhint %}
+
 #### Beschreibungs-Filter
 
 Mit einem Klick auf den <img src="https://1446237620-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fi10PgHQTIUUm2awhkL0L%2Fuploads%2FIJXE0XEx96w2EczqxbSe%2Fimage.png?alt=media&#x26;token=d6c6f69a-e6d0-4662-baa2-363b8eed3308" alt="" data-size="line"> <mark style="color:orange;">**Beschreibungs-Filter**</mark> aktiviert sich der Beschreibungs-Filter. Bei einem weiteren Klick öffnet sich das Menü zum Hinzufügen von Beschreibungen.
