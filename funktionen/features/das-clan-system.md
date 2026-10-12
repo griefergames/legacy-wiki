@@ -68,6 +68,14 @@ Standardmäßig darf ein Clan-Moderator Homes erstellen und löschen sowie Spiel
 Die Rolle Clan-Leader kann nicht bearbeitet werden. Gibst du als Clan-Leiter einem Mitglied diese Rolle, z. B. mit `/clan set <Spieler> Clan-Leader`, überträgst du ihm deinen Clan. Das ist nur alle **7 Tage** möglich.
 {% endhint %}
 
+## Clan-Homes
+
+Clan-Homes sind gemeinsame Teleportpunkte deines Clans. Du öffnest sie im Clan-Menü unter **Clan-Homes** oder springst mit `/clan home <Name>` direkt dorthin.
+
+Bist du auf dem Grundstück eines Clan-Homes mit `/p deny` gebannt, wird die Teleportation abgebrochen. Das gilt auch, wenn der Home-Punkt direkt an der Grenze zu einem Grundstück liegt, auf dem du gebannt bist. Die Meldung lautet: „Du bist auf diesem Grundstück gebannt.“
+
+Hat der Grundstücksbesitzer die [Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md) `allow-homes` auf `false` gesetzt und bist du dort weder Besitzer noch hinzugefügt, kannst du dich ebenfalls nicht teleportieren.
+
 ## Clan-Befehle
 
 | Befehl | Erklärung | Bilder |
@@ -78,7 +86,7 @@ Die Rolle Clan-Leader kann nicht bearbeitet werden. Gibst du als Clan-Leiter ein
 | `/clan setcb <CB>` | Damit setzt man den Haupt-Citybuild-Server des Clans, welcher in der Clan-Information zu sehen ist. |  |
 | `/clan sethome <Name>` | Setzt ein neues Clan-Home. |  |
 | `/clan delhome <Name>` | Löscht ein Clan-Home. |  |
-| `/clan home <Name>` | Teleportiert dich zum Clan-Home. |  |
+| `/clan home <Name>` | Teleportiert dich zum Clan-Home. Bist du auf dem Grundstück gebannt, wird die Teleportation abgebrochen. |  |
 | `/clan homes` | Listet aktuelle Clan-Homes auf. |  |
 | `/clan invite <Spieler>` | Damit können Spieler, die keinen Clan haben, von Clan-Leitern und Clan-Moderatoren in den eigenen Clan eingeladen werden. |  |
 | `/clan revoke <Spieler>` | Damit kann die Clan-Einladung, welche man verschickt hat, rückgängig gemacht werden. |  |
