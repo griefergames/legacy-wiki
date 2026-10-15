@@ -30,7 +30,7 @@ Das GrieferGames.net-Netzwerk besteht grundsätzlich aus unserem 1.8- sowie dem 
 
 Auf dem 1.8-Netzwerk bieten wir aktuell 25 verschiedene einzelne [Citybuild-Server](funktionen/spielmodus-citybuild/) an, sodass jeder Spieler seinen eigenen Server – abhängig von den jeweils dort vertretenen Communities – finden kann.
 
-Das Cloud-Netzwerk befindet sich immer auf einer aktuellen, stabilen Minecraft-Version, sodass ihr dort alle Neuerungen von Minecraft zusammen mit anderen Spielern erleben könnt.
+Das Cloud-Netzwerk befindet sich immer auf einer aktuellen, stabilen Minecraft-Version, sodass ihr dort alle Neuerungen von Minecraft zusammen mit anderen Spielern erleben könnt. Derzeit läuft das Cloud-Netzwerk auf der Version [26.2 - Chaos Cubed](https://wiki.griefergames.net/cloud/was-ist-die-cloud/versionsupgrade/26.2-chaos-cubed).
 
 ### Lobby und Portalraum
 
