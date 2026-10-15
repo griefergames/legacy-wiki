@@ -97,7 +97,7 @@
   * [Vollautomatische Villager-Farmen](funktionen/tutorials/vollautomatische-villager-farmen.md)
   * [Für Entwickler](funktionen/tutorials/fur-entwickler/README.md)
     * [Client Payloads](funktionen/tutorials/fur-entwickler/client-payloads.md)
-  * [⌨️ Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
+  * [Nützliche Tasten & Anzeigen](funktionen/tutorials/nuetzliche-tasten.md)
 
 ## Allgemein
 
