@@ -28,7 +28,57 @@ layout:
 
 Diese Flags führen dazu, dass bestimmte Funktionen auf dem Grundstück freigeschaltet oder entfernt werden. Die meisten Flags erfordern nach ihrem Befehl einen Parameter, welcher die Funktion näher definiert.
 
-<table><thead><tr><th>Funktion</th><th>Befehl</th><th>Parameter</th><th>Voraussetzung</th></tr></thead><tbody><tr><td>Beschreibung setzen</td><td><code>/p description</code></td><td>Beliebiger Text</td><td>Spieler-Rang</td></tr><tr><td>Beschreibung entfernen</td><td><code>/p description</code></td><td>kein</td><td>Spieler-Rang</td></tr><tr><td>Alias setzen</td><td><code>/p alias set</code></td><td>Beliebiger Text</td><td>Spieler-Rang</td></tr><tr><td>Alias entfernen</td><td><code>/p alias remove</code></td><td>kein</td><td>Spieler-Rang</td></tr><tr><td><a href="grundstuecks-flags.md#use-flag">Interaktion mit Blöcken zulassen</a></td><td><code>/p flag set use</code></td><td>ID</td><td>Spieler-Rang</td></tr><tr><td>Explosionen (de-)aktivieren</td><td><code>/p flag set explosion</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>PvP (de-)aktivieren</td><td><code>/p flag set pvp</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>PvE (de-)aktivieren</td><td><code>/p flag set pve</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Wetter des Grundstücks auf „Regen“ oder „Normal“ umschalten</td><td><code>/p flag set weather</code></td><td>rain / clear</td><td>Spieler-Rang</td></tr><tr><td>Benutzung von Loren (de-)aktivieren</td><td><code>/p flag set vehicle-use</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Dorfbewohnerhandel (de-)aktivieren</td><td><code>/p flag set villager-interact</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Interaktion mit Tieren (de-)aktivieren</td><td><code>/p flag set animal-interact</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Töten von Tieren (de-)aktivieren</td><td><code>/p flag set animal-attack</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Angreifen von Wölfen, Pferden und Katzen (de-)aktivieren</td><td><code>/p flag set tamed-attack</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Töten von Monstern (de-)aktivieren</td><td><code>/p flag set hostile-attack</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Verkleiden (de-)aktivieren</td><td><code>/p flag set disguise</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Einsatz von Feuerwerk (de-)aktivieren</td><td><code>/p flag set firework</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Tageszeit (Helligkeit) auf dem Grundstück auf festen Wert setzen</td><td><code>/p flag set time</code></td><td>Zahl (0-24000)</td><td>Spieler-Rang</td></tr><tr><td>Wachstum von Ranken (de-)aktivieren</td><td><code>/p flag set vine-grow</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Wachstum von Gras (de-)aktivieren</td><td><code>/p flag set grass-grow</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Wachstum von Myzel (de-)aktivieren</td><td><code>/p flag set mycel-grow</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Bildung von Schnee (de-)aktivieren</td><td><code>/p flag set snow-form</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Bildung von Eis (de-)aktivieren</td><td><code>/p flag set ice-form</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Schmelzen von Schnee (de-)aktivieren</td><td><code>/p flag set snow-melt</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Schmelzen von Eis (de-)aktivieren</td><td><code>/p flag set ice-melt</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Portalgun-Funktion erlauben/verbieten</td><td><code>/p flag set portal</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Paintball-Gun-Funktion einschränken (nur Besitzer/Vertraute)</td><td><code>/p flag set anti-gun</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Fliegen (de-)aktivieren</td><td><code>/p flag set allowfly</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Benutzung von Enderperlen durch Besucher (de-)aktivieren</td><td><code>/p flag set enderpearl</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Unsichtbarkeit auf dem Grundstück verbieten</td><td><code>/p flag set anti-unsichtbarkeit</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Setzen und Nutzen von Home-Punkten durch Besucher (de-)aktivieren</td><td><code>/p flag set allow-homes</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Teleportationsanfragen auf dem Grundstück (de-)aktivieren</td><td><code>/p flag set allow-tpa</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Würfeln erlauben</td><td><code>/p flag set dice</code></td><td>true / false</td><td></td></tr><tr><td><a href="grundstuecks-flags.md#music-flag">Musik setzen</a></td><td><code>/p flag set music</code></td><td>ID</td><td>Legende-Rang</td></tr><tr><td>Begrüßungsnachricht setzen</td><td><code>/p flag set greeting</code></td><td>Text</td><td>Legende-Rang</td></tr><tr><td>Abschiedsnachricht setzen</td><td><code>/p flag set farewell</code></td><td>Text</td><td>Legende-Rang</td></tr><tr><td>Benachrichtigung (de-)aktivieren:<br>Spieler betritt das Grundstück</td><td><code>/p flag set notify-enter</code></td><td>true / false</td><td>Legende-Rang</td></tr><tr><td>Benachrichtigung (de-)aktivieren:<br>Spieler verlässt das Grundstück</td><td><code>/p flag set notify-leave</code></td><td>true / false</td><td>Legende-Rang</td></tr><tr><td>Forcefield (de-)aktivieren</td><td><code>/p flag set forcefield</code></td><td>true / false</td><td>Forcefield-Recht aus der Vote-/Supreme-Kiste</td></tr><tr><td>Unendliches Lager freigeben</td><td><code>/p flag set unlimited-storage-public</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td><a href="../../features/das-unendliche-lager.md">Lagerterminal freigeben</a></td><td><code>/p flag set unlimited-storageterminal-public</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Einsaugmodus der Unendlichen Lager zurücksetzen</td><td><code>/storage clear</code></td><td>kein</td><td>Spieler-Rang</td></tr><tr><td>Vertrauten das Bearbeiten von <a href="../../features/showcase-truhen-and-vitrinen.md">Showcase-Truhen und Vitrinen</a> erlauben</td><td><code>/p flag set trusted-showcase-edit</code></td><td>true / false</td><td>Spieler-Rang</td></tr><tr><td>Zeigt eine Übersicht aktivierter Flags und bietet die Möglichkeit, diese per Klick zu entfernen.</td><td><code>/removeflags</code></td><td>kein</td><td>Spieler-Rang</td></tr></tbody></table>
+| Funktion | Befehl | Parameter | Voraussetzung |
+| --- | --- | --- | --- |
+| Abschiedsnachricht setzen | `/p flag set farewell` | Text | Legende-Rang |
+| Alias entfernen | `/p alias remove` | kein | Spieler-Rang |
+| Alias setzen | `/p alias set` | Beliebiger Text | Spieler-Rang |
+| Angreifen von Wölfen, Pferden und Katzen (de-)aktivieren | `/p flag set tamed-attack` | true / false | Spieler-Rang |
+| Begrüßungsnachricht setzen | `/p flag set greeting` | Text | Legende-Rang |
+| Benachrichtigung (de-)aktivieren: Spieler betritt das Grundstück | `/p flag set notify-enter` | true / false | Legende-Rang |
+| Benachrichtigung (de-)aktivieren: Spieler verlässt das Grundstück | `/p flag set notify-leave` | true / false | Legende-Rang |
+| Benutzung von Enderperlen durch Besucher (de-)aktivieren | `/p flag set enderpearl` | true / false | Spieler-Rang |
+| Benutzung von Loren (de-)aktivieren | `/p flag set vehicle-use` | true / false | Spieler-Rang |
+| Beschreibung entfernen | `/p description` | kein | Spieler-Rang |
+| Beschreibung setzen | `/p description` | Beliebiger Text | Spieler-Rang |
+| Bildung von Eis (de-)aktivieren | `/p flag set ice-form` | true / false | Spieler-Rang |
+| Bildung von Schnee (de-)aktivieren | `/p flag set snow-form` | true / false | Spieler-Rang |
+| Bossbar von Wither und Enderdrachen ausblenden | `/p flag set show-bossbar` | true / false | Spieler-Rang |
+| Dorfbewohnerhandel (de-)aktivieren | `/p flag set villager-interact` | true / false | Spieler-Rang |
+| Einsatz von Feuerwerk (de-)aktivieren | `/p flag set firework` | true / false | Spieler-Rang |
+| Einsaugmodus der Unendlichen Lager zurücksetzen | `/storage clear` | kein | Spieler-Rang |
+| Explosionen (de-)aktivieren | `/p flag set explosion` | true / false | Spieler-Rang |
+| Fliegen (de-)aktivieren | `/p flag set allowfly` | true / false | Spieler-Rang |
+| Forcefield (de-)aktivieren | `/p flag set forcefield` | true / false | Forcefield-Recht aus der Vote-/Supreme-Kiste |
+| Interaktion mit Blöcken zulassen | `/p flag set use` | ID | Spieler-Rang |
+| Interaktion mit Tieren (de-)aktivieren | `/p flag set animal-interact` | true / false | Spieler-Rang |
+| Lagerterminal freigeben | `/p flag set unlimited-storageterminal-public` | true / false | Spieler-Rang |
+| Musik setzen | `/p flag set music` | ID | Legende-Rang |
+| Paintball-Gun-Funktion einschränken (nur Besitzer/Vertraute) | `/p flag set anti-gun` | true / false | Spieler-Rang |
+| Portalgun-Funktion erlauben/verbieten | `/p flag set portal` | true / false | Spieler-Rang |
+| PvE (de-)aktivieren | `/p flag set pve` | true / false | Spieler-Rang |
+| PvP (de-)aktivieren | `/p flag set pvp` | true / false | Spieler-Rang |
+| Schmelzen von Eis (de-)aktivieren | `/p flag set ice-melt` | true / false | Spieler-Rang |
+| Schmelzen von Schnee (de-)aktivieren | `/p flag set snow-melt` | true / false | Spieler-Rang |
+| Setzen und Nutzen von Home-Punkten durch Besucher (de-)aktivieren | `/p flag set allow-homes` | true / false | Spieler-Rang |
+| Tageszeit (Helligkeit) auf dem Grundstück auf festen Wert setzen | `/p flag set time` | Zahl (0-24000) | Spieler-Rang |
+| Teleportationsanfragen auf dem Grundstück (de-)aktivieren | `/p flag set allow-tpa` | true / false | Spieler-Rang |
+| Titel beim Betreten setzen | `/p flag set enter-title` | Text | Spieler-Rang, eingelöstes Item |
+| Titel beim Verlassen setzen | `/p flag set leave-title` | Text | Spieler-Rang, eingelöstes Item |
+| Töten von Monstern (de-)aktivieren | `/p flag set hostile-attack` | true / false | Spieler-Rang |
+| Töten von Tieren (de-)aktivieren | `/p flag set animal-attack` | true / false | Spieler-Rang |
+| Unendliches Lager freigeben | `/p flag set unlimited-storage-public` | true / false | Spieler-Rang |
+| Unsichtbarkeit auf dem Grundstück verbieten | `/p flag set anti-unsichtbarkeit` | true / false | Spieler-Rang |
+| Untertitel beim Betreten setzen | `/p flag set enter-subtitle` | Text | Spieler-Rang, eingelöstes Item |
+| Untertitel beim Verlassen setzen | `/p flag set leave-subtitle` | Text | Spieler-Rang, eingelöstes Item |
+| Verkleiden (de-)aktivieren | `/p flag set disguise` | true / false | Spieler-Rang |
+| Vertrauten das Bearbeiten von Showcase-Truhen und Vitrinen erlauben | `/p flag set trusted-showcase-edit` | true / false | Spieler-Rang |
+| Wachstum von Gras (de-)aktivieren | `/p flag set grass-grow` | true / false | Spieler-Rang |
+| Wachstum von Myzel (de-)aktivieren | `/p flag set mycel-grow` | true / false | Spieler-Rang |
+| Wachstum von Ranken (de-)aktivieren | `/p flag set vine-grow` | true / false | Spieler-Rang |
+| Wetter des Grundstücks auf „Regen“ oder „Normal“ umschalten | `/p flag set weather` | rain / clear | Spieler-Rang |
+| Würfeln erlauben | `/p flag set dice` | true / false | Spieler-Rang |
+| Zeigt eine Übersicht aktivierter Flags und bietet die Möglichkeit, diese per Klick zu entfernen. | `/removeflags` | kein | Spieler-Rang |
 
 ## Wetter auf dem Grundstück ändern
 
