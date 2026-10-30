@@ -85,8 +85,8 @@ Mit `/moveparticle` setzt man einen eigenen Partikeleffekt an die eigene Positio
 2. `/moveparticle` ausführen. Der Chat zeigt die eigenen Effekte im Umkreis mit Nummer, Typ und Koordinaten.
 3. Die Nummer anklicken oder `/moveparticle <Nummer>` eingeben.
 
-Der Effekt steht danach an der Position, an der man den Befehl ausgeführt hat.
+Der Effekt steht danach an der Position, an der man den Befehl ausgeführt hat. Verschieben geht nur auf demselben Grundstück, auf dem der Effekt steht.
 
 {% hint style="warning" %}
-Für `/moveparticle` muss man sich auf einem Grundstück befinden. Die Auswahl gilt eine Minute. Ist kein eigener Effekt in der Nähe, bleibt die Liste leer.
+Für `/moveparticle` muss man sich auf einem Grundstück befinden. Die Auswahl gilt eine Minute. Ist kein eigener Effekt in der Nähe, bleibt die Liste leer. Ein Verschieben auf ein anderes Grundstück ist nicht möglich.
 {% endhint %}
