@@ -98,6 +98,40 @@ Münzwerfen kann zum Verlust deines Vermögens führen!
 
 Die Statistik zum aktuell laufenden Münzwurf-Event kannst du über den Befehl `/coinflip status` für deine eigene Übersicht oder `/coinflip bank` für eine gesamte Übersicht anzeigen lassen.
 
+## Alles oder Nichts (AON)
+
+Mit dem Minispiel „Alles oder Nichts“ kannst du auf den Citybuilds Geld oder Kristalle fordern. Jeder Versuch kostet einen AON-Token. Liegt deine Forderung im erlaubten, geheimen Bereich, wird dir der Betrag direkt gutgeschrieben. Forderst du jedoch zu viel, gehst du leer aus und erhältst stattdessen zur Strafe den „Geier-Rang“.
+
+1. **Vorbereitung:** Halte einen AON-Token bereit oder löse ein Ticket ein, damit die Tokens deinem Account gutgeschrieben werden.
+2. **Übersicht öffnen:** Nutze den Befehl `/aon` (oder `/allesodernichts`), um deine aktuelle Token-Anzahl sowie eine eventuelle Restzeit als Geier zu sehen.
+3. **Forderung stellen:** Gib `/aon geld <Anzahl>` oder `/aon kristalle <Anzahl>` ein.
+
+{% hint style="info" %}
+**Pro Versuch wird direkt ein Token verbraucht. **Zwischen zwei Befehlen gilt ein Cooldown von 5 Sekunden. Ist deine Forderung komplett außerhalb der generellen Limits, nennt dir der Befehl die aktuelle Mindest- und Höchstforderung.
+{% endhint %}
+Die Tokens erhältst du als „Alles oder Nichts Ticket“ aus dem CaseOpening. Ein Ticket kann mehrere Tokens enthalten (die genaue Anzahl steht auf dem Item). 
+* Mit einem Rechtsklick löst du das Ticket ein. 
+* Die Tokens sind fest an deinen Account gebunden und können nicht an andere Spieler weitergegeben werden. 
+* Ein verbrauchtes Ticket lässt sich nicht erneut nutzen, und ein fehlgeschlagener Versuch erstattet das eingesetzte Token nicht zurück.
+
+{% hint style="danger" %}
+Forderst du zu hoch, erhältst du den **Geier-Rang** als zeitlich begrenzten Prefix (14 Tage) vor deinem Namen. 
+{% endhint %}
+
+<div align="center"><figure><img src="../../.gitbook/assets/S4awGxT.png" alt="Bild"><figcaption></figcaption></figure></div>
+
+Solange dieser aktiv ist, kannst du deinen regulären Prefix weder wechseln noch zurücksetzen. Sobald die Zeit abläuft, wird der Geier-Prefix bei deinem nächsten Join automatisch entfernt, und falls du die Strafe erneut erhältst, während der Rang noch läuft, wird die neue Zeit einfach an die bestehende Dauer angehängt.
+
+| Befehl | Funktion |
+| --- | --- |
+| `/aon` oder `/allesodernichts` | Zeigt deine Tokens, die Restzeit als Geier und die Befehlssyntax |
+| `/aon geld <Anzahl>` | Fordert Geld und verbraucht 1 Token |
+| `/aon kristalle <Anzahl>` | Fordert Kristalle und verbraucht 1 Token |
+
+
+Das Token ist verbraucht, sobald der Versuch startet. Bist du bei einer erfolgreichen Geldforderung nicht mehr online, wenn das Geld gutgeschrieben wird, erhältst du es nicht nachträglich.
+
+
 ### Würfel
 
 Wann immer man einen [Würfel](https://items.griefergames.net/#Portabler_W%C3%BCrfel) braucht, hier ist er:
@@ -110,7 +144,7 @@ Ein Rechtsklick genügt, um den Würfel rollen zu lassen. Nach kurzer Zeit ersch
 
 Du benötigst **keinen** speziellen Rang, um zu würfeln. Es reicht, wenn du den Würfel hast und auf dem Grundstück die [passende Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md#feature-flags) gesetzt ist **oder** du auf dem Grundstück [Hinzugefügt, Vertraut oder der Besitzer](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-informationen.md) bist.
 
-## [#](#überschrift)LuckyBlöcke
+### LuckyBlöcke
 
 Ein LuckyBlock ist ein Block voller Überraschungen. Sobald du ihn platzierst, öffnet er sich und löst einen zufälligen Effekt aus. LuckyBlöcke bekommst du z. B. im [Admin-Shop](https://wiki.griefergames.net/1-8/funktionen/features/das-adventurer-system#der-admin-shop) des Adventurers.
 
@@ -123,11 +157,3 @@ Die Effekte reichen von sehr gut bis sehr schlecht:
 {% hint style="danger" %}
 Einige Effekte verändern dein Grundstück, z. B. durch Explosionen, Sandregen oder Glas, das zu Barrieren wird. Bei einem Effekt zahlst du **5 %** deines Geldes an die Spieler auf dem Server aus. Platziere LuckyBlöcke daher mit Bedacht.
 {% endhint %}
-
-### Spieler-"Casinos"
-
-Spieler haben die unterschiedlichsten Möglichkeiten gefunden, mithilfe der Ingame-Mechaniken und -Blöcke Schaltungen zu bauen, die komplexe Mechanismen antreiben, um zufallsbasierte Ergebnisse zu erzielen.
-
-Die einfachsten Zufallssysteme sind Dracheneier, die sich beim Abbauversuch zufällig wegteleportieren, und Blumen, die zufällig wachsen. Auch Werfer können bestückt werden, sodass sie zufällig unterschiedliche Items ausgeben.
-
-Durch den Einsatz von Redstone-Technik und Trichtern lässt sich das Schaltverhalten und somit auch die Zufallsvarianz von Schaltungen stark anpassen. So lassen sich ganze „Slot-Maschinen“ bauen, die vom Betreiber mit unterschiedlichen Gewinnwahrscheinlichkeiten eingestellt werden können.
