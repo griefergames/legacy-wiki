@@ -55,6 +55,7 @@
   * [🥎 Sammelball](funktionen/besondere-items/sammelball.md)
   * [🔥 Automatisches Schmelzen](funktionen/besondere-items/automatisches-schmelzen.md)
   * [🧱 Builders Wand](funktionen/besondere-items/builders-wand.md)
+  * [Werbetafel-Slot](funktionen/besondere-items/werbetafel-slot.md)
 * [❤️ Features](funktionen/features/README.md)
   * [🗝️ Abschließbare Truhen](funktionen/features/abschliessbare-truhen.md)
   * [🪙 Adventurer-System](funktionen/features/das-adventurer-system.md)
