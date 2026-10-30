@@ -107,7 +107,7 @@ Mit dem Minispiel „Alles oder Nichts“ kannst du auf den Citybuilds Geld oder
 3. **Forderung stellen:** Gib `/aon geld <Anzahl>` oder `/aon kristalle <Anzahl>` ein.
 
 {% hint style="info" %}
-**Pro Versuch wird direkt ein Token verbraucht. **Zwischen zwei Befehlen gilt ein Cooldown von 5 Sekunden. Ist deine Forderung komplett außerhalb der generellen Limits, nennt dir der Befehl die aktuelle Mindest- und Höchstforderung.
+**Pro Versuch wird direkt ein Token verbraucht.** Zwischen zwei Befehlen gilt ein Cooldown von 5 Sekunden. Ist deine Forderung komplett außerhalb der generellen Limits, nennt dir der Befehl die aktuelle Mindest- und Höchstforderung.
 {% endhint %}
 Die Tokens erhältst du als „Alles oder Nichts Ticket“ aus dem CaseOpening. Ein Ticket kann mehrere Tokens enthalten (die genaue Anzahl steht auf dem Item). 
 * Mit einem Rechtsklick löst du das Ticket ein. 
