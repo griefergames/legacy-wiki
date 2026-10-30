@@ -132,6 +132,30 @@ Solange dieser aktiv ist, kannst du deinen regulären Prefix weder wechseln noch
 Das Token ist verbraucht, sobald der Versuch startet. Bist du bei einer erfolgreichen Geldforderung nicht mehr online, wenn das Geld gutgeschrieben wird, erhältst du es nicht nachträglich.
 
 
+## Giveaways (Kristalle & Kisten)
+
+Mit einem Giveaway kannst du Kristalle oder Kisten an aktive Spieler auf deinem Citybuild verlosen. Die Gewinne werden komplett vom Server gestellt – du gibst dafür **keine** eigenen Items aus!
+1. **Starten:** Führe den entsprechenden Start-Befehl aus. Der Server wählt zufällig einen Gewinnpool und kündigt das Giveaway im Chat an.
+2. **Teilnehmen:** Klicke auf die Chatnachricht („Klicke hier, um teilzunehmen!“) oder nutze `/giveawayjoin`. *(Hinweis: Auch der Starter des Giveaways kann und muss sich so eintragen, um gewinnen zu können!)*
+3. **Auslosung:** Nach Ablauf der Zeit wird der Gewinn (Kristalle oder Kisten) automatisch unter allen Teilnehmern aufgeteilt und direkt gutgeschrieben.
+
+{% hint style="warning" %}
+Du musst bis zum Ende des Giveaways auf demselben Citybuild online bleiben. Wer den Server wechselt oder offline geht, kann nicht gewinnen.
+{% endhint %}
+
+#### Befehle
+
+| Befehl | Funktion |
+| --- | --- |
+| `/giveaway Kristalle` | Startet ein Kristalle-Giveaway |
+| `/giveaway Kisten` | Startet ein Kisten-Giveaway |
+| `/giveaways` | Kurzform von `/giveaway` |
+| `/giveawayjoin` | Nimmt am laufenden Giveaway teil |
+
+Nach dem Starten eines Giveaways gilt ein S**tandard-Cooldown von 24 Stunden pro Giveaway-Art**, du kannst jedoch beispielsweise direkt nach einem Kristalle-Giveaway ein Kisten-Giveaway auslösen. Beachte dabei, dass auf einem Citybuild immer nur ein Giveaway gleichzeitig laufen kann. 
+Falls aktuell kein Gewinnpool vom Server hinterlegt ist, startet das Giveaway nicht und du musst es zu einem späteren Zeitpunkt noch einmal versuchen.
+
+
 ### Würfel
 
 Wann immer man einen [Würfel](https://items.griefergames.net/#Portabler_W%C3%BCrfel) braucht, hier ist er:
