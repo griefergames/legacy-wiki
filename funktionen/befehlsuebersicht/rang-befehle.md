@@ -138,11 +138,27 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 {% endtab %}
 {% endtabs %}
 
-<details>
 
-<summary>An diesem Artikel beteiligt</summary>
+## Der Status
 
-* [50U7R34P3R](https://profile.griefergames.live/minecraft/8e2ce0be-aa2c-46a7-a2dc-48f948743edf)
-* [MisterPflanze](https://profile.griefergames.live/minecraft/cd3a45a4-ee44-4c2f-bf64-002010e3b5df)
+Ab dem **Supreme-Rang** kann man einen eigenen, kurzen Text festlegen, der im Chat aufploppt, sobald man einem Citybuild beitritt. So lässt sich ein cooler Auftritt hinlegen.
+Mit dem Befehl /status öffnet man das Menü nd kann den Join-Status ganz nach den eigenen Wünschen anpassen.
+In diesem Menü lässt sich alles rund um den Status einstellen:
 
-</details>
+* **Status-Text (Zeile 1):** Klickt man hierauf, kann man die Nachricht in den Chat tippen. Dafür hat man 20 Sekunden Zeit. Der Text darf nicht leer sein, maximal 255 Zeichen lang sein und unterstützt Farbcodes (wie `&a` oder `&l`).
+* **Status-Toggle:** Hier lässt sich der Status ganz einfach an- oder ausschalten. Ist er aus, bleibt man beim Joinen „stumm“.
+* **Present wählen:** Hier bestimmt man den Look der Nachricht (siehe unten). *Wichtig: Man kann erst ein Present auswählen, wenn in Zeile 1 ein Text steht!* Ist Zeile 1 leer, wird sowieso nichts gesendet (in der Vorschau steht dann nur das Standard-Present: "ist dem Spiel beigetreten.").
+
+#### Die zweite Zeile (Upgrade)
+Hat man die zweite Zeile freigeschaltet, kann man im Menü den Button **„Status-Text (Zeile 2)“** nutzen. Dieser befindet sich rechts unten neben dem Buch.
+* **Linksklick:** Text setzen (ebenfalls max. 255 Zeichen).
+* **Rechtsklick:** Text löschen.
+
+Diese Zeile erscheint beim Joinen direkt unter der ersten. Man kann sie aber auch einfach leer lassen. Ohne Freischaltung bleibt dieser Knopf gesperrt.
+
+<div align="center"><figure><img src="../../.gitbook/assets/gUpQV00.png" alt="Bild"><figcaption></figcaption></figure></div>
+
+#### Status-Presets
+Ein Preset (Status-Present) legt quasi das Design bzw. den Rahmen fest, wie der Status im Chat dargestellt wird. Im Menü sieht man direkt eine Vorschau und erkennt, welche Presets man bereits besitzt. Das Standard-Preset ist von Anfang an vorausgewählt. Weitere Presets lassen sich dauerhaft freischalten (z. B. durch Items aus dem CaseOpening). Es gibt auch saisonale Presets, die nur für begrenzte Zeit verfügbar sind.
+
+<div align="center"><figure><img src="../../.gitbook/assets/iiRchaR.png" alt="Bild"><figcaption></figcaption></figure></div>
