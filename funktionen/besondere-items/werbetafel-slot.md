@@ -2,11 +2,11 @@
 
 Aus dem CaseOpening kann man ein Item namens „Werbetafel-Slot“ ziehen:
 
-<div align="center"><figure><img src="../../.gitbook/assets/image.png.jpg" alt="Item-Beschreibung des Verzauberungs-Upgrades"><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image.png.jpg" alt="Werbetafel-Slot Item"><figcaption></figcaption></figure></div>
 
 Dieses Item kann im Ticket-System eingelöst werden, um den Platz einer Werbetafel auf einem bestimmten Citybuild zu nutzen. 
 
-<div align="left"><figure><img src="../../.gitbook/assets/image1.png.jpg" alt="Bild"><figcaption></figcaption></figure></div>
+<div align="left"><figure><img src="../../.gitbook/assets/image1.png.jpg" alt="Werbetafel auf CB22"><figcaption></figcaption></figure></div>
 
 Bei Beantragung im Ticket-System müssen wir die Info erhalten, wo genau das Item liegt (Inventar, Enderchest, Showcase, Grundstück,...) - wir nehmen es dann und lösen dafür die Werbetafel ein. Das Wunschbild muss in 1024x512 hochgeladen werden und dazugeschrieben werden, auf welchem Citybuild der Werbetafel-Slot genutzt werden soll. 
 
