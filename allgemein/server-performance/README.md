@@ -60,6 +60,21 @@ Fällt die Serverperformance unter entsprechende Schwellwerte, werden zur Stabil
 Steigt die Performance wieder über den entsprechenden Schwellwert, wird die Maßnahme wieder außer Kraft gesetzt.
 {% endhint %}
 
+### Täglicher Neustart
+
+Das Netzwerk startet jede Nacht um **4:00 Uhr** (deutsche Zeit) neu. Dadurch werden die Server entlastet, und Einschränkungen wie eine deaktivierte Redstone-Schaltung gelten danach nicht mehr.
+
+Du wirst rechtzeitig informiert, damit du deine Arbeit beenden kannst:
+
+* **15 Minuten vorher** (3:45 Uhr) erscheint eine Chat-Nachricht und ein Title mit dem Text „Achtung Neustart“.
+* **5 Minuten vorher** (3:55 Uhr) und **1 Minute vorher** (3:59 Uhr) folgt jeweils eine weitere Chat-Nachricht.
+
+Die Chat-Nachricht lautet: „Der tägliche Neustart des Netzwerks erfolgt in … Minuten!“
+
+{% hint style="warning" %}
+Zwischen **3:30 Uhr** und **4:15 Uhr** sind einzelne Befehle und Menüs vorübergehend nicht verfügbar. Dasselbe gilt, sobald ein Neustart angekündigt wurde und kurz nach dem Start der Server.
+{% endhint %}
+
 ### Limits und Remover
 
 #### Natürlicher Despawn
@@ -112,7 +127,7 @@ Die Slot-Beschränkungen von Servern können entsprechend der technischen Verfü
 
 Durch die Möglichkeit, die Server-Performance durch diverse Redstone-Konstruktionen zu beeinträchtigen, wurden Sicherheitsvorkehrungen an den Grundstücken vorgenommen. Durch diese Vorkehrung werden Grundstücke, die eine erhöhte Redstone-Aktivität vorweisen, automatisch von einem Plugin „eingeschränkt“, sodass die Redstone-Schaltung nicht mehr genutzt werden kann.
 
-Ein Grundstück kann daher, wenn besonders viele, große oder schnelle Redstone-Schaltungen auf dem Grundstück verbaut sind, von der Benutzung von Redstone bis zum nächsten Server-Neustart (um 4 Uhr morgens) eingeschränkt werden.
+Ein Grundstück kann daher, wenn besonders viele, große oder schnelle Redstone-Schaltungen auf dem Grundstück verbaut sind, von der Benutzung von Redstone bis zum nächsten [täglichen Neustart](#taglicher-neustart) (um 4 Uhr morgens) eingeschränkt werden.
 
 Leider lässt sich diese Einschränkung des Grundstücks nicht manuell ändern.
 
