@@ -71,6 +71,7 @@ Diese Flags führen dazu, dass bestimmte Funktionen auf dem Grundstück freigesc
 | Unsichtbarkeit auf dem Grundstück verbieten | `/p flag set anti-unsichtbarkeit` | true / false | Spieler-Rang |
 | Untertitel beim Betreten setzen | `/p flag set enter-subtitle` | Text | Spieler-Rang, eingelöstes Item |
 | Untertitel beim Verlassen setzen | `/p flag set leave-subtitle` | Text | Spieler-Rang, eingelöstes Item |
+| Vanish auf dem Grundstück verbieten (betrifft nur Spieler, keine Teammitglieder) | `/p flag set anti-vanish` | true / false |  Spieler-Rang |
 | Verkleiden (de-)aktivieren | `/p flag set disguise` | true / false | Spieler-Rang |
 | Vertrauten das Bearbeiten von Showcase-Truhen und Vitrinen erlauben | `/p flag set trusted-showcase-edit` | true / false | Spieler-Rang |
 | Wachstum von Gras (de-)aktivieren | `/p flag set grass-grow` | true / false | Spieler-Rang |
