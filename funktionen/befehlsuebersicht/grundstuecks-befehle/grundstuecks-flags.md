@@ -49,7 +49,7 @@ Diese Flags führen dazu, dass bestimmte Funktionen auf dem Grundstück freigesc
 | Einsaugmodus der Unendlichen Lager zurücksetzen | `/storage clear` | kein | Spieler-Rang |
 | Explosionen (de-)aktivieren | `/p flag set explosion` | true / false | Spieler-Rang |
 | Fliegen (de-)aktivieren | `/p flag set allowfly` | true / false | Spieler-Rang |
-| Forcefield (de-)aktivieren | `/p flag set forcefield` | true / false | Forcefield-Recht aus der Vote-/Supreme-Kiste |
+| Forcefield (de-)aktivieren | `/p flag set forcefield` | true / false | eingelöstes Item "Forcefield-Recht" |
 | Interaktion mit Blöcken zulassen | `/p flag set use` | ID | Spieler-Rang |
 | Interaktion mit Tieren (de-)aktivieren | `/p flag set animal-interact` | true / false | Spieler-Rang |
 | Lagerterminal freigeben | `/p flag set unlimited-storageterminal-public` | true / false | Spieler-Rang |
@@ -63,15 +63,15 @@ Diese Flags führen dazu, dass bestimmte Funktionen auf dem Grundstück freigesc
 | Setzen und Nutzen von Home-Punkten durch Besucher (de-)aktivieren | `/p flag set allow-homes` | true / false | Spieler-Rang |
 | Tageszeit (Helligkeit) auf dem Grundstück auf festen Wert setzen | `/p flag set time` | Zahl (0-24000) | Spieler-Rang |
 | Teleportationsanfragen auf dem Grundstück (de-)aktivieren | `/p flag set allow-tpa` | true / false | Spieler-Rang |
-| Titel beim Betreten setzen | `/p flag set enter-title` | Text | Spieler-Rang, eingelöstes Item |
-| Titel beim Verlassen setzen | `/p flag set leave-title` | Text | Spieler-Rang, eingelöstes Item |
+| Titel beim Betreten setzen | `/p flag set enter-title` | Text | eingelöstes Item "Join & Leave Title Flag" |
+| Titel beim Verlassen setzen | `/p flag set leave-title` | Text | eingelöstes Item "Join & Leave Title Flag" |
 | Töten von Monstern (de-)aktivieren | `/p flag set hostile-attack` | true / false | Spieler-Rang |
 | Töten von Tieren (de-)aktivieren | `/p flag set animal-attack` | true / false | Spieler-Rang |
 | Unendliches Lager freigeben | `/p flag set unlimited-storage-public` | true / false | Spieler-Rang |
 | Unsichtbarkeit auf dem Grundstück verbieten | `/p flag set anti-unsichtbarkeit` | true / false | Spieler-Rang |
-| Untertitel beim Betreten setzen | `/p flag set enter-subtitle` | Text | Spieler-Rang, eingelöstes Item |
-| Untertitel beim Verlassen setzen | `/p flag set leave-subtitle` | Text | Spieler-Rang, eingelöstes Item |
-| Vanish auf dem Grundstück verbieten (betrifft nur Spieler, keine Teammitglieder) | `/p flag set anti-vanish` | true / false |  Spieler-Rang |
+| Untertitel beim Betreten setzen | `/p flag set enter-subtitle` | Text | eingelöstes Item "Join & Leave Title Flag" |
+| Untertitel beim Verlassen setzen | `/p flag set leave-subtitle` | Text | eingelöstes Item "Join & Leave Title Flag" |
+| Vanish auf dem Grundstück verbieten (betrifft nur Spieler, keine Teammitglieder) | `/p flag set anti-vanish` | true / false | Spieler-Rang |
 | Verkleiden (de-)aktivieren | `/p flag set disguise` | true / false | Spieler-Rang |
 | Vertrauten das Bearbeiten von Showcase-Truhen und Vitrinen erlauben | `/p flag set trusted-showcase-edit` | true / false | Spieler-Rang |
 | Wachstum von Gras (de-)aktivieren | `/p flag set grass-grow` | true / false | Spieler-Rang |
