@@ -13,5 +13,5 @@ Bei Beantragung im Ticket-System müssen wir die Info erhalten, wo genau das Ite
 Die Werbetafel wird dann auf dem gewählten Citybuild für 30 Tage in Anspruch genommen und rotiert alle 60 Sekunden mit allen anderen dort eingelösten Werbetafeln durch. Ein Ändern des Motivs ist während der Laufzeit nicht möglich. 
 
 {% hint style="info" %}
-Nur der Werbetafel-Slot auf CBEvil kann für Casino-Werbung genutzt werden. Motive, die Spieler als "Trusted" oder "Scammer" bezeichnen, sind nicht erlaubt. Generell unterliegt die Nutzung der Werbetafel-Slots dem Regelwerk.
+Nur der Werbetafel-Slot auf CBEvil kann für Casino-Werbung genutzt werden. Motive, die Spieler als "Trusted" oder "Scammer" bezeichnen, sind nicht erlaubt. QR-Codes sind ebenfalls nicht erlaubt. Generell unterliegt die Nutzung der Werbetafel-Slots dem Regelwerk.
 {% endhint %}
