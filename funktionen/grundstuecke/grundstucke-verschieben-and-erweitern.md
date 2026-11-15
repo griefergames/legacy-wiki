@@ -36,6 +36,8 @@ Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück
 
 Es werden nur gesamte Grundstücke verschoben, keine einzelnen Teile oder Bestandteile wie Spawner o. ä. - kleinere Grundstücke werden auch nicht auf größere eingefügt, sondern immer nur auf entweder gleichgroße Grundstücke oder in ungeclaimte Bereiche verschoben.Rand-, Wand-, und Boden-Effekte werden in der Regel nicht übernommen. 
 
+Grundstücke können nicht zwischen 1.8 und Cloud Netzwerk verschoben werden. Sie bleiben immer auf dem ursprünglichen Netzwerk. 
+
 {% hint style="info" %}
 **Checkplot hat Vorrang!**
 
@@ -60,55 +62,50 @@ Grundstücksverschiebungen sind mit unserem neuen System zwar Citybuild-übergre
 {% hint style="danger" %}
 **Kritische Entities/Blöcke auf dem 1.8-Netzwerk:**
 
+
 Vor der Verschiebung solltest du folgende Hinweise zu spezifischen Entities & Blöcken beachten:
 
-* **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
-  * Item-Rahmen
-  * Rüstungsständer
-  * Gemälde
-  * Köpfe
-* **Diese Blöcke/Entities können möglicherweise verschwinden:**
-  * Jumppads
-  * Vitrinen
-  * Hologramme
-  * Partikeleffekte
-  * Kreaturen und Villager
-* **Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
-  * Teleporter (Einstellungen und Verbindungen können möglicherweise verschwinden)
-  * Unendliche Lager (Einsaugmodus wird deaktiviert)
-  * Trichter (Ausrichtung geht verloren und Einstellungen & Verbindungen können verschwinden)
-* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
-  * CaseOpenings
-  * 4-Gewinnt-Blöcke
-  * Plot-NPCs (zusätzlich Einstellungen angeben)
-  * Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)
 
-***
 
-**Kritische Entities/Blöcke der Cloud:**
+**Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
 
-Vor der Verschiebung sollten folgende Hinweise zu den spezifischen Entities & Blöcken beachtet werden:
+Item-Rahmen
+Rüstungsständer
+Gemälde
+Köpfe
 
-* **Diese Blöcke/Entities bitte abbauen und in eine Kiste legen:**
-  * Item-Rahmen, Rüstungsständer, Gemälde, etc.
-  * Köpfe
-  * Shulker-Kisten
-  * Jump-Pads
-  * Vitrinen
-* **Diese Blöcke/Entities können verschwinden:**
-  * Hologramme (Koordinaten angeben, werden durch Plot-Holo-Items ersetzt)
-  * Mobs (vorher mit „Magischer Leine“ einfangen)
-  * Dorfbewohner
-  * Plot-NPCs (Koordinaten + Einstellungen angeben)
-* **Diese Blöcke müssen nach Verschiebung abgebaut und neu platziert werden:**
-  * Teleporter
-* **Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
-  * CaseOpenings
-  * GamingStations
 
-***
+**Diese Blöcke/Entities können möglicherweise verschwinden:**
+
+Jumppads
+Vitrinen
+Hologramme
+Partikeleffekte
+Kreaturen und Villager
+
+
+**Bei diesen Blöcken können Einstellungen & Verbindungen verloren gehen:**
+
+Teleporter (Einstellungen und Verbindungen können möglicherweise verschwinden)
+Unendliche Lager (Einsaugmodus wird deaktiviert)
+Trichter (Ausrichtung geht verloren und Einstellungen & Verbindungen können verschwinden)
+
+
+**Bei folgenden Blöcken bitte die Koordinaten mit angeben:**
+
+CaseOpenings
+4-Gewinnt-Blöcke
+Plot-NPCs (zusätzlich Einstellungen angeben)
+Spawner (zusätzlich auch Spawn-Ei und Upgrades angeben)
+
+
+
+
+
+
 
 Wenn sich Umstände bis zum Bearbeitungszeitpunkt ändern sollten (z. B. neue Spawner gesetzt), dann informiere uns darüber bitte umgehend in deiner Anfrage!
+
 
 Bitte gib uns erst Bescheid, sobald du alle Hinweise zu den Entities & Blöcken umgesetzt hast, die in dieser Nachricht stehen und du alles zur Kenntnis genommen hast. Solltest du etwas vergessen haben, können wir dir möglicherweise nicht mehr weiterhelfen.
 {% endhint %}
