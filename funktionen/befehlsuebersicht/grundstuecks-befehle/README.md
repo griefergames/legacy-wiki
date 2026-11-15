@@ -52,7 +52,7 @@ Auf dieser Seite findest du alle Befehle rund um deine Grundstücke. `/p` ist da
 | <p><code>/p</code><br><code>/plot</code><br><code>/m</code><br><code>/menu</code></p> | [Grundstücks-Menü](../../grundstuecke/grundstueck-menue.md) aufrufen |
 | `/merge` | [Grundstücke verbinden](../../grundstuecke/grundstuecke-verbinden.md) |
 | `/mergebug` | Fehler beim Verbinden an der aktuellen Position an das Team melden |
-| `/plotfly` | Zeigt dir, bis wann das [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) auf deinem Grundstück aktiv ist |
+| `/plotfly` | Zeigt dir, bis wann das [Plot-Fliegen](https://items.griefergames.net/#Plot-Fliegen) auf deinem Grundstück aktiv ist. Du kannst Plot-Fliegen Items einlösen, um für die jeweilige Laufzeit auf deinem Grundstück auch ohne Booster fliegen zu können - über /plotfly siehst du dann, wie lange dir das Fliegen noch zur Verfügung steht.  |
 | `/p clear` | <p>Grundstück in den Ursprungszustand versetzen</p><p><strong>Achtung!</strong> Bei einem Merge werden die Grundstücke getrennt!</p> |
 | <p><code>/p delete</code><br><code>/p reset</code></p> | Grundstück löschen und freigeben |
 
