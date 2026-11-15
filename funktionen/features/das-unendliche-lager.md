@@ -90,7 +90,7 @@ So verbindet ihr Lager mit eurem Terminal:
 4. Nacheinander die Lager anklicken, die verbunden werden sollen.
 5. Schleichen, um den Vorgang zu beenden.
 
-Klickt ihr im „Binding-Tool“ auf ein verbundenes Lager, wird es wieder vom Terminal getrennt. Das „Binding-Tool“ können nur der Grundstücksbesitzer und vertraute Spieler nutzen.
+Klickt ihr im „Binding-Tool“ auf ein verbundenes Lager, wird es wieder vom Terminal getrennt. Das „Binding-Tool“ können nur der Grundstücksbesitzer und vertraute Spieler nutzen. Lager-Terminals können ganz einfach wieder abgebaut werden und droppen dann.
 
 Lagerterminals lassen sich mit der Flag `/p flag set unlimited-storageterminal-public true` für andere Spieler auf einem Grundstück freigeben. Im Menü unten links (Buch) können außerdem Zugriffsrechte verwaltet werden. Dort gibt es die Möglichkeit, dass ihr einzelnen Spielern Zugriff auf das Lagerterminal gebt.
 

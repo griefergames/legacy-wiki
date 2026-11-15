@@ -51,7 +51,7 @@ Mit der **Spielersuche** siehst du nur die Einträge mit einem bestimmten Spiele
 
 Kristalle sind eine Premium-Währung, welche zum Kauf von Kisten am [Case-Opening](features/das-case-opening.md) eingesetzt werden kann.
 
-Kristalle können über den [In-Game-Store](features/das-case-opening.md#in-game-store) oder den [GrieferGames WebShop](https://store.griefergames.net) erworben oder durch Spielaktivitäten erspielt werden. Klickst du z. B. ein Teammitglied oder einen Spieler mit Hero-Rang an, bekommst du **einmalig** einen zufälligen Betrag an Kristallen.
+Kristalle können über den [In-Game-Store](#/funktionen/features/das-case-opening#in-game-store) oder den [GrieferGames WebShop](https://store.griefergames.net) erworben oder durch Spielaktivitäten erspielt werden. Klickst du z. B. ein Teammitglied oder einen Spieler mit Hero-Rang an, bekommst du **einmalig** einen zufälligen Betrag an Kristallen. Die jeweilige angeklickte Person erhält dann ebenfalls einen zufälligen Betrag an Kristallen.
 
 Sie sind **nicht handelbar** und können daher nicht als Zahlungsmittel zwischen 2 Spielern genutzt werden.
 

@@ -40,7 +40,6 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 |  | Mehr Spielsteine bei 4-Gewinnt |
 | `/friend` | 25 [Freundesplätze](../features/das-freunde-system.md) |
 {% endtab %}
-
 {% tab title="Ultra" %}
 | Befehl | Funktion |
 | --- | --- |
@@ -56,7 +55,6 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | `/sethome` | <p>3 Homepunkte<br>(Home-Erweiterung)</p> |
 |  | <p><a href="../features/das-clan-system.md">5 Clan-Mitglieder</a><br>(Clan-Erweiterung)</p> |
 {% endtab %}
-
 {% tab title="Legende" %}
 | Befehl | Funktion |
 | --- | --- |
@@ -73,7 +71,6 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | `/sethome` | <p>5 Homepunkte<br>(Home-Erweiterung)</p> |
 |  | <p>7 <a href="../features/das-clan-system.md">Clan-Mitglieder</a><br>(Clan-Erweiterung)</p> |
 {% endtab %}
-
 {% tab title="Titan" %}
 | Befehl | Funktion |
 | --- | --- |
@@ -89,7 +86,6 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 | `/sethome` | <p>6 Homepunkte<br>(Home-Erweiterung)</p> |
 |  | <p>10 <a href="../features/das-clan-system.md">Clan-Mitglieder</a><br>(Clan-Erweiterung)</p> |
 {% endtab %}
-
 {% tab title="Griefer" %}
 | Befehl | Funktion |
 | --- | --- |
@@ -105,7 +101,6 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 |  | <p>Eigene Beschreibung auf dem<br>TeamSpeak-Server ändern</p> |
 |  | <p>Reservierte Slots des<br>TeamSpeak-Servers benutzen</p> |
 {% endtab %}
-
 {% tab title="Supreme" %}
 | Befehl | Funktion |
 | --- | --- |
@@ -122,19 +117,28 @@ Mit einem Rang erhältst du zusätzlich zu den [allgemeinen Befehlen](allgemeine
 |  | Chat-Highlighter aktiv (Automatische Leerzeilen) |
 |  | <p>Zugriff auf persönlichen Helfer auf dem<br>TeamSpeak-Server (!ruhe)</p> |
 {% endtab %}
-
 {% tab title="Hero" %}
-| Befehl | Funktion |
-| --- | --- |
-| `/globalbroadcast <Nachricht>` | Sendet eine hervorgehobene Nachricht an das Netzwerk. |
-| `/ultra <Spieler>` | Einem Spieler ohne Rang dauerhaft den Ultra-Rang vergeben (alle 30 Tage möglich). |
-| `@<Spielername>` | Erwähnt einen Spieler im Chat. |
-|  | Beim Anklicken eines Heros erhält ein Spieler eine zufällige Anzahl an Kristallen. |
-|  | Beim Serverbeitritt (mit aktivem `/status`) wird ein Feuerwerk gezündet. |
-|  | Der Rang steht (zusammen mit Helfer) zu Beginn der Tablist. |
-|  | <p>Der Hero-Rang schreibt standardmäßig orange.<br>Bei Spielererwähnung wird der Text weiß.</p> |
-|  | <p>Zusätzliche Home-Punkte<br>(Home-Erweiterung)</p> |
-|  | <p>Zusätzliche <a href="../features/das-clan-system.md">Clan-Mitglieder</a><br>(Clan-Erweiterung)</p> |
+
+
+BefehlFunktion
+
+
+`/globalbroadcast <Nachricht>`Sendet eine hervorgehobene Nachricht an das Netzwerk. Der Befehl ist alle 24h nutzbar.
+`/ultra <Spieler>`Einem Spieler ohne Rang dauerhaft den Ultra-Rang vergeben (alle 30 Tage möglich).
+`@<Spielername>`Erwähnt einen Spieler im Chat.
+ Beim Anklicken eines Heros erhält ein Spieler eine zufällige Anzahl an Kristallen.
+ Beim Serverbeitritt (mit aktivem `/status`) wird ein Feuerwerk gezündet.
+ Der Rang steht (zusammen mit Helfer) zu Beginn der Tablist.
+ Der Hero-Rang schreibt standardmäßig orange.
+Bei Spielererwähnung wird der Text weiß.
+
+
+ Zusätzliche Home-Punkte
+(Home-Erweiterung)
+
+
+ Zusätzliche [Clan-Mitglieder](#/funktionen/features/das-clan-system)
+(Clan-Erweiterung)
 {% endtab %}
 {% endtabs %}
 

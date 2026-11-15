@@ -127,6 +127,10 @@ Die Prefix-Kiste ist nur zeitweise erhältlich und hat jedes Mal ein eigenes The
 
 Die besonderen Zufallskisten enthalten neben wertvollen Gewinnen auch andere Kisten, wodurch man mit etwas Glück hochwertige Kisten und Items gewinnen kann. Mit etwas Pech landet man aber auch bei einer einfachen Vote-Kiste. Besondere Zufallskisten enthalten zudem neben der aktuellen auch weitere saisonale Kisten, welche derzeit nicht käuflich zu erwerben sind.
 
+### [#](#besondere-zufallskisten)CashRush-Kiste
+
+Es gibt außerdem noch die CashRush-Kiste, die mit In-Game-Geld gekauft werden kann (aktuell für 2.000.000 $ beim Halloween-Händler). Die CashRush-Kiste hat eine Auszahlungsquote von 95 % - das bedeutet, dass langfristig durchschnittlich 95 % des eingesetzten Geldes wieder an Spieler ausgeschüttet werden. Die restlichen 5 % werden der Serverwirtschaft entzogen. 
+
 {% hint style="info" %}
 **Sonstige Kisten**
 

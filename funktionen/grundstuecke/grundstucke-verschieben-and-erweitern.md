@@ -34,6 +34,8 @@ Eine Grundstücksverschiebung ist immer dann sinnvoll, wenn ihr euer Grundstück
 
 ### Was gibt es hierbei zu beachten?
 
+Es werden nur gesamte Grundstücke verschoben, keine einzelnen Teile oder Bestandteile wie Spawner o. ä. - kleinere Grundstücke werden auch nicht auf größere eingefügt, sondern immer nur auf entweder gleichgroße Grundstücke oder in ungeclaimte Bereiche verschoben.Rand-, Wand-, und Boden-Effekte werden in der Regel nicht übernommen. 
+
 {% hint style="info" %}
 **Checkplot hat Vorrang!**
 

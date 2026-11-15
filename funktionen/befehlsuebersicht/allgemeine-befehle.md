@@ -38,8 +38,9 @@ Hier findest du die wichtigsten Befehle, die dir auf den Citybuild-Servern des 1
 | `/geschenk` | Damit kannst du dein tägliches Votegeschenk abholen. Holst du es nicht täglich ab, sammeln sich die Geschenke an. |
 | `/cooldowns` | Zeigt dir aktuelle Cooldowns an (Zeit bis zur nächsten Verwendung von Befehlen). |
 | `/sethome {Name}` | <p>Erstellt einen Home-Punkt.<br>Dies funktioniert in jeder Welt (Plotwelt, Farmwelt, Nether, Stadt). Wie viele Homes du haben kannst, ist rangabhängig. Diese sind nicht Citybuild-übergreifend.</p> |
-| `/home` | Zeigt dir alle Home-Punkte auf dem Citybuild-Server an |
+| `/home` | Zeigt dir alle Home-Punkte auf dem Citybuild-Server an. |
 | `/home {Name}` | Teleportiert dich zu dem Home-Punkt. |
+| `/delhome {Name}` | Löscht den jeweiligen Home-Punkt. |
 | `/rtp` | Teleportiert dich in der Farmwelt oder im Nether an eine zufällige Position. |
 | `/ignore {Name}` | <p>Du siehst keine Chatnachrichten des Spielers mehr.<br>Durch erneutes Ausführen wird der Spieler von deiner <a href="../features/das-chat-system.md#spieler-ausblenden">Ignorierliste</a> entfernt.</p> |
 | `/realname {Name}` | Zeigt den wirklichen Namen eines Spielers an, sollte dieser umbenannt sein |
@@ -62,8 +63,8 @@ Hier findest du die wichtigsten Befehle, die dir auf den Citybuild-Servern des 1
 | `/kristalllog` | Öffnet eine Übersicht über die letzten Transaktionen deiner Kristalle. |
 | `/warp` | Listet dir alle offiziellen Warp-Punkte auf dem Citybuild-Server sowie alle globalen Warp-Punkte auf. |
 | `/warp {Warpname}` | Teleportiert dich zu diesem Warp-Punkt |
-| `/farmwelt`<br>`/farmwelten`| Öffnet das Menü „Farmwelten“ mit den Farmwelten aller Citybuild-Server. Mit einem Klick gelangst du direkt in die gewählte Farmwelt, auch wenn sie auf einem anderen Citybuild-Server liegt. |
-| `/nether`<br>`/netherwelt`| Öffnet ein Menü mit dem Nether aller Citybuild-Server. Mit einem Klick gelangst du direkt in den gewählten Nether. |
+| `/farmwelt`<br>`/farmwelten` | Öffnet das Menü „Farmwelten“ mit den Farmwelten aller Citybuild-Server. Mit einem Klick gelangst du direkt in die gewählte Farmwelt, auch wenn sie auf einem anderen Citybuild-Server liegt. |
+| `/nether`<br>`/netherwelt` | Öffnet ein Menü mit dem Nether aller Citybuild-Server. Mit einem Klick gelangst du direkt in den gewählten Nether. |
 | `/tpa {Spielername}` | <p>Du sendest dem Spieler eine Teleportationsanfrage.<br>(Du wirst zu ihm teleportiert)</p> |
 | `/tpahere {Spielername}` | <p>Du sendest dem Spieler eine Teleportationsanfrage.<br>(Er wird zu dir teleportiert)</p> |
 | `/tpaccept` | Du akzeptierst die Teleportationsanfrage. |
