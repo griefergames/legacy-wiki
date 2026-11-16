@@ -60,11 +60,10 @@ Als Haupt-Citybuild zählt dabei ein Citybuild-Server des **1.8-Netzwerks** oder
 
 ### Welche Rechte hat ein Helfer?
 
-* hervorgehobene Schrift im Chat
-* Helfer-Mute/Ban für bis zu 4 Stunden als kurzfristige Maßnahme in **Notfällen**
-* [StartKick und StartJail](../booster-and-perks.md#funktions-perks) (ohne Cooldown)
-* Zugriff auf einen speziellen Helfer-Bereich im Team-Discord
-* Zugriff auf entsprechende Team-Räume auf dem TeamSpeak
+- Helfer-Mute/Ban für bis zu 4 Stunden als kurzfristige Maßnahme in **Notfällen**
+- [StartKick und StartJail](../booster-and-perks.md#funktions-perks) (ohne Cooldown)
+- Zugriff auf einen speziellen Helfer-Bereich im Team-Discord
+- Zugriff auf entsprechende Team-Räume auf dem TeamSpeak
 
 #### Ist ein Helfer ein Teammitglied?
 
