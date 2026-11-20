@@ -76,6 +76,16 @@ Bist du auf dem Grundstück eines Clan-Homes mit `/p deny` gebannt, wird die Tel
 
 Hat der Grundstücksbesitzer die [Flag](../befehlsuebersicht/grundstuecks-befehle/grundstuecks-flags.md) `allow-homes` auf `false` gesetzt und bist du dort weder Besitzer noch hinzugefügt, kannst du dich ebenfalls nicht teleportieren.
 
+## Clan-Bank
+
+Jeder Clan hat eine gemeinsame Clan-Bank. Mit `/clan guthaben` siehst du den aktuellen Stand.
+
+Einzahlen kann jedes Clan-Mitglied mit `/clan einzahlen <Betrag>`. Abheben darf nur, wer in seiner [Rolle](das-clan-system.md#clan-rollen) das Recht „Geld von der Clan-Bank abheben“ hat, zu Beginn also nur der Clan-Leiter. Der Befehl dafür ist `/clan abheben <Betrag>`.
+
+Hinter den Betrag kannst du einen Grund schreiben, z. B. `/clan einzahlen 1000 Farm-Ausbau`. Der Grund ist freiwillig.
+
+Mit `/clan moneylog` öffnest du den Geldverlauf der letzten **30 Tage**. Jeder Eintrag zeigt Datum, Betrag und Richtung. Hast du einen Grund angegeben, steht er mit **Grund:** direkt am Eintrag. Ohne Grund fehlt diese Zeile. Unten im Menü siehst du unter „30 Tage Statistik“, wie viel in diesem Zeitraum eingezahlt und abgehoben wurde.
+
 ## Clan-Befehle
 
 | Befehl | Erklärung | Bilder |
@@ -98,9 +108,9 @@ Hat der Grundstücksbesitzer die [Flag](../befehlsuebersicht/grundstuecks-befehl
 | `/clan maxmember` | Zeigt an, wie viele Mitglieder der Clan insgesamt haben darf. | <img src="../../.gitbook/assets/image (149).png" alt="" data-size="original"> |
 | `/cc` oder `/clanchat` | <p>Schreibe im Clan-Chat.<br>Nur für Clan-Mitglieder sichtbar und geht nicht im normalen Chat unter.</p> |  |
 | `/clan guthaben` | Zeigt das aktuelle Guthaben in der Clan-Bank an. |  |
-| `/clan einzahlen` | Geld in die Clan-Bank einzahlen. |  |
-| `/clan abheben` | Geld aus der Clan-Bank abheben. |  |
-| `/clan moneylog` | Geldverlauf der Clan-Bank anzeigen. |  |
+| `/clan einzahlen <Betrag> [Grund]` | Zahlt Geld in die Clan-Bank ein. Der Grund ist freiwillig und erscheint im Moneylog. |  |
+| `/clan abheben <Betrag> [Grund]` | Hebt Geld aus der Clan-Bank ab. Der Grund ist freiwillig und erscheint im Moneylog. |  |
+| `/clan moneylog` | Öffnet den Geldverlauf der Clan-Bank der letzten 30 Tage. Angegebene Gründe stehen am Eintrag. |  |
 | `/clan money` | <p>Zeigt das Clan-Geld an, sofern es aktiviert ist.<br>Das Clan-Geld ist die Summe der Vermögen aller Clan-Mitglieder.</p> |  |
 | `/clan toplist` | Listet die reichsten Clans auf dem 1.8-Netzwerk auf. |  |
 | `/clan togglemoney` | Aktiviert/Deaktiviert die Anzeige des Clan-Geldes, welches man unter <code>/clan money</code> sieht. |  |
